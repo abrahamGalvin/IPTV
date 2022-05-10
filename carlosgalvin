@@ -1,6 +1,9 @@
 #EXTM3U
 # TDT
-
+#EXTINF:-1 xui-id="48384" tvg-id="LA 1 HD" tvg-name="LA 1 HD" tvg-logo="" group-title="TDT",LA 1 FHD
+http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43YQVXocUcxBuuefqBwPJey
+#EXTINF:-1 xui-id="48383" tvg-id="LA 1 HD" tvg-name="LA 1 SD" tvg-logo="" group-title="TDT",LA 1 
+http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43UYXovZ7NCPbTapBzNF5nY
 
 #EXTINF:-1 xui-id="48386" tvg-id="LA 2 HD" tvg-name="La 2 HD" tvg-logo="" group-title="TDT",LA 2 FHD
 http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43ycNhB2-_FMduqbb1HKiAh
