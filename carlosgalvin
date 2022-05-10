@@ -156,6 +156,21 @@ http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7L52B6_M81rjZ6tp6G6ut
 #EXTINF:-1 xui-id="4676" tvg-id="TOROS HD" tvg-name="TOROS PT SD" tvg-logo="" group-title="TOROS",TOROS PT (CARLOS GALVIN)
 http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7J2h0RGgCUMsCOuqgkT49AgIqlYdGcU17Vg0BnObsgZ5
 
+# TOROS 
+#EXTINF:-1 xui-id="48548" tvg-id="TOROS HD" tvg-name="TOROS" tvg-logo="" group-title="TOROS",TOROS ES 1
+http://180422.vps-me.com:1804/mg7ndmjdjeyu/rPQCDqFNnv/323637
+#EXTINF:-1 xui-id="48547" tvg-id="TOROS HD" tvg-name="TOROS" tvg-logo="" group-title="TOROS",TOROS ES 2
+http://180422.vps-me.com:1804/b205614b-98de-4fe6-9a71-bdb1e5aafb57/WoM0tgL1Hs/323637
+#EXTINF:-1 xui-id="48547" tvg-id="TOROS HD" tvg-name="TOROS" tvg-logo="" group-title="TOROS",TOROS ES 3
+http://panel.sockettv.online:8080/Mauricio2022/Mauricio2022/93600
+#EXTINF:-1 xui-id="48547" tvg-id="TOROS HD" tvg-name="TOROS" tvg-logo="" group-title="TOROS",TOROS ES 4
+http://180422.vps-me.com:1804/mg7ndmjdjeyu/rPQCDqFNnv/323637
+#EXTINF:-1 xui-id="48547" tvg-id="TOROS HD" tvg-name="TOROS" tvg-logo="" group-title="TOROS",TOROS ES 5
+http://180422.vps-me.com:1804/mg7ndmjdjeyu/rPQCDqFNnv/323637
+#EXTINF:-1 xui-id="48547" tvg-id="TOROS HD" tvg-name="TOROS" tvg-logo="" group-title="TOROS",TOROS ES 6
+http://180422.vps-me.com:1804/mg7ndmjdjeyu/rPQCDqFNnv/323637
+#EXTINF:-1 xui-id="48547" tvg-id="TOROS HD" tvg-name="TOROS" tvg-logo="" group-title="TOROS",TOROS ES 7
+
 
 
 
