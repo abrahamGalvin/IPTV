@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1,CAMPEONES FHD
+#EXTINF:-1 xui-id="48514" tvg-id="M.LCAMPEONES HD" tvg-name="LIGA CAMPEONES HD" tvg-logo="" group-title="FUTBOL",LIGA CAMPEONES FHD
 http://info.skuiptv.com:90/juan/juan/45192
