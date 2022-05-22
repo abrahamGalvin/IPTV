@@ -1,545 +1,2199 @@
 #EXTM3U
-# TDT
-#EXTINF:-1 xui-id="48384" tvg-id="LA 1 HD" tvg-name="LA 1 HD" tvg-logo="" group-title="TDT",LA 1 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43YQVXocUcxBuuefqBwPJey
-#EXTINF:-1 xui-id="48383" tvg-id="LA 1 HD" tvg-name="LA 1 SD" tvg-logo="" group-title="TDT",LA 1 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43UYXovZ7NCPbTapBzNF5nY
-
-#EXTINF:-1 xui-id="48386" tvg-id="LA 2 HD" tvg-name="La 2 HD" tvg-logo="" group-title="TDT",LA 2 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43ycNhB2-_FMduqbb1HKiAh
-#EXTINF:-1 xui-id="48385" tvg-id="La 2 HD" tvg-name="LA 2 SD" tvg-logo="" group-title="TDT",LA 2 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40ta_pVjFtGn9vUphjqujsw
-
-#EXTINF:-1 xui-id="48388" tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 HD" tvg-logo="" group-title="TDT",ANTENA 3 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ429GxA4hJwRciKct_KnvmK0
-#EXTINF:-1 xui-id="48387" tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 SD" tvg-logo="" group-title="TDT",ANTENA 3 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41nIK93e-FPzDZFoWZwDFQH
-
-#EXTINF:-1 xui-id="48390" tvg-id="CUATRO HD" tvg-name="CUATRO HD" tvg-logo="" group-title="TDT",CUATRO FHD 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ433P6XGlDkMeXwKQ_aGK_0e
-#EXTINF:-1 xui-id="48389" tvg-id="CUATRO HD" tvg-name="CUATRO SD" tvg-logo="" group-title="TDT",CUATRO 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43P04vKFZsQLgaHXNYxwaTK
-
-#EXTINF:-1 xui-id="48392" tvg-id="TELECINCO HD" tvg-name="TELECINCO HD" tvg-logo="" group-title="TDT",TELECINCO FHD 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43_0umMwuU7vCSXm_0lAnZ3
-#EXTINF:-1 xui-id="48391" tvg-id="TELECINCO HD" tvg-name="TELECINCO SD" tvg-logo="" group-title="TDT",TELECINCO 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41yJforS1NX0Lut_47gnq4K
-
-#EXTINF:-1 xui-id="48394" tvg-id="LA SEXTA HD" tvg-name="LA SEXTA HD" tvg-logo="" group-title="TDT",LA SEXTA FHD 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43_HyCcMZeN8E5R9JBJoNHW
-#EXTINF:-1 xui-id="48393" tvg-id="LA SEXTA HD" tvg-name="LA SEXTA SD" tvg-logo="" group-title="TDT",LA SEXTA 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ424-8Pc98O0lBiYVEYfzZIE
-
-#EXTINF:-1 xui-id="48419" tvg-id="Somos" tvg-name="SOMOS HD" tvg-logo="" group-title="TDT",SOMOS 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41Dz4FKWGgGfBvwiixHwT1T
-
-#EXTINF:-1 xui-id="48420" tvg-id="PARAMOUNT" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="" group-title="TDT",PARAMOUNT CHANNEL 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ419EwRl2BcEXdVFrrYaP6fr
-
-#EXTINF:-1 xui-id="48426" tvg-id="Mega HD" tvg-name="MEGA HD" tvg-logo="" group-title="TDT",MEGA FHD 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43Mryp_AVX_cPcNLvRBHcgW
-#EXTINF:-1 xui-id="48455" tvg-id="Mega HD" tvg-name="MEGA SD" tvg-logo="" group-title="TDT",MEGA 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42E-ZC4BbhZmvREwjADvSD7
-
-#EXTINF:-1 xui-id="48464" tvg-id="BE MAD" tvg-name="BEMAD HD" tvg-logo="" group-title="TDT",BEMAD FHD 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43W2jMSb0QJ7P07mOMO1H9f
-#EXTINF:-1 xui-id="48463" tvg-id="BE MAD" tvg-name="BE MAD SD" tvg-logo="" group-title="TDT",BEMAD 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42RGyZd6G53dIclnGgLvBIJ
-
-#EXTINF:-1 xui-id="48395" tvg-id="24 HORAS" tvg-name="24 HORAS SD" tvg-logo="" group-title="TDT",24 HORAS 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ418GEr9ricUZ7BGShuDK3M4
-
-#EXTINF:-1 xui-id="48472" tvg-id="CLAN  TVE" tvg-name="CLAN HD" tvg-logo="" group-title="TDT",CLAN FHD 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43Zc_Nrsd13c3UiZhCw5n6h
-#EXTINF:-1 xui-id="48471" tvg-id="CLAN  TVE" tvg-name="CLAN SD" tvg-logo="" group-title="TDT",CLAN 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ439nFFx6Aj2r0yBpAWDTON7
-
-#EXTINF:-1 xui-id="48452" tvg-id="FDF" tvg-name="FDF SD" tvg-logo="" group-title="TDT",FDF 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41xbKrGaX0QeJJIbwR4cVND
-
-#EXTINF:-1 xui-id="48622" tvg-id="TELEMADRID" tvg-name="TELEMADRID HD" tvg-logo="" group-title="TDT",TELEMADRID FHD 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42EK7JVUpphKSF9uulccmk9
-#EXTINF:-1 xui-id="48674" tvg-id="TELEMADRID" tvg-name="TELEMADRID SD" tvg-logo="" group-title="TDT",TELEMADRID 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42Ac93S9Yfz0NVpZIXmy9VM
-
-#EXTINF:-1 xui-id="48454" tvg-id="Atreseries HD" tvg-name="A3SERIES SD" tvg-logo="" group-title="TDT",A3SERIES 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40cWG8Qk79o45fdS3C6KOdf
-
-#EXTINF:-1 xui-id="48617" tvg-id="CMM" tvg-name="CMM HD" tvg-logo="" group-title="TDT",CMM 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40ZRrLa5LMxIfJH8QaPDx1q
-
-#EXTINF:-1 xui-id="48456" tvg-id="ENERGY" tvg-name="ENERGY SD" tvg-logo="" group-title="TDT",ENERGY 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ416can6DzoPmTwxbVkzrBAl
-
-#EXTINF:-1 xui-id="48616" tvg-id="CanalSurHD" tvg-name="CANAL SUR HD" tvg-logo="" group-title="TDT",CANAL SUR 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42FAbmVGDGT_DY0mylmLLeH
-
-#EXTINF:-1 xui-id="48457" tvg-id="DIVINITY" tvg-name="DIVINITY SD" tvg-logo="" group-title="TDT",DIVINITY 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ408p0kGx3fW418SmMQrqhMZ
-
-#EXTINF:-1 xui-id="48465" tvg-id="NEOX" tvg-name="NEOX SD" tvg-logo="" group-title="TDT",NEOX FHD 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41SPVILVaX6aQwEJ3qbZTh8
-#EXTINF:-1 xui-id="48466" tvg-id="NOVA" tvg-name="NOVA SD" tvg-logo="" group-title="TDT",NOVA 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42YrGQqE5zoQW1_XPtHmyp-
-
-#EXTINF:-1 xui-id="48487" tvg-id="Discovery MAX" tvg-name="DMAX SD" tvg-logo="" group-title="TDT",DMAX 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41Sy-IpgOKGFUf3o3ypCL4Z
-
-#EXTINF:-1 xui-id="48488" tvg-id="Ten" tvg-name="TEN SD" tvg-logo="" group-title="TDT",TEN 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ403vDSSmfjMJxJet1Zyhz0T
-
-#EXTINF:-1 xui-id="48613" tvg-id="TRECE" tvg-name="13 TV SD" tvg-logo="" group-title="TDT",13 TV 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40141w6NvwZrRlRgt6nXP57
-
-#EXTINF:-1 xui-id="48495" tvg-id="IBERALIA TV" tvg-name="IBERALIA SD" tvg-logo="" group-title="TDT",IBERALIA 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40JKoH3_fcmjzMve4OgLxiz
-
-#EXTINF:-1 xui-id="48620" tvg-id="La Otra" tvg-name="LA OTRA SD" tvg-logo="" group-title="TDT",LA OTRA 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41BJtoygx7T0Ix0oZd4DVBZ
-
-#EXTINF:-1 xui-id="48552" tvg-id="8tv" tvg-name="8TV SD" tvg-logo="" group-title="TDT",8TV 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42rkyQ4T3xp980f86018x3R
-
-#EXTINF:-1 xui-id="48619" tvg-id="EXTREMADURA" tvg-name="EXTREMADURA TV SD" tvg-logo="" group-title="TDT",EXTREMADURA TV 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41HvMsSFXWGkFNTQDBK1D61
-
-#EXTINF:-1 xui-id="48614" tvg-id="RTV MURCIA" tvg-name="7 TV SD" tvg-logo="" group-title="TDT",7 TV 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40IizXx3TsShVpbYa3JHTUD
-
-#EXTINF:-1 xui-id="48554" tvg-id="ARAGON TV " tvg-name="ARAGON TV SD" tvg-logo="" group-title="TDT",ARAGON TV 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42EkD8kOnVK8nbp_CGQIKwb
-
-
-
-
-
-# INFANTIL 
-#EXTINF:-1 xui-id="48477" tvg-id="NICKELODEON HD" tvg-name="NICKELODEON HD" tvg-logo="" group-title="INFANTIL",NICKELODEON FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ402Mxorn_6XjY6NCDwgv6gm
-#EXTINF:-1 xui-id="48476" tvg-id="NICKELODEON HD" tvg-name="NICKELODEON SD" tvg-logo="" group-title="INFANTIL",NICKELODEON
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43TNMxSQ7LUiPClDYN-eotA
-
-#EXTINF:-1 xui-id="48470" tvg-id="DISNEY CH HD" tvg-name="DISNEY HD" tvg-logo="" group-title="INFANTIL",DISNEY CHANNEL
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43ymp4THZgV_QVOnwHSok3r
-
-#EXTINF:-1 xui-id="48469" tvg-id="disneyjunior.es" tvg-name="DISNEY JR SD" tvg-logo="" group-title="INFANTIL",DISNEY JR
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41QUWgjuTiDIxMGUETxrroV
-
-#EXTINF:-1 xui-id="48473" tvg-id="BOING" tvg-name="BOING SD" tvg-logo="" group-title="INFANTIL",BOING
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40DZYfX3l1SA6MH8TJNDylX
-
-#EXTINF:-1 xui-id="48474" tvg-id="CANAL PANDA" tvg-name="PANDA KIDS SD" tvg-logo="" group-title="INFANTIL",PANDA KIDS
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41VfnWVw5COVIZ2g8Rkmg1F
-
-#EXTINF:-1 xui-id="48475" tvg-id="BABY TV" tvg-name="BABY TV SD" tvg-logo="" group-title="INFANTIL",BABY TV
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43urNasGW1NYy9IOaDKGzWD
-
-#EXTINF:-1 xui-id="48478" tvg-id="NICK JR" tvg-name="NICK JR SD" tvg-logo="" group-title="INFANTIL",NICK JR
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42mAmGZ1qaCP05kgkqI6ccX
-
-#EXTINF:-1 xui-id="64410" tvg-id="DreamWorks HD" tvg-name="DREAMWORKS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="INFANTIL",DREAMWORKS FHD
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7MCFTdumnY8cSQjbcXU07gO9jtUA4aMClpSx6sL1CCiK
-#EXTINF:-1 xui-id="64410" tvg-id="DreamWorks HD" tvg-name="DREAMWORKS SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="INFANTIL",DREAMWORKS
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7MCFTdumnY8cSQjbcXU07gO9jtUA4aMClpSx6sL1CCiK
-
-
-
-
-
-# TOROS 
-#EXTINF:-1 xui-id="48548" tvg-id="TOROS HD" tvg-name="TOROS HD" tvg-logo="" group-title="TOROS",TOROS ES FHD (CARLOS GALVIN)
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43RL1-quhQNss_KwLRXJavK
-#EXTINF:-1 xui-id="48547" tvg-id="TOROS HD" tvg-name="TOROS SD" tvg-logo="" group-title="TOROS",TOROS ES (CARLOS GALVIN)
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41ESUx5TW5N3xoPZBQTS8en
-#EXTINF:-1 xui-id="76107" tvg-id="TOROS HD" tvg-name="TOROS PT HD" tvg-logo="" group-title="TOROS",TOROS PT FHD (CARLOS GALVIN)
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7L52B6_M81rjZ6tp6G6utvzSa_Vy85mGqyuL2na44GTe
-#EXTINF:-1 xui-id="4676" tvg-id="TOROS HD" tvg-name="TOROS PT SD" tvg-logo="" group-title="TOROS",TOROS PT (CARLOS GALVIN)
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7J2h0RGgCUMsCOuqgkT49AgIqlYdGcU17Vg0BnObsgZ5
-#EXTINF:-1 xui-id="4676" tvg-id="TOROS HD" tvg-name="TOROS PT SD" tvg-logo="" group-title="TOROS",TOROS PT (CARLOS GALVIN)
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7J2h0RGgCUMsCOuqgkT49AgIqlYdGcU17Vg0BnObsgZ5
-
-
-
-
-
-# CULTURA 
-#EXTINF:-1 xui-id="48480" tvg-id="HISTORIA" tvg-name="HISTORIA HD" tvg-logo="" group-title="CULTURA",HISTORIA FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43YHKaNYuAXETiuh2M4xtM6
-#EXTINF:-1 xui-id="48479" tvg-id="HISTORIA" tvg-name="HISTORIA SD" tvg-logo="" group-title="CULTURA",HISTORIA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41DdccPAAq0zMmYgudgTvKd
-
-#EXTINF:-1 xui-id="48484" tvg-id="NAT GEO HD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="CULTURA",NATIONAL GEOGRAPHIC FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41qyyuHMPgn6DKMvMw3Q7x_
-#EXTINF:-1 xui-id="48483" tvg-id="NAT GEO HD" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="" group-title="CULTURA",NATIONAL GEOGRAPHIC
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41Au_eIyAWKCIl-bwBcVcpi
-
-#EXTINF:-1 xui-id="48486" tvg-id="NAT GEO WILD HD" tvg-name="NATIONAL GEOGRAFIC WILD HD" tvg-logo="" group-title="CULTURA",NATIONAL GEOGRAFIC WILD FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40U6ECnSfvpHVYCTUq45Tlo
-#EXTINF:-1 xui-id="48485" tvg-id="NAT GEO WILD HD" tvg-name="NATIONAL GEOGRAFIC WILD SD" tvg-logo="" group-title="CULTURA",NATIONAL GEOGRAFIC WILD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42_lKm6DuWjFVF5qUr6OX0B
-
-#EXTINF:-1 xui-id="48494" tvg-id="CAZAyPESCA HD" tvg-name="CAZA Y PESCA HD" tvg-logo="" group-title="CULTURA",CAZA Y PESCA FHD 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41Gwi0FC_mD11oOl7BPQSoG
-#EXTINF:-1 xui-id="48493" tvg-id="CAZAyPESCA HD" tvg-name="CAZA Y PESCA SD" tvg-logo="" group-title="CULTURA",CAZA Y PESCA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43UKpyAMCjqMg4f9-2n6eSk
-
-#EXTINF:-1 xui-id="48481" tvg-id="DISCOVERY" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="" group-title="CULTURA",DISCOVERY CHANNEL
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40Ctq7kI7txwRgeMv2RoCAp
-
-#EXTINF:-1 xui-id="48482" tvg-id="CANAL ODISEA" tvg-name="ODISEA SD" tvg-logo="" group-title="CULTURA",ODISEA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43GYDzpIfmhURvrW5g1EgUm
-
-
-
-
-
-# CINE 
-#EXTINF:-1 xui-id="48398" tvg-id="#0 HD" tvg-name="0# HD" tvg-logo="" group-title="CINE",0# FHD 
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43ZUIenxwLyTRLl92r6p-TF
-#EXTINF:-1 xui-id="48397" tvg-id="#0 HD" tvg-name="0# SD" tvg-logo="" group-title="CINE",0#
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42IiDkKZAhIyYukyqOGfckj
-
-#EXTINF:-1 xui-id="48400" tvg-id="M.ESTRENOS HD" tvg-name="ESTRENOS HD" tvg-logo="" group-title="CINE",ESTRENOS FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43xmghNc8bkUyzwCNdDZpmT
-#EXTINF:-1 xui-id="48399" tvg-id="M.ESTRENOS HD" tvg-name="ESTRENOS SD" tvg-logo="" group-title="CINE",ESTRENOS
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41huiSqeoM02OR0zID9snjY
-
-#EXTINF:-1 xui-id="48409" tvg-id="M. ESTRENOS 2 HD" tvg-name="ESTRENOS 2 HD" tvg-logo="" group-title="CINE",ESTRENOS 2 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7JQCubK_m5_H_IT1kcA2dOi685dY3BdMtoRsdwCRRye8
-#EXTINF:-1 xui-id="102335" tvg-id="M. ESTRENOS 2 HD" tvg-name="ESTRENOS 2 SD" tvg-logo="" group-title="CINE",ESTRENOS 2
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7JQCubK_m5_H_IT1kcA2dOhzSUf9ccIBjEAqwRgpDZk8
-
-#EXTINF:-1 xui-id="48402" tvg-id="M. ACCION HD" tvg-name="ACCION" HD tvg-logo="g" group-title="CINE",ACCION FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42MKdZlisAI_u8og7xuTA7x
-#EXTINF:-1 xui-id="48401" tvg-id="M. ACCION HD" tvg-name="ACCION SD" tvg-logo="" group-title="CINE",ACCION
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ432P7zMKGjEtl4ch-JNPxL2
-
-#EXTINF:-1 xui-id="48404" tvg-id="M.COMEDIA HD" tvg-name="COMEDIA HD" tvg-logo="" group-title="CINE",COMEDIA FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42Bq3GpLqATBdGNnTXXysY4
-#EXTINF:-1 xui-id="48403" tvg-id="M.COMEDIA HD" tvg-name="COMEDIA SD" tvg-logo="" group-title="CINE",COMEDIA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41ufr0HC06UCYJaDXTukVG6
-
-#EXTINF:-1 xui-id="48406" tvg-id="M. DRAMA HD" tvg-name="DRAMA HD" tvg-logo="" group-title="CINE",DRAMA FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40VC85ogPNNIn8eje-EPv2k
-#EXTINF:-1 xui-id="48405" tvg-id="M. DRAMA HD" tvg-name="DRAMA SD" tvg-logo="" group-title="CINE",DRAMA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40XJdcXZoKzQ5WIMcqPw-_z
-
-#EXTINF:-1 xui-id="48428" tvg-id="M. SERIES HD" tvg-name="SERIES HD" tvg-logo="" group-title="CINE",SERIES FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42SOkCdC3aLk4vJ4Sn4znLe
-#EXTINF:-1 xui-id="48427" tvg-id="M. SERIES HD" tvg-name="SERIES SD" tvg-logo="" group-title="CINE",SERIES
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42-vUHuZBlt7_pme2HvYiTO
-
-#EXTINF:-1 xui-id="48430" tvg-id="M. SERIES 2 HD" tvg-name="SERIES 2 HD" tvg-logo="" group-title="CINE",SERIES 2 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ412BCBnA8jT4AHxSs10BBev
-#EXTINF:-1 xui-id="48429" tvg-id="M. SERIES HD" tvg-name="SERIES SD" tvg-logo="" group-title="CINE",SERIES 2
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42JEXMbWUYGwdMH_h5gqjfC
-
-#EXTINF:-1 xui-id="48411" tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="CINE",HOLLYWOOD FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41j9O_rPQ83yAJ6Ki8gImtH
-#EXTINF:-1 xui-id="48410" tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD SD" tvg-logo="" group-title="CINE",HOLLYWOOD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40dfGWaCW-uPpzJTrqJx7qL
-
-#EXTINF:-1 xui-id="48413" tvg-id="TCM HD" tvg-name="TCM HD" tvg-logo="" group-title="CINE",TCM FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ418ROAkyadYWks1ge5Sgfxq
-#EXTINF:-1 xui-id="48412" tvg-id="TCM HD" tvg-name="TCM SD" tvg-logo="" group-title="CINE",TCM
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40niLk1sCNOl6_Rf5IZ0jzb
-
-#EXTINF:-1 xui-id="48415" tvg-id="SUNDANCE TV" tvg-name="SUNDANCE HD" tvg-logo="" group-title="CINE",SUNDANCE
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42_bx_R_8_9ZXFP-oW8i8in
-
-#EXTINF:-1 xui-id="48418" tvg-id="XTRM" tvg-name="XTRM HD" tvg-logo="" group-title="CINE",XTRM FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ405FQZ2jtax4GyYV48Fl9kx
-#EXTINF:-1 xui-id="48417" tvg-id="XTRM" tvg-name="XTREM SD" tvg-logo="" group-title="CINE",XTREM
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43TMyUZOSO0zcuxpDzd9ZZh
-
-#EXTINF:-1 xui-id="62202" tvg-id="Dark" tvg-name="DARK HD" tvg-logo="" group-title="CINE",DARK
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7PiO5_JvwUpluCRvHs4E3NrZkP2GIjrt8Uvvs15P7qz7
-
-#EXTINF:-1 xui-id="48432" tvg-id="CALLE 13 HD" tvg-name="CALLE 13 HD" tvg-logo="" group-title="CINE",CALLE 13 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43fsAwv1gyFDkuohmOEatlk
-#EXTINF:-1 xui-id="48431" tvg-id="CALLE 13 HD" tvg-name="CALLE 13 SD" tvg-logo="" group-title="CINE",CALLE 13
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ412qU2Mw-kswcNoEw2-Wk0d
-
-#EXTINF:-1 xui-id="48434" tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="" group-title="CINE",FOX FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42j1j534k5HhqclfJQkabwv
-#EXTINF:-1 xui-id="48433" tvg-id="FOX HD" tvg-name="FOX SD" tvg-logo="" group-title="CINE",FOX
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42-Ha-8rGK-ZVbwudTcSfnW
-
-#EXTINF:-1 xui-id="48438" tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="" group-title="CINE",AXN FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42krMCEYw_FgiKlEfTOJDg_
-#EXTINF:-1 xui-id="48437" tvg-id="AXN HD" tvg-name="AXN SD" tvg-logo="" group-title="CINE",AXN
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42AYPpWUCwLExwxhrg1rELk
-
-#EXTINF:-1 xui-id="48440" tvg-id="AXN WHITE HD" tvg-name="AXN WHITE" tvg-logo="" group-title="CINE",AXN WHITE FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42-z6coJTJSNBFRTXlEKGYx
-#EXTINF:-1 xui-id="48439" tvg-id="AXN WHITE HD" tvg-name="AXN WHITE SD" tvg-logo="" group-title="CINE",AXN WHITE
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40J1ylvE0gJmKWl37QjkqJ3
-
-#EXTINF:-1 xui-id="48442" tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="" group-title="CINE",AMC FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41Umd3kVoX8VLXiocAxZeFe
-#EXTINF:-1 xui-id="48441" tvg-id="AMC HD" tvg-name="AMC SD" tvg-logo="" group-title="CINE",AMC
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42JGDz8wsjud7560Q17WUVE
-
-#EXTINF:-1 xui-id="48444" tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="" group-title="CINE",TNT FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40LoByof68kBsxtFN7aQqFk
-#EXTINF:-1 xui-id="48443" tvg-id="TNT HD" tvg-name="TNT SD" tvg-logo="" group-title="CINE",TNT
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40IIqPfSBAq09aHeC_uKc4i
-
-#EXTINF:-1 xui-id="48446" tvg-id="SYFY HD" tvg-name="SYFY HD" tvg-logo="" group-title="CINE",SYFY FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ427i9_ZlhOO03JukNYrPt-3
-#EXTINF:-1 xui-id="48445" tvg-id="SYFY HD" tvg-name="SYFY SD" tvg-logo="" group-title="CINE",SYFY
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40p0WOZSCR0mzv5D6rAHzHs
-
-#EXTINF:-1 xui-id="48448" tvg-id="COSMO HD" tvg-name="COSMOPOLITAN HD" tvg-logo="" group-title="CINE",COSMO FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40L1VxnYFP--S8yT7uSjXCT
-#EXTINF:-1 xui-id="48447" tvg-id="COSMO HD" tvg-name="COSMOS SD" tvg-logo="" group-title="CINE",COSMO
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41Qhh_MVsLt101M7A_vAh1a
-
-#EXTINF:-1 xui-id="48450" tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDY CENTRAL HD" tvg-logo="" group-title="CINE",COMEDY CENTRAL FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41yeoS5_-uS9mvMHsdFpqBP
-#EXTINF:-1 xui-id="48449" tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDY CENTRAL SD" tvg-logo="" group-title="CINE",COMEDY CENTRAL
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42bporB4npoiGqfkukIGE1S
-
-#EXTINF:-1 xui-id="48407" tvg-id="movistarespanol.es" tvg-name="CINE Ñ SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="CINE",CINE Ñ
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41fiOpPfC2p6m31sC4S-GtP
-
-
-
-
-
-# FUTBOL
-#EXTINF:-1 xui-id="101681" tvg-id="LALIGATV BAR" tvg-name="LA LIGA TV BAR HD" tvg-logo="" group-title="FUTBOL",LALIGA TV BAR FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7JQCubK_m5_H_IT1kcA2dOgkNTaRbIBrCbNx3VuthEVF
-#EXTINF:-1 xui-id="101682" tvg-id="LALIGATV BAR" tvg-name="LA LIGA TV BAR SD" tvg-logo="" group-title="FUTBOL",LA LIGA TV BAR
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7JQCubK_m5_H_IT1kcA2dOhqMB1zj7C5IyxmgvsNgHEy
-
-#EXTINF:-1 xui-id="56222" tvg-id="M. LaLiga HD" tvg-name="LA LIGA HD" tvg-logo="" group-title="FUTBOL",LALIGA FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7AU4iREvt6wijCYrYSyyM1n2uy6dNVf_W_zA-adNhHou
-#EXTINF:-1 xui-id="48563" tvg-id="M. LaLiga HD" tvg-name="LA LIGA SD" tvg-logo="" group-title="FUTBOL",LALIGA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ406bS-evSofK0qlWMv4-OTX
-
-#EXTINF:-1 xui-id="48503" tvg-id="M. LaLiga 1 HD" tvg-name="LA LIGA 1 HD" tvg-logo="" group-title="FUTBOL",LALIGA 1 FHD
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41SD9DZWl0WBceC8z0woDO4
-#EXTINF:-1 xui-id="48502" tvg-id="M. LaLiga 1 HD" tvg-name="LA LIGA 1 SD" tvg-logo="" group-title="FUTBOL",LALIGA 1
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43dngPlFxkUEar_hKvoyI7B
-
-#EXTINF:-1 xui-id="48505" tvg-id="M. LaLiga 2 HD" tvg-name="LA LIGA 2 HD" tvg-logo="" group-title="FUTBOL",LALIGA 2 FHD
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40zwXLiCIagAJ6H-49lWY_9
-#EXTINF:-1 xui-id="48504" tvg-id="M. LaLiga 2 HD" tvg-name="LA LIGA 2 SD" tvg-logo="" group-title="FUTBOL",LALIGA 2
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40fYxzV-aY2ZPP0BXMLJhVo
-
-#EXTINF:-1 xui-id="48565" tvg-id="M. LaLiga 3 HD" tvg-name="LA LIGA 3 HD" tvg-logo="" group-title="FUTBOL",LALIGA 3 FHD
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41fNyUN7o6-K_ryPCBh3Tgc
-#EXTINF:-1 xui-id="48506" tvg-id="M. LaLiga 3 HD" tvg-name="LA LIGA 3 SD" tvg-logo="" group-title="FUTBOL",LALIGA 3
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42pKexalbcatT6YAcMjYAOC
-
-#EXTINF:-1 xui-id="48507" tvg-id="M. LaLiga 4" tvg-name="LA LIGA 4 SD" tvg-logo="" group-title="FUTBOL",LALIGA 4
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ400aaQkIEIWEN5VFIRLaTjN
-
-#EXTINF:-1 xui-id="48508" tvg-id="M. LaLiga 5" tvg-name="LA LIGA 5 SD" tvg-logo="" group-title="FUTBOL",LALIGA 5
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41gRcOvAZD8Ur4btcEcguOq
-
-#EXTINF:-1 xui-id="48509" tvg-id="M. LaLiga 6" tvg-name="LA LIGA 6 SD" tvg-logo="" group-title="FUTBOL",LALIGA 6
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42Tebmg8euY0J5Qm6GRYYg5
-
-#EXTINF:-1 xui-id="48510" tvg-id="M. LaLiga 7" tvg-name="LA LIGA 7 SD" tvg-logo="" group-title="FUTBOL",LALIGA 7
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42X3ycRL33TCxQzZWk_5Eve
-
-#EXTINF:-1 xui-id="48511" tvg-id="" tvg-name="LA LIGA 8 SD" tvg-logo="" group-title="FUTBOL",LA LIGA 8
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40mYmCv3Wfl2ZwISZzwvePn
-
-#EXTINF:-1 xui-id="48566" tvg-id="" tvg-name="LA LIGA 9 SD" tvg-logo="" group-title="FUTBOL",LA LIGA 9
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42bKiHYIAtG-_Cb5Zj7aG7H
-
-#EXTINF:-1 xui-id="48564" tvg-id="" tvg-name="LA LIGA 10 SD" tvg-logo="" group-title="FUTBOL",LA LIGA 10
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40AD7hz1G-rAXhEe5GgtYr4
-
-#EXTINF:-1 xui-id="48514" tvg-id="M.LCAMPEONES HD" tvg-name="LIGA CAMPEONES HD" tvg-logo="" group-title="FUTBOL",LIGA CAMPEONES FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ423NPpQlyVJTmAGKanWVLRf
-#EXTINF:-1 xui-id="48512" tvg-id="M.LCAMPEONES HD" tvg-name="LIGA CAMPEONES SD" tvg-logo="" group-title="FUTBOL",LIGA CAMPEONES
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43YtCYU6HIp_QZykzKABxex
-
-#EXTINF:-1 xui-id="48516" tvg-id="M.LCAMPEON1" tvg-name="LIGA CAMPEONES 1 HD" tvg-logo="" group-title="FUTBOL",LIGA CAMPEONES 1 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ437p19Q9kAsopuanh5xyqCO
-#EXTINF:-1 xui-id="48515" tvg-id="M.LCAMPEON1" tvg-name="LIGA CAMPEONES 1 SD" tvg-logo="" group-title="FUTBOL",LIGA CAMPEONES 1
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40I11zEQhCwEzoxqtASSxjr
-
-#EXTINF:-1 xui-id="48518" tvg-id="M.LCAMPEON2" tvg-name="LIGA CAMPEONES 2 HD" tvg-logo="" group-title="FUTBOL",LIGA CAMPEONES 2 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42gsUI07spg431c-GPUDzom
-#EXTINF:-1 xui-id="96376" tvg-id="M.LCAMPEON2" tvg-name="LIGA CAMPEONES 2 SD" tvg-logo="" group-title="FUTBOL",LIGA CAMPEONES 2
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7EHvry-SiDDnyNQUf5McAcShE67GxuqP9wgmQ51g9_cq
-
-#EXTINF:-1 xui-id="48519" tvg-id="M.LCAMPEON3" tvg-name="LIGA CAMPEONES 3 SD" tvg-logo="" group-title="FUTBOL",LIGA CAMPEONES 3
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40rQAC6NP7TBf_upNEOTR_r
-
-#EXTINF:-1 xui-id="48520" tvg-id="M.LCAMPEON4" tvg-name="LIGA CAMPEONES 4 SD" tvg-logo="" group-title="FUTBOL",LIGA CAMPEONES 4
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40odqCaknSMoW67T_219b-x
-
-#EXTINF:-1 xui-id="48521" tvg-id="M.LCAMPEON5" tvg-name="LIGA CAMPEONES 5 SD" tvg-logo="" group-title="FUTBOL",LIGA CAMPEONES 5
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40QI607bPtGNytZUcbG2MSg
-
-#EXTINF:-1 xui-id="48522" tvg-id="M.LCAMPEON6" tvg-name="LIGA CAMPEONES 6 SD" tvg-logo="" group-title="FUTBOL",LIGA CAMPEONES 6
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41NUyOgjIqPBMZlO-tewo4d
-
-#EXTINF:-1 xui-id="48523" tvg-id="M.LCAMPEON7" tvg-name="LIGA CAMPEONES 7 SD" tvg-logo="" group-title="FUTBOL",LIGA CAMPEONES 7
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40-x4L4RkYS5Y6Ki0gW9s70
-
-#EXTINF:-1 xui-id="48524" tvg-id="" tvg-name="LIGA CAMPEONES 8 SD" tvg-logo="" group-title="FUTBOL",LIGA CAMPEONES 8
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ430KgpCYuu6DUo9Q599OFs1
-
-#EXTINF:-1 xui-id="77943" tvg-id="BARCA TV" tvg-name="BARCA TV HD" tvg-logo="" group-title="FUTBOL",BARCA TV FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7EfvsG7xr5O7ExmYQdYJgw4ZBX7pmy5jqPW9k75KBEd7
-#EXTINF:-1 xui-id="48542" tvg-id="BARCA TV" tvg-name="BARCA TV SD" tvg-logo="" group-title="FUTBOL",BARCA TV
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40AcQTWKAZrAoTas1HGA5s5
-
-#EXTINF:-1 xui-id="48543" tvg-id="R. MADRID TV" tvg-name="REAL MADRID TV SD" tvg-logo="" group-title="FUTBOL",REAL MADRID TV
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40GLc9BxnKhpbm8nl6x2ZgM
-
-#EXTINF:-1 xui-id="77942" tvg-id="GOL HD" tvg-name="GOL TV HD" tvg-logo="" group-title="FUTBOL",GOL TV FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7EfvsG7xr5O7ExmYQdYJgw54R4As1pqSZAulCfcPheZc
-#EXTINF:-1 xui-id="48544" tvg-id="GOL HD" tvg-name="GOL TV SD" tvg-logo="" group-title="FUTBOL",GOL TV
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42qTuy5OeXxg4ec-QMs0AGJ
-
-
-
-
-
-# DEPORTES 
-#EXTINF:-1 xui-id="48539" tvg-id="DAZN F1 HD" tvg-name="F1 HD" tvg-logo="" group-title="DEPORTES",DAZN F1 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43Wn1G5F6w9zec1-zgHyzwf
-#EXTINF:-1 xui-id="48539" tvg-id="DAZN F1 HD" tvg-name="F1 HD" tvg-logo="" group-title="DEPORTES",DAZN F1 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7CExcSNWgzzLKfwMXViD_p-IbdyVTd0QRb9l0pK4nn89
-#EXTINF:-1 xui-id="48538" tvg-id="DAZN F1 HD" tvg-name="F1 SD" tvg-logo="" group-title="DEPORTES",DAZN F1
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40MmsXBgcpdW1hkU_F3Pl7s
-
-#EXTINF:-1 xui-id="60298" tvg-id="DAZN 1 HD" tvg-name="DAZN 1 HD" tvg-logo="" group-title="DEPORTES",DAZN 1 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7M5fp3FINY3XtNSDySJeqWQWqoeKH1mvwHkqkuva9n1m
-#EXTINF:-1 xui-id="60297" tvg-id="DAZN 1 HD" tvg-name="DAZN 1 SD" tvg-logo="" group-title="DEPORTES",DAZN 1
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7M5fp3FINY3XtNSDySJeqWQknDltRkRyJssepI6P2rbx
-
-#EXTINF:-1 xui-id="79524" tvg-id="DAZN 2 HD" tvg-name="DAZN 2 HD" tvg-logo="" group-title="DEPORTES",DAZN 2 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7GHXfFj6UGwzNmLr2FOxjnVJUyG1e_KlB2f-5tki71ue
-#EXTINF:-1 xui-id="79529" tvg-id="DAZN 2 HD" tvg-name="DAZN 2 SD" tvg-logo="" group-title="DEPORTES",DAZN 2
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7GHXfFj6UGwzNmLr2FOxjnVDKovSWOGSoUlf9PLznQkF
-
-#EXTINF:-1 xui-id="79530" tvg-id="DAZN 3 HD" tvg-name="DAZN 3 HD" tvg-logo="" group-title="DEPORTES",DAZN 3 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7GHXfFj6UGwzNmLr2FOxjnWHClCey_jZ6h6Ll24kSYYZ
-
-#EXTINF:-1 xui-id="79531" tvg-id="DAZN 4 HD" tvg-name="DAZN 4 HD" tvg-logo="" group-title="DEPORTES",DAZN 4 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7GHXfFj6UGwzNmLr2FOxjnUEph__4_FifJ5UaPCmUjLn
-
-#EXTINF:-1 xui-id="48526" tvg-id="M. DEPORTE HD" tvg-name="DEPORTE HD" tvg-logo="" group-title="DEPORTES",DEPORTE FHD
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40UmnyFiR0lKn2JnrYQDgUN
-#EXTINF:-1 xui-id="48560" tvg-id="M. DEPORTE HD" tvg-name="DEPORTE SD" tvg-logo="" group-title="DEPORTES",DEPORTE
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42qGLFy4O7NBPEkudpQcRCe
-
-#EXTINF:-1 xui-id="48528" tvg-id="M.DEPORTES 1 HD" tvg-name="DEPORTE 1 HD" tvg-logo="" group-title="DEPORTES",DEPORTE 1 FHD
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40ve1aWVsFUyy4gW6JjMuxt
-#EXTINF:-1 xui-id="48529" tvg-id="M.DEPORTES 1 HD" tvg-name="DEPORTE 1 SD" tvg-logo="" group-title="DEPORTES",DEPORTE 1
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42tDaA4Wf86SXETrB_fOPed
-
-#EXTINF:-1 xui-id="48530" tvg-id="" tvg-name="DEPORTE 2 SD" tvg-logo="" group-title="DEPORTES",DEPORTE 2
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41_KxWdMQ28kHdPX7Xr8Mjx
-
-#EXTINF:-1 xui-id="48531" tvg-id="" tvg-name="DEPORTE 3 SD" tvg-logo="" group-title="DEPORTES",DEPORTE 3
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41MDPEZy644MSozHSrxt21G
-
-#EXTINF:-1 xui-id="48532" tvg-id="" tvg-name="DEPORTE 4 SD" tvg-logo="" group-title="DEPORTES",DEPORTE 4
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40oE9rE9nhrETUzdDvcinxh
-
-#EXTINF:-1 xui-id="48533" tvg-id="" tvg-name="DEPORTE 5 SD" tvg-logo="" group-title="DEPORTES",DEPORTE 5
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40mXOXPiPAroz-gIzhWPpa4
-
-#EXTINF:-1 xui-id="48534" tvg-id="" tvg-name="DEPORTE 6 SD" tvg-logo="" group-title="DEPORTES",DEPORTE 6
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40U6CC1TdLSwOg9MKREDkrD
-
-#EXTINF:-1 xui-id="48558" tvg-id="" tvg-name="DEPORTE 7 SD" tvg-logo="" group-title="DEPORTES",DEPORTE 7
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40M9YMxEUbY3YzENnoWIqja
-
-#EXTINF:-1 xui-id="48559" tvg-id="" tvg-name="DEPORTE 8 SD" tvg-logo="" group-title="DEPORTES",DEPORTE 8
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42VQj1ZTYqNoG_Jx31o5On1
-
-#EXTINF:-1 xui-id="48541" tvg-id="M. GOLF HD" tvg-name="GOLF HD" tvg-logo="" group-title="DEPORTES",GOLF FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40St-kvt-Dyppo9YxgfmyWG
-#EXTINF:-1 xui-id="48540" tvg-id="M. GOLF HD" tvg-name="GOLF SD" tvg-logo="" group-title="DEPORTES",GOLF
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42hR6SExYcuKXfiNT4p67RB
-
-#EXTINF:-1 xui-id="48496" tvg-id="#VAMOS HD" tvg-name="VAMOS HD" tvg-logo="" group-title="DEPORTES",VAMOS FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40wxmUMuodzmWFHpfxrEMmD
-#EXTINF:-1 xui-id="48605" tvg-id="#VAMOS HD" tvg-name="VAMOS HD" tvg-logo="" group-title="DEPORTES",VAMOS
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40t9rkbc_-4oRLnOxe5eiW1
-
-#EXTINF:-1 xui-id="48536" tvg-id="EUROSPORT1HD" tvg-name="EUROSPORT HD" tvg-logo="" group-title="DEPORTES",EUROSPORT 1 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40h45OLixnwgwJDMJjh30vi
-#EXTINF:-1 xui-id="48535" tvg-id="EUROSPORT1HD" tvg-name="EUROSPORT SD" tvg-logo="" group-title="DEPORTES",EUROSPORT 1
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40mFK8p--nKFPpXBJa1D_D1
-
-#EXTINF:-1 xui-id="48537" tvg-id="EUROSPORT 2" tvg-name="EUROSPORT 2 SD" tvg-logo="" group-title="DEPORTES",EUROSPORT 2
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42nTVe0hibW0tQ_c9tawPaT
-
-#EXTINF:-1 xui-id="48549" tvg-id="Esport 3" tvg-name="ESPORT 3 SD" tvg-logo="" group-title="DEPORTES",ESPORT 3
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41nyiW6opxPTulRFWfp5BT5
-
-#EXTINF:-1 xui-id="48546" tvg-id="TELEDEPORTE" tvg-name="TELEDEPORTE HD" tvg-logo="" group-title="DEPORTES",TELEDEPORTE FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41NQQKLDGCLCHoPP1ka7puU
-#EXTINF:-1 xui-id="48545" tvg-id="TELEDEPORTE" tvg-name="TELEDEPORTE SD" tvg-logo="" group-title="DEPORTES",TELEDEPORTE
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40L5YCIDXnQSUgjQ0QWcK-9
-
-#EXTINF:-1 xui-id="48527" tvg-id="" tvg-name="MULTIDEPORTE SD" tvg-logo="" group-title="DEPORTES",MULTIDEPORTE
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43zzSPGqBMpLcwP3Na37nSE
-
-#EXTINF:-1 xui-id="97708" tvg-id="" tvg-name="" tvg-logo="BEIN SPORTS HD" group-title="DEPORTES",BEIN SPORTS FHD
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7MdUsKkjqEIYgi-MmsbuZ4IgK6dErR4XrGLcojCi2KSG
-#EXTINF:-1 xui-id="97821" tvg-id="" tvg-name="" tvg-logo="BEIN SPORTS SD" group-title="DEPORTES",BEIN SPORTS FHD
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7MdUsKkjqEIYgi-MmsbuZ4Kh5upcAuAus2AkK2ttdxjN
-
-
-
-
-
-# ESTILO DE VIDA
-#EXTINF:-1 xui-id="48460" tvg-id="CANAL DECASA" tvg-name="DECASA HD" tvg-logo="" group-title="ESTILO DE VIDA",DECASA FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43vmmQGJcrjlXxU7F_7i9P9
-#EXTINF:-1 xui-id="48459" tvg-id="CANAL DECASA" tvg-name="DECASA SD" tvg-logo="" group-title="ESTILO DE VIDA",DECASA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40ivr-L-KG0lqQYwOgZ17zT
-
-#EXTINF:-1 xui-id="48453" tvg-id="DKISS" tvg-name="DKISS SD" tvg-logo="" group-title="ESTILO DE VIDA",DKISS
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ420pcyfEqfL9I6kAy3Hm1_c
-
-#EXTINF:-1 xui-id="48458" tvg-id="crimeinvestigation.es" tvg-name="CRIMEN+INVESTIGACIÓN SD" tvg-logo="" group-title="ESTILO DE VIDA",CRIMEN+INVESTIGACIÓN
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40uvh14JefCstA10PPh24hr
-
-#EXTINF:-1 xui-id="48489" tvg-id="BLAZE" tvg-name="BLAZE SD" tvg-logo="" group-title="ESTILO DE VIDA",BLAZE
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42uVDU4IKEDZGxDNrS2UAZK
-
-#EXTINF:-1 xui-id="" tvg-id="CANAL COCINA" tvg-name="CANAL COCINA HD" tvg-logo="CANAL COCINA HD" group-title="ESTILO DE VIDA",CANAL COCINA FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42QU0KpcMOufb36m0bVgPPx
-#EXTINF:-1 xui-id="" tvg-id="CANAL COCINA" tvg-name="CANAL COCINA SD" tvg-logo="CANAL COCINA SD" group-title="ESTILO DE VIDA",CANAL COCINA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43B0PlyWu51DQMOrp012_Kf
-
-
-
-
-
-# MÚSICA
-#EXTINF:-1 xui-id="48451" tvg-id="MTV ESPAÑA" tvg-name="MTV SD" tvg-logo="" group-title="MÚSICA",MTV
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43mvuWiPxYJgOCsXBXZcsnl
-
-#EXTINF:-1 xui-id="48555" tvg-id="Sol Música" tvg-name="SOL MUSIC SD" tvg-logo="" group-title="MÚSICA",SOL MUSIC
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40-BR5qLy1drWWdMM2ZTZKS
-
-#EXTINF:-1 xui-id="48557" tvg-id="" tvg-name="MEZZO LIVE HD" tvg-logo="" group-title="MÚSICA",MEZZO LIVE FHD
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42Ong-_qIgqa-X1r7AHXKrK
-#EXTINF:-1 xui-id="48556" tvg-id="" tvg-name="MEZZO LIVE SD" tvg-logo="" group-title="MÚSICA",MEZZO LIVE
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ407MlrpWFbDOz0-BGzSobK5
-
-#EXTINF:-1 xui-id="48701" tvg-id="VH1" tvg-name="VH1 SD" tvg-logo="" group-title="MÚSICA",VH1
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43kiWEVXjrXC8dnWm1ZVTXu
-
-#EXTINF:-1 xui-id="48702" tvg-id="VH1 Classic" tvg-name="VH1 CLASSIC SD" tvg-logo="" group-title="MÚSICA",VH1 CLASSIC
-#http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42ANkghhWlsJOyrLIxNlQ7n
-
-#EXTINF:-1 xui-id="102338" tvg-id="M. Fest" tvg-name="MOVISTAR FEST HD" tvg-logo="" group-title="MÚSICA",FEST FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7JQCubK_m5_H_IT1kcA2dOgZ74axUZ1FUmOUNufQ50Mo
-#EXTINF:-1 xui-id="102339" tvg-id="M. Fest" tvg-name="MOVISTAR FEST SD" tvg-logo="" group-title="MÚSICA",FEST
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7JQCubK_m5_H_IT1kcA2dOhbbhQNR8Y0h1ORurKnW8A5
+#EXTM3U para mas listas iptv visita www.premiumtv.org
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/n1AJtRokP_w/maxresdefault.jpg" group-title="24/7",premium tv le ofrece esta lista gratis [Apoyanos con unos clics en la publicidad]
+http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
+
+#EXTINF:-1, Bein Sports 1 | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+ 
+#EXTINF:-1,Movistar Futbol | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
+ 
+#EXTINF:-1, Liga Espanola
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+
+#EXTINF:-1, ESPN DEPORTES
+https://live97.elrobacanales.com/budtv/Evento_BudTv_ESPN_Dep_151/playlist.m3u8
+
+#EXTINF:-1, Fighting Sports UFC
+https://live97.elrobacanales.com/budtv/ufc_total_play_100/playlist.m3u8
+ 
+#EXTINF:-1,Movistar Golf | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+ 
+#EXTINF:-1, Moto Gp
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
+ 
+#EXTINF:-1, Formula 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+#EXTINF:-1,beIN SPORTS HD Spain
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/566/index.m3u8
+#EXTINF:-1,Movistar Futbol HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/575/index.m3u8
+#EXTINF:-1,LaLiga TV Bar HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/581/index.m3u8
+#EXTINF:-1,M4 Sport HD Europa
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/864/index.m3u8
+#EXTINF:-1,DEPORT TV
+http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/master.m3u8
+#EXTINF:0 , Todo Deportes Honduras
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:0 tvg-logo="https://img21.taquilla.com/data/images/t/07/sevilla-fc.jpg" , Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", UFC
+http://righttv.ddns.net:25461/live/trial30/trial30/11261.ts
+#EXTINF:-1, TODO DEPORTES
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1, EUROESPORT 1
+http://65.254.55.10:4000/live/197/197.m3u8
+#EXTINF:-1, ABU DHABI SPORT
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1,AD SPORT
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1, ABU DHABI SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1,AD SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1, CableOnda Sports FC
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
+#EXTINF:-1, CableOnda Sports FC 
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/playlist.m3u8
+#EXTINF:-1, COS CABLEONDA SPORT
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
+#EXTINF:-1, CableOnda Sports 
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/playlist.m3u8
+#EXTINF:-1,Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:-1, CDO DEPORTES
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1, MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1, Eurosport 1 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/159/index.m3u8
+#EXTINF:-1, Bein Sports 1
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8
+#EXTINF:-1, Movistar Golf 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+#EXTINF:-1, Bein Sports 2 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+#EXTINF:-1, Movistar Futbol 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
+#EXTINF:-1, Movistar MotoGP 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
+#EXTINF:-1, Rai Sport
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/528/index.m3u8
+#EXTINF:-1, Movistar Formula 1
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
+#EXTINF:-1, Eurosport 2 
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/77/index.m3u8
+#EXTINF:-1, La Liga TV 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+#EXTINF:-1, REDBULL INGLES
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,SKY News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:-1, Sports TV
+http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/master.m3u8
+#EXTINF:-1,Sporting Tv 
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,AD Sports 1 
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1,AD Sports 2 
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1,Deport Tv
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/chunklist_w579935025_b542000_slesp.m3u8
+#EXTINF:-1, Mundo Auto Television | HD
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
+#EXTINF:-1, OLYMPIC CHANNEL
+https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
+#EXTINF:-1, NFL
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1,ABU DHABI SPORT OP01
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1,ABU DHABI SPORT OP02 
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+
+#EXTINF:-1,ABU DHABI SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1,ABU DHABI SPORT 2 OP02
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1,Bein Sports Alemanha
+http://ams.tvizlehd.com/live/beinhaber/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png",Bein Sports 1 HD OP01
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png",Bein Sports 1 HD OP02
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png",Bein Sports 1 HD OP03
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png",Bein Sports 1 HD OP04
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
+
+#EXTINF:-1,Bein Sports 2 OP01
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cbcsport.tv/upload/img/live.png" group-title="DEPORTES 2",CBC Sport
+http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
+
+#EXTINF:-1,DEPORT TV OP01
+http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/master.m3u8
+
+#EXTINF:-1,DEPORT TV OP02
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/chunklist_w579935025_b542000_slesp.m3u8
+
+#EXTINF:-1,DEPORT TV OP03
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1,DEPORT TV OP04
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+
+#EXTINF:-1,DEPOR TV OP05 
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/playlist.m3u8?
+
+#EXTINF:-1,Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/K00di245.jpg" group-title="DEPORTES 2",FmHot Sports
+http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ereu142J7.png" group-title="DEPORTES 2",CDF HD
+http://144.217.181.51:25461/live/iptv5castillo/12345/1.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ereu1J45.png" group-title="DEPORTES 2",CDF HD
+http://144.217.181.51:25461/live/iptv5castillo/12345/17.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ereu1J7.png" group-title="DEPORTES 2",Fox Sports
+http://144.217.181.51:25461/live/iptv5castillo/12345/3.ts
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8e/Fox_Sports_2.png/revision/20160413221614" group-title="DEPORTES 2",Fox Sports 2
+http://144.217.181.51:25461/live/iptv5castillo/12345/20.ts
+#EXTINF:-1 tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="DEPORTES 2",ESPN
+http://144.217.181.51:25461/live/iptv5castillo/12345/5.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="DEPORTES 2",ESPN+
+http://regiotv.xyz/IPTV/espnplus.php
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6FLVrA9.png" group-title="DEPORTES 2",ESPN2
+http://regiotv.xyz/IPTV/espn2.php
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MALrAFv.png" group-title="DEPORTES 2",ESPN3
+http://regiotv.xyz/IPTV/espn3.php
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ereu1J7.png" group-title="DEPORTES 2",Fox Sports
+http://regiotv.xyz/IPTV/fs.php
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8e/Fox_Sports_2.png/revision/20160413221614" group-title="DEPORTES 2",Fox Sports 2
+http://regiotv.xyz/IPTV/fs2.php
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_8863_7_25047.png" group-title="DEPORTES 2",Fox Sports3
+http://regiotv.xyz/IPTV/fs3.php
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ereu1J7.png" group-title="DEPORTES 2",Fox Sports
+http://regiotv.xyz/IPTV/fsmx.php
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8e/Fox_Sports_2.png/revision/20160413221614" group-title="DEPORTES 2",Fox Sports 2
+http://regiotv.xyz/IPTV/fsmx2.php
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_8863_7_25047.png" group-title="DEPORTES 2", Fox Sports3
+http://regiotv.xyz/IPTV/fsmx3.php
+#EXTINF:-1 tvg-logo="https://trucoslondres.com/wp-content/uploads/2017/04/Sports-9.png?x81811" group-title="DEPORTES 2",Eventos
+http://stdephds-lh.akamaihd.net/i/ad3pst01hds_1@335204/index_1296_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2zxnk08.png" group-title="DEPORTES 2",Univision TDN
+https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_4500_20180313042410.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PxyIZNW.png" group-title="DEPORTES 2",Deport Tv
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/chunklist_w579935025_b542000_slesp.m3u8
+#EXTINF:-1 tvg-logo="http://www.cbcsport.tv/upload/img/live.png" group-title="DEPORTES 2",CBC Sport
+http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="DEPORTES 2", Stadium Sports Network
+https://04476b7c682c4da8b8b4bfe23ef879c1.midas.us-east-1.amazonaws.com/v1/master/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-logo="https://mlblogsjoefrisaro.files.wordpress.com/2010/03/mlbnetwork.png" group-title="DEPORTES 2",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/us/NFL_NOW.png" group-title="DEPORTES 2",NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-FS7BOEiTZuY/UDFmV5bsaCI/AAAAAAAAByA/YWo48CK0PsY/s1600/red+bull+tv.png" group-title="DEPORTES 2",Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/fr/BFMSPORT.png" group-title="DEPORTES 2",BFM Sport
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
+
+#EXTINF:0 tvg-logo="?https://listaiptvbrasil.com/logo/realmadrid.jpg?" , REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1,FOX SPORTS 
+http://5.255.90.242:5000/play/a022
+#EXTINF:0,Sly Sports Action - Sly Sports Action
+http://62.210.99.158:80/live?channelId=119&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Sly Sports Action HD - Sly Sports Action HD
+http://62.210.99.158:80/live?channelId=120&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Sly Sports Arena - Sly Sports Arena
+http://62.210.99.158:80/live?channelId=121&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Sly Sports Arena HD - Sly Sports Arena HD
+http://62.210.99.158:80/live?channelId=122&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Sly Sports Football HD - Sly Sports Football HD
+http://62.210.99.158:80/live?channelId=126&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Sly Sports Golf - Sly Sports Golf
+http://62.210.99.158:80/live?channelId=127&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Sly Sports Golf HD - Sly Sports Golf HD
+http://62.210.99.158:80/live?channelId=128&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Sly Sports Main - Sly Sports Main
+http://62.210.99.158:80/live?channelId=129&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Sly Sports Main HD - Sly Sports Main HD
+http://62.210.99.158:80/live?channelId=130&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Sly Sports Mix - Sly Sports Mix
+http://62.210.99.158:80/live?channelId=131&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Sly Sports Mix HD - Sly Sports Mix HD
+http://62.210.99.158:80/live?channelId=132&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Sly Sports PL - Sly Sports PL
+http://62.210.99.158:80/live?channelId=133&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Sly Sports PL HD - Sly Sports PL HD
+http://62.210.99.158:80/live?channelId=134&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Sly Sports F1 - Sly Sports F1
+http://62.210.99.158:80/live?channelId=135&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Sly Spts F1 HD - Sly Spts F1 HD
+http://62.210.99.158:80/live?channelId=136&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Sly Sports News - Sly Sports News
+http://62.210.99.158:80/live?channelId=137&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Sly Sports News HD - Sly Sports News HD
+http://62.210.99.158:80/live?channelId=138&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Sly Sports Box Office - Sly Sports Box Office
+http://62.210.99.158:80/live?channelId=139&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport 1 - BT Sport 1
+http://62.210.214.28:80/live?channelId=140&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport 1 HD - BT Sport 1 HD
+http://62.210.214.28:80/live?channelId=141&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport 2 - BT Sport 2
+http://62.210.214.28:80/live?channelId=142&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport 2 HD - BT Sport 2 HD
+http://62.210.214.28:80/live?channelId=143&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport 3 - BT Sport 3
+http://62.210.214.28:80/live?channelId=144&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport 3 HD - BT Sport 3 HD
+http://62.210.214.28:80/live?channelId=145&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport ESPN - BT Sport ESPN
+http://62.210.214.28:80/live?channelId=146&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport ESPN HD - BT Sport ESPN HD
+http://62.210.214.28:80/live?channelId=147&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport Extra 1 - BT Sport Extra 1
+http://62.210.214.28:80/live?channelId=148&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport Extra 2 - BT Sport Extra 2
+http://62.210.214.28:80/live?channelId=149&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport Extra 3 - BT Sport Extra 3
+http://62.210.214.28:80/live?channelId=150&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport Extra 4 - BT Sport Extra 4
+http://62.210.214.28:80/live?channelId=151&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport Extra 5 - BT Sport Extra 5
+http://62.210.214.28:80/live?channelId=152&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport Extra 6 - BT Sport Extra 6
+http://62.210.214.28:80/live?channelId=153&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,eir Sport 1 - eir Sport 1
+http://62.210.214.28:80/live?channelId=154&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,eir Sport 2 - eir Sport 2
+http://62.210.214.28:80/live?channelId=155&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Eurosport 1 - Eurosport 1
+http://62.210.214.28:80/live?channelId=156&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Eurosport 2 - Eurosport 2
+http://62.210.214.28:80/live?channelId=157&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,FreeSports - FreeSports
+http://62.210.214.28:80/live?channelId=158&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,FrontRunner - FrontRunner
+http://62.210.214.28:80/live?channelId=159&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,MUTV - MUTV
+http://62.210.214.28:80/live?channelId=162&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,LFC tv - LFC tv
+http://62.210.214.28:80/live?channelId=163&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Chelsea Tv - Chelsea Tv
+http://62.210.214.28:80/live?channelId=164&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,MOTOGP LIVE 3 - MOTOGP LIVE 3
+http://62.210.214.28:80/live?channelId=167&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Motorsport TV - Motorsport TV
+http://62.210.214.28:80/live?channelId=168&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Premier Sports - Premier Sports
+http://62.210.214.28:80/live?channelId=169&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Premier Sports HD - Premier Sports HD
+http://62.210.214.28:80/live?channelId=170&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Racing UK - Racing UK
+http://62.210.214.28:80/live?channelId=171&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Racing UK HD - Racing UK HD
+http://62.210.214.28:80/live?channelId=172&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,At The Races - At The Races
+http://62.210.214.28:80/live?channelId=173&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BoxNation - BoxNation
+http://62.210.214.28:80/live?channelId=174&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,bein france 1 - bein france 1
+http://163.172.105.25:80/live?channelId=175&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,bein france 2 - bein france 2
+http://163.172.105.25:80/live?channelId=176&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,bein france 3 - bein france 3
+http://163.172.105.25:80/live?channelId=177&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,beINSport 1 HD - beINSport 1 HD
+http://163.172.105.25:80/live?channelId=178&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,beINSport 2 HD - beINSport 2 HD
+http://163.172.105.25:80/live?channelId=179&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,beINSport 3 HD - beINSport 3 HD
+http://163.172.105.25:80/live?channelId=180&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,beINSport 4 HD - beINSport 4 HD
+http://163.172.105.25:80/live?channelId=181&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,beINSport 5 HD - beINSport 5 HD
+http://163.172.105.25:80/live?channelId=182&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,beINSport 6 HD - beINSport 6 HD
+http://163.172.105.25:80/live?channelId=183&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,beINSport 7 HD - beINSport 7 HD
+http://163.172.105.25:80/live?channelId=184&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,beINSport 8 HD - beINSport 8 HD
+http://163.172.105.25:80/live?channelId=185&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,beINSport 9 HD - beINSport 9 HD
+http://163.172.105.25:80/live?channelId=186&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,beINSport 10 HD - beINSport 10 HD
+http://163.172.105.25:80/live?channelId=187&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,beINSport 11 HD - beINSport 11 HD
+http://163.172.105.25:80/live?channelId=188&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,beINSport 12 HD - beINSport 12 HD
+http://163.172.105.25:80/live?channelId=189&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BEin Sports EPL 1 - BEin Sports EPL 1
+http://163.172.105.25:80/live?channelId=190&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BEin Sports EPL 2 - BEin Sports EPL 2
+http://163.172.105.25:80/live?channelId=191&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BEin Sports EPL 3 - BEin Sports EPL 3
+http://163.172.105.25:80/live?channelId=192&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,SKY NET SPORTS 1 - SKY NET SPORTS 1
+http://163.172.105.25:80/live?channelId=211&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,SKY NET SPORTS 2 - SKY NET SPORTS 2
+http://163.172.105.25:80/live?channelId=212&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,SKY NET SPORTS 3 - SKY NET SPORTS 3
+http://163.172.105.25:80/live?channelId=213&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,SKY NET SPORTS 4 - SKY NET SPORTS 4
+http://163.172.105.25:80/live?channelId=214&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,SKY NET SPORTS 5 - SKY NET SPORTS 5
+http://163.172.105.25:80/live?channelId=215&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,SKY NET SPORTS 6 - SKY NET SPORTS 6
+http://163.172.105.25:80/live?channelId=216&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,TSN 1 - TSN 1
+http://163.172.15.141:9732/live?channelId=217&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,TSN 2 - TSN 2
+http://163.172.15.141:9732/live?channelId=218&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,TSN 3 - TSN 3
+http://163.172.15.141:9732/live?channelId=219&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,TSN 4 - TSN 4
+http://163.172.15.141:9732/live?channelId=220&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,TSN 5 - TSN 5
+http://163.172.15.141:9732/live?channelId=221&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,SPORTS NET 360 HD - SPORTS NET 360 HD
+http://163.172.15.141:9732/live?channelId=222&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,SPORTS NET EAST HD - SPORTS NET EAST HD
+http://163.172.15.141:9732/live?channelId=223&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,SPORTS NET ONE HD - SPORTS NET ONE HD
+http://163.172.15.141:9732/live?channelId=224&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,SPORTS NET ONTARIO HD - SPORTS NET ONTARIO HD
+http://163.172.15.141:9732/live?channelId=225&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,SPORTS NET PACIFIC HD - SPORTS NET PACIFIC HD
+http://163.172.15.141:9732/live?channelId=226&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,SPORTS NET WEST HD - SPORTS NET WEST HD
+http://163.172.15.141:9732/live?channelId=227&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,SPORTS NET WORLD HD - SPORTS NET WORLD HD
+http://163.172.15.141:9732/live?channelId=228&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,SPORTSNET 360 - SPORTSNET 360
+http://163.172.15.141:9732/live?channelId=229&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,SPORTSNET EAST - SPORTSNET EAST
+http://163.172.15.141:9732/live?channelId=230&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,SPORTSNET ONE - SPORTSNET ONE
+http://163.172.15.141:9732/live?channelId=231&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,SPORTSNET ONE HD - SPORTSNET ONE HD
+http://163.172.15.141:9732/live?channelId=232&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,SPORTSNET ONTARIO - SPORTSNET ONTARIO
+http://163.172.15.141:9732/live?channelId=233&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,SPORTSNET PACIFIC - SPORTSNET PACIFIC
+http://163.172.15.141:9732/live?channelId=234&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,SPORTSNET WEST - SPORTSNET WEST
+http://163.172.15.141:9732/live?channelId=235&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,SPORTSNET WORLD - SPORTSNET WORLD
+http://163.172.15.141:9732/live?channelId=236&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,USA FOX SPORTS 1 - USA FOX SPORTS 1
+http://163.172.15.141:9732/live?channelId=237&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,USA FOX SPORTS 2 - USA FOX SPORTS 2
+http://163.172.15.141:9732/live?channelId=238&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,A&E (US) - A&E (US)
+http://163.172.15.141:9732/live?channelId=239&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,AFN SPORTS (US) - AFN SPORTS (US)
+http://163.172.15.141:9732/live?channelId=240&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,AFN SPORTS 2 (US) - AFN SPORTS 2 (US)
+http://163.172.15.141:9732/live?channelId=241&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,WWE Network - WWE Network
+http://163.172.15.141:9732/live?channelId=256&uid=1433&deviceMac=00:1A:79:3C:93:5D
+
+#EXTINF:-1,~ Deportes ~
+#EXTINF:-1,Bein Sport Haber
+http://yetmis6tv.com/live/beinhaber.php/playlist.m3u8
+#EXTINF:-1,bEIN sport
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8
+BEIN SPORTS LALIGA HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+#EXTINF:-1,beIN Sport Español 1
+#EXTINF:-1,beIN Sport Español 2
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
+#EXTINF:-1,Bein LaLiga opción 2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8
+#EXTINF:-1,Movistar Futbol Español
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
+#EXTINF:-1,MOVISTAR FUTBOL HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
+#EXTINF:-1,beIN Sports Opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
+#EXTINF:-1,Movistar MotoGP Opción 2
+http://163.172.202.69:4022/motogphd
+#EXTINF:-1,MOVISTAR FORMULA 1 HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
+#EXTINF:-1,Movistar F1 opción 2
+http://163.172.202.69:4022/formula1hd
+#EXTINF:-1,LALIGATVHD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/581/index.m3u8
+#EXTINF:-1,Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,MOVISTAR GOLF HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+#EXTINF:-0,BEINSPORTHD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
+
+#EXTINF:0,7 Sports TV
+http://hls.istoikona.net:1935/7sports/7sports/plsylist.m3u8
+#EXTINF:0,AD SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:0,AD SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-0,LALIGATVHD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/581/index.m3u8
+#EXTINF:-1, BEIN SPORTS
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+#EXTINF:-1,ES-BEINGESPANA
+http://51.15.144.38:3222/play/a02b/index.m3u8
+#EXTINF:-1,ES-BEINGLIGA
+http://51.15.144.38:3222/play/a02a/index.m3u8
+#EXTINF:-1,ES-FORMULA1
+http://51.15.144.38:3222/play/a01w/index.m3u8
+#EXTINF:-1,ES-LIGAMOVISTAR/4160
+http://51.15.144.38:3222/play/a03g/index.m3u8
+#EXTINF:-1,EUROSPORTS
+http://51.15.144.38:3222/play/a00f/index.m3u8
+
+#EXTINF:-1,TODO DEPORTES
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1", Claro Sports Colombia
+http://www.iptvmexico.xyz/play3.php?calidad=05&canal=CLARO_SPORTS_COL_HD&token=494922/2029.m3u8
+#EXTINF:0 type="favorites" channelId="2540", ESPN
+http://www.iptvmexico.xyz/play3.php?calidad=05&canal=ESPN_HD&token=494922/408.m3u8
+#EXTINF:0 type="favorites" channelId="344", ESPN 2
+http://www.iptvmexico.xyz/play3.php?calidad=05&canal=ESPN_2_HD&token=494922/1387.m3u8
+#EXTINF:0 type="favorites" channelId="355", ESPN 3
+http://www.iptvmexico.xyz/play3.php?calidad=05&canal=ESPN_3_HD&token=494922/330.m3u8
+#EXTINF:0 type="favorites" channelId="2891", Fox Sports HD
+http://www.iptvmexico.xyz/play3.php?calidad=05&canal=FOX_SPORTS_HD&token=494922/57.m3u8
+#EXTINF:0 type="favorites" channelId="179", Fox Sports 2 HD
+http://www.iptvmexico.xyz/play3.php?calidad=05&canal=FOX_SPORTS2_HD&token=494922/333.m3u8
+#EXTINF:0 type="favorites" channelId="180", Fox Sports 3
+http://www.iptvmexico.xyz/play3.php?calidad=05&canal=FOX_SPORTS3_HD&token=494922/2086.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Fox Sports Mexico
+http://www.iptvmexico.xyz/play3.php?calidad=05&canal=FOXSP1_MX_HD&token=494922/2760.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Fox Sports 2 Mexico
+http://www.iptvmexico.xyz/play3.php?calidad=05&canal=FOXSP2_MX_HD&token=494922/2761.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Fox Sports 3 Mexico
+http://www.iptvmexico.xyz/play3.php?calidad=05&canal=FOXSP3_MX_HD&token=494922/2762.m3u8
+#EXTINF:0 type="favorites" channelId="-1", beIN LaLiga opci처n 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Bein LaLiga opci처n 2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", beIN LaLiga opci처n 4
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", LaLiga TV opci처n 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", LaLiga Tv opci처n 2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/581/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", LaLiga TV opci처n 4
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/581/index.m3u8
+#EXTINF:0 type="favorites" channelId="1364", Movistar F첬tbol
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
+#EXTINF:0 type="favorites" channelId="1369", Movistar Golf
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/569/index.m3u8
+#EXTINF:0 type="favorites" channelId="3365", Viasat Golf
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/59/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Movistar F1 opci처n 2
+http://163.172.202.69:4022/formula1hd
+#EXTINF:0 type="favorites" channelId="-1", Movistar MotoGP Opci처n 2
+http://163.172.202.69:4022/motogphd
+#EXTINF:0 type="favorites" channelId="2985", Automoto TV
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/635/index.m3u8
+#EXTINF:0 type="favorites" channelId="1332", Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 type="favorites" channelId="-1", Rai Sport
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/528/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Box Tv
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/316/index.m3u8
+#EXTINF:0 type="favorites" channelId="225", Eurosport 1 HD
+http://163.172.202.69:4022/eurosport1hd
+#EXTINF:0 type="favorites" channelId="-1", Eurosport HD Alemania
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/704/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Eurosport Alem찼n
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/682/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", M4 Sport HD Europa
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/864/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Sky Champions
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/724/index.m3u8
+#EXTINF:0 type="favorites" channelId="1588", Sky Sports 2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/733/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Sky Sport 1 HD Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/737/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Sky Sport 2 HD Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/733/index.m3u8
+#EXTINF:0 type="favorites" channelId="2808", FightBox HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/900/index.m3u8
+#EXTINF:0 type="favorites" channelId="83", Eurosport2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/78/index.m3u8
+#EXTINF:0 type="favorites" channelId="82", Eurosport
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/160/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Football 1 HD ua
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/867/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Football 2 HD ua
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/868/index.m3u8
+#EXTINF:0 type="favorites" channelId="805", NBA
+http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
+#EXTINF:0 type="favorites" channelId="-1", ABU DABI SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
+#EXTINF:0 type="favorites" channelId="2762", SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:0 type="favorites" channelId="-1", SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:0 type="favorites" channelId="1578", ARENA SPORT1
+http://66.70.129.43:8080/Arena1-SRB/index.m3u8
+#EXTINF:0 type="favorites" channelId="1579", ARENA SPORT2
+http://66.70.129.43:8080/Arena2-SRB/index.m3u8
+#EXTINF:0 type="favorites" channelId="1580", ARENA SPORT3
+http://66.70.129.43:8080/Arena3-SRB/index.m3u8
+#EXTINF:0 type="favorites" channelId="1581", ARENA SPORT4
+http://66.70.129.43:8080/Arena4-SRB/index.m3u8
+#EXTINF:0 type="favorites" channelId="1333", Redbull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Olimpic Channel HD
+https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
+#EXTINF:0 type="favorites" channelId="-1", CableOnda Sports FC
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
+#EXTINF:0 type="favorites" channelId="-1", CableOnda Sports
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Mundo Auto
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8
+#EXTINF:0 type="favorites" channelId="-1", CDO
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="156", Extreme Sports Channel
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/46/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Match
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/200/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Match! Football
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/5/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Match! Football
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/6/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Match! Football
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/7/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Nash Football
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/25/index.m3u8
+#EXTINF:0 type="favorites" channelId="155", Viasat Sport
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/44/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Extreme
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/47/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Auto Plus
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/248/index.m3u8
+#EXTINF:0 type="favorites" channelId="2808", FightBox hd
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/901/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Super Tennis
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/670/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Pac 12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Pac 12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Pac 12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Pac 12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Pac 12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Pac 12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1", 100% Automoto (BG)
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1", NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:0 type="favorites" channelId="-1", MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0 type="favorites" channelId="-1", beIN Sports Espa챰a HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
+#EXTINF:0 type="favorites" channelId="156", Extreme Sports Channel
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/47/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", M. Formula 1 HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+#EXTINF:0 type="favorites" channelId="225", Eurosport 1 HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/159/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", m Planeta
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/258/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", m Nash sport
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/4/index.m3u8
+#EXTINF:0 type="favorites" channelId="1954" tvg-name="Canal 2 HD" tvg-group="MEXICO" tvg-logo="https://i.imgur.com/8kw91e7.png", Las Estrellas (Geo)
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+#EXTINF:0 type="favorites" channelId="1357" tvg-name="Canal 2" tvg-group="MEXICO" tvg-logo="https://i.imgur.com/8kw91e7.png", Las Estrellas (-2)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:0 type="favorites" channelId="-1", CDF DEPORTES EN VIVO
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8
+#EXTINF:0 type="favorites" channelId="-1", DEPORTES:Sporting Tv HD
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 type="favorites" channelId="-1", DEPORTES:Todo Deportes
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:0 type="favorites" channelId="933", Eurosport 2 HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/471/index.m3u8
+#EXTINF:0 type="favorites" channelId="2743", Sky Sport Bundesliga 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/725/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" tvg-group="LATINO" tvg-logo="https://pbs.twimg.com/profile_images/770996446913069056/T4wPuZ4v.jpg", Telemundo 51 Miami
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1", A.d. Sport 1
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:0 type="favorites" channelId="-1", A.d. Sport 2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+
+#EXTINF:-1,beIN LaLiga opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
+
+#EXTINF:-1,Bein LaLiga opción 2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8
+
+#EXTINF:-1,beIN LaLiga opción 4
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
+
+#EXTINF:-1,beIN LaLiga opción 6
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+
+#EXTINF:-1,LaLiga TV opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+
+#EXTINF:-1,LaLiga Tv opción 2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/581/index.m3u8
+
+#EXTINF:-1,LaLiga TV opción 4
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/581/index.m3u8
+
+#EXTINF:-1,LaLiga TV opción 5
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
+
+#EXTINF:-1,beIN Sports Opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
+
+#EXTINF:-1,Bein Sports Opción 2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/566/index.m3u8
+
+#EXTINF:-1,beIN Sports Opción 4
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/566/index.m3u8
+
+#EXTINF:-1,beIN Sports Opción 5
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8
+
+#EXTINF:-1,Movistar Fútbol
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
+
+#EXTINF:-1,Movistar Golf
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/569/index.m3u8
+
+#EXTINF:-1,Viasat Golf
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/59/index.m3u8
+
+#EXTINF:-1,Movistar F1 opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+
+#EXTINF:-1,Movistar F1 opción 2
+http://163.172.202.69:4022/formula1hd
+
+#EXTINF:-1,Movistar F1 opción 3
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
+
+#EXTINF:-1,Movistar MotoGP Opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
+
+#EXTINF:-1,Movistar MotoGP Opción 2
+http://163.172.202.69:4022/motogphd
+
+#EXTINF:-1, FOX SPORTS
+http://asdfcvb.000webhostapp.com/canal.php?canal=FOX_SPORTS_HD&type=m3u8
+
+#EXTINF:-1, FOX 2
+http://link.theplatform.com/s/flac/XRQo5c9_wOeG?mbr=true&manifest=m3u&auth=DpV3hL6kKU6KXhww6gp0ocCkQPDKcDAs&type=m3u8
+#EXTINF:-1, ESPN 
+http://asdfcvb.000webhostapp.com/canal.php?canal=ESPN_HD&type=m3u8
+#EXTINF:-1, DIRECTV SPORTS 
+http://antenatv.tk/wbccuytrpcstrfviucqtenc37cnj32-DirectTVSports.m3u8?pk=daa8ef61dc82cd62e2c1beeb116d4cf53ca4a298a73054dc5a9acccc760bc75f
+#EXTINF:-1, ESPN 3
+http://hxh11075.000webhostapp.com/canal2.php?canal=ESPN_3_HD&type=m3u8
+
+#EXTINF:-1, FOX SPORTS 3
+http://hxh11075.000webhostapp.com/canal2.php?canal=FOX_SPORTS3_HD&type=m3u8
+
+#EXTINF:-1,DEPORTES:Deport Tv
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/chunklist_w579935025_b542000_slesp.m3u8
+
+#EXTINF:-1,DEPORTES:Sporting Tv HD
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,DEPORTES:Sporting Tv SD
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,DEPORTES:Sporting Tv SD
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream3/chunks.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,DEPORTES:Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,DEPORTES:MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
+
+#EXTINF:-1,DEPORTES:UFC Japones
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
+
+#EXTINF:-1,DEPORTES:SKY News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+
+#EXTINF:-1,DEPORTES:BFM Sport
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
+
+#EXTINF:-1,DEPORTES:Sports Tv
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+
+#EXTINF:-1,DEPORTES:Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+
+#EXTINF:-1,DEPORTES:AD Sports 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1,DEPORTES:AD Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1,DEPORTES:AD Sports 1 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+
+#EXTINF:-1,DEPORTES:AD Sports 2 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+
+#EXTINF:-1,DEPORTES:Pac 12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+
+#EXTINF:-1,DEPORTES:Pac 12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+
+#EXTINF:-1,DEPORTES:Pac 12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+
+#EXTINF:-1,DEPORTES:Pac 12 Moutain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+
+#EXTINF:-1,DEPORTES:Pac 12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+
+#EXTINF:-1,DEPORTES:Pac 12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://olympicchannelservices.com/wp-content/themes/olympicchannelservices/dist/images/ocs-logo.png" group-title="DEPORTES",Olimpic Channel SD
+https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_6_3514000.m3u8
+
+#EXTINF:-1,SPORTS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8
+
+#EXTINF:-1,Todo Deportes
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Todo Deportes
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+
+#EXTINF:-1,Telecaribe Deportes HD 2
+https://w4.cdn.anvato.net/live/ephemeral/8JN6lx09T0YgECY5CbJZ6zuYEzVblvPG/telecaribedeporteshd2/1864k/index.m3u8
+
+#EXTINF:-1,COS CABLEONDA SPORT
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
+
+#EXTINF:-1,NFL
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1,NFL NOW
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+
+#EXTINF:-1,DXTV DEPORTES
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1,DXTV DEPORTES
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+
+#EXTINF:-1,CDO DEPORTES
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1,Olimpic Channel SD
+https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_6_3514000.m3u8
+
+#EXTINF:-1,CableOnda Sports FC
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
+
+#EXTINF:-1,REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+
+#EXTINF:-1,SEVILLA FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,CHELSEA TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+
+#EXTINF:-1,MEJOR LIGE BASSE BALL
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1,REDBULL INGLES
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+
+#EXTINF:-1,Automoto TV
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/635/index.m3u8
+
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,FOOTBALL 2
+http://128.140.176.222:8010/play/51002
+
+#EXTINF:-1,ТРК Украина
+http://128.140.176.222:8010/play/51003
+
+#EXTINF:-1,FOOTBALL1
+http://128.140.176.222:8010/play/51001
+
+#EXTINF:-1 tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png",beIN Sports ES HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ono.es/img/landing/imagen_bein_liga.png",beIN La Liga HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-1200x1200.png", La Liga TV HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/581/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/1200px-Extreme_Sports_Channel.svg.png", Extreme Sports Channel
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/47/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+formula+1-01.png/9492b402-dda4-b2b5-469f-bd831294680f?t=1487255283758", M+ Formula 1 HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png", M+ Futbol HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/575/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://cinealplay.com/assets/images/espana/movistar-motogp.png", M+ MotoGP HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/613/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png", M+ Golf HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/569/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://broadbandtvnews-broadbandtvnews.netdna-ssl.com/wp-content/uploads/2015/11/Eurosport-1-symbol.png", Eurosport 1 HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/78/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/1323541/logo_eurosport%203.png", Eurosport 2 HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/77/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-KFhUF9o7ySc/VHSx3CgAM_I/AAAAAAAACzU/xUUiIzxNoqI/s1600/sky_mx_sports1.png", Sky Sports 1 DE
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/737/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://content.invisioncic.com/Msigames/monthly_2016_12/Sky_Sports_2_2010.png.2a8c198b91d1af76cd88577393b5f486.png", Sky Sports 2 DE
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/733/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.raisport.rai.it/dl/components/img/svg/RaiSport-logo-sito.png", Rai Sports
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/528/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png"  group-title="Deportes", CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1,Rai Sport
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/528/index.m3u8
+
+#EXTINF:-1,Box Tv
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/316/index.m3u8
+
+#EXTINF:-1,GARAGE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+
+#EXTINF:-1,Eurosport 1 HD
+http://163.172.202.69:4022/eurosport1hd
+
+#EXTINF:-1,Eurosport HD Alemania
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/704/index.m3u8
+
+#EXTINF:-1,Eurosport Alemán
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/682/index.m3u8
+
+#EXTINF:-1,COS CABLEONDA SPORT
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
+#EXTINF:-1,Todo Deportes
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Todo Deportes
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+
+#EXTINF:-1,DXTV DEPORTES
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1,DXTV DEPORTES
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:-1,MEJOR LIGE BASSE BALL
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,DEPORTES:Deport Tv
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/chunklist_w579935025_b542000_slesp.m3u8
+
+#EXTINF:-1,DEPORTES:Sporting Tv HD
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,DEPORTES:Sporting Tv SD
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,DEPORTES:Sporting Tv SD
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream3/chunks.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,DEPORTES:Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,DEPORTES:MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
+
+#EXTINF:-1,DEPORTES:UFC Japones
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
+
+#EXTINF:-1,DEPORTES:SKY News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+
+#EXTINF:-1,DEPORTES:BFM Sport
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
+
+#EXTINF:-1,DEPORTES:Sports Tv
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+
+#EXTINF:-1,DEPORTES:Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+
+#EXTINF:-1,DEPORTES:AD Sports 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1,DEPORTES:AD Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1,DEPORTES:AD Sports 1 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+
+#EXTINF:-1,DEPORTES:AD Sports 2 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+
+#EXTINF:-1,DEPORTES:Pac 12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+
+#EXTINF:-1,ARENA SPORT 1 HR
+http://46.40.5.99:8000/arena_1_high
+#EXTINF:-1,ARENA SPORT 2 HR
+http://46.40.5.99:8000/arena_2_high
+#EXTINF:-1,ARENA SPORT 3 HR
+http://46.40.5.99:8000/arena_3_high
+#EXTINF:-1,ARENA SPORT 4 HR
+http://46.40.5.99:8000/arena_4_high
+#EXTINF:-1,ARENA SPORT 1 SERBIA
+http://66.70.129.43:8080/Arena1-SRB/index.m3u8
+#EXTINF:-1,ARENA SPORT 2 SERBIA
+http://66.70.129.43:8080/Arena2-SRB/index.m3u8
+#EXTINF:-1,ARENA SPORT 3 SERBIA
+http://66.70.129.43:8080/Arena3-SRB/index.m3u8
+#EXTINF:-1,ARENA SPORT 4 SERBIA
+http://66.70.129.43:8080/Arena4-SRB/index.m3u8
+#EXTINF:-1,SPORT KLUB 1 
+rtmp://109.206.96.209:1935/sk1_tv_247
+#EXTINF:-1,SPORT KLUB 2 
+rtmp://109.206.96.209:1935/sk2_tv_247
+#EXTINF:-1,SPORT KLUB 3
+rtmp://109.206.96.209:1935/sk3_tv_247
+#EXTINF:-1,CBC Sport
+http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
+#EXTINF:-1,Bein Sport Haber
+http://ams.tvizlehd.com/live/beinhaber/chunks.m3u8
+
+#EXTINF:-1,DEPORTES:Pac 12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+
+#EXTINF:-1,DEPORTES:Pac 12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+
+#EXTINF:-1,DEPORTES:Pac 12 Moutain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+
+#EXTINF:-1,DEPORTES:Pac 12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+
+#EXTINF:-1,DEPORTES:Pac 12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+
+#EXTINF:-1,M4 Sport HD Europa
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/864/index.m3u8
+
+#EXTINF:-1,Sky Champions
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/724/index.m3u8
+
+#EXTINF:-1,Sky Sports 1
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/737/index.m3u8
+
+#EXTINF:-1,Sky Sports 2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/733/index.m3u8
+
+#EXTINF:-1,Sky Sport 1 HD Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/737/index.m3u8
+
+#EXTINF:-1,Sky Sport 2 HD Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/733/index.m3u8
+
+#EXTINF:-1,SPORT TV 1 HD
+http://188.165.13.95:8080/33/playlist.m3u8
+
+#EXTINF:-1,SPORT TV 2 HD
+http://188.165.13.95:8080/32/playlist.m3u8
+
+#EXTINF:-1,SPORT TV 3 HD
+http://188.165.13.95:8080/31/playlist.m3u8
+
+#EXTINF:-1,SPORT TV 4 HD
+http://188.165.13.95:8080/30/playlist.m3u8
+
+#EXTINF:-1,Jogos Ao Vivo 1
+http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1,Jogos Ao Vivo 3
+http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1,Jogos Ao Vivo 4
+http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1,Jogos Ao Vivo 5
+http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1,Jogos Ao Vivo 6
+http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1,Jogos Ao Vivo 7
+http://aovivo.futeboltv.com:8081/live/17/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1,Jogos Ao Vivo 8
+http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1,Jogos Ao Vivo 9
+http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1,Jogos Ao Vivo 10
+http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8?LISTASGLAU
+
+#EXTINF:-1,ALL SPORTS TV
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?AndreOid
+
+#EXTINF:-1,NBA TV
+http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
+
+#EXTINF:-1,NFL TV
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+
+#EXTINF:-1,MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1,Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#EXTINF:-1,Horse Brasil HD
+http://490636978.r.worldcdn.net/490636978/_definst_//horsebrasil1/playlist.m3u8?
+
+#EXTINF:-1,Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,CHELSEA TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+
+#EXTINF:-1,Olympic Channel
+https://live.olympicchannel.com/ocs/channel01b/master.m3u8
+
+
+#EXTINF:-1,Tuff TV
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+
+#EXTINF:0,SPORT TV 1 
+http://188.165.13.95:8080/8/index.m3u8
+#EXTINF:0,SPORT TV 1 HD 
+http://188.165.13.95:8080/33/index.m3u8
+#EXTINF:0,SPORT TV 2 
+http://188.165.13.95:8080/7/index.m3u8
+#EXTINF:0,SPORT TV 2 HD 
+http://188.165.13.95:8080/32/index.m3u8
+#EXTINF:0,SPORT TV 3 
+http://188.165.13.95:8080/6/index.m3u8
+#EXTINF:0,SPORT TV 3 HD 
+http://188.165.13.95:8080/31/index.m3u8
+#EXTINF:0,SPORT TV 4 
+http://188.165.13.95:8080/5/index.m3u8
+#EXTINF:0,SPORT TV 4 HD 
+http://188.165.13.95:8080/30/index.m3u8
+#EXTINF:0,SPORT TV 5 
+http://188.165.13.95:8080/4/index.m3u8
+#EXTINF:0,SPORT TV 5 HD 
+http://188.165.13.95:8080/29/index.m3u8
+#EXTINF:0,BENFICA TV 
+http://188.165.13.95:8080/11/index.m3u8
+#EXTINF:0,BENFICA TV HD 
+http://188.165.13.95:8080/86/index.m3u8
+#EXTINF:0,SPORTING TV 
+http://188.165.13.95:8080/34/index.m3u8
+#EXTINF:0,EUROSPORT 
+http://185.26.174.67:12345/play/a01d
+#EXTINF:0,EUROSPORT HD 
+http://188.165.13.95:8080/70/index.m3u8
+#EXTINF:0,EUROSPORT 2 
+http://188.165.13.95:8080/69/index.m3u8
+#EXTINF:0,MOTORSPORT.TV 
+http://188.165.13.95:8080/57/index.m3u8
+#EXTINF:0,MOTORVISION TV 
+http://188.165.13.95:8080/56/index.m3u8
+#EXTINF:0,PFC 
+http://188.165.13.95:8080/48/index.m3u8
+
+#EXTINF:-1,SPORT TV 5 HD
+http://188.165.13.95:8080/29/playlist.m3u8
+
+#EXTINF:-1,SPORT TV 1
+http://188.165.13.95:8080/8/playlist.m3u8
+
+#EXTINF:-1,SPORT TV 3
+http://188.165.13.95:8080/6/playlist.m3u8
+
+#EXTINF:-1,BENFICA TV
+http://188.165.13.95:8080/11/playlist.m3u8
+
+#EXTINF:-1,Sky Sport Austria
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/746/index.m3u8
+
+#EXTINF:-1,Sky Sport Austria HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/475/index.m3u8
+
+#EXTINF:-1,Sky Bundesliga 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/725/index.m3u8
+
+#EXTINF:-1,FightBox HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/900/index.m3u8
+
+#EXTINF:-1,Eurosport2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/78/index.m3u8
+
+#EXTINF:-1,Eurosport
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/160/index.m3u8
+
+#EXTINF:-1,Italian Fishing Pesca
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/587/index.m3u8
+
+#EXTINF:-1,Football 1 HD ua
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/867/index.m3u8
+
+#EXTINF:-1,Football 2 HD ua
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/868/index.m3u8
+
+#EXTINF:-1,HORSE BRASIL HD
+http://490636978.r.worldcdn.net/490636978/_definst_/horsebrasil1/playlist.m3u8
+
+#EXTINF:-1,ABU DABI SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
+
+#EXTINF:-1,SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1,SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1,ARENA SPORT1
+http://66.70.129.43:8080/Arena1-SRB/index.m3u8
+
+#EXTINF:-1,ARENA SPORT2
+http://66.70.129.43:8080/Arena2-SRB/index.m3u8
+
+#EXTINF:-1,ARENA SPORT3
+http://66.70.129.43:8080/Arena3-SRB/index.m3u8
+
+#EXTINF:-1,ARENA SPORT4
+http://66.70.129.43:8080/Arena4-SRB/index.m3u8
+
+#EXTINF:-1,Olimpic Channel HD
+https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
+
+#EXTINF:-1,CableOnda Sports FC
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
+
+#EXTINF:-1,CableOnda Sports
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
+
+#EXTINF:-1,Mundo Auto
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8
+
+#EXTINF:-1,CDO
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1,All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1,KTV Sport Kuwait
+https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist.m3u8
+
+#EXTINF:-1,SportsTV
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+
+#EXTINF:-1,Pac 12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+
+#EXTINF:-1,Pac 12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+
+#EXTINF:-1,Pac 12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+
+#EXTINF:-1,Pac 12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+
+#EXTINF:-1,Pac 12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+
+#EXTINF:-1,Pac 12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+
+#EXTINF:-1,Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+
+#EXTINF:-1,100% Automoto (BG)
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+
+#EXTINF:-1,Oman Sports
+http://38.96.148.30:1935/live/omantv2//playlist.m3u8
+
+#EXTINF:-1,KTV Sport
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+
+#EXTINF:-1,Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+
+#EXTINF:-1,Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+
+#EXTINF:-1,Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+
+#EXTINF:-1,Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+
+#EXTINF:-1,Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+
+#EXTINF:-1,Abu Dhabi Sports 1*
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+
+#EXTINF:-1,Abu Dhabi Sports 2*
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+
+#EXTINF:-1,Bursapor TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8
+
+#EXTINF:-1,Rugby TV
+http://fra01-edge01.itdc.ge/rtv/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Most Video TV HD
+http://w4.mostvideo.tv/tv/ch1.m3u8
+
+#EXTINF:-1,beIN LaLiga opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
+#EXTINF:-1,Bein LaLiga opción 2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8
+#EXTINF:-1,beIN LaLiga opción 4
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
+#EXTINF:-1,LaLiga TV opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+#EXTINF:-1,Bein Sports Ñ Latino
+http://192.99.39.218:25461/live/arodriguez/arodriguez/5768.ts
+#EXTINF:-1,beIN Sports Opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
+#EXTINF:-1,Bein Sports Opción 2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/566/index.m3u8
+#EXTINF:-1,beIN Sports Opción 4
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/566/index.m3u8
+#EXTINF:-1,Movistar Fútbol
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
+#EXTINF:-1,Movistar Golf
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/569/index.m3u8
+#EXTINF:-1,Viasat Golf
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/59/index.m3u8
+#EXTINF:-1,Movistar F1 opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+#EXTINF:-1,Movistar F1 opción 2
+http://163.172.202.69:4022/formula1hd
+#EXTINF:-1,Movistar F1 opción 3
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
+#EXTINF:-1,Movistar MotoGP Opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
+#EXTINF:-1,Movistar MotoGP Opción 2
+http://163.172.202.69:4022/motogphd
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Rai Sport
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/528/index.m3u8
+#EXTINF:-1,Box Tv
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/316/index.m3u8
+#EXTINF:-1,GARAGE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://163.172.202.69:4022/eurosport1hd
+#EXTINF:-1,Eurosport HD Alemania
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/704/index.m3u8
+#EXTINF:-1,M4 Sport HD Europa
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/864/index.m3u8
+#EXTINF:-1,Sky Champions
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/724/index.m3u8
+#EXTINF:-1,Sky Sports 1
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/737/index.m3u8
+#EXTINF:-1,Sky Sports 2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/733/index.m3u
+#EXTINF:-1,SPORT TV 2 HD
+http://188.165.13.95:8080/32/playlist.m3u8
+#EXTINF:-1,SPORT TV 3 HD
+http://188.165.13.95:8080/31/playlist.m3u8
+#EXTINF:-1,SPORT TV 4 HD
+http://188.165.13.95:8080/30/playlist.m3u8
+#EXTINF:-1,SPORT TV 5 HD
+http://188.165.13.95:8080/29/playlist.m3u8
+EXTINF:-1,SPORT TV 3
+http://188.165.13.95:8080/6/playlist.m3u8
+#EXTINF:-1,BENFICA TV
+http://188.165.13.95:8080/11/playlist.m3u8
+#EXTINF:-1,Sky Bundesliga 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/725/index.m3u8
+#EXTINF:-1,FightBox HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/900/index.m3u8
+#EXTINF:-1,Eurosport2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/78/index.m3u8
+#EXTINF:-1,Eurosport
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/160/index.m3u8
+#EXTINF:-1,Italian Fishing Pesca
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/587/index.m3u8
+#EXTINF:-1,Football 1 HD ua
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/867/index.m3u8
+#EXTINF:-1,Football 2 HD ua
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/868/index.m3u8
+#EXTINF:-1,NBA
+http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
+#EXTINF:-1,ALL SPORTS TV
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1,ARENA SPORT1
+http://66.70.129.43:8080/Arena1-SRB/index.m3u8
+#EXTINF:-1,ARENA SPORT2
+http://66.70.129.43:8080/Arena2-SRB/index.m3u8
+#EXTINF:-1,ARENA SPORT3
+http://66.70.129.43:8080/Arena3-SRB/index.m3u8
+#EXTINF:-1,ARENA SPORT4
+http://66.70.129.43:8080/Arena4-SRB/index.m3u8
+#EXTINF:-1,Redbull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+ 
+#EXTINF:-1,CableOnda Sports FC
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
+#EXTINF:-1,CableOnda Sports
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
+#EXTINF:-1,NBC Golf
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,Mundo Auto
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8
+#EXTINF:-1,CDO
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1,MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,Extreme Sports Channel
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/46/index.m3u8
+#EXTINF:-1,Hash Futbol
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/13/index.m3u8
+#EXTINF:-1,KHL HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/291/index.m3u8
+#EXTINF:-1,Match
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/200/index.m3u8
+#EXTINF:-1,Match! Arena
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/1/index.m3u8
+#EXTINF:-1,Match! Boets
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/2/index.m3u8
+#EXTINF:-1,Match! Igra
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/3/index.m3u8
+#EXTINF:-1,Match! Nash
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/4/index.m3u8
+#EXTINF:-1,Match! Football
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/5/index.m3u8
+#EXTINF:-1,Match! Football
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/6/index.m3u8
+#EXTINF:-1,Match! Football
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/7/index.m3u8
+#EXTINF:-1,Nash
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/13/index.m3u8
+#EXTINF:-1,KHL TV
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/17/index.m3u8
+#EXTINF:-1,Nash Football
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/25/index.m3u8
+#EXTINF:-1,Match! Football 1
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/29/index.m3u8
+#EXTINF:-1,Match! Football 2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/23/index.m3u8
+#EXTINF:-1,Match! Football 3
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/24/index.m3u8
+#EXTINF:-1,Viasat Sport
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/44/index.m3u8
+#EXTINF:-1,Viasat Sport
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/45/index.m3u8
+#EXTINF:-1,Extreme
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/47/index.m3u8
+#EXTINF:-1,Tocka Otruva
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/48/index.m3u8
+#EXTINF:-1,Viasat Sport
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/75/index.m3u8
+#EXTINF:-1,Viasat Sport
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/76/index.m3u8
+#EXTINF:-1,Konniy Mir
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/112/index.m3u8
+#EXTINF:-1,Macht Tb HD
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/113/index.m3u8
+#EXTINF:-1,AVTO 24
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/172/index.m3u8
+#EXTINF:-1,Match! TV
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/200/index.m3u8
+#EXTINF:-1,Auto Plus
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/248/index.m3u8
+#EXTINF:-1,Match! Planeta
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/258/index.m3u8
+#EXTINF:-1,Match! Arena
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/289/index.m3u8
+#EXTINF:-1,Sport Klub Polska
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/902/index.m3u8
+#EXTINF:-1,FightBox hd
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/901/index.m3u8
+#EXTINF:-1,M4 Sport HD
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/864/index.m3u8
+#EXTINF:-1,Super Tennis
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/670/index.m3u8
+#EXTINF:-1,Automoto
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/635/index.m3u8
+#EXTINF:-1,TvP Sports
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/556/index.m3u8
+#EXTINF:-1,AYM SPOPRTS
+https://latamonly-lh.akamaihd.net/i/aymsports_1@576423/master.m3u8
+#EXTINF:-1,WINSPORTS
+http://iptvmexico.xyz/cangrejo/1452.m3u8?WINSPORTS_HD
+#EXTINF:-1,iptvtools_203
+https://latamonly-lh.akamaihd.net/i/tvcdeporteshd_1@578064/index_480_av-p.m3u8
+#EXTINF:-1,TVC DEPORTES
+https://latamonly-lh.akamaihd.net/i/tvcdeporteshd_1@578064/master.m3u8
+#EXTINF:-1,PX TV
+https://latamonly-lh.akamaihd.net/i/pxtv_1@576425/master.m3u8
+#EXTINF:-1,AYM SPOPRTS
+https://latamonly-lh.akamaihd.net/i/aymsports_1@576423/master.m3u8
+#EXTINF:-1,Setanta Sports
+http://195.158.29.129/live1_360/live.stream_360p.m3u8
+#EXTINF:-1,SportsTV
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1,Pac 12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:-1,Pac 12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:-1,Pac 12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:-1,Pac 12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:-1,100% Automoto (BG)
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1,NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1,Oman Sports
+http://38.96.148.30:1935/live/omantv2//playlist.m3u8
+#EXTINF:-1,KTV Sport
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+#EXTINF:-1,Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1,Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1,Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1,Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1,Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1,Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1,Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1,Bursapor TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8
+#EXTINF:-1,Rugby TV
+http://fra01-edge01.itdc.ge/rtv/tracks-v1a1/index.m3u8
+#EXTINF:-1,MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/ChelseaTVLogo.png" group-title="DEPORTES",Chelsea Tv
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/p7DAIKG.png" group-title="DEPORTES",Todo Deportes
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="https://img21.taquilla.com/data/images/t/07/sevilla-fc.jpg" group-title="DEPORTES", Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, tvg-logo="VDkXBq6.png" group-title="Canales de Deportes", Rugby TV | SD
+http://fra01-edge01.itdc.ge/rtv/tracks-v1a1/index.m3u8
+#EXTINF:-1,CDF DEPORTES EN VIVO
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8
+#EXTINF:-1,DEPORTES:Sporting Tv HD
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,DEPORTES:Todo Deportes
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1,Caza y Pesca
+http://188.165.13.95:8080/84/index.m3u8
+#EXTINF:-1,Iberalia
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/603/index.m3u8
+#EXTINF:-1,beIN LaLiga opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
+#EXTINF:-1,Bein LaLiga opción 2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8
+#EXTINF:-1,beIN LaLiga opción 4
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
+#EXTINF:-1,beIN LaLiga opción 5
+http://playlist.onlybest.tv/ru/channel/5dda7fe337281595bf436bc8592891be/574/index.m3u8
+#EXTINF:-1,beIN LaLiga opción 6
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+#EXTINF:-1,LaLiga TV opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+#EXTINF:-1,LaLiga Tv opción 2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/581/index.m3u8
+#EXTINF:-1,LaLiga TV opción 3
+http://playlist.onlybest.tv/ru/channel/5dda7fe337281595bf436bc8592891be/581/index.m3u8
+#EXTINF:-1,LaLiga TV opción 4
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/581/index.m3u8
+#EXTINF:-1,LaLiga TV opción 5
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
+#EXTINF:-1,beIN Sports Opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
+#EXTINF:-1,Bein Sports Opción 2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/566/index.m3u8
+#EXTINF:-1,beIN Sports Opción 3
+http://playlist.onlybest.tv/ru/channel/5dda7fe337281595bf436bc8592891be/566/index.m3u8
+#EXTINF:-1,beIN Sports Opción 4
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/566/index.m3u8
+#EXTINF:-1,beIN Sports Opción 5
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8
+#EXTINF:-1,Movistar Fútbol
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
+#EXTINF:-1,Movistar Golf
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/569/index.m3u8
+#EXTINF:-1,Viasat Golf
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/59/index.m3u8
+#EXTINF:-1,Movistar F1 opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+#EXTINF:-1,Movistar F1 opción 2
+http://163.172.202.69:4022/formula1hd
+#EXTINF:-1,Movistar F1 opción 3
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
+#EXTINF:-1,Movistar MotoGP Opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
+#EXTINF:-1,Movistar MotoGP Opción 2
+http://163.172.202.69:4022/motogphd
+#EXTINF:-1,Automoto TV
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/635/index.m3u8
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,ABU DHABI SPORT OP01
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+ 
+#EXTINF:-1,ABU DHABI SPORT OP02
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+ 
+#EXTINF:-1,ABU DHABI SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+ 
+#EXTINF:-1,ABU DHABI SPORT 2 OP02
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+ 
+#EXTINF:-1,Bein Sports Alemanha
+http://ams.tvizlehd.com/live/beinhaber/chunks.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png",Bein Sports 1 HD OP01
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png",Bein Sports 1 HD OP02
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png",Bein Sports 1 HD OP03
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png",Bein Sports 1 HD OP04
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
+ 
+#EXTINF:-1,Bein Sports 2 OP01
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.cbcsport.tv/upload/img/live.png" group-title="DEPORTES 2",CBC Sport
+http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
+ 
+#EXTINF:-1,DEPORT TV OP01
+http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/master.m3u8
+ 
+#EXTINF:-1,DEPORT TV OP02
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/chunklist_w579935025_b542000_slesp.m3u8
+ 
+#EXTINF:-1,DEPORT TV OP03
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
+ 
+#EXTINF:-1,DEPORT TV OP04
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+ 
+#EXTINF:-1,DEPOR TV OP05
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/playlist.m3u8?
+ 
+#EXTINF:-1,Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/82ae46ec1ee71b7e37984bbfa0fb93d5.jpg" group-title="Esportes",ESPN + BR OP01
+http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8?premiumtv.org
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://portal4.files.wordpress.com/2016/02/logo-ei-square.png?w=300&h=300" group-title="Esportes", ESPN + BR OP02
+http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8?LISTASGLAU
+ 
+#EXTINF:-1,ESPN + BR OP03
+http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8?LISTASGLAU
+ 
+#EXTINF:-1,ESPN-Latino
+https://robos2.elrobacanales.com/budtv/Evento_BudTv_ESPN_Dep_151/playlist.m3u8
+ 
+#EXTINF:-0 tvg-id="ESPN" tvg-logo="espn" group-title="DEPORTES",ESPN-BR OP01
+http://aovivo2.futeboltv.com:8081/live/16/chunks.m3u8
+ 
+#EXTINF:-1,ESPN-BR OP02
+http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8?LISTASGLAU
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d53d36fe7e7d44802ad1079d35c61cda.jpg" group-title="Esportes",ESPN-BR OP03
+http://aovivo.futeboltv.com:8081/live/16/playlist.m3u8?premiumtv.org
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/c5229fdaa2cd2fda5bb7f95ac1db6da1.jpg" group-title="Esportes",ESPN-BR OP04
+http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8?premiumtv.org
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://logok.org/wp-content/uploads/2015/02/ESPN-logo-wordmark-219x286.png" group-title="ESPORTES", ESPN-BR OP05
+http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8?LISTASGLAU
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/af5dd6b55d063edc48ef49699a8341a6.jpg" group-title="Esportes",ESPN Brasil HD OP01
+http://aovivo.futeboltv.com:8081/live/19/playlist.m3u8?premiumtv.org
+ 
+#EXTINF:-0 tvg-id="ESPN Brasil" tvg-logo="https://s20.postimg.org/ksmbijdil/espnbrasil.jpg" group-title="DEPORTES",ESPN Brasil OP02
+http://aovivo2.futeboltv.com:8081/live/19/chunks.m3u8
+ 
+#EXTINF:-1,ESPN Brasil OP03
+http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8?LISTASGLAU
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/64ff573f71e201f01060c4bdd6d2ea5b.jpg" group-title="Esportes",ESPN Brasil OP04
+http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8?premiumtv.org
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://comotrabalhar.org/wp-content/uploads/2016/06/ESPN-Brasil-empregos.jpg" group-title="ESPORTES", ESPN Brasil OP05
+http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8?LISTASGLAU
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://portal4.files.wordpress.com/2016/02/logo-ei-square.png?w=300&h=300" group-title="Esportes", Esporte Interativo OP01
+http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8?LISTASGLAU
+ 
+#EXTINF: -1, Esporte Interativo OP02
+http://aovivo2.futeboltv.com:8081/live/8/chunks.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/5e4b401e28dd05b0f4dac3d7830b6072.jpg" group-title="Esportes",Esporte Interativo OP03
+http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8?premiumtv.org
+ 
+#EXTINF:-1,Esporte Interativo OP04
+http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8?LISTASGLAU
+ 
+#EXTINF:-1 tvg-logo="https://broadbandtvnews-broadbandtvnews.netdna-ssl.com/wp-content/uploads/2015/11/Eurosport-1-symbol.png", Eurosport 1 HD OP01
+http://65.254.55.10:4000/live/197/197.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://broadbandtvnews-broadbandtvnews.netdna-ssl.com/wp-content/uploads/2015/11/Eurosport-1-symbol.png", Eurosport 1 HD OP02
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/159/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://broadbandtvnews-broadbandtvnews.netdna-ssl.com/wp-content/uploads/2015/11/Eurosport-1-symbol.png", Eurosport 1 FHD OP03
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/159/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 1 HD OP04
+http://65.254.55.10:4000/live/197/197.m3u8
+ 
+#EXTINF:-1,Eurosport 2 HD OP01
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/77/index.m3u8
+ 
+#EXTINF:-1,Eurosport 2 HD OP02
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/471/index.m3u8
+ 
+#EXTINF:-1,Eurosport 2 HD OP03
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/78/index.m3u8
+ 
+#EXTINF:0 type="favorites" channelId="-1", Football 1 HD Ucrania
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/867/index.m3u8
+ 
+#EXTINF:0 type="favorites" channelId="-1", Football 2 HD Ucrania
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/868/index.m3u8
+ 
+#EXTINF:-1,Fox Sports Latino
+http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/292.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://propmark.com.br/static/upload/legacy/thumbs/foxsports300logonovo.jpg" group-title="Esportes", FOX Sports BR OP01
+http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8?LISTASGLAU
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://propmark.com.br/static/upload/legacy/thumbs/foxsports300logonovo.jpg" group-title="Esportes", FOX Sports BR OP02
+http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8?LISTASGLAU
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/065d3690c35c813b6757518ac0400171.jpg" group-title="Esportes",FOX Sports BR OP03
+http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8?premiumtv.org
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/df8f46e9223d5b9a0f8918d1dd7d1321.jpg" group-title="Esportes",FOX Sports BR OP04
+http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8?premiumtv.org
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="ESPORTES",FOX Sports BR OP05
+http://aovivo2.futeboltv.com:8081/live/3/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+ 
+#EXTINF: -1, FOX Sports BR OP06
+http://aovivo2.futeboltv.com:8081/live/2/chunks.m3u8
+ 
+#EXTINF: -1, FOX Sports BR OP07
+http://aovivo2.futeboltv.com:8081/live/3/chunks.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://cdn2.vendasclarohdtv.com.br/Content/Hotsites/luta/img/banner_012.png" group-title="ESPORTES", FOX Sports BR OP08
+http://aovivo.futeboltv.com:8081/live/2/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-0 tvg-id="Fox Sports" tvg-logo="foxsports" group-title="DEPORTES",Fox Sports BR OP09
+http://aovivo2.futeboltv.com:8081/live/3/chunks.m3u8
+ 
+#EXTINF:-1,FOX Sports BR OP10
+http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8?LISTASGLAU
+ 
+#EXTINF:-1,Fox Sports 2 Latino
+http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/295.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/4174f355cb58f61e740e6842c27724e4.jpg" group-title="Esportes",Fox Sports 2 BR OP01
+http://aovivo.futeboltv.com:8081/live/13/playlist.m3u8?premiumtv.org
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="ESPORTES",FOX Sports 2 BR OP02
+http://aovivo2.futeboltv.com:8081/live/13/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-0 tvg-id="Fox Sports 2" tvg-logo="foxsports" group-title="DEPORTES",Fox Sports 2 BR OP03
+http://aovivo2.futeboltv.com:8081/live/13/chunks.m3u8
+ 
+#EXTINF:-1,Fox Sports 3 Latino
+http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/293.m3u8
+ 
+#EXTINF:-1,Hash Football Russia
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/13/index.m3u8
+ 
+#EXTINF:-1,LaLiga TV HD OP01
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/581/index.m3u8
+ 
+#EXTINF:-1,LaLiga TV HD OP02
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+ 
+#EXTINF:-1,LaLiga TV HD OP03
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/581/index.m3u8
+ 
+#EXTINF:-1,M4 Sport HD Europa OP01
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/864/index.m3u8
+ 
+#EXTINF:-1,M4 Sport HD Europa OP02
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/864/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png", Movistar Futebol HD OP01
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/575/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png", Movistar Futebol HD OP02
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png", Movistar Futebol HD OP03
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fUKODzu.png" group-title="DEPORTES", Movistar Futebol HD OP04
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+formula+1-01.png/9492b402-dda4-b2b5-469f-bd831294680f?t=1487255283758", Movistar Formula 1 HD OP01
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+formula+1-01.png/9492b402-dda4-b2b5-469f-bd831294680f?t=1487255283758", Movistar Formula 1 HD OP02
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+formula+1-01.png/9492b402-dda4-b2b5-469f-bd831294680f?t=1487255283758", Movistar Formula 1 HD OP03
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MuXjC6K.png" group-title="DEPORTES", Movistar Formula 1 HD OP04
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png", Movistar Golf HD OP01
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png", Movistar Golf HD OP02
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/569/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DnTCqMT.png" group-title="DEPORTES", Movistar Golf HD OP03
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+ 
+#EXTINF:-1,Movistar MotoGP HD OP01
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
+ 
+#EXTINF:0 tvg-logo="https://goo.gl/ooZJBU" group-title="",NFL OP01
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+ 
+#EXTINF:-1, NFL OP02
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8?JoCaRoIPTV.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/us/NFL_NOW.png" group-title="DEPORTES 2",NFL OP03
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+ 
+#EXTINF:-1, Rai Sport OP01
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/528/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RD8lq2o.png" group-title="DEPORTES", Rai Sport OP02
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/528/index.m3u8
+ 
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="http://i.imgur.com/5jMqNpW.png" group-title="DEPORTES",REAL MADRID TV OP01
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?CANAISGLAU
+ 
+#EXTINF:0 tvg-id="" tvg-logo="realmadridtv" tvg-logo="realmadridtv" group-title="DEPORTES",REAL MADRID TV OP02
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+ 
+#EXTINF:-1,REAL MADRID TV OP03
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FTLjroU.png" group-title="DEPORTES", Sevilla FC OP01
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+ 
+#EXTINF:-1,Sevilla FC OP02
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8#1
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/d4f2552ee2eec42fb54e231319579535.jpg" group-title="Esportes",SPORTV OP01
+http://aovivo.futeboltv.com:8081/live/20/playlist.m3u8?premiumtv.org
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0021/7677/brand.gif?itok=CebnsQha" group-title="ESPORTES", SPORTV OP02
+http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8?LISTASGLAU
+ 
+#EXTINF:-0 tvg-id="SporTV" tvg-logo="https://s20.postimg.org/lomflg27h/sportv.jpg" group-title="DEPORTES",SPORTV OP03
+http://aovivo2.futeboltv.com:8081/live/20/chunks.m3u8
+ 
+#EXTINF:-1,SPORTV OP04
+http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8?LISTASGLAU
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/71bf5f2d333b9cb1e7a990012cbf355b.jpg" group-title="Esportes",SPORTV 2 OP01
+http://aovivo.futeboltv.com:8081/live/15/playlist.m3u8?premiumtv.org
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/1009c0d7cc95b0192b729c3004d312f3.jpg" group-title="Esportes",SPORTV 2 OP02
+http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?premiumtv.org
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154952-canal-sport-tv-2.png" group-title="ESPORTES", SPORTV 2 OP03
+http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?LISTASGLAU
+ 
+#EXTINF: -1, SPORTV 2 OP04
+http://aovivo2.futeboltv.com:8081/live/15/chunks.m3u8
+ 
+#EXTINF:-1,SPORTV 2 OP05
+http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?LISTASGLAU
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-OiyeehS2iG0/UAY79C8hpCI/AAAAAAAABcw/U3SZHdXnuNM/s1600/SPORTV-HD%255B1%255D.jpg="Esportes", SPORTV 3 OP01
+http://aovivo.futeboltv.com:8081/live/7/chunks.m3u8?LISTASGLAU
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/2e2d66b19f0ef29559216b6cd6193ff5.jpg" group-title="Esportes",SPORTV 3 OP02
+http://aovivo.futeboltv.com:8081/live/7/chunks.m3u8?premiumtv.org
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="ESPORTES", SPORTV 3 OP03
+http://aovivo2.futeboltv.com:8081/live/7/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+ 
+#EXTINF: -1, SPORTV 3 OP04
+http://aovivo2.futeboltv.com:8081/live/7/chunks.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xex0vq5.jpg" group-title="DEPORTES", Sports TV OP01
+http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/master.m3u8
+ 
+#EXTINF:-1, Sports TV OP02
+http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/master.m3u8
+ 
+#EXTINF:0 type="favorites" channelId="-1", Sky Sport 1 HD Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/737/index.m3u8
+ 
+#EXTINF:-1,TDN Deportes Mexico
+https://robos2.elrobacanales.com/budtv/Eventos_BudTv_TDN_StarTv_150/playlist.m3u8
+ 
+#EXTINF:-1, TODO DEPORTES HONDURAS
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?JoCaRoIPTV.m3u8
+ 
+#EXTINF:-1,Toros TV Latino
+http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/874.m3u8
+ 
+#EXTINF:-1,UFC Latino
+https://robos2.elrobacanales.com/budtv/ufc_total_play_100/playlist.m3u8
+ 
+#EXTINF:-1,UFC OP02
+http://righttv.ddns.net:25461/live/trial30/trial30/11261.ts
+ 
+#EXTINF:-1,Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+ 
+#EXTINF:-1,Animal Planet Latino
+http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/353.m3u8
+#EXTINF:-1,Rai Sport
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/528/index.m3u8
+#EXTINF:-1,Box Tv
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/316/index.m3u8
+#EXTINF:-1,GARAGE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://163.172.202.69:4022/eurosport1hd
+#EXTINF:-1,Eurosport HD Alemania
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/704/index.m3u8
+#EXTINF:-1,Eurosport Alemán
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/682/index.m3u8
+#EXTINF:-1,M4 Sport HD Europa
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/864/index.m3u8
+#EXTINF:-1,Sky Champions
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/724/index.m3u8
+#EXTINF:-1,Sky Sports 1
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/737/index.m3u8
+#EXTINF:-1,Sky Sports 2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/733/index.m3u8
+#EXTINF:-1,Sky Sport 1 HD Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/737/index.m3u8
+#EXTINF:-1,Sky Sport 2 HD Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/733/index.m3u8
+#EXTINF:-1,Espn 3 MX.
+http://192.99.39.218:25461/live/arodriguez/arodriguez/3898.ts
+#EXTINF:-1,SPORT TV 1 HD
+http://188.165.13.95:8080/33/playlist.m3u8
+#EXTINF:-1,SPORT TV 2 HD
+http://188.165.13.95:8080/32/playlist.m3u8
+#EXTINF:-1,SPORT TV 3 HD
+http://188.165.13.95:8080/31/playlist.m3u8
+#EXTINF:-1,SPORT TV 4 HD
+http://188.165.13.95:8080/30/playlist.m3u8
+#EXTINF:-1,SPORT TV 5 HD
+http://188.165.13.95:8080/29/playlist.m3u8
+#EXTINF:-1,SPORT TV 1
+http://188.165.13.95:8080/8/playlist.m3u8
+#EXTINF:-1,SPORT TV 3
+http://188.165.13.95:8080/6/playlist.m3u8
+#EXTINF:-1,BENFICA TV
+http://188.165.13.95:8080/11/playlist.m3u8
+#EXTINF:-1,Sky Sport Austria
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/746/index.m3u8
+#EXTINF:-1,Sky Sport Austria HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/475/index.m3u8
+#EXTINF:-1,Sky Bundesliga 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/725/index.m3u8
+#EXTINF:-1,FightBox HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/900/index.m3u8
+#EXTINF:-1,Eurosport2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/78/index.m3u8
+#EXTINF:-1,Eurosport
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/160/index.m3u8
+#EXTINF:-1,Italian Fishing Pesca
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/587/index.m3u8
+#EXTINF:-1,Football 1 HD ua
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/867/index.m3u8
+#EXTINF:-1,Football 2 HD ua
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/868/index.m3u8
+#EXTINF:-1,NBA
+http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
+#EXTINF:-1,HORSE BRASIL HD
+http://490636978.r.worldcdn.net/490636978/_definst_/horsebrasil1/playlist.m3u8
+#EXTINF:-1,ABU DABI SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
+#EXTINF:-1,SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,ALL SPORTS TV
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1,ARENA SPORT1
+http://66.70.129.43:8080/Arena1-SRB/index.m3u8
+#EXTINF:-1,ARENA SPORT2
+http://66.70.129.43:8080/Arena2-SRB/index.m3u8
+#EXTINF:-1,ARENA SPORT3
+http://66.70.129.43:8080/Arena3-SRB/index.m3u8
+#EXTINF:-1,ARENA SPORT4
+http://66.70.129.43:8080/Arena4-SRB/index.m3u8
+#EXTINF:-1,Redbull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1,Olimpic Channel HD
+https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
+#EXTINF:-1,CableOnda Sports FC
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
+#EXTINF:-1,CableOnda Sports
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
+#EXTINF:-1,Mundo Auto
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8
+#EXTINF:-1,CDO
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1,Chelsea Tv
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:-1,MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,AD Sports 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,AD Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1,Extreme Sports Channel
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/46/index.m3u8
+#EXTINF:-1,Hash Futbol
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/13/index.m3u8
+#EXTINF:-1,KHL HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/291/index.m3u8
+#EXTINF:-1,Match
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/200/index.m3u8
+#EXTINF:-1,Match! Arena
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/1/index.m3u8
+#EXTINF:-1,Match! Boets
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/2/index.m3u8
+#EXTINF:-1,Match! Igra
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/3/index.m3u8
+#EXTINF:-1,Match! Nash
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/4/index.m3u8
+#EXTINF:-1,Match! Football
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/5/index.m3u8
+#EXTINF:-1,Match! Football
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/6/index.m3u8
+#EXTINF:-1,Match! Football
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/7/index.m3u8
+#EXTINF:-1,Nash
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/13/index.m3u8
+#EXTINF:-1,KHL TV
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/17/index.m3u8
+#EXTINF:-1,Nash Football
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/25/index.m3u8
+#EXTINF:-1,Match! Football 1
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/29/index.m3u8
+#EXTINF:-1,Match! Football 2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/23/index.m3u8
+#EXTINF:-1,Match! Football 3
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/24/index.m3u8
+#EXTINF:-1,Viasat Sport
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/44/index.m3u8
+#EXTINF:-1,Viasat Sport
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/45/index.m3u8
+#EXTINF:-1,Extreme
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/47/index.m3u8
+#EXTINF:-1,Tocka Otruva
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/48/index.m3u8
+#EXTINF:-1,Viasat Sport
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/75/index.m3u8
+#EXTINF:-1,Viasat Sport
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/76/index.m3u8
+#EXTINF:-1,Konniy Mir
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/112/index.m3u8
+#EXTINF:-1,Macht Tb HD
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/113/index.m3u8
+#EXTINF:-1,AVTO 24
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/172/index.m3u8
+#EXTINF:-1,Match! TV
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/200/index.m3u8
+#EXTINF:-1,Auto Plus
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/248/index.m3u8
+#EXTINF:-1,Match! Planeta
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/258/index.m3u8
+#EXTINF:-1,Match! Arena
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/289/index.m3u8
+#EXTINF:-1,Sport Klub Polska
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/902/index.m3u8
+#EXTINF:-1,FightBox hd
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/901/index.m3u8
+#EXTINF:-1,M4 Sport HD
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/864/index.m3u8
+#EXTINF:-1,Super Tennis
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/670/index.m3u8
+#EXTINF:-1,Automoto
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/635/index.m3u8
+#EXTINF:-1,AYM SPOPRTS
+https://latamonly-lh.akamaihd.net/i/aymsports_1@576423/master.m3u8
+#EXTINF:-1,CLARO SPORTS
+https://latamonly-lh.akamaihd.net/i/clarosports_1@576705/master.m3u8
+#EXTINF:-1,SEVILLA FC TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,TVC DEPORTES
+https://latamonly-lh.akamaihd.net/i/tvcdeporteshd_1@578064/master.m3u8
+#EXTINF:-1,PX TV
+https://latamonly-lh.akamaihd.net/i/pxtv_1@576425/master.m3u8
+#EXTINF:-1,AYM SPOPRTS
+https://latamonly-lh.akamaihd.net/i/aymsports_1@576423/master.m3u8
+#EXTINF:-1,Setanta Sports
+http://195.158.29.129/live1_360/live.stream_360p.m3u8
+#EXTINF:-1,KTV Sport Kuwait
+https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist.m3u8
+#EXTINF:-1,SportsTV
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1,Pac 12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:-1,Pac 12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:-1,Pac 12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:-1,Pac 12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:-1,Pac 12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:-1,Pac 12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:-1,Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:-1,100% Automoto (BG)
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1,NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1,Oman Sports
+http://38.96.148.30:1935/live/omantv2//playlist.m3u8
+#EXTINF:-1,KTV Sport
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+#EXTINF:-1,Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1,Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1,Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1,Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1,Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1,Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1,Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1,Abu Dhabi Sports 1*
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2*
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:-1,Bursapor TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8
+#EXTINF:-1,Rugby TV
+http://fra01-edge01.itdc.ge/rtv/tracks-v1a1/index.m3u8
+#EXTINF:-1,MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,Most Video TV HD
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1,  Abu Dhabi Sports
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1,  Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1,  KTV Sport Kuwait
+https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist.m3u8
+#EXTINF:-1,  SportsTV
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1, Sports Tv
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1, Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:-1, AD Sports 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1, AD Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1, AD Sports 1 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1, AD Sports 2 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
