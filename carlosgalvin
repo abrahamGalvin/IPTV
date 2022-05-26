@@ -1,39 +1,345 @@
 #EXTM3U
-#EXTM3U
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS FHD" tvg-logo="http://ky-iptv.com:80/images/46d4c2df3bab60bca8b25d1141235654.png" group-title="ES: Spain",ES: TOROS FHD
+http://line.lemotv.cc:80/gbenga/gbenga/219525.ts
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="ES: M. Formula 1 FHD" tvg-logo="http://ky-iptv.com:80/images/2576dbdce64fb7cfa8459628edfd89a2.png" group-title="ES: Spain",ES: M. Formula 1 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/219546.ts
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES: M. Deportes FHD" tvg-logo="http://ky-iptv.com:25461/images/b7c31b0b13f25019b7ba3fe9973e91d0.png" group-title="ES: Spain",ES: M. Deportes FHD
+http://line.lemotv.cc:80/gbenga/gbenga/219551.ts
+#EXTINF:-1 tvg-id="mdeportes2.es" tvg-name="ES: M. Deportes 2 FHD" tvg-logo="http://ky-iptv.com:80/images/26bcf4140fb292bdd1bf05a13ffd5724.png" group-title="ES: Spain",ES: M. Deportes 2 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/219552.ts
+#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="ES: M. Deportes 1 FHD" tvg-logo="http://ky-iptv.com:25461/images/898c31c2c6c5405d3b99db2d00a776da.png" group-title="ES: Spain",ES: M. Deportes 1 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/219553.ts
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="ES: M. Cine Espanol FHD" tvg-logo="http://ky-iptv.com:80/images/a3458e693d8a58edccf4f676ddf3448a.png" group-title="ES: Spain",ES: M. Cine Espanol FHD
+http://line.lemotv.cc:80/gbenga/gbenga/219555.ts
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M La Liga FHD" tvg-logo="http://ky-iptv.com:80/images/60c772509e8f00b6894a3700096613ad.png" group-title="ES: Spain",ES: M La Liga FHD
 http://line.lemotv.cc:80/gbenga/gbenga/219559.ts
 #EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="ES: La Liga BAR FHD" tvg-logo="http://ky-iptv.com:80/images/058e093d3c02873aff5e48d3adb6aee9.png" group-title="ES: Spain",ES: La Liga BAR FHD
 http://line.lemotv.cc:80/gbenga/gbenga/219561.ts
-#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="ES: LALIGA TV BAR FHD" tvg-logo="" group-title="ES: Deportes de España",ES: LALIGA TV BAR FHD
-http://line.lemotv.cc:80/gbenga/gbenga/388177.ts
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: MOVISTAR LALIGA FHD" tvg-logo="http://ky-iptv.com:80/images/60c772509e8f00b6894a3700096613ad.png" group-title="ES: Deportes de España",ES: MOVISTAR LALIGA FHD
-http://line.lemotv.cc:80/gbenga/gbenga/388185.ts
-#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ES: MOVISTAR LALIGA 1 FHD" tvg-logo="http://ky-iptv.com:80/images/7fab3ef4056ce85d4257609f2158b5e1.png" group-title="ES: Deportes de España",ES: MOVISTAR LALIGA 1 FHD
-http://line.lemotv.cc:80/gbenga/gbenga/388187.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LALIGA 3 HD" tvg-logo="http://ky-iptv.com:80/images/fb86af91ad084174dff3eb362aef69f9.png" group-title="ES: Deportes de España",ES: MOVISTAR LALIGA 3 HD
-http://line.lemotv.cc:80/gbenga/gbenga/1649496.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LALIGA 2 FHD" tvg-logo="http://ky-iptv.com:80/images/fb86af91ad084174dff3eb362aef69f9.png" group-title="ES: Deportes de España",ES: MOVISTAR LALIGA 2 FHD
-http://line.lemotv.cc:80/gbenga/gbenga/388189.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: La Liga 123 FHD" tvg-logo="http://ky-iptv.com:80/images/058b9239e07fc65ade5b15418991f6e7.png" group-title="ES: Spain",ES: La Liga 123 FHD
 http://line.lemotv.cc:80/gbenga/gbenga/219562.ts
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: 24 Horas FHD" tvg-logo="http://ky-iptv.com:80/images/d076722544de4ecd6bdc91e8c596a5f1.png" group-title="ES: Spain",ES: 24 Horas FHD
+http://line.lemotv.cc:80/gbenga/gbenga/219612.ts
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="ES: AXN WHITE FHD" tvg-logo="http://ky-iptv.com:25461/images/806b81ebbefca74b87870df1b2a78a53.png" group-title="ES: Cine Tv",ES: AXN WHITE FHD
+http://line.lemotv.cc:80/gbenga/gbenga/387926.ts
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA TV" tvg-logo="http://ky-iptv.com:25461/images/9c09b2eba258fc8a0fd8cffdf9bdde0f.png" group-title="ES: Cine Tv",ES: IBERALIA TV
+http://line.lemotv.cc:80/gbenga/gbenga/387949.ts
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="ES: A3 SERIES HD" tvg-logo="http://ky-iptv.com:80/images/b95dd5b9e76a5d267f07d04db7e0f35e.png" group-title="ES: Cine Tv",ES: A3 SERIES HD
+http://line.lemotv.cc:80/gbenga/gbenga/387951.ts
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="http://ky-iptv.com:80/images/e6f871bb4ea6d830ef085bd599aa8d8e.png" group-title="ES: Cine Tv",ES: HOLLYWOOD FHD
+http://line.lemotv.cc:80/gbenga/gbenga/387957.ts
+#EXTINF:-1 tvg-id="mcinedocandroll.es" tvg-name="ES: MOVISTAR CINEDOC&ROLL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Movistar_CineDoc%26Roll.svg" group-title="ES: Cine Tv",ES: MOVISTAR CINEDOC&ROLL FHD
+http://line.lemotv.cc:80/gbenga/gbenga/387970.ts
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="ES: MOVISTAR COMEDIA FHD" tvg-logo="http://ky-iptv.com:80/images/8fed7914539c75cff079ad13582f8c8e.png" group-title="ES: Cine Tv",ES: MOVISTAR COMEDIA FHD
+http://line.lemotv.cc:80/gbenga/gbenga/387974.ts
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES: MOVISTAR DRAMA FHD" tvg-logo="http://ky-iptv.com:80/images/d5b7bfdf0bf5fc45610411fdbe6b0f26.png" group-title="ES: Cine Tv",ES: MOVISTAR DRAMA FHD
+http://line.lemotv.cc:80/gbenga/gbenga/387978.ts
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="ES: MOVISTAR ESTRENOS FHD" tvg-logo="http://ky-iptv.com:80/images/1fc9b111c69812ba51ad68da1ffb8423.png" group-title="ES: Cine Tv",ES: MOVISTAR ESTRENOS FHD
+http://line.lemotv.cc:80/gbenga/gbenga/387982.ts
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ES: MOVISTAR SERIES FHD" tvg-logo="http://ky-iptv.com:80/images/ea145e98b29f3ccb26d68b18ac8e3c48.png" group-title="ES: Cine Tv",ES: MOVISTAR SERIES FHD
+http://line.lemotv.cc:80/gbenga/gbenga/387986.ts
+#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="ES: MOVISTAR SERIESMANIA FHD" tvg-logo="http://ky-iptv.com:80/images/e9d7581bdaa85400b7253f1b2e3862d3.png" group-title="ES: Cine Tv",ES: MOVISTAR SERIESMANIA FHD
+http://line.lemotv.cc:80/gbenga/gbenga/387990.ts
+#EXTINF:-1 tvg-id="alquiler1.es" tvg-name="ES: ALQUILER 1 FHD" tvg-logo="http://ky-iptv.com:80/images/0742040584c3d73d0a577610f5d0b62e.png" group-title="ES: Cine Tv",ES: ALQUILER 1 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/387992.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 2 FHD" tvg-logo="http://ky-iptv.com:25461/images/e7ab3ae59146864384ccfde3048b006c.png" group-title="ES: Cine Tv",ES: ALQUILER 2 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/387993.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 5 FHD" tvg-logo="http://ky-iptv.com:80/images/0a768e2d7737fea3b6288287f835ce1b.png" group-title="ES: Cine Tv",ES: ALQUILER 5 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/387996.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 6 FHD" tvg-logo="http://ky-iptv.com:80/images/0a768e2d7737fea3b6288287f835ce1b.png" group-title="ES: Cine Tv",ES: ALQUILER 6 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/387997.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 7 FHD" tvg-logo="http://ky-iptv.com:80/images/0a768e2d7737fea3b6288287f835ce1b.png" group-title="ES: Cine Tv",ES: ALQUILER 7 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/387998.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 8 FHD" tvg-logo="http://ky-iptv.com:25461/images/e7ab3ae59146864384ccfde3048b006c.png" group-title="ES: Cine Tv",ES: ALQUILER 8 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/387999.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 9 FHD" tvg-logo="http://ky-iptv.com:80/images/0a768e2d7737fea3b6288287f835ce1b.png" group-title="ES: Cine Tv",ES: ALQUILER 9 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388000.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 10 FHD" tvg-logo="http://ky-iptv.com:80/images/0a768e2d7737fea3b6288287f835ce1b.png" group-title="ES: Cine Tv",ES: ALQUILER 10 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388001.ts
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES: SYFY FHD" tvg-logo="http://ky-iptv.com:80/images/6ceb5f787b8f9abc7036135cb36f1254.png" group-title="ES: Cine Tv",ES: SYFY FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388010.ts
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES: TCM FHD" tvg-logo="http://ky-iptv.com:80/images/713e4e071dbf88e54a7590e4b0d4e548.png" group-title="ES: Cine Tv",ES: TCM FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388013.ts
+#EXTINF:-1 tvg-id="xtrm.es" tvg-name="ES: XTRM FHD" tvg-logo="http://ky-iptv.com:80/images/2791738c659cbc24bb807b732bdcd66e.png" group-title="ES: Cine Tv",ES: XTRM FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388021.ts
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="http://ky-iptv.com:80/images/d9b67854aaa1a3af50b4f58fff079678.jpg" group-title="ES: Cine Tv",ES: PARAMOUNT CHANNEL
+http://line.lemotv.cc:80/gbenga/gbenga/388023.ts
+#EXTINF:-1 tvg-id="telemadrid.es" tvg-name="ES: TELEMADRID FHD" tvg-logo="http://ky-iptv.com:25461/images/fc8f305ad657c72fd2909e266f5fa218.jpg" group-title="ES: Cine Tv",ES: TELEMADRID FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388027.ts
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="ES: SUNDANCE" tvg-logo="http://ky-iptv.com:80/images/b5283b998da83bfe50dac94fb8608878.png" group-title="ES: Cine Tv",ES: SUNDANCE
+http://line.lemotv.cc:80/gbenga/gbenga/388029.ts
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="ES: Movistar Cine N" tvg-logo="http://ky-iptv.com:80/images/0b73758918a7e08f67713af4e6104e34.png" group-title="ES: Cine Tv",ES: Movistar Cine N
+http://line.lemotv.cc:80/gbenga/gbenga/388032.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CLARO CINEMA" tvg-logo="https://www.logo.wine/a/logo/Claro_TV/Claro_TV-Logo.wine.svg" group-title="ES: Cine Tv",ES: CLARO CINEMA
+http://line.lemotv.cc:80/gbenga/gbenga/388034.ts
+#EXTINF:-1 tvg-id="fox.es" tvg-name="ES: FOX CINEMA FHD" tvg-logo="http://ky-iptv.com:80/images/47e3bf8347cbf035d45c6fe07f730bfc.png" group-title="ES: Cine Tv",ES: FOX CINEMA FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388037.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOLDEN PREMIER FHD" tvg-logo="http://ky-iptv.com:25461/images/e59bd2d05cddbf67e34871d26e27b44e.png" group-title="ES: Cine Tv",ES: GOLDEN PREMIER FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388056.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVIEPLEX FHD" tvg-logo="http://ky-iptv.com:25461/images/fa2b0311ffe5e71b2cf286d5e0120619.jpg" group-title="ES: Cine Tv",ES: MOVIEPLEX FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388109.ts
+#EXTINF:-1 tvg-id="tveinteu.es" tvg-name="ES: TVE INTERNACIONAL HD" tvg-logo="http://ky-iptv.com:80/images/4f3c8b7b5374164abedc0e2c9d8ee535.png" group-title="ES: Entretenimiento",ES: TVE INTERNACIONAL HD
+http://line.lemotv.cc:80/gbenga/gbenga/388306.ts
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 FHD" tvg-logo="http://ky-iptv.com:80/images/6b4d279fbcaf109de899899a55f4c63c.png" group-title="ES: Entretenimiento",ES: LA 1 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388309.ts
+#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 FHD" tvg-logo="http://ky-iptv.com:80/images/29b1d60cb1b6fb586dedc81e098ca037.png" group-title="ES: Entretenimiento",ES: LA 2 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388313.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TAQUILLA 7 HD" tvg-logo="http://ky-iptv.com:80/images/d85620e25fb1cdc51454210d4f04a692.png" group-title="ES: Entretenimiento",ES: TAQUILLA 7 HD
+http://line.lemotv.cc:80/gbenga/gbenga/388316.ts
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3 FHD" tvg-logo="http://ky-iptv.com:80/images/61549c3b426dcbcdd3f445adca8833de.png" group-title="ES: Entretenimiento",ES: ANTENA 3 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388319.ts
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO FHD" tvg-logo="http://ky-iptv.com:80/images/d5d457a747a80dda9b75d55739fe72ef.png" group-title="ES: Entretenimiento",ES: CUATRO FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388325.ts
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES: LA SEXTA FHD" tvg-logo="http://ky-iptv.com:80/images/d5f84c269cc25b3f210bf78d2774c53a.png" group-title="ES: Entretenimiento",ES: LA SEXTA FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388333.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CGTN EN ESPAL SD" tvg-logo="http://ky-iptv.com:80/images/aeff1708299fde41cc9f5e1b8d7b334c.png" group-title="ES: Entretenimiento",ES: CGTN EN ESPAL SD
+http://line.lemotv.cc:80/gbenga/gbenga/388339.ts
+#EXTINF:-1 tvg-id="mega.es" tvg-name="ES: MEGA FHD" tvg-logo="http://ky-iptv.com:80/images/f40f69cb2ef45fa562a44bbe5f9b1ffa.png" group-title="ES: Entretenimiento",ES: MEGA FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388343.ts
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="ES: BE MAD FHD" tvg-logo="http://ky-iptv.com:25461/images/af2ef1731ac19f474f0f0a21a9a1a4e4.png" group-title="ES: Entretenimiento",ES: BE MAD FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388346.ts
+#EXTINF:-1 tvg-id="dmax.es" tvg-name="ES: DMAX SD" tvg-logo="http://ky-iptv.com:80/images/36cddc1fee651281659e7f252065455f.png" group-title="ES: Entretenimiento",ES: DMAX SD
+http://line.lemotv.cc:80/gbenga/gbenga/388348.ts
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES: DIVINITY HD" tvg-logo="http://ky-iptv.com:80/images/4da0ed34f65fad7199980a871b4b3718.png" group-title="ES: Entretenimiento",ES: DIVINITY HD
+http://line.lemotv.cc:80/gbenga/gbenga/388350.ts
+#EXTINF:-1 tvg-id="energy.es" tvg-name="ES: ENERGY HD" tvg-logo="http://ky-iptv.com:80/images/776599cb317b36d82d319451d6a09ed1.jpg" group-title="ES: Entretenimiento",ES: ENERGY HD
+http://line.lemotv.cc:80/gbenga/gbenga/388353.ts
+#EXTINF:-1 tvg-id="nova.es" tvg-name="ES: NOVA FHD" tvg-logo="http://ky-iptv.com:25461/images/b218c605dc593ee64e44c97a851fc94a.png" group-title="ES: Entretenimiento",ES: NOVA FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388360.ts
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES: CANAL ODISEA FHD" tvg-logo="http://ky-iptv.com:80/images/9e89c2db239c0ec7d6bbc524eb42f234.png" group-title="ES: Entretenimiento",ES: CANAL ODISEA FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388364.ts
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="ES: FDF HD" tvg-logo="http://ky-iptv.com:80/images/cecd6b7a6ed2545888fffd0f80212182.png" group-title="ES: Entretenimiento",ES: FDF HD
+http://line.lemotv.cc:80/gbenga/gbenga/388367.ts
+#EXTINF:-1 tvg-id="neox.es" tvg-name="ES: NEOX FHD" tvg-logo="http://ky-iptv.com:80/images/6a230bd15a4dbe210b6bcbc149029115.png" group-title="ES: Entretenimiento",ES: NEOX FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388370.ts
+#EXTINF:-1 tvg-id="ten.es" tvg-name="ES: TEN" tvg-logo="http://ky-iptv.com:80/images/69291f6079d82dc4a2e2d1d315915095.png" group-title="ES: Entretenimiento",ES: TEN
+http://line.lemotv.cc:80/gbenga/gbenga/388372.ts
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="ES: TNT HEVC" tvg-logo="http://ky-iptv.com:80/images/590a667eed8ac033e1fca59e23b34636.png" group-title="ES: Entretenimiento",ES: TNT HEVC
+http://line.lemotv.cc:80/gbenga/gbenga/388373.ts
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="ES: CRIMEN INVESTIGACION HD" tvg-logo="http://ky-iptv.com:80/images/7913652d97f6284cb7a854be37706111.png" group-title="ES: Entretenimiento",ES: CRIMEN INVESTIGACION HD
+http://line.lemotv.cc:80/gbenga/gbenga/388375.ts
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES: DISCOVERY CHANNEL FHD" tvg-logo="http://ky-iptv.com:80/images/a3d602a226e3c91e794b58cf3507cbcf.png" group-title="ES: Entretenimiento",ES: DISCOVERY CHANNEL FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388379.ts
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA FHD" tvg-logo="http://ky-iptv.com:80/images/72c250969cb8c676a007d498aa725dfb.png" group-title="ES: Entretenimiento",ES: HISTORIA FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388383.ts
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC FHD" tvg-logo="http://ky-iptv.com:80/images/7098865998dad2ade82143d97dfd0014.png" group-title="ES: Entretenimiento",ES: NATIONAL GEOGRAPHIC FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388387.ts
+#EXTINF:-1 tvg-id="canalsurandalucia.es" tvg-name="ES: CANAL SUR ANDALUC SD" tvg-logo="http://ky-iptv.com:80/images/961e6893d788512dea49e39345df0fa4.png" group-title="ES: Entretenimiento",ES: CANAL SUR ANDALUC SD
+http://line.lemotv.cc:80/gbenga/gbenga/388395.ts
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="ES: COMEDY CENTRAL FHD" tvg-logo="http://ky-iptv.com:25461/images/af46b26e21130f2a55ee60240d89bed2.png" group-title="ES: Entretenimiento",ES: COMEDY CENTRAL FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388400.ts
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="ES: CANAL DECASA FHD" tvg-logo="https://lh3.googleusercontent.com/proxy/ZHZb1nIop0DUwaiDICHUJPUyPhKX9F3Ww3EY3J1iRSey8RJgqV7O8hg27HPakJ1bK8IHL9KtZ5Waxh9WuD_5lRi6mk9zvDJ09PRQIaf_ydyCjRC20mmf0yRt7e6hNUqEgf0" group-title="ES: Entretenimiento",ES: CANAL DECASA FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388404.ts
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="ES: COSMO FHD" tvg-logo="http://ky-iptv.com:80/images/02f47fac717f860a96f399486c8b1ddd.png" group-title="ES: Entretenimiento",ES: COSMO FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388412.ts
+#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES: VIAJAR FHD" tvg-logo="http://ky-iptv.com:80/images/43fab7e5e01ce38092985d89088522e7.png" group-title="ES: Entretenimiento",ES: VIAJAR FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388416.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV ESPANA HD" tvg-logo="http://ky-iptv.com:80/images/797ebc26db4123476fc1ebaf24c2b4a8.png" group-title="ES: Musicales",ES: MTV ESPANA HD
+http://line.lemotv.cc:80/gbenga/gbenga/389071.ts
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="ES: MTV SD" tvg-logo="http://ky-iptv.com:80/images/d85bfb2ec65e77ce49be149891371bb1.png" group-title="ES: Musicales",ES: MTV SD
+http://line.lemotv.cc:80/gbenga/gbenga/389073.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: VH1 FHD" tvg-logo="http://ky-iptv.com:80/images/70a77c02998f667ed605d97a2c2ff914.png" group-title="ES: Musicales",ES: VH1 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/389074.ts
+#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="ES: MEZZO LIVE HEVC" tvg-logo="http://ky-iptv.com:80/images/6e43015807057ada0ead58cf177f4df8.png" group-title="ES: Musicales",ES: MEZZO LIVE HEVC
+http://line.lemotv.cc:80/gbenga/gbenga/389080.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Tele-HIT MUSIC CHANNEL" tvg-logo="http://ky-iptv.com:25461/images/42404bf9d0352af5178091a99e658ea1.png" group-title="ES: Musicales",ES: Tele-HIT MUSIC CHANNEL
+http://line.lemotv.cc:80/gbenga/gbenga/389086.ts
+#EXTINF:-1 tvg-id="boing.es" tvg-name="ES: BOING HD" tvg-logo="http://ky-iptv.com:80/images/8db985c9297bcc3ab8bc14c931343bd0.png" group-title="ES: Infantil",ES: BOING HD
+http://line.lemotv.cc:80/gbenga/gbenga/389038.ts
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="ES: CLAN TVE FHD" tvg-logo="http://ky-iptv.com:80/images/b3f6f8505732205861eddf1a31a13153.png" group-title="ES: Infantil",ES: CLAN TVE FHD
+http://line.lemotv.cc:80/gbenga/gbenga/389042.ts
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="ES: DISNEY CHANNEL FHD" tvg-logo="http://ky-iptv.com:80/images/8b1d3d7b1be5c35e2a8d60486ad08850.png" group-title="ES: Infantil",ES: DISNEY CHANNEL FHD
+http://line.lemotv.cc:80/gbenga/gbenga/389046.ts
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="ES: DISNEY JUNIOR" tvg-logo="http://ky-iptv.com:80/images/b4bf422b3f4b9f037a60336f01c39b46.png" group-title="ES: Infantil",ES: DISNEY JUNIOR
+http://line.lemotv.cc:80/gbenga/gbenga/389049.ts
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES: NICKELODEON FHD" tvg-logo="http://ky-iptv.com:80/images/85b8f693d4071b98f96a6e3f74122def.png" group-title="ES: Infantil",ES: NICKELODEON FHD
+http://line.lemotv.cc:80/gbenga/gbenga/389054.ts
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="ES: CANAL PANDA" tvg-logo="http://ky-iptv.com:80/images/8a10eada7d4220813d917513e9645b7f.png" group-title="ES: Infantil",ES: CANAL PANDA
+http://line.lemotv.cc:80/gbenga/gbenga/389059.ts
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="ES: BABY TV HEVC" tvg-logo="http://ky-iptv.com:80/images/0fecc7d9e522ba8c95897b8ee5835c65.png" group-title="ES: Infantil",ES: BABY TV HEVC
+http://line.lemotv.cc:80/gbenga/gbenga/389061.ts
+#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="ES: LALIGA TV BAR FHD" tvg-logo="" group-title="ES: Deportes de España",ES: LALIGA TV BAR FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388177.ts
 #EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: LIGA CAMPEONES HEVC" tvg-logo="http://ky-iptv.com:80/images/a713214dc4fab0473d8d010c2d307773.png" group-title="ES: Deportes de España",ES: LIGA CAMPEONES HEVC
 http://line.lemotv.cc:80/gbenga/gbenga/388179.ts
 #EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="ES: LIGA CAMPEONES 1 HEVC" tvg-logo="http://ky-iptv.com:80/images/bbf695c6fbb9eecd31511ad6e9304be0.png" group-title="ES: Deportes de España",ES: LIGA CAMPEONES 1 HEVC
 http://line.lemotv.cc:80/gbenga/gbenga/388180.ts
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: MOVISTAR LALIGA FHD" tvg-logo="http://ky-iptv.com:80/images/60c772509e8f00b6894a3700096613ad.png" group-title="ES: Deportes de España",ES: MOVISTAR LALIGA FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388185.ts
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ES: MOVISTAR LALIGA 1 FHD" tvg-logo="http://ky-iptv.com:80/images/7fab3ef4056ce85d4257609f2158b5e1.png" group-title="ES: Deportes de España",ES: MOVISTAR LALIGA 1 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388187.ts
+#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="ES: MOVISTAR DEPORTES1 FHD" tvg-logo="http://ky-iptv.com:80/images/3bc209b841c26a0583006464918d44b0.png" group-title="ES: Deportes de España",ES: MOVISTAR DEPORTES1 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388204.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES+ FHD" tvg-logo="http://ky-iptv.com:80/images/3bc209b841c26a0583006464918d44b0.png" group-title="ES: Deportes de España",ES: MOVISTAR DEPORTES+ FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388209.ts
 #EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES: MOVISTAR LIGA DE CAMPEONES 2 HD" tvg-logo="http://ky-iptv.com:80/images/bffa9862e997e03c2193a82caa6c0c8f.png" group-title="ES: Deportes de España",ES: MOVISTAR LIGA DE CAMPEONES 2 HD
 http://line.lemotv.cc:80/gbenga/gbenga/388213.ts
 #EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="ES: MOVISTAR LIGA DE CAMPEONES 3 HD" tvg-logo="http://ky-iptv.com:80/images/7736e95e8e239013e75025c3b9f83dd1.png" group-title="ES: Deportes de España",ES: MOVISTAR LIGA DE CAMPEONES 3 HD
 http://line.lemotv.cc:80/gbenga/gbenga/388214.ts
 #EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="ES: MOVISTAR LIGA DE CAMPEONES 4 HD" tvg-logo="http://ky-iptv.com:80/images/7909d98a53f174745aedd4418632e9bf.png" group-title="ES: Deportes de España",ES: MOVISTAR LIGA DE CAMPEONES 4 HD
 http://line.lemotv.cc:80/gbenga/gbenga/388215.ts
+#EXTINF:-1 tvg-id="futbolreplay.es" tvg-name="ES: MOVISTAR FUTBOL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Movistar_F%C3%BAtbol.svg" group-title="ES: Deportes de España",ES: MOVISTAR FUTBOL HD
+http://line.lemotv.cc:80/gbenga/gbenga/388220.ts
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="ES: MOVISTAR GOLF FHD" tvg-logo="http://ky-iptv.com:80/images/357d4b576b1268d364e7768b4f048cde.png" group-title="ES: Deportes de España",ES: MOVISTAR GOLF FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388224.ts
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="ES: MOVISTAR F1 FHD" tvg-logo="http://ky-iptv.com:80/images/75a44a8a86de05f03fe479053e7f0a47.png" group-title="ES: Deportes de España",ES: MOVISTAR F1 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388228.ts
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES: DAZN 1 HD (EVENTOS)" tvg-logo="" group-title="ES: Deportes de España",ES: DAZN 1 HD (EVENTOS)
+http://line.lemotv.cc:80/gbenga/gbenga/388230.ts
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES: DAZN 2 HD (EVENTOS)" tvg-logo="http://ky-iptv.com:80/images/04122ff7ce2793a587cf1db30a2ec3c2.png" group-title="ES: Deportes de España",ES: DAZN 2 HD (EVENTOS)
+http://line.lemotv.cc:80/gbenga/gbenga/388231.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: #VAMOS FHD" tvg-logo="http://ky-iptv.com:80/images/8109377cffc8f48ceda7401b875a05c1.png" group-title="Latino Sports",ES: #VAMOS FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388234.ts
+#EXTINF:-1 tvg-id="gol.es" tvg-name="ES: GOL FHD" tvg-logo="http://ky-iptv.com:80/images/51455baec1de7f9e2c3050ebe5071d84.png" group-title="ES: Deportes de España",ES: GOL FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388238.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: BARCA TV FHD" tvg-logo="http://ky-iptv.com:80/images/f38c4d4f9dde45b6a6f9ad972fa0346a.png" group-title="Latino Sports",LA: BARCA TV FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388241.ts
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES: TELEDEPORTE FHD" tvg-logo="http://ky-iptv.com:80/images/ae7d7d1eb521a8b6cbf365eab4ace180.png" group-title="ES: Deportes de España",ES: TELEDEPORTE FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388244.ts
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1 FHD" tvg-logo="http://ky-iptv.com:80/images/7110d18817be583a98cfc1ec68e7bf88.png" group-title="ES: Deportes de España",ES: EUROSPORT 1 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388248.ts
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="ES: EUROSPORT 2 FHD" tvg-logo="http://ky-iptv.com:80/images/10e8930689bcb1b09aae0ccbf0df05a8.jpg" group-title="ES: Deportes de España",ES: EUROSPORT 2 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388252.ts
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="ES: REAL MADRID TV FHD" tvg-logo="http://ky-iptv.com:80/images/29fef7644c1c61bc4c4f1669fcc65ed5.jpg" group-title="ES: Deportes de España",ES: REAL MADRID TV FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388255.ts
+#EXTINF:-1 tvg-id="esport3.es" tvg-name="ES: ESPORT 3 SD" tvg-logo="https://statics.ccma.cat/img/logos/esport3_color_fonsnblanc_horitzontal.svg" group-title="ES: Deportes de España",ES: ESPORT 3 SD
+http://line.lemotv.cc:80/gbenga/gbenga/388262.ts
+#EXTINF:-1 tvg-id="tv3cat.es" tvg-name="ES: TV3 FHD" tvg-logo="http://ky-iptv.com:80/images/d390f32655b90eff3918c1704d93970b.jpg" group-title="ES: Spain Locales",ES: TV3 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/389488.ts
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: CANAL Cocina FHD" tvg-logo="http://ky-iptv.com:80/images/0af65749553083609893e73f59c0f72c.png" group-title="ES: Spain Locales",ES: CANAL Cocina FHD
+http://line.lemotv.cc:80/gbenga/gbenga/389502.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DIEZ TV SD" tvg-logo="http://ky-iptv.com:80/images/0b7dfac285865735f4803bdbf53291ec.jpg" group-title="ES: Spain Locales",ES: DIEZ TV SD
+http://line.lemotv.cc:80/gbenga/gbenga/389505.ts
+#EXTINF:-1 tvg-id="canalextremadura.es" tvg-name="ES: CANAL EXTREMADURA TV" tvg-logo="http://ky-iptv.com:80/images/57538935b0a9d6ee3657c1af5cf09e87.png" group-title="ES: Spain Locales",ES: CANAL EXTREMADURA TV
+http://line.lemotv.cc:80/gbenga/gbenga/389508.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MELILLA TV HD" tvg-logo="http://ky-iptv.com:80/images/5d17cda47ae31fc4663fa80dfa490571.png" group-title="ES: Spain Locales",ES: MELILLA TV HD
+http://line.lemotv.cc:80/gbenga/gbenga/389514.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: 7RM RADIO TELEVISI MURCIA FHD" tvg-logo="http://ky-iptv.com:80/images/c7a1493e41414f06328c72c27b18d933.png" group-title="ES: Spain Locales",ES: 7RM RADIO TELEVISI MURCIA FHD
+http://line.lemotv.cc:80/gbenga/gbenga/389515.ts
+#EXTINF:-1 tvg-id="tvgalicia.es" tvg-name="ES: TV GALICIA HD" tvg-logo="http://ky-iptv.com:80/images/0f9a4cac05fe44a53eddee17ea1570c8.png" group-title="ES: Spain Locales",ES: TV GALICIA HD
+http://line.lemotv.cc:80/gbenga/gbenga/389522.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALCARRIA TV SD" tvg-logo="http://ky-iptv.com:25461/images/fc5feffcdf56b39b792c891fb1306ea7.png" group-title="ES: Spain Locales",ES: ALCARRIA TV SD
+http://line.lemotv.cc:80/gbenga/gbenga/389529.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COSTA HD" tvg-logo="https://canalcosta.cl/images/logo%20canalcostatv.png?crc=4224570347" group-title="ES: Spain Locales",ES: CANAL COSTA HD
+http://line.lemotv.cc:80/gbenga/gbenga/389535.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL 25 BARBASTRO TV HD" tvg-logo="http://ky-iptv.com:80/images/b17aaf35c06656777350ce4f7aa9f448.png" group-title="ES: Spain Locales",ES: CANAL 25 BARBASTRO TV HD
+http://line.lemotv.cc:80/gbenga/gbenga/389545.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LANCELOT TV SD" tvg-logo="https://www.lancelot.tv/images/logo.svg" group-title="ES: Spain Locales",ES: LANCELOT TV SD
+http://line.lemotv.cc:80/gbenga/gbenga/389546.ts
+#EXTINF:-1 tvg-id="etb1.es" tvg-name="ES: ETB 1 HD" tvg-logo="http://ky-iptv.com:80/images/53505b4ff0e15115fa7aa9d36c09fff9.png" group-title="ES: Spain Locales",ES: ETB 1 HD
+http://line.lemotv.cc:80/gbenga/gbenga/389556.ts
+#EXTINF:-1 tvg-id="etb2.es" tvg-name="ES: ETB 2 HD" tvg-logo="http://ky-iptv.com:25461/images/39220f43cfd45005bd9256e7536dadb3.png" group-title="ES: Spain Locales",ES: ETB 2 HD
+http://line.lemotv.cc:80/gbenga/gbenga/389557.ts
+#EXTINF:-1 tvg-id="canal33.es" tvg-name="ES: C33 MADRID HD" tvg-logo="http://ky-iptv.com:25461/images/632231c9a03036981e7f65a1ae33872d.png" group-title="ES: Spain Locales",ES: C33 MADRID HD
+http://line.lemotv.cc:80/gbenga/gbenga/389578.ts
+#EXTINF:-1 tvg-id="canalsur.es" tvg-name="ES: CANAL SUR HD" tvg-logo="http://ky-iptv.com:80/images/e7072b86def1dc598bfba138a8b21440.jpg" group-title="ES: Spain Locales",ES: CANAL SUR HD
+http://line.lemotv.cc:80/gbenga/gbenga/389585.ts
+#EXTINF:-1 tvg-id="foxnews.es" tvg-name="ES: FOX NEWS HEVC" tvg-logo="http://ky-iptv.com:80/images/92324bd8f3e7d934e2fce1e479cf7d31.png" group-title="ES: Spain Locales",ES: FOX NEWS HEVC
+http://line.lemotv.cc:80/gbenga/gbenga/389601.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: HASH0 FHD" tvg-logo="" group-title="ES: Spain Locales",ES: HASH0 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/389606.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEVISIDE GIRONA SD" tvg-logo="http://ky-iptv.com:25461/images/be13600b24bcdb331a8bd2d91a1e4328.jpg" group-title="ES: Spain Locales",ES: TELEVISIDE GIRONA SD
+http://line.lemotv.cc:80/gbenga/gbenga/389639.ts
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="ES: TRECE SD" tvg-logo="http://ky-iptv.com:80/images/dcf741a6836848c0218c6b6f1eaec08c.png" group-title="ES: Spain Locales",ES: TRECE SD
+http://line.lemotv.cc:80/gbenga/gbenga/389648.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cultura 24 TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnilGcyGYeVEEaiS8m0warmd6IHI6iw0Qk3sOi6F=s900-c-k-c0x00ffffff-no-rj" group-title="ES: Spain Locales",ES: Cultura 24 TV
+http://line.lemotv.cc:80/gbenga/gbenga/389650.ts
+#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC FHD" tvg-logo="http://ky-iptv.com:80/images/ea8b58e20ac64cc608d03a2f37c4bbfe.png" group-title="ES: Cine Tv",ES: AMC FHD
+http://line.lemotv.cc:80/gbenga/gbenga/387918.ts
+#EXTINF:-1 tvg-id="axn.es" tvg-name="ES: AXN FHD" tvg-logo="http://ky-iptv.com:80/images/fb1e8d0ec9e0a1dedac56d67d78ef24d.png" group-title="ES: Cine Tv",ES: AXN FHD
+http://line.lemotv.cc:80/gbenga/gbenga/387922.ts
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="http://ky-iptv.com:80/images/63158ab2f2e58d02598cc39e19cc9d98.png" group-title="ES: Cine Tv",ES: CAZA Y PESCA FHD
+http://line.lemotv.cc:80/gbenga/gbenga/387944.ts
+#EXTINF:-1 tvg-id="foxlife.es" tvg-name="ES: FOX LIFE FHD" tvg-logo="http://ky-iptv.com:80/images/c8cc3b553bdb21c076da3b65d1c37bfa.png" group-title="ES: Cine Tv",ES: FOX LIFE FHD
+http://line.lemotv.cc:80/gbenga/gbenga/387940.ts
+#EXTINF:-1 tvg-id="nickjr.es" tvg-name="ES: NICK JR FHD" tvg-logo="http://ky-iptv.com:80/images/8cf42a2bb560a40cae08bc870d2a53c8.png" group-title="ES: Spain",ES: NICK JR FHD
+http://line.lemotv.cc:80/gbenga/gbenga/757975.ts
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="ES: M.ACCION HD" tvg-logo="http://ky-iptv.com:80/images/4132d51a90d48f658c854227a02d73bb.png" group-title="ES: Spain",ES: M.ACCION HD
+http://line.lemotv.cc:80/gbenga/gbenga/219461.ts
 #EXTINF:-1 tvg-id="mligadecampeones5.es" tvg-name="ES: MOVISTAR LIGA DE CAMPEONES 5 HD" tvg-logo="" group-title="ES: Deportes de España",ES: MOVISTAR LIGA DE CAMPEONES 5 HD
 http://line.lemotv.cc:80/gbenga/gbenga/388216.ts
+#EXTINF:-1 tvg-id="fox.es" tvg-name="ES: FOX HD" tvg-logo="http://ky-iptv.com:80/images/98f4186343e3b26d6bd22dffcefba467.png" group-title="ES: Spain",ES: FOX HD
+http://line.lemotv.cc:80/gbenga/gbenga/1069230.ts
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="ES: BLAZE" tvg-logo="http://ky-iptv.com:80/images/4c65f356c6f0fe2ee262ed0de66de02f.png" group-title="ES: Spain",ES: BLAZE
+http://line.lemotv.cc:80/gbenga/gbenga/1069197.ts
+#EXTINF:-1 tvg-id="aragontv.es" tvg-name="ES: ARAGON" tvg-logo="http://ky-iptv.com:80/images/a9150daf7cd7a81899b971ed370b5b6d.png" group-title="ES: Spain",ES: ARAGON
+http://line.lemotv.cc:80/gbenga/gbenga/1069190.ts
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NAT GEO WILD FHD" tvg-logo="http://ky-iptv.com:80/images/60f229d7c58429c5905aa1afc20773f0.png" group-title="ES: Entretenimiento",ES: NAT GEO WILD FHD
+http://line.lemotv.cc:80/gbenga/gbenga/1069180.ts
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="ES: CALLE 13 HD" tvg-logo="http://ky-iptv.com:80/images/b791403dcbb9cd0064b12c6147879129.png" group-title="ES: Spain",ES: CALLE 13 HD
+http://line.lemotv.cc:80/gbenga/gbenga/1069174.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL DIOCESANO HD" tvg-logo="http://ky-iptv.com:80/images/804d5f2683fd8608bce5e7a726abfd4d.jpg" group-title="ES: Spain Locales",ES: CANAL DIOCESANO HD
+http://line.lemotv.cc:80/gbenga/gbenga/389550.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Fox Sports 3 Sur HD" tvg-logo="http://ky-iptv.com:80/images/b3b0af5c8aa10862f017e1c0eab5afa9.png" group-title="ES: Spain",ES: Fox Sports 3 Sur HD
+http://line.lemotv.cc:80/gbenga/gbenga/1124474.ts
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: History Espanol" tvg-logo="http://ky-iptv.com:80/images/7e1fbb551a1eabfed53b6b2330baec9e.png" group-title="ES: Entretenimiento",ES: History Espanol
+http://line.lemotv.cc:80/gbenga/gbenga/1162475.ts
+#EXTINF:-1 tvg-id="dark.es" tvg-name="ES: DARK FHD" tvg-logo="http://ky-iptv.com:80/images/c0d903802b7eca808d22761467adff61.png" group-title="ES: Cine Tv",ES: DARK FHD
+http://line.lemotv.cc:80/gbenga/gbenga/387933.ts
 #EXTINF:-1 tvg-id="mligadecampeones8.es" tvg-name="ES: MOVISTAR LIGA DE CAMPEONES 8 HD" tvg-logo="http://ky-iptv.com:80/images/11fc68e16f6bfce7bac44258f8d9b416.png" group-title="ES: Deportes de España",ES: MOVISTAR LIGA DE CAMPEONES 8 HD
 http://line.lemotv.cc:80/gbenga/gbenga/388219.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOTOGP HD" tvg-logo="http://ky-iptv.com:25461/images/dcd848d45bbfa379037cd5ef8e83b57f.png" group-title="ES: Spain Locales",ES: MOTOGP HD
+http://line.lemotv.cc:80/gbenga/gbenga/389613.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL MALAGA SD" tvg-logo="http://ky-iptv.com:25461/images/de57df934982c091676bbdddfb1e9f2e.jpg" group-title="ES: Spain Locales",ES: CANAL MALAGA SD
+http://line.lemotv.cc:80/gbenga/gbenga/389540.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: RTP ASTURIAS SD" tvg-logo="http://ky-iptv.com:80/images/47a2294e50dbb2387f0c99b325a3a86f.jpg" group-title="ES: Spain Locales",ES: RTP ASTURIAS SD
+http://line.lemotv.cc:80/gbenga/gbenga/389642.ts
+#EXTINF:-1 tvg-id="eltorotv.es" tvg-name="ES: EL TORO TV SD" tvg-logo="https://image.winudf.com/v2/image1/ZXMubWFnZW50YWxhYnMuZWx0b3JvdHZfaWNvbl8xNTk2MjM4ODA2XzA1NQ/icon.png?w=170&fakeurl=1" group-title="ES: Spain Locales",ES: EL TORO TV SD
+http://line.lemotv.cc:80/gbenga/gbenga/389596.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: A PUNT HD" tvg-logo="http://ky-iptv.com:25461/images/7a03b6ccc710370d2a1e53f585dadc48.png" group-title="ES: Spain Locales",ES: A PUNT HD
+http://line.lemotv.cc:80/gbenga/gbenga/389531.ts
+#EXTINF:-1 tvg-id="somos.es" tvg-name="ES: SOMOS FHD" tvg-logo="http://ky-iptv.com:80/images/3d81da50f1fbc188f41291e7ad6f69bf.png" group-title="ES: Spain",ES: SOMOS FHD
+http://line.lemotv.cc:80/gbenga/gbenga/387948.ts
+#EXTINF:-1 tvg-id="mezzo.es" tvg-name="ES: MEZZO FHD" tvg-logo="http://ky-iptv.com:80/images/6e43015807057ada0ead58cf177f4df8.png" group-title="ES: Musicales",ES: MEZZO FHD
+http://line.lemotv.cc:80/gbenga/gbenga/389079.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LIGA DE CAMPEONES 6 SD" tvg-logo="http://ky-iptv.com:80/images/3c2eb0fb16fe4044fdfc3e28f389a834.png" group-title="ES: Deportes de España",ES: MOVISTAR LIGA DE CAMPEONES 6 SD
 http://line.lemotv.cc:80/gbenga/gbenga/388217.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: History 2" tvg-logo="http://ky-iptv.com:80/images/e0170f575ace9b18206283cbe8031a98.png" group-title="ES: Entretenimiento",ES: History 2
+http://line.lemotv.cc:80/gbenga/gbenga/1162476.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LALIGA 3 HD" tvg-logo="http://ky-iptv.com:80/images/fb86af91ad084174dff3eb362aef69f9.png" group-title="ES: Deportes de España",ES: MOVISTAR LALIGA 3 HD
+http://line.lemotv.cc:80/gbenga/gbenga/1649496.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LALIGA 2 FHD" tvg-logo="http://ky-iptv.com:80/images/fb86af91ad084174dff3eb362aef69f9.png" group-title="ES: Deportes de España",ES: MOVISTAR LALIGA 2 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388189.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 3 FHD" tvg-logo="http://ky-iptv.com:80/images/0a768e2d7737fea3b6288287f835ce1b.png" group-title="ES: Cine Tv",ES: ALQUILER 3 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/387994.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR MULTIDEPORTE HEVC" tvg-logo="https://i2.wp.com/meteoalcorcon.es/1_0_1_76A3_41E_1_C00000_0_0_0.png?resize=440%2C264" group-title="ES: Deportes de España",ES: MOVISTAR MULTIDEPORTE HEVC
+http://line.lemotv.cc:80/gbenga/gbenga/388199.ts
+#EXTINF:-1 tvg-id="canalorbe21.es" tvg-name="ES: CANAL ORBE21 HEVC" tvg-logo="http://ky-iptv.com:25461/images/27f5c71c210963641f62935ebefeb76b.png" group-title="ES: Entretenimiento",ES: CANAL ORBE21 HEVC
+http://line.lemotv.cc:80/gbenga/gbenga/388394.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 4 FHD" tvg-logo="http://ky-iptv.com:80/images/0a768e2d7737fea3b6288287f835ce1b.png" group-title="ES: Cine Tv",ES: ALQUILER 4 FHD
+http://line.lemotv.cc:80/gbenga/gbenga/387995.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: HBO SUBTITULADO FHD" tvg-logo="http://ky-iptv.com:80/images/34fe06028046fb0a6a9c3b8faafe14b0.png" group-title="ES: Cine Tv",ES: HBO SUBTITULADO FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388073.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Castilla La Mancha Media" tvg-logo="http://ky-iptv.com:80/images/0ea878bec3c955039b1d322e55cd38c1.png" group-title="ES: Spain",ES: Castilla La Mancha Media
+http://line.lemotv.cc:80/gbenga/gbenga/1698484.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Éxitos del Momento" tvg-logo="http://ky-iptv.com:25461/images/9ee0270054c4b8d1b10a06a62bbf2147.jpg" group-title="ES: Musicales",Stingray Éxitos del Momento
+http://line.lemotv.cc:80/gbenga/gbenga/1395221.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: BARCA TV FHD" tvg-logo="http://ky-iptv.com:80/images/f38c4d4f9dde45b6a6f9ad972fa0346a.png" group-title="ES: Deportes de España",ES: BARCA TV FHD
+http://line.lemotv.cc:80/gbenga/gbenga/1799452.ts
+#EXTINF:-1 tvg-id="classica.es" tvg-name="ES: CLASSICA HD" tvg-logo="http://ky-iptv.com:80/images/4b6f419f49cfd6a7e54bf775db65ff90.png" group-title="ES: Musicales",ES: CLASSICA HD
+http://line.lemotv.cc:80/gbenga/gbenga/389083.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CINEMA DINAMITA" tvg-logo="http://ky-iptv.com:80/images/a745568ac9087338901462624aead1cf.png" group-title="ES: Cine Tv",ES: CINEMA DINAMITA
+http://line.lemotv.cc:80/gbenga/gbenga/388033.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA OTRA (WEB)" tvg-logo="http://ky-iptv.com:80/images/355f60b45653610735a53fc815b41a91.png" group-title="ES: Spain Locales",ES: LA OTRA (WEB)
+http://line.lemotv.cc:80/gbenga/gbenga/389512.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: Sky Sports Liga Española HD" tvg-logo="http://ky-iptv.com:80/images/9dac0a051bdb8b73cf1488ee48d822ca.png" group-title="ES: Spain",SP: Sky Sports Liga Española HD
+http://line.lemotv.cc:80/gbenga/gbenga/1729419.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IMAS TV SD" tvg-logo="https://lh3.googleusercontent.com/proxy/y_C5AzEZhaG5WcRPSBNrXGF_c56ixMGwUlO_AmsSD_lGW2wGG6H61vZX-kwb8t2iaas5qpV5rdnVOj8tviZnjAnsDWspzwS436P87ajOeyxK0wB2sV-AnjP_pac" group-title="ES: Spain Locales",ES: IMAS TV SD
+http://line.lemotv.cc:80/gbenga/gbenga/389549.ts
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="ES: ATRESERIES FHD" tvg-logo="http://ky-iptv.com:80/images/53f4317a033498aa50341abf74036714.png" group-title="ES: Spain Locales",ES: ATRESERIES FHD
+http://line.lemotv.cc:80/gbenga/gbenga/389575.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Investigation Discovery" tvg-logo="http://ky-iptv.com:80/images/4a4381f50d60bb8262b072577cc2dc0d.png" group-title="ES: Entretenimiento",ES: Investigation Discovery
+http://line.lemotv.cc:80/gbenga/gbenga/1409328.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX SPORTS 2 HD" tvg-logo="http://ky-iptv.com:80/images/8a9d0428caaa62e738a2223f8b7addde.png" group-title="ES: Spain",ES: FOX SPORTS 2 HD
+http://line.lemotv.cc:80/gbenga/gbenga/1124473.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CADENA ELITE TV" tvg-logo="http://ky-iptv.com:80/images/59da91092019534a95ca6ceef08693e8.png" group-title="ES: Spain Locales",ES: CADENA ELITE TV
+http://line.lemotv.cc:80/gbenga/gbenga/389506.ts
+#EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES: DKISS SD" tvg-logo="http://ky-iptv.com:80/images/e39a91aa9b8b40ff317dcd474bdcdba8.png" group-title="ES: Entretenimiento",ES: DKISS SD
+http://line.lemotv.cc:80/gbenga/gbenga/388347.ts
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: TELECINCO FHD" tvg-logo="http://ky-iptv.com:80/images/53c95e93400b0f963416ba1b80b192c6.png" group-title="ES: Entretenimiento",ES: TELECINCO FHD
+http://line.lemotv.cc:80/gbenga/gbenga/388329.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: beIN Sports Ñ" tvg-logo="http://ky-iptv.com:80/images/54708cd1e29658dd22a6edc894fa84c1.png" group-title="Latino Sports",LA: beIN Sports Ñ
+http://line.lemotv.cc:80/gbenga/gbenga/1369668.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: GOL TV ESPANOL" tvg-logo="http://ky-iptv.com:80/images/7f8a5df4f5da17ef7fdb49cf6e760038.png" group-title="Latino Sports",LA: GOL TV ESPANOL
+http://line.lemotv.cc:80/gbenga/gbenga/1369669.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA: Liga De Campeones" tvg-logo="" group-title="Latino Sports",LA: Liga De Campeones
 http://line.lemotv.cc:80/gbenga/gbenga/1369670.ts
-
-#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS FHD" tvg-logo="http://ky-iptv.com:80/images/46d4c2df3bab60bca8b25d1141235654.png" group-title="ES: Spain",ES: TOROS FHD
-http://line.lemotv.cc:80/gbenga/gbenga/219525.ts
