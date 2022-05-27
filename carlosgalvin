@@ -110,9 +110,9 @@ http://protocol.solanaflix.com:8080/play/ELc-0FLpyYjhLyNiQx-UIMH4CoaJAov8UE7euAT
 
 # TOROS 
 #EXTINF:-1 xui-id="48548" tvg-id="TOROS HD" tvg-name="TOROS HD" tvg-logo="" group-title="TOROS",TOROS ES FHD
-http://protocol.solanaflix.com:8080/play/ELc-0FLpyYjhLyNiQx-UIAwvQNjaOII2LxX_kjvV1AQSJNVHF-vA2ZHbhrkiNKFE
+#http://protocol.solanaflix.com:8080/play/ELc-0FLpyYjhLyNiQx-UIAwvQNjaOII2LxX_kjvV1AQSJNVHF-vA2ZHbhrkiNKFE
 #EXTINF:-1 xui-id="48547" tvg-id="TOROS HD" tvg-name="TOROS SD" tvg-logo="" group-title="TOROS",TOROS ES
-http://protocol.solanaflix.com:8080/play/ELc-0FLpyYjhLyNiQx-UIAwvQNjaOII2LxX_kjvV1ARhFzsajKCixxLdW5AbXV8R
+#http://protocol.solanaflix.com:8080/play/ELc-0FLpyYjhLyNiQx-UIAwvQNjaOII2LxX_kjvV1ARhFzsajKCixxLdW5AbXV8R
 
 
 # CULTURA 
