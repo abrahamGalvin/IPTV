@@ -55,8 +55,6 @@ http://apixeltv.com:8880/MARI2022/mari2022/28432
 http://apixeltv.com:8880/MARI2022/mari2022/28433
 #EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MTV SD" tvg-logo="https://static.epg.best/es/MTV.es.png" group-title="ESPAÑA",ESPAÑA | MTV SD
 http://apixeltv.com:8880/MARI2022/mari2022/28434
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | BOM CINE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/1280px-Logo-bom.svg.png" group-title="CINE SD",ESPAÑA | BOM CINE SD
-http://apixeltv.com:8880/MARI2022/mari2022/28435
 #EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | D CINE ESPAÑOL SD" tvg-logo="https://static.epg.best/es/DCineEspanol.es.png" group-title="ESPAÑA",ESPAÑA | D CINE ESPAÑOL SD
 http://apixeltv.com:8880/MARI2022/mari2022/28436
 #EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR DISNEY + SD" tvg-logo="https://static.epg.best/es/MovistarDisney.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR DISNEY + SD
