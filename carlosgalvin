@@ -1,325 +1,325 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA |  FDF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="ESPAÑA",ESPAÑA |  FDF HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA |  FDF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="ESPAÑA",ESPAÑA |  FDF HD
 http://apixeltv.com:8880/MARI2022/mari2022/24918
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LA 2 SD" tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="ESPAÑA",ESPAÑA | LA 2 SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | LA 2 SD" tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="ESPAÑA",ESPAÑA | LA 2 SD
 http://apixeltv.com:8880/MARI2022/mari2022/28408
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LA SEXTA SD" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="ESPAÑA",ESPAÑA | LA SEXTA SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | LA SEXTA SD" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="ESPAÑA",ESPAÑA | LA SEXTA SD
 http://apixeltv.com:8880/MARI2022/mari2022/28409
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | DE CASA SD" tvg-logo="https://static.epg.best/es/CanalDecasa.es.png" group-title="ESPAÑA",ESPAÑA | DE CASA SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | DE CASA SD" tvg-logo="https://static.epg.best/es/CanalDecasa.es.png" group-title="ESPAÑA",ESPAÑA | DE CASA SD
 http://apixeltv.com:8880/MARI2022/mari2022/28410
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | VIAJAR SD" tvg-logo="https://static.epg.best/es/Viajar.es.png" group-title="ESPAÑA",ESPAÑA | VIAJAR SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | VIAJAR SD" tvg-logo="https://static.epg.best/es/Viajar.es.png" group-title="ESPAÑA",ESPAÑA | VIAJAR SD
 http://apixeltv.com:8880/MARI2022/mari2022/28411
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | COCINA SD" tvg-logo="https://static.epg.best/es/CanalCocina.es.png" group-title="ESPAÑA",ESPAÑA | COCINA SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | COCINA SD" tvg-logo="https://static.epg.best/es/CanalCocina.es.png" group-title="ESPAÑA",ESPAÑA | COCINA SD
 http://apixeltv.com:8880/MARI2022/mari2022/28412
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | DIVINITY SD" tvg-logo="https://static.epg.best/es/Divinity.es.png" group-title="ESPAÑA",ESPAÑA | DIVINITY SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | DIVINITY SD" tvg-logo="https://static.epg.best/es/Divinity.es.png" group-title="ESPAÑA",ESPAÑA | DIVINITY SD
 http://apixeltv.com:8880/MARI2022/mari2022/28413
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | FDF SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="ESPAÑA",ESPAÑA | FDF SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | FDF SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="ESPAÑA",ESPAÑA | FDF SD
 http://apixeltv.com:8880/MARI2022/mari2022/28414
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | PORTADA MOVISTAR SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/1200px-Logo_Movistar.svg.png" group-title="ESPAÑA",ESPAÑA | PORTADA MOVISTAR SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | PORTADA MOVISTAR SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/1200px-Logo_Movistar.svg.png" group-title="ESPAÑA",ESPAÑA | PORTADA MOVISTAR SD
 http://apixeltv.com:8880/MARI2022/mari2022/28415
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ENERGY SD" tvg-logo="https://static.epg.best/es/Energy.es.png" group-title="ESPAÑA",ESPAÑA | ENERGY SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | ENERGY SD" tvg-logo="https://static.epg.best/es/Energy.es.png" group-title="ESPAÑA",ESPAÑA | ENERGY SD
 http://apixeltv.com:8880/MARI2022/mari2022/28416
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | BE MAD SD" tvg-logo="https://static.epg.best/es/BeMad.es.png" group-title="ESPAÑA",ESPAÑA | BE MAD SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | BE MAD SD" tvg-logo="https://static.epg.best/es/BeMad.es.png" group-title="ESPAÑA",ESPAÑA | BE MAD SD
 http://apixeltv.com:8880/MARI2022/mari2022/28417
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA |  24HRS SD" tvg-logo="https://static.epg.best/es/24Horas.es.png" group-title="ESPAÑA",ESPAÑA |  24HRS SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA |  24HRS SD" tvg-logo="https://static.epg.best/es/24Horas.es.png" group-title="ESPAÑA",ESPAÑA |  24HRS SD
 http://apixeltv.com:8880/MARI2022/mari2022/28418
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | BOING SD" tvg-logo="https://static.epg.best/es/Boing.es.png" group-title="ESPAÑA",ESPAÑA | BOING SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | BOING SD" tvg-logo="https://static.epg.best/es/Boing.es.png" group-title="ESPAÑA",ESPAÑA | BOING SD
 http://apixeltv.com:8880/MARI2022/mari2022/28419
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | PANDA SD" tvg-logo="https://static.epg.best/es/CanalPanda.es.png" group-title="ESPAÑA",ESPAÑA | PANDA SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | PANDA SD" tvg-logo="https://static.epg.best/es/CanalPanda.es.png" group-title="ESPAÑA",ESPAÑA | PANDA SD
 http://apixeltv.com:8880/MARI2022/mari2022/28420
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | NICKELEODEON SD" tvg-logo="https://static.epg.best/es/Nickelodeon.es.png" group-title="ESPAÑA",ESPAÑA | NICKELEODEON SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | NICKELEODEON SD" tvg-logo="https://static.epg.best/es/Nickelodeon.es.png" group-title="ESPAÑA",ESPAÑA | NICKELEODEON SD
 http://apixeltv.com:8880/MARI2022/mari2022/28421
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | DISNEY JR SD" tvg-logo="https://static.epg.best/es/DisneyJunior.es.png" group-title="ESPAÑA",ESPAÑA | DISNEY JR SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | DISNEY JR SD" tvg-logo="https://static.epg.best/es/DisneyJunior.es.png" group-title="ESPAÑA",ESPAÑA | DISNEY JR SD
 http://apixeltv.com:8880/MARI2022/mari2022/28422
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR DISNEY + SD" tvg-logo="https://static.epg.best/es/MovistarDisney.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR DISNEY + SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR DISNEY + SD" tvg-logo="https://static.epg.best/es/MovistarDisney.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR DISNEY + SD
 http://apixeltv.com:8880/MARI2022/mari2022/28423
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | NICK JR SD" tvg-logo="https://static.epg.best/es/NickJr.es.png" group-title="ESPAÑA",ESPAÑA | NICK JR SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | NICK JR SD" tvg-logo="https://static.epg.best/es/NickJr.es.png" group-title="ESPAÑA",ESPAÑA | NICK JR SD
 http://apixeltv.com:8880/MARI2022/mari2022/28424
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | BABY TV SD" tvg-logo="https://static.epg.best/es/BabyTV.es.png" group-title="ESPAÑA",ESPAÑA | BABY TV SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | BABY TV SD" tvg-logo="https://static.epg.best/es/BabyTV.es.png" group-title="ESPAÑA",ESPAÑA | BABY TV SD
 http://apixeltv.com:8880/MARI2022/mari2022/28425
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | DMAX SD" tvg-logo="https://static.epg.best/es/Dmax.es.png" group-title="ESPAÑA",ESPAÑA | DMAX SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | DMAX SD" tvg-logo="https://static.epg.best/es/Dmax.es.png" group-title="ESPAÑA",ESPAÑA | DMAX SD
 http://apixeltv.com:8880/MARI2022/mari2022/28426
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | DISCOVERY CHANNEL SD" tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png" group-title="ESPAÑA",ESPAÑA | DISCOVERY CHANNEL SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | DISCOVERY CHANNEL SD" tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png" group-title="ESPAÑA",ESPAÑA | DISCOVERY CHANNEL SD
 http://apixeltv.com:8880/MARI2022/mari2022/28427
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | NATGEO WILD SD" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png" group-title="ESPAÑA",ESPAÑA | NATGEO WILD SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | NATGEO WILD SD" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png" group-title="ESPAÑA",ESPAÑA | NATGEO WILD SD
 http://apixeltv.com:8880/MARI2022/mari2022/28428
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | CRIMEN & INVESTIGACION SD" tvg-logo="https://static.epg.best/es/CrimenInvestigacion.es.png" group-title="ESPAÑA",ESPAÑA | CRIMEN & INVESTIGACION SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | CRIMEN & INVESTIGACION SD" tvg-logo="https://static.epg.best/es/CrimenInvestigacion.es.png" group-title="ESPAÑA",ESPAÑA | CRIMEN & INVESTIGACION SD
 http://apixeltv.com:8880/MARI2022/mari2022/28429
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | GOLTV SD" tvg-logo="https://static.epg.best/es/Gol.es.png" group-title="ESPAÑA",ESPAÑA | GOLTV SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | GOLTV SD" tvg-logo="https://static.epg.best/es/Gol.es.png" group-title="ESPAÑA",ESPAÑA | GOLTV SD
 http://apixeltv.com:8880/MARI2022/mari2022/28430
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | BARCA TV SD" tvg-logo="https://static.epg.best/es/BarcaTV.es.png" group-title="ESPAÑA",ESPAÑA | BARCA TV SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | BARCA TV SD" tvg-logo="https://static.epg.best/es/BarcaTV.es.png" group-title="ESPAÑA",ESPAÑA | BARCA TV SD
 http://apixeltv.com:8880/MARI2022/mari2022/28431
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR GOLF SD" tvg-logo="https://static.epg.best/es/MovistarGolf.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR GOLF SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR GOLF SD" tvg-logo="https://static.epg.best/es/MovistarGolf.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR GOLF SD
 http://apixeltv.com:8880/MARI2022/mari2022/28432
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | PARAMOUNT NETWORK SD" tvg-logo="https://static.epg.best/es/ParamountChannel.es.png" group-title="ESPAÑA",ESPAÑA | PARAMOUNT NETWORK SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | PARAMOUNT NETWORK SD" tvg-logo="https://static.epg.best/es/ParamountChannel.es.png" group-title="ESPAÑA",ESPAÑA | PARAMOUNT NETWORK SD
 http://apixeltv.com:8880/MARI2022/mari2022/28433
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MTV SD" tvg-logo="https://static.epg.best/es/MTV.es.png" group-title="ESPAÑA",ESPAÑA | MTV SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MTV SD" tvg-logo="https://static.epg.best/es/MTV.es.png" group-title="ESPAÑA",ESPAÑA | MTV SD
 http://apixeltv.com:8880/MARI2022/mari2022/28434
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | D CINE ESPAÑOL SD" tvg-logo="https://static.epg.best/es/DCineEspanol.es.png" group-title="ESPAÑA",ESPAÑA | D CINE ESPAÑOL SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | D CINE ESPAÑOL SD" tvg-logo="https://static.epg.best/es/DCineEspanol.es.png" group-title="ESPAÑA",ESPAÑA | D CINE ESPAÑOL SD
 http://apixeltv.com:8880/MARI2022/mari2022/28436
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR DISNEY + SD" tvg-logo="https://static.epg.best/es/MovistarDisney.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR DISNEY + SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR DISNEY + SD" tvg-logo="https://static.epg.best/es/MovistarDisney.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR DISNEY + SD
 http://apixeltv.com:8880/MARI2022/mari2022/28438
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ETB 1 SD" tvg-logo="https://static.epg.best/es/ETB1.es.png" group-title="ESPAÑA",ESPAÑA | ETB 1 SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | ETB 1 SD" tvg-logo="https://static.epg.best/es/ETB1.es.png" group-title="ESPAÑA",ESPAÑA | ETB 1 SD
 http://apixeltv.com:8880/MARI2022/mari2022/28439
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ETB 2 SD" tvg-logo="https://static.epg.best/es/ETB2.es.png" group-title="ESPAÑA",ESPAÑA | ETB 2 SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | ETB 2 SD" tvg-logo="https://static.epg.best/es/ETB2.es.png" group-title="ESPAÑA",ESPAÑA | ETB 2 SD
 http://apixeltv.com:8880/MARI2022/mari2022/28440
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | INTERECONOMIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Intereconom%C3%ADa.png" group-title="ESPAÑA",ESPAÑA | INTERECONOMIA SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | INTERECONOMIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Intereconom%C3%ADa.png" group-title="ESPAÑA",ESPAÑA | INTERECONOMIA SD
 http://apixeltv.com:8880/MARI2022/mari2022/28441
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | CANAL COCINA SD" tvg-logo="https://static.epg.best/es/CanalCocina.es.png" group-title="ESPAÑA",ESPAÑA | CANAL COCINA SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | CANAL COCINA SD" tvg-logo="https://static.epg.best/es/CanalCocina.es.png" group-title="ESPAÑA",ESPAÑA | CANAL COCINA SD
 http://apixeltv.com:8880/MARI2022/mari2022/28442
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | EUROSPORTS 2 SD" tvg-logo="https://static.epg.best/es/Eurosport2.es.png" group-title="ESPAÑA",ESPAÑA | EUROSPORTS 2 SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | EUROSPORTS 2 SD" tvg-logo="https://static.epg.best/es/Eurosport2.es.png" group-title="ESPAÑA",ESPAÑA | EUROSPORTS 2 SD
 http://apixeltv.com:8880/MARI2022/mari2022/28443
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | NATIONAL GEOGRAFIC SD" tvg-logo="https://static.epg.best/es/NationalGeographic.es.png" group-title="ESPAÑA",ESPAÑA | NATIONAL GEOGRAFIC SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | NATIONAL GEOGRAFIC SD" tvg-logo="https://static.epg.best/es/NationalGeographic.es.png" group-title="ESPAÑA",ESPAÑA | NATIONAL GEOGRAFIC SD
 http://apixeltv.com:8880/MARI2022/mari2022/28444
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | #0 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="ESPAÑA",ESPAÑA | #0 SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | #0 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="ESPAÑA",ESPAÑA | #0 SD
 http://apixeltv.com:8880/MARI2022/mari2022/28445
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | #VAMOS SD" tvg-logo="https://static.epg.best/es/Cero.es.png" group-title="ESPAÑA",ESPAÑA | #VAMOS SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | #VAMOS SD" tvg-logo="https://static.epg.best/es/Cero.es.png" group-title="ESPAÑA",ESPAÑA | #VAMOS SD
 http://apixeltv.com:8880/MARI2022/mari2022/28446
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | AMC SD" tvg-logo="https://static.epg.best/es/AMC.es.png" group-title="ESPAÑA",ESPAÑA | AMC SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | AMC SD" tvg-logo="https://static.epg.best/es/AMC.es.png" group-title="ESPAÑA",ESPAÑA | AMC SD
 http://apixeltv.com:8880/MARI2022/mari2022/28447
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ANTENA 3 SD" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="ESPAÑA",ESPAÑA | ANTENA 3 SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | ANTENA 3 SD" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="ESPAÑA",ESPAÑA | ANTENA 3 SD
 http://apixeltv.com:8880/MARI2022/mari2022/28448
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | AXN SD" tvg-logo="https://static.epg.best/es/AXN.es.png" group-title="ESPAÑA",ESPAÑA | AXN SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | AXN SD" tvg-logo="https://static.epg.best/es/AXN.es.png" group-title="ESPAÑA",ESPAÑA | AXN SD
 http://apixeltv.com:8880/MARI2022/mari2022/28449
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | AXN WHITE SD" tvg-logo="https://static.epg.best/es/AXNWhite.es.png" group-title="ESPAÑA",ESPAÑA | AXN WHITE SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | AXN WHITE SD" tvg-logo="https://static.epg.best/es/AXNWhite.es.png" group-title="ESPAÑA",ESPAÑA | AXN WHITE SD
 http://apixeltv.com:8880/MARI2022/mari2022/28450
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | CALLE 13 SD" tvg-logo="https://static.epg.best/es/Calle13.es.png" group-title="ESPAÑA",ESPAÑA | CALLE 13 SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | CALLE 13 SD" tvg-logo="https://static.epg.best/es/Calle13.es.png" group-title="ESPAÑA",ESPAÑA | CALLE 13 SD
 http://apixeltv.com:8880/MARI2022/mari2022/28451
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ODISEA SD" tvg-logo="https://static.epg.best/es/Odisea.es.png" group-title="ESPAÑA",ESPAÑA | ODISEA SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | ODISEA SD" tvg-logo="https://static.epg.best/es/Odisea.es.png" group-title="ESPAÑA",ESPAÑA | ODISEA SD
 http://apixeltv.com:8880/MARI2022/mari2022/28452
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | COMEDY CENTRAL SD" tvg-logo="https://static.epg.best/es/ComedyCentral.es.png" group-title="ESPAÑA",ESPAÑA | COMEDY CENTRAL SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | COMEDY CENTRAL SD" tvg-logo="https://static.epg.best/es/ComedyCentral.es.png" group-title="ESPAÑA",ESPAÑA | COMEDY CENTRAL SD
 http://apixeltv.com:8880/MARI2022/mari2022/28453
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | COSMO SD" tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="ESPAÑA",ESPAÑA | COSMO SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | COSMO SD" tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="ESPAÑA",ESPAÑA | COSMO SD
 http://apixeltv.com:8880/MARI2022/mari2022/28454
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | CUATRO SD" tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="ESPAÑA",ESPAÑA | CUATRO SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | CUATRO SD" tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="ESPAÑA",ESPAÑA | CUATRO SD
 http://apixeltv.com:8880/MARI2022/mari2022/28455
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | DISNEY CHANNEL SD" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="ESPAÑA",ESPAÑA | DISNEY CHANNEL SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | DISNEY CHANNEL SD" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="ESPAÑA",ESPAÑA | DISNEY CHANNEL SD
 http://apixeltv.com:8880/MARI2022/mari2022/28456
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | DKISS SD" tvg-logo="https://static.epg.best/es/DKISS.es.png" group-title="ESPAÑA",ESPAÑA | DKISS SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | DKISS SD" tvg-logo="https://static.epg.best/es/DKISS.es.png" group-title="ESPAÑA",ESPAÑA | DKISS SD
 http://apixeltv.com:8880/MARI2022/mari2022/28457
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | DREAMWORKS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="ESPAÑA",ESPAÑA | DREAMWORKS SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | DREAMWORKS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="ESPAÑA",ESPAÑA | DREAMWORKS SD
 http://apixeltv.com:8880/MARI2022/mari2022/28458
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | FOX SD" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="ESPAÑA",ESPAÑA | FOX SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | FOX SD" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="ESPAÑA",ESPAÑA | FOX SD
 http://apixeltv.com:8880/MARI2022/mari2022/28459
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | FOX LIFE SD" tvg-logo="https://static.epg.best/es/FoxLife.es.png" group-title="ESPAÑA",ESPAÑA | FOX LIFE SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | FOX LIFE SD" tvg-logo="https://static.epg.best/es/FoxLife.es.png" group-title="ESPAÑA",ESPAÑA | FOX LIFE SD
 http://apixeltv.com:8880/MARI2022/mari2022/28460
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | GOL SD" tvg-logo="https://static.epg.best/es/Gol.es.png" group-title="ESPAÑA",ESPAÑA | GOL SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | GOL SD" tvg-logo="https://static.epg.best/es/Gol.es.png" group-title="ESPAÑA",ESPAÑA | GOL SD
 http://apixeltv.com:8880/MARI2022/mari2022/28461
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | HISTORIA SD" tvg-logo="https://static.epg.best/es/Historia.es.png" group-title="ESPAÑA",ESPAÑA | HISTORIA SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | HISTORIA SD" tvg-logo="https://static.epg.best/es/Historia.es.png" group-title="ESPAÑA",ESPAÑA | HISTORIA SD
 http://apixeltv.com:8880/MARI2022/mari2022/28462
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | HOLLYWOOD SD" tvg-logo="https://static.epg.best/es/Hollywood.es.png" group-title="ESPAÑA",ESPAÑA | HOLLYWOOD SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | HOLLYWOOD SD" tvg-logo="https://static.epg.best/es/Hollywood.es.png" group-title="ESPAÑA",ESPAÑA | HOLLYWOOD SD
 http://apixeltv.com:8880/MARI2022/mari2022/28463
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | IBERALIA TV SD" tvg-logo="https://static.epg.best/es/IberaliaTV.es.png" group-title="ESPAÑA",ESPAÑA | IBERALIA TV SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | IBERALIA TV SD" tvg-logo="https://static.epg.best/es/IberaliaTV.es.png" group-title="ESPAÑA",ESPAÑA | IBERALIA TV SD
 http://apixeltv.com:8880/MARI2022/mari2022/28464
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LA 1 SD" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="ESPAÑA",ESPAÑA | LA 1 SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | LA 1 SD" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="ESPAÑA",ESPAÑA | LA 1 SD
 http://apixeltv.com:8880/MARI2022/mari2022/28465
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LA 7 TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/LaSiete_2012.png" group-title="ESPAÑA",ESPAÑA | LA 7 TV SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | LA 7 TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/LaSiete_2012.png" group-title="ESPAÑA",ESPAÑA | LA 7 TV SD
 http://apixeltv.com:8880/MARI2022/mari2022/28466
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR ACCION SD" tvg-logo="https://static.epg.best/es/MovistarAccion.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR ACCION SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR ACCION SD" tvg-logo="https://static.epg.best/es/MovistarAccion.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR ACCION SD
 http://apixeltv.com:8880/MARI2022/mari2022/28467
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR COMEDIA SD" tvg-logo="https://static.epg.best/es/MovistarComedia.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR COMEDIA SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR COMEDIA SD" tvg-logo="https://static.epg.best/es/MovistarComedia.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR COMEDIA SD
 http://apixeltv.com:8880/MARI2022/mari2022/28468
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR DRAMA SD" tvg-logo="https://static.epg.best/es/MovistarDrama.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR DRAMA SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR DRAMA SD" tvg-logo="https://static.epg.best/es/MovistarDrama.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR DRAMA SD
 http://apixeltv.com:8880/MARI2022/mari2022/28469
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR SERIES SD" tvg-logo="https://static.epg.best/es/MovistarSeries.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR SERIES SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR SERIES SD" tvg-logo="https://static.epg.best/es/MovistarSeries.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR SERIES SD
 http://apixeltv.com:8880/MARI2022/mari2022/28470
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR SERIESMANIA SD" tvg-logo="https://static.epg.best/es/CcanalPlusSeriesmania.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR SERIESMANIA SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR SERIESMANIA SD" tvg-logo="https://static.epg.best/es/CcanalPlusSeriesmania.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR SERIESMANIA SD
 http://apixeltv.com:8880/MARI2022/mari2022/28471
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR DEPORTES SD" tvg-logo="https://static.epg.best/es/MDeportes1.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR DEPORTES SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR DEPORTES SD" tvg-logo="https://static.epg.best/es/MDeportes1.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR DEPORTES SD
 http://apixeltv.com:8880/MARI2022/mari2022/28472
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR DEPORTES 1 SD" tvg-logo="https://static.epg.best/es/MDeportes1.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR DEPORTES 1 SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR DEPORTES 1 SD" tvg-logo="https://static.epg.best/es/MDeportes1.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR DEPORTES 1 SD
 http://apixeltv.com:8880/MARI2022/mari2022/28473
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR LA LIGA SD" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR LA LIGA SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR LA LIGA SD" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR LA LIGA SD
 http://apixeltv.com:8880/MARI2022/mari2022/28474
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR LA LIGA 3 SD" tvg-logo="https://static.epg.best/es/MLaLiga3.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR LA LIGA 3 SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR LA LIGA 3 SD" tvg-logo="https://static.epg.best/es/MLaLiga3.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR LA LIGA 3 SD
 http://apixeltv.com:8880/MARI2022/mari2022/28476
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR LIGA DE CAMPEON 1 SD" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR LIGA DE CAMPEON 1 SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR LIGA DE CAMPEON 1 SD" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR LIGA DE CAMPEON 1 SD
 http://apixeltv.com:8880/MARI2022/mari2022/28478
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR CRIMEN SD" tvg-logo="https://cdn2.downdetector.com/static/uploads/logo/Movistar_2016_Vertical_Blue_2.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR CRIMEN SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR CRIMEN SD" tvg-logo="https://cdn2.downdetector.com/static/uploads/logo/Movistar_2016_Vertical_Blue_2.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR CRIMEN SD
 http://apixeltv.com:8880/MARI2022/mari2022/28479
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MTDAD 24 SD" tvg-logo="https://inexplorando.com/wp-content/uploads/2016/08/mtmad.png" group-title="ESPAÑA",ESPAÑA | MTDAD 24 SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MTDAD 24 SD" tvg-logo="https://inexplorando.com/wp-content/uploads/2016/08/mtmad.png" group-title="ESPAÑA",ESPAÑA | MTDAD 24 SD
 http://apixeltv.com:8880/MARI2022/mari2022/28480
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | SUNDANCE TV SD" tvg-logo="https://static.epg.best/es/SundanceTV.es.png" group-title="ESPAÑA",ESPAÑA | SUNDANCE TV SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | SUNDANCE TV SD" tvg-logo="https://static.epg.best/es/SundanceTV.es.png" group-title="ESPAÑA",ESPAÑA | SUNDANCE TV SD
 http://apixeltv.com:8880/MARI2022/mari2022/28481
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | SYFY SD" tvg-logo="https://static.epg.best/es/SyFy.es.png" group-title="ESPAÑA",ESPAÑA | SYFY SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | SYFY SD" tvg-logo="https://static.epg.best/es/SyFy.es.png" group-title="ESPAÑA",ESPAÑA | SYFY SD
 http://apixeltv.com:8880/MARI2022/mari2022/28482
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | TCM SD" tvg-logo="https://static.epg.best/es/TCM.es.png" group-title="ESPAÑA",ESPAÑA | TCM SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | TCM SD" tvg-logo="https://static.epg.best/es/TCM.es.png" group-title="ESPAÑA",ESPAÑA | TCM SD
 http://apixeltv.com:8880/MARI2022/mari2022/28483
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | TELECINCO SD" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="ESPAÑA",ESPAÑA | TELECINCO SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | TELECINCO SD" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="ESPAÑA",ESPAÑA | TELECINCO SD
 http://apixeltv.com:8880/MARI2022/mari2022/28484
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | TNT SD" tvg-logo="https://static.epg.best/es/TNT.es.png" group-title="ESPAÑA",ESPAÑA | TNT SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | TNT SD" tvg-logo="https://static.epg.best/es/TNT.es.png" group-title="ESPAÑA",ESPAÑA | TNT SD
 http://apixeltv.com:8880/MARI2022/mari2022/28485
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | TOROS SD" tvg-logo="https://static.epg.best/es/Toros.es.png" group-title="ESPAÑA",ESPAÑA | TOROS SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | TOROS SD" tvg-logo="https://static.epg.best/es/Toros.es.png" group-title="ESPAÑA",ESPAÑA | TOROS SD
 http://apixeltv.com:8880/MARI2022/mari2022/28486
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | VH1 SD" tvg-logo="https://zap2it.tmsimg.com///zap2it.tmsimg.com/h3/NowShowing/11218/s11218_h3_aa.png" group-title="ESPAÑA",ESPAÑA | VH1 SD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | VH1 SD" tvg-logo="https://zap2it.tmsimg.com///zap2it.tmsimg.com/h3/NowShowing/11218/s11218_h3_aa.png" group-title="ESPAÑA",ESPAÑA | VH1 SD
 http://apixeltv.com:8880/MARI2022/mari2022/28487
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | DIVINITY HD" tvg-logo="https://static.epg.best/es/Divinity.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | DIVINITY HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | DIVINITY HD" tvg-logo="https://static.epg.best/es/Divinity.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | DIVINITY HD
 http://apixeltv.com:8880/MARI2022/mari2022/24193
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LA 1 FHD" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | LA 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | LA 1 FHD" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | LA 1 FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24834
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LA CUATRO FHD" tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | LA CUATRO FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | LA CUATRO FHD" tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | LA CUATRO FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24835
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | TELECINCO FHD" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | TELECINCO FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | TELECINCO FHD" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | TELECINCO FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24836
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ANTENA INTERNACIONAL FHD" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | ANTENA INTERNACIONAL FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | ANTENA INTERNACIONAL FHD" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | ANTENA INTERNACIONAL FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24837
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ANTENA 3 FHD" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | ANTENA 3 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | ANTENA 3 FHD" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | ANTENA 3 FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24838
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | RT ESPANA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/RT_America_Logo.png" group-title="ESPAÑA PREMIUM",ESPAÑA | RT ESPANA FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | RT ESPANA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/RT_America_Logo.png" group-title="ESPAÑA PREMIUM",ESPAÑA | RT ESPANA FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24839
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | CALLE 13 FHD" tvg-logo="https://static.epg.best/es/Calle13.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | CALLE 13 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | CALLE 13 FHD" tvg-logo="https://static.epg.best/es/Calle13.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | CALLE 13 FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24840
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | COSMOS FHD" tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | COSMOS FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | COSMOS FHD" tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | COSMOS FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24841
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | NEOX TV FHD" tvg-logo="https://static.epg.best/es/Neox.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | NEOX TV FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | NEOX TV FHD" tvg-logo="https://static.epg.best/es/Neox.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | NEOX TV FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24842
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MEGA FHD" tvg-logo="https://static.epg.best/es/Mega.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MEGA FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MEGA FHD" tvg-logo="https://static.epg.best/es/Mega.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MEGA FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24843
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | SOMOS FHD" tvg-logo="https://static.epg.best/es/Somos.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | SOMOS FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | SOMOS FHD" tvg-logo="https://static.epg.best/es/Somos.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | SOMOS FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24844
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | COMEDY CENTRAL FHD" tvg-logo="https://static.epg.best/es/ComedyCentral.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | COMEDY CENTRAL FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | COMEDY CENTRAL FHD" tvg-logo="https://static.epg.best/es/ComedyCentral.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | COMEDY CENTRAL FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24845
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | NOVA FHD" tvg-logo="https://static.epg.best/es/Nova.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | NOVA FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | NOVA FHD" tvg-logo="https://static.epg.best/es/Nova.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | NOVA FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24846
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ODISEA FHD" tvg-logo="https://static.epg.best/es/Odisea.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | ODISEA FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | ODISEA FHD" tvg-logo="https://static.epg.best/es/Odisea.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | ODISEA FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24847
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | DISNEY CHANNEL FHD" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | DISNEY CHANNEL FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | DISNEY CHANNEL FHD" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | DISNEY CHANNEL FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24848
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | CAZA & PESCA FHD" tvg-logo="https://static.epg.best/es/CazaPesca.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | CAZA & PESCA FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | CAZA & PESCA FHD" tvg-logo="https://static.epg.best/es/CazaPesca.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | CAZA & PESCA FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24849
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | CAZAVISION FHD" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/7e/f5/83/7ef5831b-e0b9-6bad-8b8c-6a259b99a0fb/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/1200x630wa.png" group-title="ESPAÑA PREMIUM",ESPAÑA | CAZAVISION FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | CAZAVISION FHD" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/7e/f5/83/7ef5831b-e0b9-6bad-8b8c-6a259b99a0fb/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/1200x630wa.png" group-title="ESPAÑA PREMIUM",ESPAÑA | CAZAVISION FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24850
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | HISTORIA FHD" tvg-logo="https://static.epg.best/es/Historia.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | HISTORIA FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | HISTORIA FHD" tvg-logo="https://static.epg.best/es/Historia.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | HISTORIA FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24851
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | NAT GEO WILD FHD" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | NAT GEO WILD FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | NAT GEO WILD FHD" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | NAT GEO WILD FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24852
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | NATIONAL GEOGRAFIC FHD" tvg-logo="https://static.epg.best/es/NationalGeographic.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | NATIONAL GEOGRAFIC FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | NATIONAL GEOGRAFIC FHD" tvg-logo="https://static.epg.best/es/NationalGeographic.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | NATIONAL GEOGRAFIC FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24853
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | TOROS FHD" tvg-logo="https://static.epg.best/es/Toros.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | TOROS FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | TOROS FHD" tvg-logo="https://static.epg.best/es/Toros.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | TOROS FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24854
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | DAZN F1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="ESPAÑA PREMIUM",ESPAÑA | DAZN F1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | DAZN F1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="ESPAÑA PREMIUM",ESPAÑA | DAZN F1 FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24855
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | #0 SPORTS  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="ESPAÑA PREMIUM",ESPAÑA | #0 SPORTS  FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | #0 SPORTS  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="ESPAÑA PREMIUM",ESPAÑA | #0 SPORTS  FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24856
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | #V FHD" tvg-logo="https://static.epg.best/es/Cero.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | #V FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | #V FHD" tvg-logo="https://static.epg.best/es/Cero.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | #V FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24857
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | VAMOS SPORTS FHD" tvg-logo="https://static.epg.best/es/Vamos.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | VAMOS SPORTS FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | VAMOS SPORTS FHD" tvg-logo="https://static.epg.best/es/Vamos.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | VAMOS SPORTS FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24858
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR LA LIGA FHD" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR LA LIGA FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR LA LIGA FHD" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR LA LIGA FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24859
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR LA LIGA FHD" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR LA LIGA FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR LA LIGA FHD" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR LA LIGA FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24860
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR LA LIGA 1 HD" tvg-logo="https://static.epg.best/es/MLaLiga1.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR LA LIGA 1 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR LA LIGA 1 HD" tvg-logo="https://static.epg.best/es/MLaLiga1.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR LA LIGA 1 HD
 http://apixeltv.com:8880/MARI2022/mari2022/24861
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR LIGA DE CAMPEONES FHD" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR LIGA DE CAMPEONES FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR LIGA DE CAMPEONES FHD" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR LIGA DE CAMPEONES FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24862
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR LIGA CAMPEONES 1 FHD" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR LIGA CAMPEONES 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR LIGA CAMPEONES 1 FHD" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR LIGA CAMPEONES 1 FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24863
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR LIGA CAMPEONES 2 HD" tvg-logo="https://static.epg.best/es/LigaDeCampeones2.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR LIGA CAMPEONES 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR LIGA CAMPEONES 2 HD" tvg-logo="https://static.epg.best/es/LigaDeCampeones2.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR LIGA CAMPEONES 2 HD
 http://apixeltv.com:8880/MARI2022/mari2022/24864
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR LIGA CAMPEONES 3 HD" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR LIGA CAMPEONES 3 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR LIGA CAMPEONES 3 HD" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR LIGA CAMPEONES 3 HD
 http://apixeltv.com:8880/MARI2022/mari2022/24865
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR LIGA CAMPEONES 4 HD" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR LIGA CAMPEONES 4 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR LIGA CAMPEONES 4 HD" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR LIGA CAMPEONES 4 HD
 http://apixeltv.com:8880/MARI2022/mari2022/24866
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR LIGA CAMPEONES 6 HD" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR LIGA CAMPEONES 6 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR LIGA CAMPEONES 6 HD" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR LIGA CAMPEONES 6 HD
 http://apixeltv.com:8880/MARI2022/mari2022/24867
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR LIGA CAMPEONES 7 HD" tvg-logo="http://servidorcloud.iptvplexservertv.com:60/logos/espana/LigaDeCampeones.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR LIGA CAMPEONES 7 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR LIGA CAMPEONES 7 HD" tvg-logo="http://servidorcloud.iptvplexservertv.com:60/logos/espana/LigaDeCampeones.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR LIGA CAMPEONES 7 HD
 http://apixeltv.com:8880/MARI2022/mari2022/24868
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR LIGA CAMPEONES 5 HD" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR LIGA CAMPEONES 5 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR LIGA CAMPEONES 5 HD" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR LIGA CAMPEONES 5 HD
 http://apixeltv.com:8880/MARI2022/mari2022/24869
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR DEPORTES 1 FHD" tvg-logo="https://static.epg.best/es/MDeportes1.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR DEPORTES 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR DEPORTES 1 FHD" tvg-logo="https://static.epg.best/es/MDeportes1.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR DEPORTES 1 FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24870
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | AMC FHD" tvg-logo="https://static.epg.best/es/AMC.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | AMC FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | AMC FHD" tvg-logo="https://static.epg.best/es/AMC.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | AMC FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24871
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | TCM FHD" tvg-logo="https://static.epg.best/es/TCM.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | TCM FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | TCM FHD" tvg-logo="https://static.epg.best/es/TCM.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | TCM FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24872
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ATRES SERIES FHD" tvg-logo="https://static.epg.best/es/Atreseries.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | ATRES SERIES FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | ATRES SERIES FHD" tvg-logo="https://static.epg.best/es/Atreseries.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | ATRES SERIES FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24873
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | AXN WHITE FHD" tvg-logo="https://static.epg.best/es/AXNWhite.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | AXN WHITE FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | AXN WHITE FHD" tvg-logo="https://static.epg.best/es/AXNWhite.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | AXN WHITE FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24874
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | AXN FHD" tvg-logo="https://static.epg.best/es/AXN.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | AXN FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | AXN FHD" tvg-logo="https://static.epg.best/es/AXN.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | AXN FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24875
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | FOX FHD" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | FOX FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | FOX FHD" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | FOX FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24876
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | FOX LIFE FHD" tvg-logo="https://static.epg.best/es/FoxLife.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | FOX LIFE FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | FOX LIFE FHD" tvg-logo="https://static.epg.best/es/FoxLife.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | FOX LIFE FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24877
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | HOLLYWOOD FHD" tvg-logo="https://static.epg.best/es/Hollywood.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | HOLLYWOOD FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | HOLLYWOOD FHD" tvg-logo="https://static.epg.best/es/Hollywood.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | HOLLYWOOD FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24878
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | TNT FHD" tvg-logo="https://static.epg.best/es/TNT.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | TNT FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | TNT FHD" tvg-logo="https://static.epg.best/es/TNT.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | TNT FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24879
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | XTRM FHD" tvg-logo="https://static.epg.best/es/Xtrm.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | XTRM FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | XTRM FHD" tvg-logo="https://static.epg.best/es/Xtrm.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | XTRM FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24880
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | SYFY FHD" tvg-logo="https://static.epg.best/es/SyFy.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | SYFY FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | SYFY FHD" tvg-logo="https://static.epg.best/es/SyFy.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | SYFY FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24881
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR ACCION FHD" tvg-logo="https://static.epg.best/es/MovistarAccion.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR ACCION FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR ACCION FHD" tvg-logo="https://static.epg.best/es/MovistarAccion.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR ACCION FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24882
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR DRAMA FHD" tvg-logo="https://static.epg.best/es/MovistarDrama.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR DRAMA FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR DRAMA FHD" tvg-logo="https://static.epg.best/es/MovistarDrama.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR DRAMA FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24883
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR SERIEMANIA FHD" tvg-logo="https://static.epg.best/es/CcanalPlusSeriesmania.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR SERIEMANIA FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR SERIEMANIA FHD" tvg-logo="https://static.epg.best/es/CcanalPlusSeriesmania.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR SERIEMANIA FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24884
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR SERIES FHD" tvg-logo="https://static.epg.best/es/MovistarSeries.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR SERIES FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR SERIES FHD" tvg-logo="https://static.epg.best/es/MovistarSeries.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR SERIES FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24885
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR COMEDIA FHD" tvg-logo="https://static.epg.best/es/MovistarComedia.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR COMEDIA FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR COMEDIA FHD" tvg-logo="https://static.epg.best/es/MovistarComedia.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR COMEDIA FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24886
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR ESTRENOS FHD" tvg-logo="https://static.epg.best/es/MovistarEstrenos.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR ESTRENOS FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR ESTRENOS FHD" tvg-logo="https://static.epg.best/es/MovistarEstrenos.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR ESTRENOS FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24887
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR CINE DOC&ROLL FHD" tvg-logo="https://static.epg.best/es/MovistarCineDocRoll.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR CINE DOC&ROLL FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR CINE DOC&ROLL FHD" tvg-logo="https://static.epg.best/es/MovistarCineDocRoll.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR CINE DOC&ROLL FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24888
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | TEN CHANNEL FHD" tvg-logo="https://static.epg.best/es/Ten.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | TEN CHANNEL FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | TEN CHANNEL FHD" tvg-logo="https://static.epg.best/es/Ten.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | TEN CHANNEL FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24889
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | EUROSPORTS 1 FHD" tvg-logo="https://static.epg.best/es/Eurosport1.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | EUROSPORTS 1 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | EUROSPORTS 1 FHD" tvg-logo="https://static.epg.best/es/Eurosport1.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | EUROSPORTS 1 FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24890
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LA OTRA TV FHD" tvg-logo="https://static.epg.best/es/LaOtra.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | LA OTRA TV FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | LA OTRA TV FHD" tvg-logo="https://static.epg.best/es/LaOtra.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | LA OTRA TV FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24891
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | DAZN 1 VIP FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e2/93/39/e293390c-c69d-24a2-f0be-508ed24506e2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/600x600wa.png" group-title="ESPAÑA PREMIUM",ESPAÑA | DAZN 1 VIP FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | DAZN 1 VIP FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e2/93/39/e293390c-c69d-24a2-f0be-508ed24506e2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/600x600wa.png" group-title="ESPAÑA PREMIUM",ESPAÑA | DAZN 1 VIP FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24892
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | DAZN 2 VIP FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e2/93/39/e293390c-c69d-24a2-f0be-508ed24506e2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/600x600wa.png" group-title="ESPAÑA PREMIUM",ESPAÑA | DAZN 2 VIP FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | DAZN 2 VIP FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e2/93/39/e293390c-c69d-24a2-f0be-508ed24506e2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/600x600wa.png" group-title="ESPAÑA PREMIUM",ESPAÑA | DAZN 2 VIP FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24893
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | DAZN 3 VIP FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e2/93/39/e293390c-c69d-24a2-f0be-508ed24506e2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/600x600wa.png" group-title="ESPAÑA PREMIUM",ESPAÑA | DAZN 3 VIP FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | DAZN 3 VIP FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e2/93/39/e293390c-c69d-24a2-f0be-508ed24506e2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/600x600wa.png" group-title="ESPAÑA PREMIUM",ESPAÑA | DAZN 3 VIP FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24894
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | DAZN 4 VIP FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e2/93/39/e293390c-c69d-24a2-f0be-508ed24506e2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/600x600wa.png" group-title="ESPAÑA PREMIUM",ESPAÑA | DAZN 4 VIP FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | DAZN 4 VIP FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e2/93/39/e293390c-c69d-24a2-f0be-508ed24506e2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/600x600wa.png" group-title="ESPAÑA PREMIUM",ESPAÑA | DAZN 4 VIP FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24895
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | CANAL ORANGE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/1200px-Orange_logo.svg.png" group-title="ESPAÑA PREMIUM",ESPAÑA | CANAL ORANGE FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | CANAL ORANGE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/1200px-Orange_logo.svg.png" group-title="ESPAÑA PREMIUM",ESPAÑA | CANAL ORANGE FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24896
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | CANAL SUR ANDALUCIA FHD" tvg-logo="https://static.epg.best/es/CanalAndalucia.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | CANAL SUR ANDALUCIA FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | CANAL SUR ANDALUCIA FHD" tvg-logo="https://static.epg.best/es/CanalAndalucia.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | CANAL SUR ANDALUCIA FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24897
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | CLAN FHD" tvg-logo="https://static.epg.best/es/ClanTVE.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | CLAN FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | CLAN FHD" tvg-logo="https://static.epg.best/es/ClanTVE.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | CLAN FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24898
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | DISCOVERY CHANNEL FHD" tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | DISCOVERY CHANNEL FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | DISCOVERY CHANNEL FHD" tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | DISCOVERY CHANNEL FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24899
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | DREAMWORKS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="ESPAÑA PREMIUM",ESPAÑA | DREAMWORKS FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | DREAMWORKS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="ESPAÑA PREMIUM",ESPAÑA | DREAMWORKS FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24900
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | EXTREMADURA FHD" tvg-logo="https://static.epg.best/es/CanalExtremadura.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | EXTREMADURA FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | EXTREMADURA FHD" tvg-logo="https://static.epg.best/es/CanalExtremadura.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | EXTREMADURA FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24901
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LA SEXTA FHD" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | LA SEXTA FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | LA SEXTA FHD" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | LA SEXTA FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24902
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR DEPORTE FHD" tvg-logo="https://static.epg.best/es/MDeportes1.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR DEPORTE FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR DEPORTE FHD" tvg-logo="https://static.epg.best/es/MDeportes1.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR DEPORTE FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24903
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR LA LIGA 3 FHD" tvg-logo="https://static.epg.best/es/MLaLiga3.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR LA LIGA 3 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR LA LIGA 3 FHD" tvg-logo="https://static.epg.best/es/MLaLiga3.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR LA LIGA 3 FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24904
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | NICKELODEON FHD" tvg-logo="https://static.epg.best/es/Nickelodeon.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | NICKELODEON FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | NICKELODEON FHD" tvg-logo="https://static.epg.best/es/Nickelodeon.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | NICKELODEON FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24905
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | SELEKT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Select_sport_logo.png" group-title="ESPAÑA PREMIUM",ESPAÑA | SELEKT FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | SELEKT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Select_sport_logo.png" group-title="ESPAÑA PREMIUM",ESPAÑA | SELEKT FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24906
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | TELEDEPORTE FHD" tvg-logo="https://static.epg.best/es/Teledeporte.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | TELEDEPORTE FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | TELEDEPORTE FHD" tvg-logo="https://static.epg.best/es/Teledeporte.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | TELEDEPORTE FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24907
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | TELEMADRID FHD" tvg-logo="https://static.epg.best/es/TeleMadrid.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | TELEMADRID FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | TELEMADRID FHD" tvg-logo="https://static.epg.best/es/TeleMadrid.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | TELEMADRID FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24908
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | TV GALICIA FHD" tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | TV GALICIA FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | TV GALICIA FHD" tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | TV GALICIA FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24909
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | VIAJAR FHD" tvg-logo="https://static.epg.best/es/Viajar.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | VIAJAR FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | VIAJAR FHD" tvg-logo="https://static.epg.best/es/Viajar.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | VIAJAR FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24910
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR GOLF FHD" tvg-logo="https://static.epg.best/es/MovistarGolf.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR GOLF FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | MOVISTAR GOLF FHD" tvg-logo="https://static.epg.best/es/MovistarGolf.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | MOVISTAR GOLF FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24911
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | A PUNT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/100px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png" group-title="ESPAÑA PREMIUM",ESPAÑA | A PUNT FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | A PUNT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/100px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png" group-title="ESPAÑA PREMIUM",ESPAÑA | A PUNT FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24912
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | DARK FHD" tvg-logo="https://static.epg.best/es/Dark.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | DARK FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | DARK FHD" tvg-logo="https://static.epg.best/es/Dark.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | DARK FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24913
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | DAZN 1 MOVISTAR FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e2/93/39/e293390c-c69d-24a2-f0be-508ed24506e2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/600x600wa.png" group-title="ESPAÑA PREMIUM",ESPAÑA | DAZN 1 MOVISTAR FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | DAZN 1 MOVISTAR FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e2/93/39/e293390c-c69d-24a2-f0be-508ed24506e2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/600x600wa.png" group-title="ESPAÑA PREMIUM",ESPAÑA | DAZN 1 MOVISTAR FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24914
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | DAZN 2 MOVISTAR FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e2/93/39/e293390c-c69d-24a2-f0be-508ed24506e2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/600x600wa.png" group-title="ESPAÑA PREMIUM",ESPAÑA | DAZN 2 MOVISTAR FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | DAZN 2 MOVISTAR FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e2/93/39/e293390c-c69d-24a2-f0be-508ed24506e2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/600x600wa.png" group-title="ESPAÑA PREMIUM",ESPAÑA | DAZN 2 MOVISTAR FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24915
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LA 2 FHD" tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | LA 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | LA 2 FHD" tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | LA 2 FHD
 http://apixeltv.com:8880/MARI2022/mari2022/24916
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ENERGY HD" tvg-logo="https://static.epg.best/es/Energy.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | ENERGY HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA | ENERGY HD" tvg-logo="https://static.epg.best/es/Energy.es.png" group-title="ESPAÑA PREMIUM",ESPAÑA | ENERGY HD
 http://apixeltv.com:8880/MARI2022/mari2022/24917
