@@ -1,553 +1,879 @@
 #EXTM3U
-#EXTINF:-1,SP: ----- SPAIN -----
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/135943
-#EXTINF:-1,ES: LA 1 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14476
-#EXTINF:-1,ES: LA 1 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220930
-#EXTINF:-1,ES: LA 1 HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240092
-#EXTINF:-1,ES: LA 2 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14475
-#EXTINF:-1,ES: LA 2 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277960
-#EXTINF:-1,ES: ANTENA 3 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14478
-#EXTINF:-1,ES: ANTENA 3 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240094
-#EXTINF:-1,ES: ANTENA 3 HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240093
-#EXTINF:-1,ES: CUATRO HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14473
-#EXTINF:-1,ES: CUATRO FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292569
-#EXTINF:-1,ES: CUATRO HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240095
-#EXTINF:-1,ES: TELECINCO HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14472
-#EXTINF:-1,ES: TELECINCO FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211124
-#EXTINF:-1,ES: TELECINCO HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240096
-#EXTINF:-1,ES: LA SEXTA HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14474
-#EXTINF:-1,ES: LA SEXTA FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292570
-#EXTINF:-1,ES: LA SEXTA HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240097
-#EXTINF:-1,ES: CANAL 24 HORAS HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292571
-#EXTINF:-1,ES: CANAL SUR ANDALUCIA
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/169730
-#EXTINF:-1,ES: ARAGON TV
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162339
-#EXTINF:-1,ES: ARAGON TV HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211177
-#EXTINF:-1,ES: CANAL 24 HORAS
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/136458
-#EXTINF:-1,ES: FOX NEWS
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162506
-#EXTINF:-1,ES: EXTREMADURA TV
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14456
-#EXTINF:-1,ES: TELEMADRID
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240099
-#EXTINF:-1,ES: CGTN ESPANHOL
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240138
-#EXTINF:-1,ES: DE PELICULA
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211118
-#EXTINF:-1,ES: TV GALICIA
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211105
-#EXTINF:-1,ES: TV3 Catalynia HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211108
-#EXTINF:-1,ES: TELESUR HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/278021
-#EXTINF:-1,ES: MARBELLA TV
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/278019
-#EXTINF:-1,ES: ANDALUCIA TV
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/278016
-#EXTINF:-1,ES: CANAL COIN
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/278009
-#EXTINF:-1,ES: 7RM
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/278007
-#EXTINF:-1,ES: 7RM FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/278006
-#EXTINF:-1,ES: TV3 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/278004
-#EXTINF:-1,ES: TV Galicia Europa HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277985
-#EXTINF:-1,ES: TV Galicia Infantil HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277983
-#EXTINF:-1,ES: TVE Internacional Europa HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/347412
-#EXTINF:-1,ES: ALCARRIA TV
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277979
-#EXTINF:-1,ES: INTERECONOMIA
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277977
-#EXTINF:-1,ES: INTERALMERIA FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277974
-#EXTINF:-1,ES: TVG HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/362504
-#EXTINF:-1,ES: TVG 2 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/362503
-#EXTINF:-1,ES: TVG MOMENTO HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/362509
-#EXTINF:-1,ES: TVG Infantil HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/362508
-#EXTINF:-1,ES: TVG Evento 1 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/362505
-#EXTINF:-1,ES: TVG CULTURAL HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/362506
-#EXTINF:-1,ES: CANAL 25 BARBASTRO TV
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277972
-#EXTINF:-1,ES: RTVC CANARIAS HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/328046
-#EXTINF:-1,ES: ETB SAT
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277965
-#EXTINF:-1,ES: ETB 2 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277963
-#EXTINF:-1,ES: DreamWorks FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292611
-#EXTINF:-1,ES: DreamWorks
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/329619
-#EXTINF:-1,SP: ----- CINE -----
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178155
-#EXTINF:-1,ES: XTRM HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/306442
-#EXTINF:-1,ES: MOVISTAR ESTRENOS HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/174638
-#EXTINF:-1,ES: MOVISTAR ESTRENOS FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211072
-#EXTINF:-1,ES: MOVISTAR ESTRENOS HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220956
-#EXTINF:-1,ES: MOVISTAR ESTRENOS 2 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/367879
-#EXTINF:-1,ES: MOVISTAR ESTRENOS 2 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292598
-#EXTINF:-1,ES: MOVISTAR ACCION HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277952
-#EXTINF:-1,ES: MOVISTAR ACCION FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/174636
-#EXTINF:-1,ES: M. ACCION HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/299332
-#EXTINF:-1,ES: MOVISTAR COMEDIA HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/174637
-#EXTINF:-1,ES: MOVISTAR COMEDIA FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211069
-#EXTINF:-1,ES: MOVISTAR DRAMA HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211176
-#EXTINF:-1,ES: MOVISTAR DRAMA FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277950
-#EXTINF:-1,ES: MOVISTAR DCINE HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14419
-#EXTINF:-1,ES: MOVISTAR DCINE FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211070
-#EXTINF:-1,ES: MOVISTAR CINEDOC / ROLL HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240114
-#EXTINF:-1,ES: MOVISTAR CLASICOS FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/375200
-#EXTINF:-1,ES: #0 HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/299329
-#EXTINF:-1,ES: HOLLYWOOD HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211179
-#EXTINF:-1,ES: HOLLYWOOD FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277942
-#EXTINF:-1,ES: HOLLYWOOD HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240112
-#EXTINF:-1,ES: TCM HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211180
-#EXTINF:-1,ES: TCM FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14423
-#EXTINF:-1,ES: SUNDANCE HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162519
-#EXTINF:-1,ES: SUNDANCE FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277939
-#EXTINF:-1,ES: EXTREMADURA TV HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292573
-#EXTINF:-1,ES: SOMOS HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292574
-#EXTINF:-1,ES: PARAMOUNT CHANNEL
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162448
-#EXTINF:-1,ES: MOVISTAR SERIES HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14417
-#EXTINF:-1,ES: MOVISTAR SERIES FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220959
-#EXTINF:-1,ES: M.SERIES HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/299331
-#EXTINF:-1,ES: MOVISTAR SERIES 2 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/367800
-#EXTINF:-1,ES: MOVISTAR SERIES 2 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/367799
-#EXTINF:-1,ES: MOVISTAR FEST FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/378507
-#EXTINF:-1,ES: CALLE 13 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/133322
-#EXTINF:-1,ES: CALLE 13 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211019
-#EXTINF:-1,ES: CALLE 13 HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240107
-#EXTINF:-1,ES: FOX HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14428
-#EXTINF:-1,ES: FOX FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14427
-#EXTINF:-1,ES: FOX HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240110
-#EXTINF:-1,ES: FOX LIFE HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14426
-#EXTINF:-1,ES: FOX LIFE FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211052
-#EXTINF:-1,ES: FOX LIFE HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240111
-#EXTINF:-1,ES: AXN HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14431
-#EXTINF:-1,ES: AXN FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162338
-#EXTINF:-1,ES: AXN HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240105
-#EXTINF:-1,ES: AXN WHITE HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14430
-#EXTINF:-1,ES: AXN WHITE FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211015
-#EXTINF:-1,ES: AXN WHITE HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240106
-#EXTINF:-1,ES: AMC HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162335
-#EXTINF:-1,ES: AMC FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211011
-#EXTINF:-1,ES: AMC HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240104
-#EXTINF:-1,ES: TNT HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162354
-#EXTINF:-1,ES: TNT FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211103
-#EXTINF:-1,ES: SYFY HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14424
-#EXTINF:-1,ES: SYFY FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292600
-#EXTINF:-1,ES: SYFY HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240117
-#EXTINF:-1,ES: COSMO HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211184
-#EXTINF:-1,ES: COSMO FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14466
-#EXTINF:-1,ES: COSMO HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240109
-#EXTINF:-1,ES: COMEDY CENTRAL HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14468
-#EXTINF:-1,ES: COMEDY CENTRAL FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211031
-#EXTINF:-1,ES: COMEDY CENTRAL HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240108
-#EXTINF:-1,ES: FDF
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211185
-#EXTINF:-1,ES: A3 SERIES HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211183
-#EXTINF:-1,ES: MEGA HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240098
-#EXTINF:-1,ES: ENERGY HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211044
-#EXTINF:-1,ES: DECASA HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211038
-#EXTINF:-1,ES: DECASA FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277957
-#EXTINF:-1,ES: CANAL COCINA HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/208274
-#EXTINF:-1,ES: CANAL COCINA FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277958
-#EXTINF:-1,ES: BE MAD HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/221680
-#EXTINF:-1,ES: BE MAD FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277959
-#EXTINF:-1,ES: BLAZE HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/208273
-#EXTINF:-1,ES: CANAL ODISEA HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14435
-#EXTINF:-1,ES: DIVINITY
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211042
-#EXTINF:-1,ES: NOVA HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14460
-#EXTINF:-1,ES: NEOX HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14446
-#EXTINF:-1,ES: MOVISTAR 0#
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277955
-#EXTINF:-1,ES: ALQUILER HD 1
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178652
-#EXTINF:-1,ES: ALQUILER HD 2
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178651
-#EXTINF:-1,ES: ALQUILER HD 3
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178650
-#EXTINF:-1,ES: ALQUILER HD 4
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178649
-#EXTINF:-1,ES: ALQUILER HD 5
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178648
-#EXTINF:-1,ES: ALQUILER HD 6
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178647
-#EXTINF:-1,ES: ALQUILER HD 7
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178646
-#EXTINF:-1,ES: ALQUILER HD 8
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178645
-#EXTINF:-1,ES: ALQUILER HD 9
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178644
-#EXTINF:-1,SP: ----- MUSIC -----
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178159
-#EXTINF:-1,ES: MTV
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211085
-#EXTINF:-1,ES: CLASSICA
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240121
-#EXTINF:-1,ES: MEZZO LIVE FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211062
-#EXTINF:-1,ES: MEZZO LIVE HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240120
-#EXTINF:-1,SP: ----- INFANTIL -----
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178160
-#EXTINF:-1,ES: DISNEY JR
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14448
-#EXTINF:-1,ES: DISNEY XD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211041
-#EXTINF:-1,ES: DISNEY CHANNEL HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292604
-#EXTINF:-1,ES: DISNEY CHANNEL FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/208278
-#EXTINF:-1,ES: DISNEY+
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/221676
-#EXTINF:-1,ES: NICKELODEON HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14445
-#EXTINF:-1,ES: NICKELODEON FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211091
-#EXTINF:-1,ES: NICKELODEON HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240126
-#EXTINF:-1,ES: NICK JR
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14444
-#EXTINF:-1,ES: CLAN HD (TVE)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211170
-#EXTINF:-1,ES: CLAN FHD (TVE)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/221677
-#EXTINF:-1,ES: BOING
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14450
-#EXTINF:-1,ES: CANAL PANDA
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/208276
-#EXTINF:-1,ES: BABY TV
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162490
-#EXTINF:-1,ES: IBERALIA TV HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277962
-#EXTINF:-1,ES: DKISS HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/217807
-#EXTINF:-1,ES: TEN
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/221682
-#EXTINF:-1,ES: CAZA Y PESCA HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14442
-#EXTINF:-1,ES: CAZA Y PESCA FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211030
-#EXTINF:-1,ES: CAZA Y PESCA HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240122
-#EXTINF:-1,SP: ----- DOCUMENTALES -----
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178158
-#EXTINF:-1,ES: HISTORIA HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14439
-#EXTINF:-1,ES: HISTORIA FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277961
-#EXTINF:-1,ES: CRIMEN+ INVESTIGACION
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14441
-#EXTINF:-1,ES: DISCOVERY CHANNEL HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14440
-#EXTINF:-1,ES: DISCOVERY CHANNEL FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292605
-#EXTINF:-1,ES: NATIONAL GEOGRAPHIC HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/221678
-#EXTINF:-1,ES: NATIONAL GEOGRAPHIC FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211088
-#EXTINF:-1,ES: NAT GEO HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240123
-#EXTINF:-1,ES: NATIONAL GEOGRAPHIC WILD HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/221679
-#EXTINF:-1,ES: NATIONAL GEOGRAPHIC WILD FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211090
-#EXTINF:-1,ES: NATIONAL GEO WILD HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240124
-#EXTINF:-1,ES: DMAX
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/221681
-#EXTINF:-1,ES: VIAJAR HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14434
-#EXTINF:-1,ES: VIAJAR FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211114
-#EXTINF:-1,SP: ----- DEPORTES -----
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178157
-#EXTINF:-1,ES: DAZN F1 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292610
-#EXTINF:-1,ES: DAZN F1 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/339519
-#EXTINF:-1,ES: DAZN 1 FHD.
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/314679
-#EXTINF:-1,ES: DAZN 1 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292616
-#EXTINF:-1,ES: DAZN 2 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/314680
-#EXTINF:-1,ES: DAZN 2 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292617
-#EXTINF:-1,ES: DAZN 3 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292612
-#EXTINF:-1,ES: DAZN 3
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292618
-#EXTINF:-1,ES: DAZN 4 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292613
-#EXTINF:-1,ES: DAZN 4 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292619
-#EXTINF:-1,ES: MOVISTAR VAMOS HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/210552
-#EXTINF:-1,ES: MOVISTAR VAMOS FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292628
-#EXTINF:-1,ES: MOVISTAR VAMOS HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240131
-#EXTINF:-1,ES: LA LIGA BAR HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220975
-#EXTINF:-1,ES: LA LIGA BAR FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220934
-#EXTINF:-1,ES: LA LIGA BAR HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240135
-#EXTINF:-1,ES: LA LIGA TV BAR 2 [LIVE-EVENT]
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220972
-#EXTINF:-1,ES: LA LIGA TV BAR 3 [LIVE-EVENT]
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220971
-#EXTINF:-1,ES: LA LIGA TV BAR 4 [LIVE-EVENT]
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220970
-#EXTINF:-1,ES: MOVISTAR LA LIGA HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220973
-#EXTINF:-1,ES: MOVISTAR LA LIGA FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220943
-#EXTINF:-1,ES: MOVISTAR LA LIGA HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240129
-#EXTINF:-1,ES: MOVISTAR LA LIGA 1 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211205
-#EXTINF:-1,ES: MOVISTAR LA LIGA 1 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211202
-#EXTINF:-1,ES: MOVISTAR LA LIGA 1 HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240130
-#EXTINF:-1,ES: MOVISTAR LA LIGA 2 HD  (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220962
-#EXTINF:-1,ES: MOVISTAR LA LIGA 2 FHD  (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211203
-#EXTINF:-1,ES: MOVISTAR LA LIGA 3 HD [Solo Eventos]
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220961
-#EXTINF:-1,ES: MOVISTAR LA LIGA 3 FHD  (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211204
-#EXTINF:-1,ES: MOVISTAR LA LIGA 4 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211201
-#EXTINF:-1,ES: MOVISTAR LA LIGA 5 HD  (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220944
-#EXTINF:-1,ES: MOVISTAR LA LIGA 7 HD  (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220964
-#EXTINF:-1,ES: MOVISTAR LA LIGA 6 HD  (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220960
-#EXTINF:-1,ES: MOVISTAR LA LIGA 8 HD  (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220963
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220938
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220937
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240134
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 1 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211192
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 1 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211144
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 2 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211193
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 2 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220953
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 3 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211194
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 3 FHD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220954
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 4 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211195
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 5 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211196
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 6 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211197
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 7 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211198
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 8 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211199
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 9 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211200
-#EXTINF:-1,ES: MOVISTAR DEPORTES HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211187
-#EXTINF:-1,ES: MOVISTAR DEPORTES FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220967
-#EXTINF:-1,ES: MOVISTAR DEPORTES HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240132
-#EXTINF:-1,ES: MOVISTAR DEPORTE 1 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220940
-#EXTINF:-1,ES: MOVISTAR DEPORTES 1 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292670
-#EXTINF:-1,ES: MOVISTAR DEPORTES 1 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240133
-#EXTINF:-1,ES: MOVISTAR DEPORTES 2
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/330768
-#EXTINF:-1,ES: MOVISTAR DEPORTE 2 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220941
-#EXTINF:-1,ES: MOVISTAR DEPORTES 2 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292669
-#EXTINF:-1,ES: MOVISTAR DEPORTES 3 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292668
-#EXTINF:-1,ES: MOVISTAR DEPORTES 4 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292667
-#EXTINF:-1,ES: MOVISTAR DEPORTES 5 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292666
-#EXTINF:-1,ES: MOVISTAR DEPORTES 6 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292665
-#EXTINF:-1,ES: MOVISTAR DEPORTES 7 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292664
-#EXTINF:-1,ES: MOVISTAR MULTIDEPORTE HD/FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/174639
-#EXTINF:-1,ES: M.LCAMPEON 1
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/330769
-#EXTINF:-1,ES: M.LCAMPEON 2
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/330770
-#EXTINF:-1,ES: M.LCAMPEON 3
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/332198
-#EXTINF:-1,ES: M.LCAMPEON 4
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/332199
-#EXTINF:-1,ES: EUROSPORT 1 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14410
-#EXTINF:-1,ES: EUROSPORT 1 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/164680
-#EXTINF:-1,ES: EUROSPORT1 HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240128
-#EXTINF:-1,ES: EUROSPORT 2
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211210
-#EXTINF:-1,ES: EUROSPORT 2 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220935
-#EXTINF:-1,ES: MOVISTAR FORMULA 1 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14405
-#EXTINF:-1,ES: MOVISTAR FORMULA 1 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220955
-#EXTINF:-1,ES: MOVISTAR FORMULA 1 HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240137
-#EXTINF:-1,ES: MOVISTAR GOLF HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14402
-#EXTINF:-1,ES: MOVISTAR GOLF FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211076
-#EXTINF:-1,ES: MOVISTAR GOLF HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240136
-#EXTINF:-1,ES: BARCA TV HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14399
-#EXTINF:-1,ES: BARCA TV FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292671
-#EXTINF:-1,ES: REAL MADRID TV
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14398
-#EXTINF:-1,ES: REAL MADRID TV HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211095
-#EXTINF:-1,ES: GOL TV HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211053
-#EXTINF:-1,ES: GOL TV FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/208275
-#EXTINF:-1,ES: TELEDEPORTE HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178734
-#EXTINF:-1,ES: TELEDEPORTE FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211126
-#EXTINF:-1,ES: MOVISTAR TOROS HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211104
-#EXTINF:-1,ES: MOVISTAR TOROS FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/13908
-#EXTINF:-1,ES: MOVISTAR TOROS HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240127
+#EXTINF:-1,PORTADA M+
+http://2022spn.net:8080/miguelangel/21041978/4784
+#EXTINF:-1,LA 1 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4785
+#EXTINF:-1,LA 1 HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4786
+#EXTINF:-1,LA 1 SD
+http://2022spn.net:8080/miguelangel/21041978/4787
+#EXTINF:-1,LA 2 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4788
+#EXTINF:-1,LA 2 HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4789
+#EXTINF:-1,LA 2 SD
+http://2022spn.net:8080/miguelangel/21041978/4790
+#EXTINF:-1,ANTENA 3 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4791
+#EXTINF:-1,ANTENA 3 HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4792
+#EXTINF:-1,ANTENA 3 SD
+http://2022spn.net:8080/miguelangel/21041978/4793
+#EXTINF:-1,CUATRO HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4794
+#EXTINF:-1,CUATRO HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4795
+#EXTINF:-1,CUATRO SD
+http://2022spn.net:8080/miguelangel/21041978/4796
+#EXTINF:-1,TELECINCO HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4797
+#EXTINF:-1,TELECINCO HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4798
+#EXTINF:-1,TELECINCO SD
+http://2022spn.net:8080/miguelangel/21041978/4799
+#EXTINF:-1,LA SEXTA HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4800
+#EXTINF:-1,LA SEXTA HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4801
+#EXTINF:-1,LA SEXTA SD
+http://2022spn.net:8080/miguelangel/21041978/4802
+#EXTINF:-1,TEN SD
+http://2022spn.net:8080/miguelangel/21041978/4803
+#EXTINF:-1,DKISS HD
+http://2022spn.net:8080/miguelangel/21041978/4804
+#EXTINF:-1,BE MAD HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4805
+#EXTINF:-1,BE MAD HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4806
+#EXTINF:-1,BE MAD SD
+http://2022spn.net:8080/miguelangel/21041978/4807
+#EXTINF:-1,ATRESERIES HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4808
+#EXTINF:-1,ATRESERIES HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4809
+#EXTINF:-1,ATRESERIES SD
+http://2022spn.net:8080/miguelangel/21041978/4810
+#EXTINF:-1,NEOX HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4811
+#EXTINF:-1,NEOX HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4812
+#EXTINF:-1,NEOX SD
+http://2022spn.net:8080/miguelangel/21041978/4813
+#EXTINF:-1,NOVA HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4814
+#EXTINF:-1,NOVA HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4815
+#EXTINF:-1,NOVA SD
+http://2022spn.net:8080/miguelangel/21041978/4816
+#EXTINF:-1,ENERGY HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4817
+#EXTINF:-1,ENERGY HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4818
+#EXTINF:-1,ENERGY SD
+http://2022spn.net:8080/miguelangel/21041978/4819
+#EXTINF:-1,DIVINITY HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4820
+#EXTINF:-1,DIVINITY HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4821
+#EXTINF:-1,DIVINITY SD
+http://2022spn.net:8080/miguelangel/21041978/4822
+#EXTINF:-1,FDF HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4823
+#EXTINF:-1,FDF HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4824
+#EXTINF:-1,FDF SD
+http://2022spn.net:8080/miguelangel/21041978/4825
+#EXTINF:-1,MEGA HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4826
+#EXTINF:-1,MEGA HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4827
+#EXTINF:-1,MEGA SD
+http://2022spn.net:8080/miguelangel/21041978/4828
+#EXTINF:-1,#0 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4829
+#EXTINF:-1,#0 HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4830
+#EXTINF:-1,#0 SD
+http://2022spn.net:8080/miguelangel/21041978/4831
+#EXTINF:-1,MOVISTAR SERIES HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4832
+#EXTINF:-1,MOVISTAR SERIES HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4833
+#EXTINF:-1,MOVISTAR SERIES SD
+http://2022spn.net:8080/miguelangel/21041978/4834
+#EXTINF:-1,MOVISTAR SERIES 2 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4835
+#EXTINF:-1,MOVISTAR SERIES 2 HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4836
+#EXTINF:-1,MOVISTAR SERIES 2 SD
+http://2022spn.net:8080/miguelangel/21041978/4837
+#EXTINF:-1,MOVISTAR LA RESISTENCIA HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4838
+#EXTINF:-1,MOVISTAR LA RESISTENCIA HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4839
+#EXTINF:-1,MOVISTAR LA RESISTENCIA SD
+http://2022spn.net:8080/miguelangel/21041978/4840
+#EXTINF:-1,MOVISTAR OSCARS HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4841
+#EXTINF:-1,MOVISTAR OSCARS SD
+http://2022spn.net:8080/miguelangel/21041978/4842
+#EXTINF:-1,ALL FLAMENCO
+http://2022spn.net:8080/miguelangel/21041978/11192
+#EXTINF:-1,MOVISTAR ACCION HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4843
+#EXTINF:-1,MOVISTAR ACCION HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4844
+#EXTINF:-1,MOVISTAR ACCION SD
+http://2022spn.net:8080/miguelangel/21041978/4845
+#EXTINF:-1,MOVISTAR ESTRENOS HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4846
+#EXTINF:-1,MOVISTAR ESTRENOS HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4847
+#EXTINF:-1,MOVISTAR ESTRENOS SD
+http://2022spn.net:8080/miguelangel/21041978/4848
+#EXTINF:-1,MOVISTAR ESTRENOS 2 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4849
+#EXTINF:-1,MOVISTAR ESTRENOS 2 HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4850
+#EXTINF:-1,MOVISTAR ESTRENOS 2 SD
+http://2022spn.net:8080/miguelangel/21041978/4851
+#EXTINF:-1,MOVISTAR CLASICOS HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4852
+#EXTINF:-1,MOVISTAR CLASICOS HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4853
+#EXTINF:-1,MOVISTAR CLASICOS SD
+http://2022spn.net:8080/miguelangel/21041978/4854
+#EXTINF:-1,MOVISTAR COMEDIA HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4855
+#EXTINF:-1,MOVISTAR COMEDIA HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4856
+#EXTINF:-1,MOVISTAR COMEDIA SD
+http://2022spn.net:8080/miguelangel/21041978/4857
+#EXTINF:-1,MOVISTAR DRAMA 1080P
+http://2022spn.net:8080/miguelangel/21041978/4858
+#EXTINF:-1,MOVISTAR DRAMA HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4859
+#EXTINF:-1,MOVISTAR DRAMA SD
+http://2022spn.net:8080/miguelangel/21041978/4860
+#EXTINF:-1,MOVISTAR CINE Ñ HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4861
+#EXTINF:-1,MOVISTAR CINE Ñ SD
+http://2022spn.net:8080/miguelangel/21041978/4862
+#EXTINF:-1,MOVISTAR FEST HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4863
+#EXTINF:-1,FOX HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4864
+#EXTINF:-1,FOX HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4865
+#EXTINF:-1,FOX SD
+http://2022spn.net:8080/miguelangel/21041978/4866
+#EXTINF:-1,AXN HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4867
+#EXTINF:-1,AXN HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4868
+#EXTINF:-1,AXN SD
+http://2022spn.net:8080/miguelangel/21041978/4869
+#EXTINF:-1,AXN WHITE HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4870
+#EXTINF:-1,AXN WHITE HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4871
+#EXTINF:-1,AXN WHITE SD
+http://2022spn.net:8080/miguelangel/21041978/4872
+#EXTINF:-1,TNT HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4873
+#EXTINF:-1,TNT HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4874
+#EXTINF:-1,TNT SD
+http://2022spn.net:8080/miguelangel/21041978/4875
+#EXTINF:-1,COMEDY CENTRAL HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4876
+#EXTINF:-1,COMEDY CENTRAL HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4877
+#EXTINF:-1,COMEDY CENTRAL SD
+http://2022spn.net:8080/miguelangel/21041978/4878
+#EXTINF:-1,CALLE 13 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4879
+#EXTINF:-1,CALLE 13 HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4880
+#EXTINF:-1,CALLE 13 SD
+http://2022spn.net:8080/miguelangel/21041978/4881
+#EXTINF:-1,COSMO HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4882
+#EXTINF:-1,COSMO HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4883
+#EXTINF:-1,COSMO SD
+http://2022spn.net:8080/miguelangel/21041978/4884
+#EXTINF:-1,AMC HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4885
+#EXTINF:-1,AMC HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4886
+#EXTINF:-1,AMC SD
+http://2022spn.net:8080/miguelangel/21041978/4887
+#EXTINF:-1,SYFY HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4888
+#EXTINF:-1,SYFY HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4889
+#EXTINF:-1,SYFY SD
+http://2022spn.net:8080/miguelangel/21041978/4890
+#EXTINF:-1,TCM HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4891
+#EXTINF:-1,TCM HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4892
+#EXTINF:-1,TCM SD
+http://2022spn.net:8080/miguelangel/21041978/4893
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://2022spn.net:8080/miguelangel/21041978/4894
+#EXTINF:-1,BOM CINE HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4895
+#EXTINF:-1,BOM CINE SD
+http://2022spn.net:8080/miguelangel/21041978/4896
+#EXTINF:-1,SOMOS HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4897
+#EXTINF:-1,XTRM HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4898
+#EXTINF:-1,SUNDANCE HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4899
+#EXTINF:-1,SUNDANCE SD
+http://2022spn.net:8080/miguelangel/21041978/4900
+#EXTINF:-1,HOLLYWOOD HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4901
+#EXTINF:-1,HOLLYWOOD HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4902
+#EXTINF:-1,HOLLYWOOD SD
+http://2022spn.net:8080/miguelangel/21041978/4903
+#EXTINF:-1,DARK RED HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4904
+#EXTINF:-1,ALQUILER 1 HD
+http://2022spn.net:8080/miguelangel/21041978/4905
+#EXTINF:-1,ALQUILER 2 HD
+http://2022spn.net:8080/miguelangel/21041978/4906
+#EXTINF:-1,ALQUILER 3 HD
+http://2022spn.net:8080/miguelangel/21041978/4907
+#EXTINF:-1,ALQUILER 4 HD
+http://2022spn.net:8080/miguelangel/21041978/4908
+#EXTINF:-1,ALQUILER 5 HD
+http://2022spn.net:8080/miguelangel/21041978/4909
+#EXTINF:-1,MOVISTAR LA LIGA UHD 4K
+http://2022spn.net:8080/miguelangel/21041978/4910
+#EXTINF:-1,MOVISTAR LA LIGA HD 1080P (H.265)
+http://2022spn.net:8080/miguelangel/21041978/4911
+#EXTINF:-1,MOVISTAR LA LIGA HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4912
+#EXTINF:-1,MOVISTAR LA LIGA HD 1080P B
+http://2022spn.net:8080/miguelangel/21041978/4913
+#EXTINF:-1,MOVISTAR LA LIGA HD 1080P (FIBRA)
+http://2022spn.net:8080/miguelangel/21041978/4914
+#EXTINF:-1,MOVISTAR LA LIGA HD 1080P (FIBRA 2)
+http://2022spn.net:8080/miguelangel/21041978/4915
+#EXTINF:-1,MOVISTAR LA LIGA HD 1080P (FIBRA 3)
+http://2022spn.net:8080/miguelangel/21041978/4916
+#EXTINF:-1,MOVISTAR LA LIGA HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4917
+#EXTINF:-1,MOVISTAR LA LIGA SD
+http://2022spn.net:8080/miguelangel/21041978/4918
+#EXTINF:-1,LA LIGA TV BAR HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4919
+#EXTINF:-1,LA LIGA TV BAR HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4920
+#EXTINF:-1,LA LIGA TV BAR SD
+http://2022spn.net:8080/miguelangel/21041978/4921
+#EXTINF:-1,#VAMOS HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4922
+#EXTINF:-1,#VAMOS HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4923
+#EXTINF:-1,#VAMOS SD
+http://2022spn.net:8080/miguelangel/21041978/4924
+#EXTINF:-1,MOVISTAR ELLAS #V HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/11140
+#EXTINF:-1,GOL TV HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4925
+#EXTINF:-1,GOL TV SD
+http://2022spn.net:8080/miguelangel/21041978/4926
+#EXTINF:-1,MOVISTAR DEPORTES HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4927
+#EXTINF:-1,MOVISTAR DEPORTES HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4928
+#EXTINF:-1,MOVISTAR DEPORTES SD
+http://2022spn.net:8080/miguelangel/21041978/4929
+#EXTINF:-1,DAZN F1 UHD 4K
+http://2022spn.net:8080/miguelangel/21041978/4930
+#EXTINF:-1,DAZN F1 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4931
+#EXTINF:-1,DAZN F1 HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4932
+#EXTINF:-1,DAZN F1 SD
+http://2022spn.net:8080/miguelangel/21041978/4933
+#EXTINF:-1,MOVISTAR GOLF HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4934
+#EXTINF:-1,MOVISTAR GOLF HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4935
+#EXTINF:-1,MOVISTAR GOLF SD
+http://2022spn.net:8080/miguelangel/21041978/4936
+#EXTINF:-1,MOVISTAR DAZN 1 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4937
+#EXTINF:-1,MOVISTAR DAZN 2 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4938
+#EXTINF:-1,MOVISTAR DAZN 3 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4939
+#EXTINF:-1,MOVISTAR DAZN 4 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4940
+#EXTINF:-1,EUROSPORT 1 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4941
+#EXTINF:-1,EUROSPORT 1 SD
+http://2022spn.net:8080/miguelangel/21041978/4942
+#EXTINF:-1,EUROSPORT 2 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4943
+#EXTINF:-1,EUROSPORT 2 SD
+http://2022spn.net:8080/miguelangel/21041978/4944
+#EXTINF:-1,TELEDEPORTE HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4945
+#EXTINF:-1,TELEDEPORTE SD
+http://2022spn.net:8080/miguelangel/21041978/4946
+#EXTINF:-1,REAL MADRID TV HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4947
+#EXTINF:-1,REAL MADRID TV SD
+http://2022spn.net:8080/miguelangel/21041978/4948
+#EXTINF:-1,BARCA TV HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4949
+#EXTINF:-1,BARCA TV SD
+http://2022spn.net:8080/miguelangel/21041978/4950
+#EXTINF:-1,U-BEAT HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4951
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES HD 1080P (H.265)
+http://2022spn.net:8080/miguelangel/21041978/11193
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES FHD
+http://2022spn.net:8080/miguelangel/21041978/4952
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4953
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES HD 1080P B
+http://2022spn.net:8080/miguelangel/21041978/4954
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES HD 1080P (FIBRA)
+http://2022spn.net:8080/miguelangel/21041978/4955
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES HD 1080P (FIBRA 2)
+http://2022spn.net:8080/miguelangel/21041978/4956
+#EXTINF:-1,LIGA CAMPEONES FIBRA 3 ORANGE
+http://2022spn.net:8080/miguelangel/21041978/11139
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES HD 720P
+http://2022spn.net:8080/miguelangel/21041978/4957
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES SD
+http://2022spn.net:8080/miguelangel/21041978/4958
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 1 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4959
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 1 SD
+http://2022spn.net:8080/miguelangel/21041978/4960
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 2 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4961
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 2 SD
+http://2022spn.net:8080/miguelangel/21041978/4962
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 3 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4963
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 3 SD
+http://2022spn.net:8080/miguelangel/21041978/4964
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 4 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4965
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 4 SD
+http://2022spn.net:8080/miguelangel/21041978/4966
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 5 SD
+http://2022spn.net:8080/miguelangel/21041978/4967
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 6 SD
+http://2022spn.net:8080/miguelangel/21041978/4968
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 7 SD
+http://2022spn.net:8080/miguelangel/21041978/4969
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 8 SD
+http://2022spn.net:8080/miguelangel/21041978/4970
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 9 SD
+http://2022spn.net:8080/miguelangel/21041978/4971
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 10 SD
+http://2022spn.net:8080/miguelangel/21041978/4972
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 11 SD
+http://2022spn.net:8080/miguelangel/21041978/4973
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 12 SD
+http://2022spn.net:8080/miguelangel/21041978/4974
+#EXTINF:-1,MOVISTAR LA LIGA 1 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4975
+#EXTINF:-1,MOVISTAR LA LIGA 1 HD 1080P (FIBRA)
+http://2022spn.net:8080/miguelangel/21041978/4976
+#EXTINF:-1,MOVISTAR LA LIGA 1 SD
+http://2022spn.net:8080/miguelangel/21041978/4977
+#EXTINF:-1,MOVISTAR LA LIGA 2 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4978
+#EXTINF:-1,MOVISTAR LA LIGA 2 SD
+http://2022spn.net:8080/miguelangel/21041978/4979
+#EXTINF:-1,MOVISTAR LA LIGA 3 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4980
+#EXTINF:-1,MOVISTAR LA LIGA 3 SD
+http://2022spn.net:8080/miguelangel/21041978/4981
+#EXTINF:-1,MOVISTAR LA LIGA 4 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4982
+#EXTINF:-1,MOVISTAR LA LIGA 4 SD
+http://2022spn.net:8080/miguelangel/21041978/4983
+#EXTINF:-1,MOVISTAR LA LIGA 5 SD
+http://2022spn.net:8080/miguelangel/21041978/4984
+#EXTINF:-1,MOVISTAR LA LIGA 6 SD
+http://2022spn.net:8080/miguelangel/21041978/4985
+#EXTINF:-1,MOVISTAR LA LIGA 7 SD
+http://2022spn.net:8080/miguelangel/21041978/4986
+#EXTINF:-1,MOVISTAR LA LIGA 8 SD
+http://2022spn.net:8080/miguelangel/21041978/4987
+#EXTINF:-1,MOVISTAR LA LIGA 9 SD
+http://2022spn.net:8080/miguelangel/21041978/4988
+#EXTINF:-1,MOVISTAR LA LIGA 10 SD
+http://2022spn.net:8080/miguelangel/21041978/4989
+#EXTINF:-1,MOVISTAR DEPORTES 1 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4990
+#EXTINF:-1,MOVISTAR DEPORTES 1 SD
+http://2022spn.net:8080/miguelangel/21041978/4991
+#EXTINF:-1,MOVISTAR DEPORTES 2 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4992
+#EXTINF:-1,MOVISTAR DEPORTES 2 SD
+http://2022spn.net:8080/miguelangel/21041978/4993
+#EXTINF:-1,MOVISTAR DEPORTES 3 HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/4994
+#EXTINF:-1,MOVISTAR DEPORTES 3 SD
+http://2022spn.net:8080/miguelangel/21041978/4995
+#EXTINF:-1,MOVISTAR DEPORTES 4 SD
+http://2022spn.net:8080/miguelangel/21041978/4996
+#EXTINF:-1,MOVISTAR DEPORTES 5 SD
+http://2022spn.net:8080/miguelangel/21041978/4997
+#EXTINF:-1,MOVISTAR DEPORTES 6 SD
+http://2022spn.net:8080/miguelangel/21041978/4998
+#EXTINF:-1,MOVISTAR DEPORTES 7 SD
+http://2022spn.net:8080/miguelangel/21041978/4999
+#EXTINF:-1,DREAMWORKS HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/5000
+#EXTINF:-1,DREAMWORKS HD 720P
+http://2022spn.net:8080/miguelangel/21041978/5001
+#EXTINF:-1,DREAMWORKS SD
+http://2022spn.net:8080/miguelangel/21041978/5002
+#EXTINF:-1,CLAN TVE HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/5003
+#EXTINF:-1,CLAN TVE HD 720P
+http://2022spn.net:8080/miguelangel/21041978/5004
+#EXTINF:-1,CLAN TVE SD
+http://2022spn.net:8080/miguelangel/21041978/5005
+#EXTINF:-1,BOING HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/5006
+#EXTINF:-1,BOING HD 720P
+http://2022spn.net:8080/miguelangel/21041978/5007
+#EXTINF:-1,BOING SD
+http://2022spn.net:8080/miguelangel/21041978/5008
+#EXTINF:-1,BABY TV SD
+http://2022spn.net:8080/miguelangel/21041978/5009
+#EXTINF:-1,DISNEY JR HD 720P
+http://2022spn.net:8080/miguelangel/21041978/5010
+#EXTINF:-1,DISNEY JUNIOR SD
+http://2022spn.net:8080/miguelangel/21041978/5011
+#EXTINF:-1,CANAL PANDA HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/5012
+#EXTINF:-1,CANAL PANDA HD 720P
+http://2022spn.net:8080/miguelangel/21041978/5013
+#EXTINF:-1,CANAL PANDA SD
+http://2022spn.net:8080/miguelangel/21041978/5014
+#EXTINF:-1,NICK JR HD 720P
+http://2022spn.net:8080/miguelangel/21041978/5015
+#EXTINF:-1,NICK JR SD
+http://2022spn.net:8080/miguelangel/21041978/5016
+#EXTINF:-1,NICKELODEON HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/5017
+#EXTINF:-1,NICKELODEON HD 720P
+http://2022spn.net:8080/miguelangel/21041978/5018
+#EXTINF:-1,NICKELODEON SD
+http://2022spn.net:8080/miguelangel/21041978/5019
+#EXTINF:-1,DISNEY CHANNEL HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/5020
+#EXTINF:-1,DISNEY CHANNEL HD 720P
+http://2022spn.net:8080/miguelangel/21041978/5021
+#EXTINF:-1,DISNEY CHANNEL SD
+http://2022spn.net:8080/miguelangel/21041978/5022
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/5182
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD 720P
+http://2022spn.net:8080/miguelangel/21041978/5183
+#EXTINF:-1,NATIONAL GEOGRAPHIC SD
+http://2022spn.net:8080/miguelangel/21041978/5184
+#EXTINF:-1,NAT GEO WILD HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/5185
+#EXTINF:-1,NAT GEO WILD HD 720P
+http://2022spn.net:8080/miguelangel/21041978/5186
+#EXTINF:-1,NAT GEO WILD SD
+http://2022spn.net:8080/miguelangel/21041978/5187
+#EXTINF:-1,HISTORIA HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/5188
+#EXTINF:-1,HISTORIA HD 720P
+http://2022spn.net:8080/miguelangel/21041978/5189
+#EXTINF:-1,HISTORIA SD
+http://2022spn.net:8080/miguelangel/21041978/5190
+#EXTINF:-1,NEGOCIOS TV SD
+http://2022spn.net:8080/miguelangel/21041978/5191
+#EXTINF:-1,DISCOVERY MAX SD
+http://2022spn.net:8080/miguelangel/21041978/5192
+#EXTINF:-1,DISCOVERY CHANNEL HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/5193
+#EXTINF:-1,DISCOVERY CHANNEL SD
+http://2022spn.net:8080/miguelangel/21041978/5194
+#EXTINF:-1,ODISEA UHD 4K
+http://2022spn.net:8080/miguelangel/21041978/5195
+#EXTINF:-1,ODISEA HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/5196
+#EXTINF:-1,ODISEA SD
+http://2022spn.net:8080/miguelangel/21041978/5197
+#EXTINF:-1,HORSE TV SD
+http://2022spn.net:8080/miguelangel/21041978/5198
+#EXTINF:-1,CAZA Y PESCA HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/5199
+#EXTINF:-1,CAZA Y PESCA HD 720P
+http://2022spn.net:8080/miguelangel/21041978/5200
+#EXTINF:-1,CAZA Y PESCA SD
+http://2022spn.net:8080/miguelangel/21041978/5201
+#EXTINF:-1,CAZAVISIÓN SD
+http://2022spn.net:8080/miguelangel/21041978/5202
+#EXTINF:-1,IBERALIA TV HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/5203
+#EXTINF:-1,IBERALIA TV SD
+http://2022spn.net:8080/miguelangel/21041978/5204
+#EXTINF:-1,IBERALIA 100% CAZA HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/5205
+#EXTINF:-1,IBERALIA 100% PESCA HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/5206
+#EXTINF:-1,NAUTICAL CHANNEL SD
+http://2022spn.net:8080/miguelangel/21041978/5207
+#EXTINF:-1,TOROS TV HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/5208
+#EXTINF:-1,TOROS TV HD 720P
+http://2022spn.net:8080/miguelangel/21041978/5209
+#EXTINF:-1,TOROS TV SD
+http://2022spn.net:8080/miguelangel/21041978/5210
+#EXTINF:-1,BLAZE HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/5211
+#EXTINF:-1,Blaze SD
+http://2022spn.net:8080/miguelangel/21041978/5212
+#EXTINF:-1,CRIMEN+INVESTIGACION HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/5213
+#EXTINF:-1,CRIMEN+INVESTIGACION SD
+http://2022spn.net:8080/miguelangel/21041978/5214
+#EXTINF:-1,CANAL COCINA HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/5215
+#EXTINF:-1,CANAL COCINA SD
+http://2022spn.net:8080/miguelangel/21041978/5216
+#EXTINF:-1,CANAL DECASA HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/5217
+#EXTINF:-1,CANAL DECASA SD
+http://2022spn.net:8080/miguelangel/21041978/5218
+#EXTINF:-1,24H TVE HD 1080P
+http://2022spn.net:8080/miguelangel/21041978/5219
+#EXTINF:-1,24H TVE
+http://2022spn.net:8080/miguelangel/21041978/5220
+#EXTINF:-1,EL TORO TV HD 720P
+http://2022spn.net:8080/miguelangel/21041978/5221
+#EXTINF:-1,TRECE tv
+http://2022spn.net:8080/miguelangel/21041978/5222
+#EXTINF:-1,Canal Sur Andalucía
+http://2022spn.net:8080/miguelangel/21041978/10966
+#EXTINF:-1,Canal Sur 2 Andalucía
+http://2022spn.net:8080/miguelangel/21041978/10967
+#EXTINF:-1,101TV Málaga
+http://2022spn.net:8080/miguelangel/21041978/10968
+#EXTINF:-1,El Correo de Andalucía
+http://2022spn.net:8080/miguelangel/21041978/10969
+#EXTINF:-1,Onda Cádiz
+http://2022spn.net:8080/miguelangel/21041978/10970
+#EXTINF:-1,Mijas 3.40 TV
+http://2022spn.net:8080/miguelangel/21041978/10971
+#EXTINF:-1,Córdoba TV
+http://2022spn.net:8080/miguelangel/21041978/10972
+#EXTINF:-1,PTV Málaga
+http://2022spn.net:8080/miguelangel/21041978/10973
+#EXTINF:-1,M95 Marbella
+http://2022spn.net:8080/miguelangel/21041978/10974
+#EXTINF:-1,Canal Sierra de Cádiz HD
+http://2022spn.net:8080/miguelangel/21041978/10975
+#EXTINF:-1,Canal Sierra de Cádiz HD
+http://2022spn.net:8080/miguelangel/21041978/10976
+#EXTINF:-1,Canal Sierra de Cádiz SD
+http://2022spn.net:8080/miguelangel/21041978/10977
+#EXTINF:-1,Costa Noroeste TV
+http://2022spn.net:8080/miguelangel/21041978/10978
+#EXTINF:-1,Condavisión
+http://2022spn.net:8080/miguelangel/21041978/10979
+#EXTINF:-1,Teleonuba
+http://2022spn.net:8080/miguelangel/21041978/10980
+#EXTINF:-1,CanalCosta
+http://2022spn.net:8080/miguelangel/21041978/10981
+#EXTINF:-1,Interalmería TV
+http://2022spn.net:8080/miguelangel/21041978/10982
+#EXTINF:-1,TV Centro Andalucía
+http://2022spn.net:8080/miguelangel/21041978/10983
+#EXTINF:-1,Lebrija TV
+http://2022spn.net:8080/miguelangel/21041978/10984
+#EXTINF:-1,8 La Janda
+http://2022spn.net:8080/miguelangel/21041978/10985
+#EXTINF:-1,Onda Algeciras TV
+http://2022spn.net:8080/miguelangel/21041978/10986
+#EXTINF:-1,Estepona TV
+http://2022spn.net:8080/miguelangel/21041978/10987
+#EXTINF:-1,OndaMezquita TV
+http://2022spn.net:8080/miguelangel/21041978/10988
+#EXTINF:-1,Canal Doñana
+http://2022spn.net:8080/miguelangel/21041978/10989
+#EXTINF:-1,Torrevisión
+http://2022spn.net:8080/miguelangel/21041978/10990
+#EXTINF:-1,Diez TV
+http://2022spn.net:8080/miguelangel/21041978/10991
+#EXTINF:-1,Marbella TV
+http://2022spn.net:8080/miguelangel/21041978/10992
+#EXTINF:-1,Cadena Elite Granada
+http://2022spn.net:8080/miguelangel/21041978/10993
+#EXTINF:-1,Montilla Televisión
+http://2022spn.net:8080/miguelangel/21041978/10994
+#EXTINF:-1,9 la Loma TV
+http://2022spn.net:8080/miguelangel/21041978/10995
+#EXTINF:-1,CostadelSol TV
+http://2022spn.net:8080/miguelangel/21041978/10996
+#EXTINF:-1,PTV Córdoba
+http://2022spn.net:8080/miguelangel/21041978/10997
+#EXTINF:-1,SalTV
+http://2022spn.net:8080/miguelangel/21041978/10998
+#EXTINF:-1,Canal Málaga
+http://2022spn.net:8080/miguelangel/21041978/10999
+#EXTINF:-1,101TV Antequera
+http://2022spn.net:8080/miguelangel/21041978/11000
+#EXTINF:-1,TVM Córdoba
+http://2022spn.net:8080/miguelangel/21041978/11001
+#EXTINF:-1,Tele Gilena
+http://2022spn.net:8080/miguelangel/21041978/11002
+#EXTINF:-1,Cancionero TV
+http://2022spn.net:8080/miguelangel/21041978/11003
+#EXTINF:-1,Canal Coín
+http://2022spn.net:8080/miguelangel/21041978/11004
+#EXTINF:-1,Trebujena TV
+http://2022spn.net:8080/miguelangel/21041978/11005
+#EXTINF:-1,Aragón TV
+http://2022spn.net:8080/miguelangel/21041978/11006
+#EXTINF:-1,Huesca TV
+http://2022spn.net:8080/miguelangel/21041978/11007
+#EXTINF:-1,La Tele TV
+http://2022spn.net:8080/miguelangel/21041978/11008
+#EXTINF:-1,Canal 25 Barbastro TV
+http://2022spn.net:8080/miguelangel/21041978/11009
+#EXTINF:-1,Telemadrid
+http://2022spn.net:8080/miguelangel/21041978/11010
+#EXTINF:-1,Webcam OndaMadrid
+http://2022spn.net:8080/miguelangel/21041978/11011
+#EXTINF:-1,Webcam OndaMadrid
+http://2022spn.net:8080/miguelangel/21041978/11012
+#EXTINF:-1,C33 Madrid
+http://2022spn.net:8080/miguelangel/21041978/11013
+#EXTINF:-1,Solidaria TV
+http://2022spn.net:8080/miguelangel/21041978/11014
+#EXTINF:-1,Navarra TV
+http://2022spn.net:8080/miguelangel/21041978/11015
+#EXTINF:-1,TeleRibera
+http://2022spn.net:8080/miguelangel/21041978/11016
+#EXTINF:-1,À Punt
+http://2022spn.net:8080/miguelangel/21041978/11017
+#EXTINF:-1,Intercomarcal TV
+http://2022spn.net:8080/miguelangel/21041978/11018
+#EXTINF:-1,Intercomarcal TV
+http://2022spn.net:8080/miguelangel/21041978/11019
+#EXTINF:-1,Grup Televisió
+http://2022spn.net:8080/miguelangel/21041978/11020
+#EXTINF:-1,Pequeradio TV
+http://2022spn.net:8080/miguelangel/21041978/11021
+#EXTINF:-1,Alicantí TV
+http://2022spn.net:8080/miguelangel/21041978/11022
+#EXTINF:-1,Levante TV
+http://2022spn.net:8080/miguelangel/21041978/11023
+#EXTINF:-1,tvA
+http://2022spn.net:8080/miguelangel/21041978/11024
+#EXTINF:-1,Televisión de San Vicente
+http://2022spn.net:8080/miguelangel/21041978/11025
+#EXTINF:-1,telesafor
+http://2022spn.net:8080/miguelangel/21041978/11026
+#EXTINF:-1,TV Vega Baja
+http://2022spn.net:8080/miguelangel/21041978/11027
+#EXTINF:-1,Univers TV
+http://2022spn.net:8080/miguelangel/21041978/11028
+#EXTINF:-1,Onda 15 TV
+http://2022spn.net:8080/miguelangel/21041978/11029
+#EXTINF:-1,Intereconomía Valencia TV
+http://2022spn.net:8080/miguelangel/21041978/11030
+#EXTINF:-1,Onda Valencia
+http://2022spn.net:8080/miguelangel/21041978/11031
+#EXTINF:-1,Punt 3 Vall Uixó
+http://2022spn.net:8080/miguelangel/21041978/11032
+#EXTINF:-1,Une Vinalopó
+http://2022spn.net:8080/miguelangel/21041978/11033
+#EXTINF:-1,Corts Valencianes
+http://2022spn.net:8080/miguelangel/21041978/11034
+#EXTINF:-1,Canal Extremadura
+http://2022spn.net:8080/miguelangel/21041978/11035
+#EXTINF:-1,Mírame TV
+http://2022spn.net:8080/miguelangel/21041978/11036
+#EXTINF:-1,Canarias TV
+http://2022spn.net:8080/miguelangel/21041978/11037
+#EXTINF:-1,Canal 4 Tenerife
+http://2022spn.net:8080/miguelangel/21041978/11038
+#EXTINF:-1,Noroeste Televisión
+http://2022spn.net:8080/miguelangel/21041978/11039
+#EXTINF:-1,NORTEvisión
+http://2022spn.net:8080/miguelangel/21041978/11040
+#EXTINF:-1,RTV Mogán
+http://2022spn.net:8080/miguelangel/21041978/11041
+#EXTINF:-1,Radio Gigante
+http://2022spn.net:8080/miguelangel/21041978/11042
+#EXTINF:-1,Lancelot TV
+http://2022spn.net:8080/miguelangel/21041978/11043
+#EXTINF:-1,Lancelot TV
+http://2022spn.net:8080/miguelangel/21041978/11044
+#EXTINF:-1,Popular TV Cantabria
+http://2022spn.net:8080/miguelangel/21041978/11045
+#EXTINF:-1,CMM
+http://2022spn.net:8080/miguelangel/21041978/11046
+#EXTINF:-1,TV Hellín
+http://2022spn.net:8080/miguelangel/21041978/11047
+#EXTINF:-1,Guada TV
+http://2022spn.net:8080/miguelangel/21041978/11048
+#EXTINF:-1,Visión 6 TV
+http://2022spn.net:8080/miguelangel/21041978/11049
+#EXTINF:-1,Imás TV
+http://2022spn.net:8080/miguelangel/21041978/11050
+#EXTINF:-1,Alcarria TV
+http://2022spn.net:8080/miguelangel/21041978/11051
+#EXTINF:-1,Alcarria TV
+http://2022spn.net:8080/miguelangel/21041978/11052
+#EXTINF:-1,Canal 4 Mancha Centro
+http://2022spn.net:8080/miguelangel/21041978/11053
+#EXTINF:-1,RTV Diocesana Toledo
+http://2022spn.net:8080/miguelangel/21041978/11054
+#EXTINF:-1,La 7
+http://2022spn.net:8080/miguelangel/21041978/11055
+#EXTINF:-1,La 8 Avila
+http://2022spn.net:8080/miguelangel/21041978/11056
+#EXTINF:-1,La 8 Bierzo
+http://2022spn.net:8080/miguelangel/21041978/11057
+#EXTINF:-1,La 8 Burgos
+http://2022spn.net:8080/miguelangel/21041978/11058
+#EXTINF:-1,La 8 Leon
+http://2022spn.net:8080/miguelangel/21041978/11059
+#EXTINF:-1,La 8 Palencia
+http://2022spn.net:8080/miguelangel/21041978/11060
+#EXTINF:-1,La 8 Salamanca
+http://2022spn.net:8080/miguelangel/21041978/11061
+#EXTINF:-1,La 8 Segovia
+http://2022spn.net:8080/miguelangel/21041978/11062
+#EXTINF:-1,La 8 Soria
+http://2022spn.net:8080/miguelangel/21041978/11063
+#EXTINF:-1,La 8 Valladolid
+http://2022spn.net:8080/miguelangel/21041978/11064
+#EXTINF:-1,La 8 Zamora
+http://2022spn.net:8080/miguelangel/21041978/11065
+#EXTINF:-1,TV Benavente
+http://2022spn.net:8080/miguelangel/21041978/11066
+#EXTINF:-1,TV3
+http://2022spn.net:8080/miguelangel/21041978/11067
+#EXTINF:-1,324
+http://2022spn.net:8080/miguelangel/21041978/11068
+#EXTINF:-1,33
+http://2022spn.net:8080/miguelangel/21041978/11069
+#EXTINF:-1,Esport 3
+http://2022spn.net:8080/miguelangel/21041978/11070
+#EXTINF:-1,Super3
+http://2022spn.net:8080/miguelangel/21041978/11071
+#EXTINF:-1,CCMA Exclusiu 1
+http://2022spn.net:8080/miguelangel/21041978/11072
+#EXTINF:-1,CCMA Exclusiu 2
+http://2022spn.net:8080/miguelangel/21041978/11073
+#EXTINF:-1,La 2 Catalunya
+http://2022spn.net:8080/miguelangel/21041978/11074
+#EXTINF:-1,24h Catalunya
+http://2022spn.net:8080/miguelangel/21041978/11075
+#EXTINF:-1,TV3 Càmeres
+http://2022spn.net:8080/miguelangel/21041978/11076
+#EXTINF:-1,Bon Dia TV
+http://2022spn.net:8080/miguelangel/21041978/11077
+#EXTINF:-1,betevé
+http://2022spn.net:8080/miguelangel/21041978/11078
+#EXTINF:-1,teve.cat
+http://2022spn.net:8080/miguelangel/21041978/11079
+#EXTINF:-1,Fibracat TV
+http://2022spn.net:8080/miguelangel/21041978/11080
+#EXTINF:-1,Canal Taronja Osona i Moianés
+http://2022spn.net:8080/miguelangel/21041978/11081
+#EXTINF:-1,TV Girona
+http://2022spn.net:8080/miguelangel/21041978/11082
+#EXTINF:-1,Mar TV
+http://2022spn.net:8080/miguelangel/21041978/11083
+#EXTINF:-1,25 TV
+http://2022spn.net:8080/miguelangel/21041978/11084
+#EXTINF:-1,RTVCE
+http://2022spn.net:8080/miguelangel/21041978/11085
+#EXTINF:-1,TVG
+http://2022spn.net:8080/miguelangel/21041978/11086
+#EXTINF:-1,TVG Xabarin
+http://2022spn.net:8080/miguelangel/21041978/11087
+#EXTINF:-1,TVG Musigal
+http://2022spn.net:8080/miguelangel/21041978/11088
+#EXTINF:-1,TVG Cultura
+http://2022spn.net:8080/miguelangel/21041978/11089
+#EXTINF:-1,TVG Momentos G
+http://2022spn.net:8080/miguelangel/21041978/11090
+#EXTINF:-1,TVG Evento 1
+http://2022spn.net:8080/miguelangel/21041978/11091
+#EXTINF:-1,TVG Evento 2
+http://2022spn.net:8080/miguelangel/21041978/11092
+#EXTINF:-1,TVG Evento 3
+http://2022spn.net:8080/miguelangel/21041978/11093
+#EXTINF:-1,TVG Parlamento
+http://2022spn.net:8080/miguelangel/21041978/11094
+#EXTINF:-1,TV Ferrol
+http://2022spn.net:8080/miguelangel/21041978/11095
+#EXTINF:-1,Televigo
+http://2022spn.net:8080/miguelangel/21041978/11096
+#EXTINF:-1,TEF
+http://2022spn.net:8080/miguelangel/21041978/11097
+#EXTINF:-1,Canal 4
+http://2022spn.net:8080/miguelangel/21041978/11098
+#EXTINF:-1,Melilla TV
+http://2022spn.net:8080/miguelangel/21041978/11099
+#EXTINF:-1,Popular TV Melilla
+http://2022spn.net:8080/miguelangel/21041978/11100
+#EXTINF:-1,ETB 1
+http://2022spn.net:8080/miguelangel/21041978/11101
+#EXTINF:-1,ETB 2
+http://2022spn.net:8080/miguelangel/21041978/11102
+#EXTINF:-1,Hamaika Telebista
+http://2022spn.net:8080/miguelangel/21041978/11103
+#EXTINF:-1,Goiena
+http://2022spn.net:8080/miguelangel/21041978/11104
+#EXTINF:-1,TeleBilbao
+http://2022spn.net:8080/miguelangel/21041978/11105
+#EXTINF:-1,Oizmendi Telebista
+http://2022spn.net:8080/miguelangel/21041978/11106
+#EXTINF:-1,Urola Telebista
+http://2022spn.net:8080/miguelangel/21041978/11107
+#EXTINF:-1,TPA7
+http://2022spn.net:8080/miguelangel/21041978/11108
+#EXTINF:-1,EsAsturiasTV
+http://2022spn.net:8080/miguelangel/21041978/11109
+#EXTINF:-1,7 R. de Murcia
+http://2022spn.net:8080/miguelangel/21041978/11110
+#EXTINF:-1,RTV Vida
+http://2022spn.net:8080/miguelangel/21041978/11111
+#EXTINF:-1,TeleArchena
+http://2022spn.net:8080/miguelangel/21041978/11112
+#EXTINF:-1,TV3CAT
+http://2022spn.net:8080/miguelangel/21041978/11113
+#EXTINF:-1,ETB SAT
+http://2022spn.net:8080/miguelangel/21041978/11114
+#EXTINF:-1,TVG América
+http://2022spn.net:8080/miguelangel/21041978/11115
+#EXTINF:-1,ATV Andorra
+http://2022spn.net:8080/miguelangel/21041978/11116
+#EXTINF:-1,ATV Andorra
+http://2022spn.net:8080/miguelangel/21041978/11117
+#EXTINF:-1,ATV Web Andorra
+http://2022spn.net:8080/miguelangel/21041978/11118
+#EXTINF:-1,ATV Web Andorra
+http://2022spn.net:8080/miguelangel/21041978/11119
+#EXTINF:-1,RT
+http://2022spn.net:8080/miguelangel/21041978/11120
