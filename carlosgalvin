@@ -1,1157 +1,3091 @@
 #EXTM3U
-#EXTINF:-1,La 1 HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/157
-#EXTINF:-1,La 1 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/158
-#EXTINF:-1,La 1 SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/762
-#EXTINF:-1,La 2 HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/159
-#EXTINF:-1,La 2 SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/763
-#EXTINF:-1,Antena 3 HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/161
-#EXTINF:-1,Antena 3 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/162
-#EXTINF:-1,Antena 3 SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/764
-#EXTINF:-1,Cuatro HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/163
-#EXTINF:-1,Cuatro HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/164
-#EXTINF:-1,Cuatro SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/765
-#EXTINF:-1,Telecinco HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/165
-#EXTINF:-1,Telecinco HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/166
-#EXTINF:-1,Telecinco SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/766
-#EXTINF:-1,La Sexta HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/167
-#EXTINF:-1,La Sexta HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/168
-#EXTINF:-1,La Sexta SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/767
-#EXTINF:-1,Secret Story (LA CASA DE LOS SECRETOS)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/75690
-#EXTINF:-1,La Resistencia HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/95819
-#EXTINF:-1,La Resistencia HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/95820
-#EXTINF:-1,La Resistencia SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/95821
-#EXTINF:-1,Ubeat HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/74127
-#EXTINF:-1,#0 HD 1080 6MB (conexiones lentas)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/2
-#EXTINF:-1,#0 HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/20
-#EXTINF:-1,#0 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/21
-#EXTINF:-1,#0 SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/781
-#EXTINF:-1,M. Estrenos HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/24
-#EXTINF:-1,M. Estrenos HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/25
-#EXTINF:-1,M. Estrenos SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/775
-#EXTINF:-1,M. Estrenos 2 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/72143
-#EXTINF:-1,M. Estrenos 2 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/72142
-#EXTINF:-1,M. Acción HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/26
-#EXTINF:-1,M. Acción HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/27
-#EXTINF:-1,M. Acción SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/777
-#EXTINF:-1,M. Comedia HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/30
-#EXTINF:-1,M. Comedia HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/31
-#EXTINF:-1,M. Comedia SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/778
-#EXTINF:-1,M. Drama HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/28
-#EXTINF:-1,M. Drama HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/29
-#EXTINF:-1,M. Drama SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/779
-#EXTINF:-1,M. Fest HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/74128
-#EXTINF:-1,M. Fest HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/74129
-#EXTINF:-1,M. Fest SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/74130
-#EXTINF:-1,M. Sagas SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/88699
-#EXTINF:-1,M. Clásicos 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/74402
-#EXTINF:-1,M. Clásicos HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/74401
-#EXTINF:-1,M. Clásicos SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/74403
-#EXTINF:-1,M. Cine Español SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/34
-#EXTINF:-1,Dreamworks HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/75691
-#EXTINF:-1,Dreamworks HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/75692
-#EXTINF:-1,Dreamworks SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/75693
-#EXTINF:-1,Hollywood HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/35
-#EXTINF:-1,Hollywood HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/36
-#EXTINF:-1,Hollywood SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/793
-#EXTINF:-1,Calle 13 HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/37
-#EXTINF:-1,Calle 13 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/38
-#EXTINF:-1,Calle 13 SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/787
-#EXTINF:-1,TNT HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/41
-#EXTINF:-1,TNT HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/42
-#EXTINF:-1,TNT SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/785
-#EXTINF:-1,TCM HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/39
-#EXTINF:-1,TCM HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/40
-#EXTINF:-1,Somos HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/732
-#EXTINF:-1,Somos SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/153
-#EXTINF:-1,M. Series HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/45
-#EXTINF:-1,M. Series  HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/44
-#EXTINF:-1,M. Series SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/774
-#EXTINF:-1,M. Series 2 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/72140
-#EXTINF:-1,M. Series 2 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/72141
-#EXTINF:-1,XTRM HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/155
-#EXTINF:-1,XTRM
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/154
-#EXTINF:-1,AXN HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/137
-#EXTINF:-1,AXN HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/138
-#EXTINF:-1,AXN SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/783
-#EXTINF:-1,AXN White HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/139
-#EXTINF:-1,AXN White HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/140
-#EXTINF:-1,AXN White SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/784
-#EXTINF:-1,FOX HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/141
-#EXTINF:-1,FOX HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/142
-#EXTINF:-1,FOX SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/782
-#EXTINF:-1,DARK HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/758
-#EXTINF:-1,DARK HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/759
-#EXTINF:-1,AMC HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/145
-#EXTINF:-1,AMC HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/146
-#EXTINF:-1,AMC SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/789
-#EXTINF:-1,BLAZE  HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/130
-#EXTINF:-1,BLAZE / A&E
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/131
-#EXTINF:-1,Paramount Network
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/179
-#EXTINF:-1,Comedy Central HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/135
-#EXTINF:-1,Comedy central HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/136
-#EXTINF:-1,Comedy Central SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/786
-#EXTINF:-1,Atreseries HD HD1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/169
-#EXTINF:-1,Cosmopolitan HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/133
-#EXTINF:-1,Cosmopolitan HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/134
-#EXTINF:-1,Cosmopolitan SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/788
-#EXTINF:-1,SyFy HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/147
-#EXTINF:-1,SyFy HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/148
-#EXTINF:-1,SyFy SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/791
-#EXTINF:-1,FDF
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/178
-#EXTINF:-1,FDF SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/769
-#EXTINF:-1,Historia HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/18
-#EXTINF:-1,Historia HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/114
-#EXTINF:-1,Historia SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/801
-#EXTINF:-1,TRECE TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/180
-#EXTINF:-1,Nat Geo HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/122
-#EXTINF:-1,Nat Geo HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/123
-#EXTINF:-1,Nat Geo SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/31511
-#EXTINF:-1,NatGeo Wild HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/124
-#EXTINF:-1,NatGeo Wild HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/125
-#EXTINF:-1,NatGeo Wild SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/31510
-#EXTINF:-1,DMAX HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/91880
-#EXTINF:-1,DMAX HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/91881
-#EXTINF:-1,DMAX SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/91882
-#EXTINF:-1,Discovery HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/116
-#EXTINF:-1,Discovery Channel SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/802
-#EXTINF:-1,MEGA HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/170
-#EXTINF:-1,Mega SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/768
-#EXTINF:-1,Neox HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/173
-#EXTINF:-1,NEOX
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/174
-#EXTINF:-1,Neox SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/770
-#EXTINF:-1,Nova HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/175
-#EXTINF:-1,NOVA
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/176
-#EXTINF:-1,Nova SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/771
-#EXTINF:-1,BeMad tv HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/132
-#EXTINF:-1,Be Mad SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/772
-#EXTINF:-1,Energy
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/171
-#EXTINF:-1,DKISS
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/172
-#EXTINF:-1,DIVINITY
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/177
-#EXTINF:-1,INSIDE HD 1080 ES
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/118
-#EXTINF:-1,Odisea HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/760
-#EXTINF:-1,Canal Odisea SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/803
-#EXTINF:-1,Sundance FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/795
-#EXTINF:-1,Sundance HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/796
-#EXTINF:-1,Sundance SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/797
-#EXTINF:-1,CANAL COCINA HD  1080 I
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/16
-#EXTINF:-1,CANAL COCINA HD  1080 P
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/197
-#EXTINF:-1,Canal Cocina SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/806
-#EXTINF:-1,Decasa HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/17
-#EXTINF:-1,Decasa
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/182
-#EXTINF:-1,Crimen + Investigacion
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/805
-#EXTINF:-1,Intereconomía TV (Toro TV)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/7047
-#EXTINF:-1,Caza y Pesca HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/103
-#EXTINF:-1,Caza y Pesca HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/104
-#EXTINF:-1,Caza Vision HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/106
-#EXTINF:-1,CAZAVISION
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/107
-#EXTINF:-1,Canal Toros HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/101
-#EXTINF:-1,Canal Toros HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/102
-#EXTINF:-1,Canal Toros SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/845
-#EXTINF:-1,M. La Liga HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/49
-#EXTINF:-1,M. La Liga HD 1080 (B)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/50
-#EXTINF:-1,M. La Liga HD 1080 (C)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/34435
-#EXTINF:-1,M. La Liga HD 1080 (D)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/72579
-#EXTINF:-1,M. La Liga HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/51
-#EXTINF:-1,M. La Liga SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/837
-#EXTINF:-1,M. La Liga HD 1080 6MB (conexiones lentas)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/5
-#EXTINF:-1,M. La Liga HD 1080 (Yoigo MasMovil Pepephone)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/103515
-#EXTINF:-1,M. Liga De Campeones HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/59
-#EXTINF:-1,M. Liga De Campeones HD 1080 (B)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/60
-#EXTINF:-1,M. Liga De Campeones HD 1080 (C)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/75791
-#EXTINF:-1,M. Liga De Campeones HD 1080 (D)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/61516
-#EXTINF:-1,M. Liga De Campeones HD 1080 (E)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/76532
-#EXTINF:-1,M. Liga De Campeones HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/61
-#EXTINF:-1,M. Liga de Campeones SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/835
-#EXTINF:-1,M. Liga De Campeones HD 1080 6MB (conexiones lentas)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/8
-#EXTINF:-1,M. Liga De Campeones HD 1080 (Yoigo MasMovil Pepephone)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/103361
-#EXTINF:-1,M. DAZN 1 HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/67049
-#EXTINF:-1,M. DAZN 1 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/67050
-#EXTINF:-1,M. DAZN 1 SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/67051
-#EXTINF:-1,M. DAZN 2 HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/67052
-#EXTINF:-1,M. DAZN 2 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/67053
-#EXTINF:-1,M. DAZN 2 SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/67054
-#EXTINF:-1,M. DAZN 3 HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/67682
-#EXTINF:-1,M. DAZN 3 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/67683
-#EXTINF:-1,M. DAZN 4 HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/67680
-#EXTINF:-1,M. DAZN 4 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/67681
-#EXTINF:-1,GOL HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/79
-#EXTINF:-1,GOL HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/78
-#EXTINF:-1,GOL TV SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/77
-#EXTINF:-1,GOL HD 1080 6MB (conexiones lentas)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/15
-#EXTINF:-1,REAL MADRID TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/82
-#EXTINF:-1,Barça TV HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/80
-#EXTINF:-1,Barça TV 
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/81
-#EXTINF:-1,Sevilla FC
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/843
-#EXTINF:-1,Betis TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/844
-#EXTINF:-1,Fútbol REPLAY
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/24432
-#EXTINF:-1,M. Deportes HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/85
-#EXTINF:-1,M. Deportes HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/86
-#EXTINF:-1,M. Deportes SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/848
-#EXTINF:-1,M. Deportes HD 1080 6MB (conexiones lentas)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/12
-#EXTINF:-1,M. #Vamos HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/89
-#EXTINF:-1,M. #Vamos HD 1080 (B)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/88
-#EXTINF:-1,M. #Vamos HD 1080 (C)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/66733
-#EXTINF:-1,M. #Vamos HD 1080 (D)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/86663
-#EXTINF:-1,M. #Vamos HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/90
-#EXTINF:-1,M. #Vamos SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/847
-#EXTINF:-1,M. #Vamos HD 1080 6MB (conexiones lentas)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/13
-#EXTINF:-1,Ellas #V HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/104342
-#EXTINF:-1,Eurosport HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92
-#EXTINF:-1,Eurosport HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/93
-#EXTINF:-1,Eurosport SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/28528
-#EXTINF:-1,Eurosport HD 1080 6MB (conexiones lentas)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/3
-#EXTINF:-1,Eurosport 2 HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94
-#EXTINF:-1,Eurosport 2 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/95
-#EXTINF:-1,Eurosport 2 SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/28529
-#EXTINF:-1,Eurosport 2 HD 1080 6MB (conexiones lentas)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/4
-#EXTINF:-1,DAZN F1 HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/76531
-#EXTINF:-1,DAZN F1 HD 1080 (B)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/96
-#EXTINF:-1,DAZN F1 HD 1080 (C)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94411
-#EXTINF:-1,DAZN F1 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/97
-#EXTINF:-1,DAZN F1 SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/836
-#EXTINF:-1,DAZN F1 HD 1080 6MB (conexiones lentas)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/10
-#EXTINF:-1,M. Golf HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/99
-#EXTINF:-1,M. Golf HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/100
-#EXTINF:-1,M. Golf SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/850
-#EXTINF:-1,M. Golf HD 1080 6MB (conexiones lentas)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/14
-#EXTINF:-1,WRC Rally Live TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/7050
-#EXTINF:-1,Dakar TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/7051
-#EXTINF:-1,Teledeporte HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/22475
-#EXTINF:-1,Teledeporte SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/91
-#EXTINF:-1,Iberalia TV HD 1080-SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/105
-#EXTINF:-1,TEN
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/128
-#EXTINF:-1,24 H
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/181
-#EXTINF:-1,IB3 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/198
-#EXTINF:-1,fibwi TV Live HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/199
-#EXTINF:-1,fibwi TV FullHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/230
-#EXTINF:-1,Ibiza Global TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/200
-#EXTINF:-1,CANAL 4 BALEARS
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/201
-#EXTINF:-1,TV3 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/202
-#EXTINF:-1,TV3 HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/203
-#EXTINF:-1,SPORT 3 .cat
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/205
-#EXTINF:-1,SUPER  3 /33 .cat
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/206
-#EXTINF:-1,3/24 .cat
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/207
-#EXTINF:-1,8 TV .cat
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/208
-#EXTINF:-1,À Punt HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/209
-#EXTINF:-1,BOM CINE
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/210
-#EXTINF:-1,Libertad Digital TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/11296
-#EXTINF:-1,EL PUNT AVUI
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/211
-#EXTINF:-1,El 9 TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/212
-#EXTINF:-1,25 TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/213
-#EXTINF:-1,Canal Sur HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/214
-#EXTINF:-1,Canal Sur HD 720
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/216
-#EXTINF:-1,TV Canaria
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/75877
-#EXTINF:-1,Canal Extremadura
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/215
-#EXTINF:-1,CANAL SUR
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/217
-#EXTINF:-1,ONDA CADIZ
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/218
-#EXTINF:-1,CANAL MALAGA
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/219
-#EXTINF:-1,GALICIA TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/222
-#EXTINF:-1,ETB 1 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/223
-#EXTINF:-1,ETB 2 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/224
-#EXTINF:-1,Canal Estrellas HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/225
-#EXTINF:-1,TV Galicia
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/226
-#EXTINF:-1,TELE MADRID HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/227
-#EXTINF:-1,CASTILLA LA MANCHA
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/228
-#EXTINF:-1,RTV CASTILLA Y LEÓN
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/29579
-#EXTINF:-1,7TV Región de Murcia
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/23760
-#EXTINF:-1,LA OTRA
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/229
-#EXTINF:-1,MTV HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/233
-#EXTINF:-1,MTV España HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/234
-#EXTINF:-1,DISNEY CH  HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/248
-#EXTINF:-1,Disney HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/249
-#EXTINF:-1,DISNEY JUNIOR
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/250
-#EXTINF:-1,Nickelodeon HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/251
-#EXTINF:-1,Nickelodeon HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/846
-#EXTINF:-1,Nick Jr. (ESP)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/95357
-#EXTINF:-1,CLAN TV HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/252
-#EXTINF:-1,CLAN TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/253
-#EXTINF:-1,PANDA
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/254
-#EXTINF:-1,BOING
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/255
-#EXTINF:-1,PEQUERADIO TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/28535
-#EXTINF:-1,Baby TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/257
-#EXTINF:-1,M. LaLiga 1 HD 1080(OPCIÓN B)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/51969
-#EXTINF:-1,M. DEPORTES 1  HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/744
-#EXTINF:-1,M. DEPORTES 1 HD 1080 (OPCIÓN 2)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/87
-#EXTINF:-1,M. DEPORTES 1 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/25135
-#EXTINF:-1,M. DEPORTES 2 HD 1080 - SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/745
-#EXTINF:-1,M. DEPORTES 3 HD 1080 - SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/746
-#EXTINF:-1,M. DEPORTES 4 HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/747
-#EXTINF:-1,M. DEPORTES 5 HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/748
-#EXTINF:-1,M. DEPORTES 6 HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/749
-#EXTINF:-1,M. Liga De Campeones 1 HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/62
-#EXTINF:-1,M. Liga De Campeones 1 HD 1080 (OPCIÓN B)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/63
-#EXTINF:-1,M. Liga De Campeones 1 HD 1080 (OPCIÓN C)
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/75789
-#EXTINF:-1,M. Liga De Campeones 1 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/16380
-#EXTINF:-1,M. Liga De Campeones 1 SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/15966
-#EXTINF:-1,M. Liga De Campeones 2 HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/65
-#EXTINF:-1,M. Liga De Campeones 2 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/75790
-#EXTINF:-1,M. Liga De Campeones 2 SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/64
-#EXTINF:-1,M.Liga de Campeones 3 HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/750
-#EXTINF:-1,M.Liga de Campeones 3 SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/59422
-#EXTINF:-1,M. Liga De Campeones 4 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/751
-#EXTINF:-1,M.Liga de Campeones 4
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/752
-#EXTINF:-1,M.LIGA DE CAMPEONES 5 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/753
-#EXTINF:-1,M.Liga de Campeones 5
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/754
-#EXTINF:-1,M.Liga de Campeones 6 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/755
-#EXTINF:-1,M.Liga de Campeones 6
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/756
-#EXTINF:-1,M.Liga de Campeones 7
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/757
-#EXTINF:-1,Multideporte 1 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/269
-#EXTINF:-1,Multideporte 2
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/270
-#EXTINF:-1,Multideporte 3
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/271
-#EXTINF:-1,Multideporte 4
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/272
-#EXTINF:-1,MULTIFUT. 1 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/258
-#EXTINF:-1,Multifútbol 2
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/259
-#EXTINF:-1,MULTIFUT. 3 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/260
-#EXTINF:-1,Mezzo Live HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/832
-#EXTINF:-1,World Padel Tour TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/834
-#EXTINF:-1,MILENIO LIVE
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/37407
-#EXTINF:-1,M. La Liga 1 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69596
-#EXTINF:-1,M. LaLiga 1 HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69597
-#EXTINF:-1,La Liga 1 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69598
-#EXTINF:-1,M. La Liga 2 HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69599
-#EXTINF:-1,M. La Liga 2 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69600
-#EXTINF:-1,M. LaLiga 2 SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69601
-#EXTINF:-1,M. LA LIGA 3 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69602
-#EXTINF:-1,M. La Liga 3 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69603
-#EXTINF:-1,M. LaLiga 3 SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69604
-#EXTINF:-1,M. LA LIGA 4 HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69605
-#EXTINF:-1,M. La Liga 4 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69606
-#EXTINF:-1,M. LaLiga 4 SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69607
-#EXTINF:-1,M. LA LIGA 5 HD 1080
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69608
-#EXTINF:-1,M. La Liga 5 HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69609
-#EXTINF:-1,M. LaLiga 5 SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69610
-#EXTINF:-1,M. LaLiga 6 SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69613
-#EXTINF:-1,M. LaLiga 7 SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69616
-#EXTINF:-1,M. La Liga 8 SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69617
-#EXTINF:-1,M. La Liga 9 SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69620
-#EXTINF:-1,Footters 1
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/73680
-#EXTINF:-1,Footters 2
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/73681
-#EXTINF:-1,Footters 3
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/73682
-#EXTINF:-1,Footters 4
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/73683
-#EXTINF:-1,FOOTTERS 01 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92763
-#EXTINF:-1,FOOTTERS 02 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92764
-#EXTINF:-1,FOOTTERS 03 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92765
-#EXTINF:-1,FOOTTERS 04 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92766
-#EXTINF:-1,FOOTTERS 05 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92767
-#EXTINF:-1,FOOTTERS 06 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92768
-#EXTINF:-1,FOOTTERS 07 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92769
-#EXTINF:-1,FOOTTERS 08 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92770
-#EXTINF:-1,FOOTTERS 09 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92771
-#EXTINF:-1,FOOTTERS 10 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92772
-#EXTINF:-1,FOOTTERS 11 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92773
-#EXTINF:-1,FOOTTERS 12 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92774
-#EXTINF:-1,FOOTTERS 13 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92775
-#EXTINF:-1,FOOTTERS 14 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92776
-#EXTINF:-1,FOOTTERS 15 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92777
-#EXTINF:-1,FOOTTERS 16 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92778
-#EXTINF:-1,FOOTTERS 17 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92779
-#EXTINF:-1,FOOTTERS 18 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92780
-#EXTINF:-1,FOOTTERS 19 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92781
-#EXTINF:-1,FOOTTERS 20 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92782
-#EXTINF:-1,FOOTTERS 21 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92783
-#EXTINF:-1,FOOTTERS 22 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92784
-#EXTINF:-1,FOOTTERS 23 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92785
-#EXTINF:-1,FOOTTERS 24 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92786
-#EXTINF:-1,FOOTTERS 25 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92787
-#EXTINF:-1,FUCHS SPORTS 01 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92788
-#EXTINF:-1,FUCHS SPORTS 02 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92789
-#EXTINF:-1,FUCHS SPORTS 03 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92790
-#EXTINF:-1,FUCHS SPORTS 04 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92791
-#EXTINF:-1,FUCHS SPORTS 05 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92792
-#EXTINF:-1,FUCHS SPORTS 06 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92793
-#EXTINF:-1,FUCHS SPORTS 07 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92794
-#EXTINF:-1,FUCHS SPORTS 08 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92795
-#EXTINF:-1,FUCHS SPORTS 09 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92796
-#EXTINF:-1,FUCHS SPORTS 10 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92797
-#EXTINF:-1,FUCHS SPORTS 11 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92798
-#EXTINF:-1,FUCHS SPORTS 12 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92799
-#EXTINF:-1,FUCHS SPORTS 13 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92800
-#EXTINF:-1,FUCHS SPORTS 14 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92801
-#EXTINF:-1,FUCHS SPORTS 15 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92802
-#EXTINF:-1,FUCHS SPORTS 16 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92803
-#EXTINF:-1,FUCHS SPORTS 17 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92804
-#EXTINF:-1,FUCHS SPORTS 18 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92805
-#EXTINF:-1,FUCHS SPORTS 19 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92806
-#EXTINF:-1,FUCHS SPORTS 20 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92807
-#EXTINF:-1,FUCHS SPORTS 21 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92808
-#EXTINF:-1,FUCHS SPORTS 22 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92809
-#EXTINF:-1,FUCHS SPORTS 23 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92810
-#EXTINF:-1,FUCHS SPORTS 24 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92811
-#EXTINF:-1,FUCHS SPORTS 25 FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92812
-#EXTINF:-1,7TV Andalucía
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94684
-#EXTINF:-1,7TV Andalucía - Algeciras
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94685
-#EXTINF:-1,7TV Andalucía - Almería
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94686
-#EXTINF:-1,7TV Andalucía - Bahía
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94687
-#EXTINF:-1,7TV Andalucía - El Puerto
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94688
-#EXTINF:-1,7TV Andalucía - Córdoba
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94689
-#EXTINF:-1,7TV Andalucía - Costa Noroeste
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94690
-#EXTINF:-1,7TV Andalucía - Granada
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94691
-#EXTINF:-1,7TV Andalucía - Huelva
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94692
-#EXTINF:-1,7TV Andalucía - Jaen
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94693
-#EXTINF:-1,7TV Andalucía - Jerez
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94694
-#EXTINF:-1,7TV Andalucía - Málaga
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94695
-#EXTINF:-1,7TV Andalucía - Marbella
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94696
-#EXTINF:-1,7TV Andalucía - Sevilla
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94697
-#EXTINF:-1,7TV Andalucía - Sierra
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94698
-#EXTINF:-1,Mijas 3.40 TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94699
-#EXTINF:-1,Onda Cádiz
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94700
-#EXTINF:-1,Huelva TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94701
-#EXTINF:-1,PTV Málaga
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94702
-#EXTINF:-1,Tuya La Janda TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94703
-#EXTINF:-1,TV Centro Andalucía
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94704
-#EXTINF:-1,Estepona TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94705
-#EXTINF:-1,PTV Linares
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94706
-#EXTINF:-1,Marbella TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94707
-#EXTINF:-1,Torrevisión
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94708
-#EXTINF:-1,Telemotril
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94709
-#EXTINF:-1,101 TV Axarquía
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94710
-#EXTINF:-1,PTV Granada
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94711
-#EXTINF:-1,PTV Córdoba
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94712
-#EXTINF:-1,PTV Sevilla
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94713
-#EXTINF:-1,TVM Córdoba
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94714
-#EXTINF:-1,8 TV Cádiz
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94715
-#EXTINF:-1,Cancionero TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94716
-#EXTINF:-1,Onda Cádiz 24h
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94717
-#EXTINF:-1,Parlamento de Andalucía
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94718
-#EXTINF:-1,Parlamento de Andalucía
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94719
-#EXTINF:-1,Parlamento de Andalucía
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94720
-#EXTINF:-1,Parlamento de Andalucía
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94721
-#EXTINF:-1,La 1 Aragón
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94722
-#EXTINF:-1,TV Canaria
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94723
-#EXTINF:-1,La 1 Canarias
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94724
-#EXTINF:-1,La 2 Canarias
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94725
-#EXTINF:-1,24h Canarias
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94726
-#EXTINF:-1,Biosfera TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94727
-#EXTINF:-1,NORTEvisión
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94728
-#EXTINF:-1,Popular TV Cantabria
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94729
-#EXTINF:-1,TV Hellín
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94730
-#EXTINF:-1,Guada TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94731
-#EXTINF:-1,Visión 6 TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94732
-#EXTINF:-1,Imás TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94733
-#EXTINF:-1,Alcarria TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94734
-#EXTINF:-1,Manzanares10TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94735
-#EXTINF:-1,Canal 4 Mancha Centro
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94736
-#EXTINF:-1,TeleToledo
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94737
-#EXTINF:-1,Canal 2000
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94738
-#EXTINF:-1,La 8 Avila
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94739
-#EXTINF:-1,La 8 Bierzo
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94740
-#EXTINF:-1,La 8 Burgos
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94741
-#EXTINF:-1,La 8 Leon
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94742
-#EXTINF:-1,La 8 Palencia
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94743
-#EXTINF:-1,La 8 Salamanca
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94744
-#EXTINF:-1,La 8 Segovia
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94745
-#EXTINF:-1,La 8 Soria
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94746
-#EXTINF:-1,La 8 Valladolid
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94747
-#EXTINF:-1,La 8 Zamora
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94748
-#EXTINF:-1,TV Benavente
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94749
-#EXTINF:-1,Junta Castilla y León
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94750
-#EXTINF:-1,324
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94751
-#EXTINF:-1,33
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94752
-#EXTINF:-1,Super3
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94753
-#EXTINF:-1,La 1 Catalunya
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94754
-#EXTINF:-1,La 1 Catalunya
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94755
-#EXTINF:-1,La 2 Catalunya
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94756
-#EXTINF:-1,La 2 Catalunya
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94757
-#EXTINF:-1,24h Catalunya
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94758
-#EXTINF:-1,betevé
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94759
-#EXTINF:-1,Fibracat TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94760
-#EXTINF:-1,teve.cat
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94761
-#EXTINF:-1,8 TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94762
-#EXTINF:-1,TAC 12
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94763
-#EXTINF:-1,TAC 12
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94764
-#EXTINF:-1,Canal Taronja Osona i Moianés
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94765
-#EXTINF:-1,Piera TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94766
-#EXTINF:-1,Canal 10 Empordà
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94767
-#EXTINF:-1,Mar TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94768
-#EXTINF:-1,Ceuta TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94769
-#EXTINF:-1,RTVCE
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94770
-#EXTINF:-1,Telemadrid
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94771
-#EXTINF:-1,LaOtra
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94772
-#EXTINF:-1,Webcam OndaMadrid
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94773
-#EXTINF:-1,Webcam OndaMadrid
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94774
-#EXTINF:-1,Teleganés
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94775
-#EXTINF:-1,Déjate de Historias TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94776
-#EXTINF:-1,Telesur Madrid
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94777
-#EXTINF:-1,GCM TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94778
-#EXTINF:-1,Navarra TV HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94779
-#EXTINF:-1,Navarra TV SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94780
-#EXTINF:-1,TeleRibera
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94781
-#EXTINF:-1,Xaloa Telebista
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94782
-#EXTINF:-1,Parlamento de Navarra
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94783
-#EXTINF:-1,Parlamento de Navarra
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94784
-#EXTINF:-1,À Punt
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94785
-#EXTINF:-1,Intercomarcal TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94786
-#EXTINF:-1,Intercomarcal TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94787
-#EXTINF:-1,Intercomarcal TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94788
-#EXTINF:-1,Ribera TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94789
-#EXTINF:-1,8 La Marina TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94790
-#EXTINF:-1,La 8 Mediterráneo
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94791
-#EXTINF:-1,Alacantí TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94792
-#EXTINF:-1,TV Artequatre
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94793
-#EXTINF:-1,TV de San Vicente
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94794
-#EXTINF:-1,TV Vega Baja
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94795
-#EXTINF:-1,TV 4 Vall de Uxó
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94796
-#EXTINF:-1,Canal 56
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94797
-#EXTINF:-1,Maestrat TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94798
-#EXTINF:-1,Univers TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94799
-#EXTINF:-1,Onda 15 TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94800
-#EXTINF:-1,Elche 7 TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94801
-#EXTINF:-1,Punt 3 Vall Uixó
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94802
-#EXTINF:-1,El Toro Valencia TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94803
-#EXTINF:-1,Televisión de Alicante
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94804
-#EXTINF:-1,Onda Valencia
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94805
-#EXTINF:-1,Une Vinalopó
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94806
-#EXTINF:-1,Corts Valencianes
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94807
-#EXTINF:-1,Canal Extremadura
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94808
-#EXTINF:-1,TV Extremeña
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94809
-#EXTINF:-1,Zafra TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94810
-#EXTINF:-1,Cáceres Tevé
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94811
-#EXTINF:-1,TVG
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94812
-#EXTINF:-1,TVG 2
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94813
-#EXTINF:-1,TVG Xabarin
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94814
-#EXTINF:-1,TVG Musigal
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94815
-#EXTINF:-1,TVG Cultura
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94816
-#EXTINF:-1,TVG Momentos G
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94817
-#EXTINF:-1,TVG Eventos
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94818
-#EXTINF:-1,TVG Eventos
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94819
-#EXTINF:-1,TVG Eventos
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94820
-#EXTINF:-1,TVG Eventos
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94821
-#EXTINF:-1,TVG Eventos
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94822
-#EXTINF:-1,TV Ferrol
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94823
-#EXTINF:-1,TeleVigo
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94824
-#EXTINF:-1,Hermes TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94825
-#EXTINF:-1,TEF
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94826
-#EXTINF:-1,TV Rioja
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94827
-#EXTINF:-1,7 La Rioja
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94828
-#EXTINF:-1,ETB 1
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94829
-#EXTINF:-1,ETB 2
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94830
-#EXTINF:-1,ETB Eventos 1
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94831
-#EXTINF:-1,Hamaika TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94832
-#EXTINF:-1,Tele 7
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94833
-#EXTINF:-1,Goiena Eus
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94834
-#EXTINF:-1,Durangaldeko TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94835
-#EXTINF:-1,Goierri Irrati TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94836
-#EXTINF:-1,Oizmendi TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94837
-#EXTINF:-1,Urola TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94838
-#EXTINF:-1,EsAsturiasTV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94839
-#EXTINF:-1,Canal 10
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94840
-#EXTINF:-1,TeleArchena
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94841
-#EXTINF:-1,101TV Málaga
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94842
-#EXTINF:-1,M95 Marbella
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94843
-#EXTINF:-1,Canal 45 TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94844
-#EXTINF:-1,PTV Málaga
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94845
-#EXTINF:-1,CANAL SIERRA DE CADIZ FHD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94846
-#EXTINF:-1,CANAL SIERRA DE CADIZ HD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94847
-#EXTINF:-1,CANAL SIERRA DE CADIZ SD
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94848
-#EXTINF:-1,Costa Noroeste TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94849
-#EXTINF:-1,Córdoba TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94850
-#EXTINF:-1,Condavisión
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94851
-#EXTINF:-1,Interalmería TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94852
-#EXTINF:-1,TV Centro Andalucía
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94853
-#EXTINF:-1,Lebrija TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94854
-#EXTINF:-1,Tuya La Janda TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94855
-#EXTINF:-1,OndaMezquita TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94856
-#EXTINF:-1,Canal Doñana
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94857
-#EXTINF:-1,Más TV Huelva
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94858
-#EXTINF:-1,Torrevisión
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94859
-#EXTINF:-1,PTV Córdoba
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94860
-#EXTINF:-1,Diez TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94861
-#EXTINF:-1,9 la Loma TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94862
-#EXTINF:-1,CostadelSol TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94863
-#EXTINF:-1,Fion TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94864
-#EXTINF:-1,Bailén TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94865
-#EXTINF:-1,Sal Televisión
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94866
-#EXTINF:-1,TeleGilena
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94867
-#EXTINF:-1,Canal Málaga
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94868
-#EXTINF:-1,Campiña Sur TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94869
-#EXTINF:-1,Islatel
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94870
-#EXTINF:-1,Fuengirola TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94871
-#EXTINF:-1,Canal Coín
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94872
-#EXTINF:-1,TVM Córdoba
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94873
-#EXTINF:-1,101 Tele Antequera
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94874
-#EXTINF:-1,Cancionero TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94875
-#EXTINF:-1,Trebujena TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94876
-#EXTINF:-1,Aragón TV
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94877
-#EXTINF:-1,UEFA EVENTOS 1
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/112579
-#EXTINF:-1,UEFA EVENTOS 2
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/112580
-#EXTINF:-1,UEFA EVENTOS 3
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/112581
-#EXTINF:-1,UEFA EVENTOS 4
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/112582
-#EXTINF:-1,UEFA EVENTOS 5
-http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/112583
+#EXTINF:-1,SP: ----- SPAIN -----
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/135943
+#EXTINF:-1,ES: LA 1 HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14476
+#EXTINF:-1,ES: LA 1 FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220930
+#EXTINF:-1,ES: LA 1 HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240092
+#EXTINF:-1,ES: LA 2 HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14475
+#EXTINF:-1,ES: LA 2 FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277960
+#EXTINF:-1,ES: ANTENA 3 HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14478
+#EXTINF:-1,ES: ANTENA 3 FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240094
+#EXTINF:-1,ES: ANTENA 3 HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240093
+#EXTINF:-1,ES: CUATRO HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14473
+#EXTINF:-1,ES: CUATRO FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292569
+#EXTINF:-1,ES: CUATRO HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240095
+#EXTINF:-1,ES: TELECINCO HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14472
+#EXTINF:-1,ES: TELECINCO FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211124
+#EXTINF:-1,ES: TELECINCO HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240096
+#EXTINF:-1,ES: LA SEXTA HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14474
+#EXTINF:-1,ES: LA SEXTA FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292570
+#EXTINF:-1,ES: LA SEXTA HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240097
+#EXTINF:-1,ES: CANAL 24 HORAS HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292571
+#EXTINF:-1,ES: CANAL SUR ANDALUCIA
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/169730
+#EXTINF:-1,ES: ARAGON TV
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162339
+#EXTINF:-1,ES: ARAGON TV HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211177
+#EXTINF:-1,ES: CANAL 24 HORAS
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/136458
+#EXTINF:-1,ES: FOX NEWS
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162506
+#EXTINF:-1,ES: EXTREMADURA TV
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14456
+#EXTINF:-1,ES: TELEMADRID
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240099
+#EXTINF:-1,ES: CGTN ESPANHOL
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240138
+#EXTINF:-1,ES: DE PELICULA
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211118
+#EXTINF:-1,ES: TV GALICIA
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211105
+#EXTINF:-1,ES: TV3 Catalynia HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211108
+#EXTINF:-1,ES: TELESUR HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/278021
+#EXTINF:-1,ES: MARBELLA TV
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/278019
+#EXTINF:-1,ES: ANDALUCIA TV
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/278016
+#EXTINF:-1,ES: CANAL COIN
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/278009
+#EXTINF:-1,ES: 7RM
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/278007
+#EXTINF:-1,ES: 7RM FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/278006
+#EXTINF:-1,ES: TV3 HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/278004
+#EXTINF:-1,ES: TV Galicia Europa HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277985
+#EXTINF:-1,ES: TV Galicia Infantil HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277983
+#EXTINF:-1,ES: TVE Internacional Europa HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/347412
+#EXTINF:-1,ES: ALCARRIA TV
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277979
+#EXTINF:-1,ES: INTERECONOMIA
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277977
+#EXTINF:-1,ES: INTERALMERIA FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277974
+#EXTINF:-1,ES: TVG HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/362504
+#EXTINF:-1,ES: TVG 2 HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/362503
+#EXTINF:-1,ES: TVG MOMENTO HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/362509
+#EXTINF:-1,ES: TVG Infantil HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/362508
+#EXTINF:-1,ES: TVG Evento 1 HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/362505
+#EXTINF:-1,ES: TVG CULTURAL HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/362506
+#EXTINF:-1,ES: CANAL 25 BARBASTRO TV
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277972
+#EXTINF:-1,ES: RTVC CANARIAS HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/328046
+#EXTINF:-1,ES: ETB SAT
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277965
+#EXTINF:-1,ES: ETB 2 HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277963
+#EXTINF:-1,ES: DreamWorks FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292611
+#EXTINF:-1,ES: DreamWorks
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/329619
+#EXTINF:-1,SP: ----- CINE -----
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178155
+#EXTINF:-1,ES: XTRM HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/306442
+#EXTINF:-1,ES: MOVISTAR ESTRENOS HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/174638
+#EXTINF:-1,ES: MOVISTAR ESTRENOS FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211072
+#EXTINF:-1,ES: MOVISTAR ESTRENOS HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220956
+#EXTINF:-1,ES: MOVISTAR ESTRENOS 2 HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/367879
+#EXTINF:-1,ES: MOVISTAR ESTRENOS 2 FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292598
+#EXTINF:-1,ES: MOVISTAR ACCION HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277952
+#EXTINF:-1,ES: MOVISTAR ACCION FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/174636
+#EXTINF:-1,ES: M. ACCION HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/299332
+#EXTINF:-1,ES: MOVISTAR COMEDIA HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/174637
+#EXTINF:-1,ES: MOVISTAR COMEDIA FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211069
+#EXTINF:-1,ES: MOVISTAR DRAMA HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211176
+#EXTINF:-1,ES: MOVISTAR DRAMA FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277950
+#EXTINF:-1,ES: MOVISTAR DCINE HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14419
+#EXTINF:-1,ES: MOVISTAR DCINE FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211070
+#EXTINF:-1,ES: MOVISTAR CINEDOC / ROLL HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240114
+#EXTINF:-1,ES: MOVISTAR CLASICOS FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/375200
+#EXTINF:-1,ES: #0 HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/299329
+#EXTINF:-1,ES: HOLLYWOOD HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211179
+#EXTINF:-1,ES: HOLLYWOOD FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277942
+#EXTINF:-1,ES: HOLLYWOOD HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240112
+#EXTINF:-1,ES: TCM HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211180
+#EXTINF:-1,ES: TCM FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14423
+#EXTINF:-1,ES: SUNDANCE HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162519
+#EXTINF:-1,ES: SUNDANCE FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277939
+#EXTINF:-1,ES: EXTREMADURA TV HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292573
+#EXTINF:-1,ES: SOMOS HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292574
+#EXTINF:-1,ES: PARAMOUNT CHANNEL
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162448
+#EXTINF:-1,ES: MOVISTAR SERIES HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14417
+#EXTINF:-1,ES: MOVISTAR SERIES FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220959
+#EXTINF:-1,ES: M.SERIES HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/299331
+#EXTINF:-1,ES: MOVISTAR SERIES 2 HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/367800
+#EXTINF:-1,ES: MOVISTAR SERIES 2 FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/367799
+#EXTINF:-1,ES: MOVISTAR FEST FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/378507
+#EXTINF:-1,ES: CALLE 13 HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/133322
+#EXTINF:-1,ES: CALLE 13 FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211019
+#EXTINF:-1,ES: CALLE 13 HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240107
+#EXTINF:-1,ES: FOX HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14428
+#EXTINF:-1,ES: FOX FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14427
+#EXTINF:-1,ES: FOX HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240110
+#EXTINF:-1,ES: FOX LIFE HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14426
+#EXTINF:-1,ES: FOX LIFE FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211052
+#EXTINF:-1,ES: FOX LIFE HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240111
+#EXTINF:-1,ES: AXN HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14431
+#EXTINF:-1,ES: AXN FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162338
+#EXTINF:-1,ES: AXN HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240105
+#EXTINF:-1,ES: AXN WHITE HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14430
+#EXTINF:-1,ES: AXN WHITE FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211015
+#EXTINF:-1,ES: AXN WHITE HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240106
+#EXTINF:-1,ES: AMC HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162335
+#EXTINF:-1,ES: AMC FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211011
+#EXTINF:-1,ES: AMC HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240104
+#EXTINF:-1,ES: TNT HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162354
+#EXTINF:-1,ES: TNT FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211103
+#EXTINF:-1,ES: SYFY HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14424
+#EXTINF:-1,ES: SYFY FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292600
+#EXTINF:-1,ES: SYFY HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240117
+#EXTINF:-1,ES: COSMO HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211184
+#EXTINF:-1,ES: COSMO FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14466
+#EXTINF:-1,ES: COSMO HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240109
+#EXTINF:-1,ES: COMEDY CENTRAL HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14468
+#EXTINF:-1,ES: COMEDY CENTRAL FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211031
+#EXTINF:-1,ES: COMEDY CENTRAL HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240108
+#EXTINF:-1,ES: FDF
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211185
+#EXTINF:-1,ES: A3 SERIES HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211183
+#EXTINF:-1,ES: MEGA HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240098
+#EXTINF:-1,ES: ENERGY HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211044
+#EXTINF:-1,ES: DECASA HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211038
+#EXTINF:-1,ES: DECASA FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277957
+#EXTINF:-1,ES: CANAL COCINA HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/208274
+#EXTINF:-1,ES: CANAL COCINA FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277958
+#EXTINF:-1,ES: BE MAD HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/221680
+#EXTINF:-1,ES: BE MAD FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277959
+#EXTINF:-1,ES: BLAZE HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/208273
+#EXTINF:-1,ES: CANAL ODISEA HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14435
+#EXTINF:-1,ES: DIVINITY
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211042
+#EXTINF:-1,ES: NOVA HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14460
+#EXTINF:-1,ES: NEOX HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14446
+#EXTINF:-1,ES: MOVISTAR 0#
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277955
+#EXTINF:-1,ES: ALQUILER HD 1
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178652
+#EXTINF:-1,ES: ALQUILER HD 2
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178651
+#EXTINF:-1,ES: ALQUILER HD 3
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178650
+#EXTINF:-1,ES: ALQUILER HD 4
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178649
+#EXTINF:-1,ES: ALQUILER HD 5
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178648
+#EXTINF:-1,ES: ALQUILER HD 6
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178647
+#EXTINF:-1,ES: ALQUILER HD 7
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178646
+#EXTINF:-1,ES: ALQUILER HD 8
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178645
+#EXTINF:-1,ES: ALQUILER HD 9
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178644
+#EXTINF:-1,SP: ----- MUSIC -----
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178159
+#EXTINF:-1,ES: MTV
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211085
+#EXTINF:-1,ES: CLASSICA
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240121
+#EXTINF:-1,ES: MEZZO LIVE FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211062
+#EXTINF:-1,ES: MEZZO LIVE HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240120
+#EXTINF:-1,SP: ----- INFANTIL -----
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178160
+#EXTINF:-1,ES: DISNEY JR
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14448
+#EXTINF:-1,ES: DISNEY XD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211041
+#EXTINF:-1,ES: DISNEY CHANNEL HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292604
+#EXTINF:-1,ES: DISNEY CHANNEL FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/208278
+#EXTINF:-1,ES: DISNEY+
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/221676
+#EXTINF:-1,ES: NICKELODEON HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14445
+#EXTINF:-1,ES: NICKELODEON FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211091
+#EXTINF:-1,ES: NICKELODEON HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240126
+#EXTINF:-1,ES: NICK JR
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14444
+#EXTINF:-1,ES: CLAN HD (TVE)
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211170
+#EXTINF:-1,ES: CLAN FHD (TVE)
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/221677
+#EXTINF:-1,ES: BOING
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14450
+#EXTINF:-1,ES: CANAL PANDA
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/208276
+#EXTINF:-1,ES: BABY TV
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162490
+#EXTINF:-1,ES: IBERALIA TV HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277962
+#EXTINF:-1,ES: DKISS HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/217807
+#EXTINF:-1,ES: TEN
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/221682
+#EXTINF:-1,ES: CAZA Y PESCA HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14442
+#EXTINF:-1,ES: CAZA Y PESCA FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211030
+#EXTINF:-1,ES: CAZA Y PESCA HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240122
+#EXTINF:-1,SP: ----- DOCUMENTALES -----
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178158
+#EXTINF:-1,ES: HISTORIA HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14439
+#EXTINF:-1,ES: HISTORIA FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277961
+#EXTINF:-1,ES: CRIMEN+ INVESTIGACION
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14441
+#EXTINF:-1,ES: DISCOVERY CHANNEL HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14440
+#EXTINF:-1,ES: DISCOVERY CHANNEL FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292605
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/221678
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211088
+#EXTINF:-1,ES: NAT GEO HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240123
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC WILD HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/221679
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC WILD FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211090
+#EXTINF:-1,ES: NATIONAL GEO WILD HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240124
+#EXTINF:-1,ES: DMAX
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/221681
+#EXTINF:-1,ES: VIAJAR HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14434
+#EXTINF:-1,ES: VIAJAR FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211114
+#EXTINF:-1,SP: ----- DEPORTES -----
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178157
+#EXTINF:-1,ES: DAZN F1 HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292610
+#EXTINF:-1,ES: DAZN F1 FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/339519
+#EXTINF:-1,ES: DAZN 1 FHD.
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/314679
+#EXTINF:-1,ES: DAZN 1 HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292616
+#EXTINF:-1,ES: DAZN 2 FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/314680
+#EXTINF:-1,ES: DAZN 2 HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292617
+#EXTINF:-1,ES: DAZN 3 FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292612
+#EXTINF:-1,ES: DAZN 3
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292618
+#EXTINF:-1,ES: DAZN 4 FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292613
+#EXTINF:-1,ES: DAZN 4 HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292619
+#EXTINF:-1,ES: MOVISTAR VAMOS HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/210552
+#EXTINF:-1,ES: MOVISTAR VAMOS FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292628
+#EXTINF:-1,ES: MOVISTAR VAMOS HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240131
+#EXTINF:-1,ES: LA LIGA BAR HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220975
+#EXTINF:-1,ES: LA LIGA BAR FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220934
+#EXTINF:-1,ES: LA LIGA BAR HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240135
+#EXTINF:-1,ES: LA LIGA TV BAR 2 [LIVE-EVENT]
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220972
+#EXTINF:-1,ES: LA LIGA TV BAR 3 [LIVE-EVENT]
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220971
+#EXTINF:-1,ES: LA LIGA TV BAR 4 [LIVE-EVENT]
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220970
+#EXTINF:-1,ES: MOVISTAR LA LIGA HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220973
+#EXTINF:-1,ES: MOVISTAR LA LIGA FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220943
+#EXTINF:-1,ES: MOVISTAR LA LIGA HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240129
+#EXTINF:-1,ES: MOVISTAR LA LIGA 1 HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211205
+#EXTINF:-1,ES: MOVISTAR LA LIGA 1 FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211202
+#EXTINF:-1,ES: MOVISTAR LA LIGA 1 HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240130
+#EXTINF:-1,ES: MOVISTAR LA LIGA 2 HD  (Solo Eventos)
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220962
+#EXTINF:-1,ES: MOVISTAR LA LIGA 2 FHD  (Solo Eventos)
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211203
+#EXTINF:-1,ES: MOVISTAR LA LIGA 3 HD [Solo Eventos]
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220961
+#EXTINF:-1,ES: MOVISTAR LA LIGA 3 FHD  (Solo Eventos)
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211204
+#EXTINF:-1,ES: MOVISTAR LA LIGA 4 HD (Solo Eventos)
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211201
+#EXTINF:-1,ES: MOVISTAR LA LIGA 5 HD  (Solo Eventos)
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220944
+#EXTINF:-1,ES: MOVISTAR LA LIGA 7 HD  (Solo Eventos)
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220964
+#EXTINF:-1,ES: MOVISTAR LA LIGA 6 HD  (Solo Eventos)
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220960
+#EXTINF:-1,ES: MOVISTAR LA LIGA 8 HD  (Solo Eventos)
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220963
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220938
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220937
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240134
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 1 HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211192
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 1 FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211144
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 2 HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211193
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 2 FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220953
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 3 HD (Solo Eventos)
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211194
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 3 FHD (Solo Eventos)
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220954
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 4 HD (Solo Eventos)
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211195
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 5 HD (Solo Eventos)
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211196
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 6 HD (Solo Eventos)
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211197
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 7 HD (Solo Eventos)
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211198
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 8 HD (Solo Eventos)
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211199
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 9 HD (Solo Eventos)
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211200
+#EXTINF:-1,ES: MOVISTAR DEPORTES HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211187
+#EXTINF:-1,ES: MOVISTAR DEPORTES FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220967
+#EXTINF:-1,ES: MOVISTAR DEPORTES HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240132
+#EXTINF:-1,ES: MOVISTAR DEPORTE 1 HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220940
+#EXTINF:-1,ES: MOVISTAR DEPORTES 1 FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292670
+#EXTINF:-1,ES: MOVISTAR DEPORTES 1 HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240133
+#EXTINF:-1,ES: MOVISTAR DEPORTES 2
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/330768
+#EXTINF:-1,ES: MOVISTAR DEPORTE 2 HD (Solo Eventos)
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220941
+#EXTINF:-1,ES: MOVISTAR DEPORTES 2 FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292669
+#EXTINF:-1,ES: MOVISTAR DEPORTES 3 HD (Solo Eventos)
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292668
+#EXTINF:-1,ES: MOVISTAR DEPORTES 4 HD (Solo Eventos)
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292667
+#EXTINF:-1,ES: MOVISTAR DEPORTES 5 HD (Solo Eventos)
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292666
+#EXTINF:-1,ES: MOVISTAR DEPORTES 6 HD (Solo Eventos)
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292665
+#EXTINF:-1,ES: MOVISTAR DEPORTES 7 HD (Solo Eventos)
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292664
+#EXTINF:-1,ES: MOVISTAR MULTIDEPORTE HD/FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/174639
+#EXTINF:-1,ES: M.LCAMPEON 1
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/330769
+#EXTINF:-1,ES: M.LCAMPEON 2
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/330770
+#EXTINF:-1,ES: M.LCAMPEON 3
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/332198
+#EXTINF:-1,ES: M.LCAMPEON 4
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/332199
+#EXTINF:-1,ES: EUROSPORT 1 HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14410
+#EXTINF:-1,ES: EUROSPORT 1 FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/164680
+#EXTINF:-1,ES: EUROSPORT1 HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240128
+#EXTINF:-1,ES: EUROSPORT 2
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211210
+#EXTINF:-1,ES: EUROSPORT 2 HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220935
+#EXTINF:-1,ES: MOVISTAR FORMULA 1 HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14405
+#EXTINF:-1,ES: MOVISTAR FORMULA 1 FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220955
+#EXTINF:-1,ES: MOVISTAR FORMULA 1 HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240137
+#EXTINF:-1,ES: MOVISTAR GOLF HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14402
+#EXTINF:-1,ES: MOVISTAR GOLF FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211076
+#EXTINF:-1,ES: MOVISTAR GOLF HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240136
+#EXTINF:-1,ES: BARCA TV HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14399
+#EXTINF:-1,ES: BARCA TV FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292671
+#EXTINF:-1,ES: REAL MADRID TV
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14398
+#EXTINF:-1,ES: REAL MADRID TV HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211095
+#EXTINF:-1,ES: GOL TV HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211053
+#EXTINF:-1,ES: GOL TV FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/208275
+#EXTINF:-1,ES: TELEDEPORTE HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178734
+#EXTINF:-1,ES: TELEDEPORTE FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211126
+#EXTINF:-1,ES: MOVISTAR TOROS HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211104
+#EXTINF:-1,ES: MOVISTAR TOROS FHD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/13908
+#EXTINF:-1,ES: MOVISTAR TOROS HEVC
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240127
+#EXTINF:-1,ES: MOVISTAR  FUTBOL HD
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211064
+#EXTINF:-1,ES: FOOTTERS 1 FHD [LIVEEVENT]
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/354379
+#EXTINF:-1,ES: FOOTTERS 2 FHD [LIVEEVENT]
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/354378
+#EXTINF:-1,ES: FOOTTERS 3 FHD [LIVEEVENT]
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/354377
+#EXTINF:-1,ES: FOOTTERS 4 FHD [LIVEEVENT]
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/354376
+#EXTINF:-1,ES: FOOTTERS 5 FHD [LIVEEVENT]
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/354375
+#EXTINF:-1,ES: FOOTTERS 6 FHD [LIVEEVENT]
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/354374
+#EXTINF:-1,ES: FOOTTERS 7 FHD [LIVEEVENT]
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/354373
+#EXTINF:-1,ES: FOOTTERS 8 FHD [LIVEEVENT]
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/354372
+#EXTINF:-1,ES: FOOTTERS 9 FHD [LIVEEVENT]
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/354371
+#EXTINF:-1,ES: FOOTTERS 10 FHD [LIVEEVENT]
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/354370
+#EXTINF:-1,ES: FOOTTERS 14 FHD [LIVEEVENT]
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/354366
+#EXTINF:-1,ES: FOOTTERS 20 FHD [LIVEEVENT]
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/354360
+#EXTINF:-1,(ES-)Todas las lunas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380052.avi
+#EXTINF:-1,(ES-)Un amor salvaje
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/353510.avi
+#EXTINF:-1,(ES-)Amistades salvajes
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347028.avi
+#EXTINF:-1,(ES-)Quédate en casa
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/389049.avi
+#EXTINF:-1,(ES-)Plan A
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/389048.avi
+#EXTINF:-1,(ES-)Oveja sin pastor
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/389047.avi
+#EXTINF:-1,(ES-)Libros de sangre
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/389046.avi
+#EXTINF:-1,(ES-)LEGO Star Wars Cuentos escalofriantes
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/389045.avi
+#EXTINF:-1,(ES-)La novena profecía
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/389044.avi
+#EXTINF:-1,(ES-)¿Eres tú, papá?
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/389043.avi
+#EXTINF:-1,(ES-)Envidia sana
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/389042.avi
+#EXTINF:-1,(ES-)¿Dónde está el truco?
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/389041.avi
+#EXTINF:-1,(ES-)Bright: Samurai Soul
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/389040.avi
+#EXTINF:-1,(ES-)La última gran estafa
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/388416.mkv
+#EXTINF:-1,(ES-)The Deep House
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/388415.mkv
+#EXTINF:-1,(ES-)Cazador contra cazador
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/388414.avi
+#EXTINF:-1,(ES-)Armugán (El Ultimo acabador)
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/388413.avi
+#EXTINF:-1,(ES-)Venom: Habrá Matanza
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/388333.mkv
+#EXTINF:-1,(ES-)¡Upsss! 2 ¿Y ahora dónde está Noé?
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/388331.mkv
+#EXTINF:-1,(ES-)¡Menuda momia!
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/388330.avi
+#EXTINF:-1,(ES-)Capital humano
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/388319.mkv
+#EXTINF:-1,(ES-)El año de la furia
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/388312.mkv
+#EXTINF:-1,(ES-)Dios mío ¡los niños han vuelto!
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/388311.mkv
+#EXTINF:-1,(ES-)Destello Bravío
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/388310.mkv
+#EXTINF:-1,(ES-)Death of a Ladies' Man
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/388309.mkv
+#EXTINF:-1,(ES-)Calle de la Humanidad, 8
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/388308.avi
+#EXTINF:-1,(ES-)Caged
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/388307.avi
+#EXTINF:-1,(ES-)Best Sellers
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/387859.avi
+#EXTINF:-1,(SP-)Bésame Kosher
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/387858.avi
+#EXTINF:-1,(SP-)Allí me encontrarás
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/387857.avi
+#EXTINF:-1,(SP-)Ted Bundy. En la mente del asesino
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/387737.avi
+#EXTINF:-1,(SP-)Solo una vez
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/387736.avi
+#EXTINF:-1,(SP-)Separation
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/387735.avi
+#EXTINF:-1,(SP-)Rencor
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/387734.avi
+#EXTINF:-1,(SP-)Popular
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/387733.avi
+#EXTINF:-1,(SP-)Mi hermano, mi hermana
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/387732.avi
+#EXTINF:-1,(SP-)La purga infinita
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/387731.avi
+#EXTINF:-1,(SP-)La mujer del infierno
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/387730.avi
+#EXTINF:-1,(SP-)La batalla olvidada
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/387729.avi
+#EXTINF:-1,(SP-)Horns
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/387728.mkv
+#EXTINF:-1,(SP-)Fauces de la noche
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/387727.avi
+#EXTINF:-1,(SP-)El viaje
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/387726.avi
+#EXTINF:-1,(SP-)El efecto Marcus: los casos del departamento Q
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/387725.avi
+#EXTINF:-1,(SP-)Zone 414
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/384428.avi
+#EXTINF:-1,(SP-)Un hombre lobo entre nosotros
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/384427.avi
+#EXTINF:-1,(SP-)Los Muppets en Haunted Mansion
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/384426.avi
+#EXTINF:-1,(SP-)La interpretación de Rose
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/384425.avi
+#EXTINF:-1,(SP-)Infinite
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/384424.avi
+#EXTINF:-1,(SP-)El cantante
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/384423.avi
+#EXTINF:-1,(SP-)Escape Room 2: Mueres por salir
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/384319.avi
+#EXTINF:-1,(SP-)El inglés que cogió la maleta y se fue al fin del mundo
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/384318.avi
+#EXTINF:-1,(SP-)Cuñados
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/384317.avi
+#EXTINF:-1,(ES-)The Night (Aan Shab)
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/383750.avi
+#EXTINF:-1,(ES-)Ten: Murder Island
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/383743.avi
+#EXTINF:-1,(ES-)Madres
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/383721.avi
+#EXTINF:-1,(ES-)Lady of the Manor
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/383720.avi
+#EXTINF:-1,(ES-)García y García
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/383719.avi
+#EXTINF:-1,(ES-)El otro guardaespaldas 2
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/383714.avi
+#EXTINF:-1,(ES-)Hunted
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/383706.avi
+#EXTINF:-1,(ES-)Once Fallen
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/383705.avi
+#EXTINF:-1,(ES-)Hay alguien en tu casa
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/383442.avi
+#EXTINF:-1,(ES-)The Night House
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/383441.avi
+#EXTINF:-1,(ES-)En un lugar salvaje
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/382591.avi
+#EXTINF:-1,(ES-)Todo por Jackson (Anything for Jackson)
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/382589.avi
+#EXTINF:-1,(ES-)La Jauría
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/382035.avi
+#EXTINF:-1,(ES-)Los secundarios
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/382034.avi
+#EXTINF:-1,(ES-)Antologia de la Pandemia
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/382033.avi
+#EXTINF:-1,(ES-)Érase una vez en Queens
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/381643.avi
+#EXTINF:-1,(ES-)Huída hacia adelante
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/381642.mp4
+#EXTINF:-1,(ES-)Mi gran despedida
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/381641.avi
+#EXTINF:-1,(ES-)Silk Road
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/381372.avi
+#EXTINF:-1,(ES-)El espacio entre nosotros
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/381371.avi
+#EXTINF:-1,(ES-)Bingo Hell
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/381370.avi
+#EXTINF:-1,(ES-)Black as Night
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/381325.avi
+#EXTINF:-1,(ES-)Forever Rich
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/381324.avi
+#EXTINF:-1,(ES-)Culpable
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/381323.avi
+#EXTINF:-1,(ES-)Reminiscencia
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380982.avi
+#EXTINF:-1,(ES-)Un pequeño contratiempo
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380981.avi
+#EXTINF:-1,(ES-)Juego de luna
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380978.mp4
+#EXTINF:-1,(ES-)Friendzone
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380977.avi
+#EXTINF:-1,(ES-)Shorta. El peso de la ley
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380976.avi
+#EXTINF:-1,(ES-)Nadie saldrá vivo de aquí
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380975.avi
+#EXTINF:-1,(ES-)Fuimos Canciones
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380974.avi
+#EXTINF:-1,(ES-)Bloody Hell
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380952.avi
+#EXTINF:-1,(ES-)Maldita jungla
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380929.avi
+#EXTINF:-1,(ES-)Histeria
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380927.mp4
+#EXTINF:-1,(ES-)El estornino
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380926.avi
+#EXTINF:-1,(ES-)Confesiones de una chica invisible
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380923.avi
+#EXTINF:-1,(ES-)Comité de Dioses
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380922.avi
+#EXTINF:-1,(ES-)A todo tren: destino Asturias
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380921.avi
+#EXTINF:-1,(ES-)Tiempo
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380176.avi
+#EXTINF:-1,(ES-)Sweat
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380175.avi
+#EXTINF:-1,(ES-)Snake Eyes: El origen
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380174.mkv
+#EXTINF:-1,(ES-)La chica del brazalete
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380173.avi
+#EXTINF:-1,(ES-)Je suis Karl
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380172.avi
+#EXTINF:-1,(ES-)Intrusión
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380171.avi
+#EXTINF:-1,(ES-)Black Site
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380170.avi
+#EXTINF:-1,(ES-)Aves del paraíso
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380169.avi
+#EXTINF:-1,(ES-)BAC Nord: Brigada de Investigación Criminal
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380088.avi
+#EXTINF:-1,(ES-)Cuentos al caer la noche
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380087.avi
+#EXTINF:-1,(ES-)Deathstroke: Caballeros y Dragones
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380086.avi
+#EXTINF:-1,(ES-)El baile de las locas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380085.avi
+#EXTINF:-1,(ES-)El olvido que seremos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380084.avi
+#EXTINF:-1,(ES-)El padre que mueve montañas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380083.avi
+#EXTINF:-1,(ES-)Edge of the World
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380082.avi
+#EXTINF:-1,(ES-)Evangelion: 3.0+1.0
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380081.avi
+#EXTINF:-1,(ES-)Hijos del Sol
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380080.avi
+#EXTINF:-1,(ES-)Historia de una traición
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380079.avi
+#EXTINF:-1,(ES-)Los 800
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380078.avi
+#EXTINF:-1,(ES-)Maligno
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380077.avi
+#EXTINF:-1,(ES-)Only
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380076.avi
+#EXTINF:-1,(ES-)La princesa de la fila
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380075.avi
+#EXTINF:-1,(ES-)Schumacher
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380074.avi
+#EXTINF:-1,(ES-)Shang-Chi y la leyenda de los Diez Anillos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380073.mp4
+#EXTINF:-1,(ES-)El sospechoso número 12
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380069.mp4
+#EXTINF:-1,(ES-)Todos hablan de Jamie
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/380051.avi
+#EXTINF:-1,(ES-)Pequeño pez
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/379848.avi
+#EXTINF:-1,(ES-)Misión posible
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/379847.avi
+#EXTINF:-1,(ES-)Quo Vadis, Aida?
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/379845.avi
+#EXTINF:-1,(ES-)Search and Destroy
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/379844.avi
+#EXTINF:-1,(ES-)Candyman
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/379843.mp4
+#EXTINF:-1,(ES-)Un regalo para papá
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/379466.mkv
+#EXTINF:-1,(ES-)Un final made in Hollywood
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/379465.mkv
+#EXTINF:-1,(ES-)Última llamada
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/379464.mkv
+#EXTINF:-1,(ES-)Sidney (Hard Eight)
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/379463.mkv
+#EXTINF:-1,(ES-)Soy la bonita criatura que vive en esta casa
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/379462.mkv
+#EXTINF:-1,(ES-)Desaparecido
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/379461.mkv
+#EXTINF:-1,(ES-)Los primeros golpes de Butch Cassidy y Sundance
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/379460.mkv
+#EXTINF:-1,(ES-)La fiesta del más allá
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/379459.avi
+#EXTINF:-1,(ES-)Fukushima
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/379458.avi
+#EXTINF:-1,(ES-)El escuadrón suicida
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/379423.avi
+#EXTINF:-1,(ES-)Descarrilados
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/379379.mkv
+#EXTINF:-1,(ES-)Demasiado amor
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/379378.avi
+#EXTINF:-1,(ES-)Cenicienta
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/379377.avi
+#EXTINF:-1,(ES-)Bruto vs César
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/379374.avi
+#EXTINF:-1,(ES-)Annie West - El Tesoro de las Seis Caras
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/379373.avi
+#EXTINF:-1,(ES-)Amigos pasajeros
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/379372.mkv
+#EXTINF:-1,(ES-)Doce huérfanos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/379371.avi
+#EXTINF:-1,(ES-)Yalda, la noche del perdón
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378852.avi
+#EXTINF:-1,(ES-)Una villa en la Toscana
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378851.avi
+#EXTINF:-1,(ES-)Torcidos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378850.avi
+#EXTINF:-1,(ES-)The Witcher: La pesadilla del lobo
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378849.avi
+#EXTINF:-1,(ES-)The Show
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378848.avi
+#EXTINF:-1,(ES-)Stay Out of the Attic
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378847.avi
+#EXTINF:-1,(ES-)SAS: el ascenso del Cisne Negro
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378846.avi
+#EXTINF:-1,(ES-)Really Love
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378845.avi
+#EXTINF:-1,(ES-)Las Formas Antiguas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378844.avi
+#EXTINF:-1,(ES-)La vampira de Barcelona
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378843.avi
+#EXTINF:-1,(ES-)Especies en Peligro de Extincion
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378842.avi
+#EXTINF:-1,(ES-)El informe Auschwitz
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378841.avi
+#EXTINF:-1,(ES-)Alguien como él
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378840.avi
+#EXTINF:-1,(ES-)4 días
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378839.avi
+#EXTINF:-1,(ES-)La ruleta de la fortuna y la fantasía
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378818.mp4
+#EXTINF:-1,(ES-)Torrente 2: Misión en Marbella
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378817.mkv
+#EXTINF:-1,(ES-)Torrente, el brazo tonto de la ley
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378816.mkv
+#EXTINF:-1,(ES-)schwarz
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378815.mp4
+#EXTINF:-1,(ES-)La casa del caracol
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378814.avi
+#EXTINF:-1,(ES-)Haven
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378813.mkv
+#EXTINF:-1,(ES-)Fast - Furious 9
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378812.avi
+#EXTINF:-1,(ES-)El sabor de las cerezas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378811.avi
+#EXTINF:-1,(ES-)El peque se va de marcha
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378810.avi
+#EXTINF:-1,(ES-)El fotógrafo de Minamata
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378796.avi
+#EXTINF:-1,(ES-)El Dentista
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378795.mkv
+#EXTINF:-1,(ES-)Earwig y la bruja
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378794.avi
+#EXTINF:-1,(ES-)Danny Boy
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378793.avi
+#EXTINF:-1,(ES-)Chaos Walking
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378792.avi
+#EXTINF:-1,(ES-)Adventureland
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378789.avi
+#EXTINF:-1,(ES-)Una Cenicienta moderna: Salto a la fama
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378396.avi
+#EXTINF:-1,(ES-)Una veterinaria en la Borgoña
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378395.avi
+#EXTINF:-1,(ES-)Tove
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378394.mkv
+#EXTINF:-1,(ES-)The Italian Job
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378393.mkv
+#EXTINF:-1,(ES-)Sweet Girl
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378391.avi
+#EXTINF:-1,(ES-)Stop
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378390.avi
+#EXTINF:-1,(ES-)Space Jam: Nuevas Leyendas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378389.avi
+#EXTINF:-1,(ES-)Police
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378388.avi
+#EXTINF:-1,(ES-)Ovella
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378387.avi
+#EXTINF:-1,(ES-)Mortal Kombat Legends: La venganza de Scorpion
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378376.avi
+#EXTINF:-1,(ES-)Monster Hunter: Leyendas del gremio
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378375.avi
+#EXTINF:-1,(ES-)Mi primer beso 3
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378374.avi
+#EXTINF:-1,(ES-)Mi padre
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378373.avi
+#EXTINF:-1,(ES-)Mi corazón no late si no se lo dices
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378372.mkv
+#EXTINF:-1,(ES-)Luxor
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378371.avi
+#EXTINF:-1,(ES-)La isla negra
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378370.avi
+#EXTINF:-1,(ES-)La cosa (The Thing)
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378369.avi
+#EXTINF:-1,(ES-)Isaac
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378366.avi
+#EXTINF:-1,(ES-)En el mejor momento
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378364.avi
+#EXTINF:-1,(ES-)El último guerrero. Las raíces del mal
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378362.avi
+#EXTINF:-1,(ES-)El discreto encanto de la burguesía
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378361.mkv
+#EXTINF:-1,(ES-)Dovlatov
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378360.avi
+#EXTINF:-1,(ES-)Diarios de intercambio
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/378359.avi
+#EXTINF:-1,(ES-)Desaparición en Niagara Falls
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377954.avi
+#EXTINF:-1,(ES-)Crueldad intolerable
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377953.mkv
+#EXTINF:-1,(ES-)Annabelle
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377947.avi
+#EXTINF:-1,(ES-)Anatomía 2
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377941.mkv
+#EXTINF:-1,(ES-)Los próximos tres días
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377830.mkv
+#EXTINF:-1,(ES-)Llévame a casa
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377829.avi
+#EXTINF:-1,(ES-)Libertad
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377828.avi
+#EXTINF:-1,(ES-)La purga: infinita
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377827.mkv
+#EXTINF:-1,(ES-)La nube
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377826.avi
+#EXTINF:-1,(ES-)El club de las abejas reina
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377825.avi
+#EXTINF:-1,(ES-)Ciudad de mentiras
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377824.avi
+#EXTINF:-1,(ES-)Hermanos de sangre
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377823.avi
+#EXTINF:-1,(ES-)Beckett
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377822.mkv
+#EXTINF:-1,(ES-)Barb y Star van a Vista Del Mar
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377821.avi
+#EXTINF:-1,(ES-)Atrapado en el túnel
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377820.avi
+#EXTINF:-1,(ES-)Antrum
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377819.mkv
+#EXTINF:-1,(ES-)Amigas para siempre
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377818.mkv
+#EXTINF:-1,(ES-)39 escalones
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377817.mkv
+#EXTINF:-1,(ES-)El efecto Marcus: los casos del departamento Q
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377816.avi
+#EXTINF:-1,(ES-)Boda sin fin
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377815.avi
+#EXTINF:-1,(ES-)Penguin Highway
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377814.avi
+#EXTINF:-1,(ES-)The Toymaker
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377813.avi
+#EXTINF:-1,(ES-)Shiny Flakes: El cibernarco adolescente
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377812.mkv
+#EXTINF:-1,(ES-)¡Scooby-Doo! La Leyenda de Scoobydur
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377811.avi
+#EXTINF:-1,(ES-)Boss Level
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377810.avi
+#EXTINF:-1,(ES-)Rómulo, mi padre
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377809.avi
+#EXTINF:-1,(ES-)Mi desconfiada esposa
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377808.mkv
+#EXTINF:-1,(ES-)La vaquilla
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377807.mkv
+#EXTINF:-1,(ES-)La última tentación de Cristo
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377806.mkv
+#EXTINF:-1,(ES-)La gata sobre el tejado de zinc
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377805.mkv
+#EXTINF:-1,(ES-)La ciudad desnuda
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377804.mkv
+#EXTINF:-1,(ES-)Enemigos públicos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377803.mkv
+#EXTINF:-1,(ES-)El mundo según Barney
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377802.avi
+#EXTINF:-1,(ES-)Dos tontos todavía más tontos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377801.avi
+#EXTINF:-1,(ES-)El imperio de los sentidos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377800.avi
+#EXTINF:-1,(ES-)Dr. Dolittle 2
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377799.avi
+#EXTINF:-1,(ES-)Dr. Dolittle
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377798.mkv
+#EXTINF:-1,(ES-)Astérix y Obélix: Misión Cleopatra
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/377797.mkv
+#EXTINF:-1,(ES-)Trollhunters: El despertar de los titanes
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/376961.avi
+#EXTINF:-1,(ES-)Palabras que burbujean como un refresco
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/376960.avi
+#EXTINF:-1,(ES-)No se puede huir del amor
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/376959.avi
+#EXTINF:-1,(ES-)Kenshin, el guerrero samurái: El principio
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/376957.avi
+#EXTINF:-1,(ES-)Jungle Cruise
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/376956.avi
+#EXTINF:-1,(ES-)El vecindario (1BR)
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/376955.mkv
+#EXTINF:-1,(ES-)El último mercenario
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/376954.avi
+#EXTINF:-1,(ES-)Bartkowiak
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/376953.avi
+#EXTINF:-1,(ES-)Atrapado en el pasado. Se acabó la buena vida
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/376951.avi
+#EXTINF:-1,(ES-)Aftermath
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/374696.avi
+#EXTINF:-1,(ES-)L.A. Slasher
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367436.avi
+#EXTINF:-1,(ES-)Ven a Jugar
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367435.avi
+#EXTINF:-1,(ES-)Ladrones de Elite
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367434.avi
+#EXTINF:-1,(ES-)Escapada al límite
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367433.avi
+#EXTINF:-1,(ES-)Padres adoptivos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367432.avi
+#EXTINF:-1,(ES-)A todo tren: destino Asturias
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367431.avi
+#EXTINF:-1,(ES-)Peter Rabbit 2: A la fuga
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367430.mp4
+#EXTINF:-1,(ES-)Apocalipsis ártico
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367429.avi
+#EXTINF:-1,(ES-)Más allá de la onda expansiva
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367428.avi
+#EXTINF:-1,(ES-)Flashback
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367427.avi
+#EXTINF:-1,(ES-)La espía
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367426.avi
+#EXTINF:-1,(ES-)The Night Doctor
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367425.mp4
+#EXTINF:-1,(ES-)Cielo rojo sangre
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367424.avi
+#EXTINF:-1,(ES-)Jolt (Impacto)
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367423.avi
+#EXTINF:-1,(ES-)Dark Spell
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367422.mp4
+#EXTINF:-1,(ES-)The Forest of Love
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367421.mp4
+#EXTINF:-1,(ES-)Ciudad de asesinos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367420.avi
+#EXTINF:-1,(ES-)Jungle Run
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367419.mp4
+#EXTINF:-1,(ES-)Rocks
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367418.avi
+#EXTINF:-1,(ES-)La última carta de amor
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367417.avi
+#EXTINF:-1,(ES-)Calm Like a Bomb
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367416.mp4
+#EXTINF:-1,(ES-)Audrey
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367415.mp4
+#EXTINF:-1,(ES-)Rams
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367414.avi
+#EXTINF:-1,(ES-)Los Estados Unidos contra Billie Holiday
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367163.avi
+#EXTINF:-1,(ES-)Otra ronda
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367162.mkv
+#EXTINF:-1,(ES-)Burn
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/367161.avi
+#EXTINF:-1,(ES-)En un barrio de Nueva York
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/366962.avi
+#EXTINF:-1,(ES-)Gates of Darkness
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/366961.avi
+#EXTINF:-1,(ES-)La clásica historia de terror
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/366960.mp4
+#EXTINF:-1,(ES-)La calle del terror - Parte 3: 1666
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/366959.avi
+#EXTINF:-1,(ES-)Malas tierras
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/366958.mkv
+#EXTINF:-1,(ES-)Brazo de oro
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/366957.avi
+#EXTINF:-1,(ES-)Sospecha
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/366956.mkv
+#EXTINF:-1,(ES-)The Rookies
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/366951.avi
+#EXTINF:-1,(ES:)The Blind Side: Un sueño posible
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/366478.avi
+#EXTINF:-1,(ES-)Aquamarine
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/366475.mkv
+#EXTINF:-1,(ES-)5 es el número perfecto
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/366474.avi
+#EXTINF:-1,(ES-)Madre oscura
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/366473.avi
+#EXTINF:-1,(ES-)Persecución en la Nieve
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/366382.mp4
+#EXTINF:-1,(ES-)Urubú
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/366381.mkv
+#EXTINF:-1,(ES-)Que nadie se entere
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/366380.mkv
+#EXTINF:-1,(ES-)Una joven prometedora
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/366362.avi
+#EXTINF:-1,(ES-)Una canción irlandesa
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/366242.avi
+#EXTINF:-1,(ES-)Thale
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/366241.avi
+#EXTINF:-1,(ES-)Queridos vecinos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/366240.avi
+#EXTINF:-1,(ES-)Los traductores
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/366239.avi
+#EXTINF:-1,(ES-)El manual de la familia perfecta
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/366238.avi
+#EXTINF:-1,(ES-)Hooligans
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365917.mkv
+#EXTINF:-1,(ES-)La conspiración del pánico
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365916.mkv
+#EXTINF:-1,(ES-)La carrera de la muerte del año 2000
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365915.mkv
+#EXTINF:-1,(ES-)Ringu 0 (El círculo 0)
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365914.mkv
+#EXTINF:-1,(ES-)Perra bruja
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365913.mp4
+#EXTINF:-1,(ES-)Venganza (In the Blood)
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365912.avi
+#EXTINF:-1,(ES-)Blood Bags
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365911.avi
+#EXTINF:-1,(ES-)Rojo Amanecer
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365910.avi
+#EXTINF:-1,(ES-)Old boy
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365810.avi
+#EXTINF:-1,(ES-)Cómo me convertí en superhéroe
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365809.avi
+#EXTINF:-1,(ES-)La tienda
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365808.mkv
+#EXTINF:-1,(ES-)Aquel verano
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365807.avi
+#EXTINF:-1,(ES-)El hombre agua
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365806.avi
+#EXTINF:-1,(ES-)Speed: Máxima potencia
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365805.mkv
+#EXTINF:-1,(ES-)El lobo de Snow Hollow
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365804.avi
+#EXTINF:-1,(ES-)La calle del terror, Parte 2: 1978
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365803.mkv
+#EXTINF:-1,(ES-)Viuda negra
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365802.avi
+#EXTINF:-1,(ES-)The Fare
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365785.avi
+#EXTINF:-1,(ES-)La magia de la Isla
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365784.avi
+#EXTINF:-1,(ES-)Los Simpson: La buena, el malo y Loki
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365783.avi
+#EXTINF:-1,(ES-)Hope Frozen
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365782.mp4
+#EXTINF:-1,(ES-)Atrapa a un ladrón
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365781.avi
+#EXTINF:-1,(ES-)El mundo que viene
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365780.avi
+#EXTINF:-1,(ES-)Falso culpable
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365779.mkv
+#EXTINF:-1,(ES-)Los mejores amigos para siempre
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365778.mkv
+#EXTINF:-1,(ES-)Amigos para siempre
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365777.avi
+#EXTINF:-1,(ES-)Igor Grom contra el Doctor Peste
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365776.avi
+#EXTINF:-1,(ES-)Fast and Furious 9
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365602.mkv
+#EXTINF:-1,(ES-)Intocable
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365601.avi
+#EXTINF:-1,(ES-)En tierra hostil
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365600.mkv
+#EXTINF:-1,(ES-)Efectos sobrenaturales (TV)
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365599.mkv
+#EXTINF:-1,(ES-)Gaia
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365598.mp4
+#EXTINF:-1,(ES-)Últimas noticias en Yuba County
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365597.avi
+#EXTINF:-1,(ES-)Animal Kingdom
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365596.mkv
+#EXTINF:-1,(ES-)Pánico en el Transiberiano
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365595.mkv
+#EXTINF:-1,(ES-)Horario Estelar
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365583.avi
+#EXTINF:-1,(ES-)El dragón de los deseos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365579.mp4
+#EXTINF:-1,(ES-)Un loco suelto en Hollywood
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365578.mkv
+#EXTINF:-1,(ES-)La calle del terror, Parte 1: 1994
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365577.avi
+#EXTINF:-1,(ES-)Estados Unidos: La Película
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365576.avi
+#EXTINF:-1,(ES-)En lucha
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365575.avi
+#EXTINF:-1,(ES-)Por los niños
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365574.avi
+#EXTINF:-1,(ES-)Bad Boy Bubby
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365573.mp4
+#EXTINF:-1,(ES-)Rescate en Marte
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365572.avi
+#EXTINF:-1,(ES-)Una Cenicienta moderna: Salto a la fama
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365571.mp4
+#EXTINF:-1,(ES-)Estigma
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365569.mkv
+#EXTINF:-1,(ES-)El caracol y la ballena
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365106.avi
+#EXTINF:-1,(ES-)Max Reload y los desintegradores abisales
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365105.avi
+#EXTINF:-1,(ES-)Con la magia en los zapatos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365104.mkv
+#EXTINF:-1,(ES-)Perdita Durango
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365103.mkv
+#EXTINF:-1,(ES-)El último gangster
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365102.avi
+#EXTINF:-1,(ES-)Los gemelos golpean dos veces
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365101.avi
+#EXTINF:-1,(ES-)El silencio de los espías
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365100.avi
+#EXTINF:-1,(ES-)Smoke
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365099.mkv
+#EXTINF:-1,(ES-)La guerra del mañana
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365098.avi
+#EXTINF:-1,(ES-)Howard: Un nuevo héroe
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365097.mkv
+#EXTINF:-1,(ES-)Cowboys
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365096.avi
+#EXTINF:-1,(ES-)Dos ladrones y medio
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365095.mkv
+#EXTINF:-1,(ES-)Minari. Historia de mi familia
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365094.avi
+#EXTINF:-1,(ES-)Apocalipsis de hielo
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365093.avi
+#EXTINF:-1,(ES-)Take Shelter
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365092.mkv
+#EXTINF:-1,(ES-)El juego de Hollywood
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365091.mkv
+#EXTINF:-1,(ES-)Jugando a matar
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365090.mkv
+#EXTINF:-1,(ES-)Encuentros en la oscuridad
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365089.avi
+#EXTINF:-1,(ES-)Skylines
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365088.avi
+#EXTINF:-1,(ES-)United 93 (Vuelo 93)
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365087.mkv
+#EXTINF:-1,(ES-)El sustituto
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365086.mkv
+#EXTINF:-1,(ES-)On-Site
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365085.mkv
+#EXTINF:-1,(ES-)Sólo quiero caminar
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365084.mkv
+#EXTINF:-1,(ES-)Ghost (Más allá del amor)
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365074.mkv
+#EXTINF:-1,(ES-)Expediente Warren: Obligado por el demonio
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365073.avi
+#EXTINF:-1,(ES-)Y al séptimo día
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365072.avi
+#EXTINF:-1,(ES-)Gracias por fumar
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365071.mkv
+#EXTINF:-1,(ES-)Willy's Wonderland
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365070.mkv
+#EXTINF:-1,(ES-)Relic
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365069.mkv
+#EXTINF:-1,(ES-)The Monster Project
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/365068.avi
+#EXTINF:-1,(ES-)Black Snake Moan
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/364561.mkv
+#EXTINF:-1,(ES-)Operación Camarón
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/364560.mp4
+#EXTINF:-1,(SP-)Dating Amber
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/364319.avi
+#EXTINF:-1,(SP-)Demencia
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/364229.mp4
+#EXTINF:-1,(SP-)Sueños eléctricos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/364228.mkv
+#EXTINF:-1,(SP-)The Rescue, equipo de rescate
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/364227.avi
+#EXTINF:-1,(SP-)Tiempo Limite Para Morir
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/364226.avi
+#EXTINF:-1,(SP-)Tenía buena pinta
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/364225.avi
+#EXTINF:-1,(SP-)Sueños de una escritora en Nueva York
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/364224.avi
+#EXTINF:-1,(SP-)Living Space
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/364223.avi
+#EXTINF:-1,(SP-)La Sra. Lowry e hijo
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/364222.avi
+#EXTINF:-1,(SP-)Happily
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/364221.avi
+#EXTINF:-1,(SP-)Cuerdas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/364220.avi
+#EXTINF:-1,(ES-)14 días, 12 noches
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/364219.avi
+#EXTINF:-1,(ES-)Jagame Thandhiram
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363741.mkv
+#EXTINF:-1,(ES-)Grand Piano
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363740.avi
+#EXTINF:-1,(ES-)Solo las bestias
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363713.mkv
+#EXTINF:-1,(ES-)Proyecto X
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363712.mkv
+#EXTINF:-1,(ES-)Legend
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363711.mkv
+#EXTINF:-1,(ES-)Little Miss Sumo
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363710.mp4
+#EXTINF:-1,(ES-)Wildland
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363331.avi
+#EXTINF:-1,(ES-)Ser padre
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363311.avi
+#EXTINF:-1,(ES-)Vacaciones contigo... Y tu mujer
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363310.avi
+#EXTINF:-1,(ES-)Mi niña
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363309.avi
+#EXTINF:-1,(ES-)Psycho Goreman
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363278.avi
+#EXTINF:-1,(ES-)Pesadillas de una Mente Enferma
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363277.mp4
+#EXTINF:-1,(ES-)La sombra
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363264.avi
+#EXTINF:-1,(ES-)Blindspotting
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363263.avi
+#EXTINF:-1,(ES-)Luca
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363262.avi
+#EXTINF:-1,(ES-)Cuidado con los niños
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363261.avi
+#EXTINF:-1,(ES-)Nunca, casi nunca, a veces, siempre
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363260.avi
+#EXTINF:-1,(ES-)Otra vuelta de tuerca
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363259.avi
+#EXTINF:-1,(ES-)Angustia
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363258.mp4
+#EXTINF:-1,(ES-)Samurái X: El fin
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363219.avi
+#EXTINF:-1,(ES-)Una noche de venganza
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363205.avi
+#EXTINF:-1,(ES-)Pharaoh's War
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363204.mkv
+#EXTINF:-1,(ES-)Possessor Uncut
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363203.avi
+#EXTINF:-1,(ES-)Seguridad
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363198.avi
+#EXTINF:-1,(ES-)Gorgo
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363197.mp4
+#EXTINF:-1,(ES-)El arte de volver
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363196.avi
+#EXTINF:-1,(ES-)Ruega por nosotros
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363195.avi
+#EXTINF:-1,(ES-)Blindspotting
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363176.avi
+#EXTINF:-1,(ES-)El padre
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363168.avi
+#EXTINF:-1,(ES-)El gran McLintock
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363167.mkv
+#EXTINF:-1,(ES-)Días contados
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363166.mkv
+#EXTINF:-1,(ES-)Tomboy
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363151.avi
+#EXTINF:-1,(ES-)Los surfistas nazis deben morir
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363142.mp4
+#EXTINF:-1,(ES-)La habitación del pánico
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363141.mkv
+#EXTINF:-1,(ES-)El espía
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363140.mkv
+#EXTINF:-1,(ES-)Deseando amar
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363139.mkv
+#EXTINF:-1,(ES-)Abajo el periscopio
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363129.mkv
+#EXTINF:-1,(ES-)Los límites de nuestro planeta: Una mirada científica
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/363088.mkv
+#EXTINF:-1,(ES-)Sí, Dios mío, sí
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/360241.avi
+#EXTINF:-1,(ES-)Club de padres
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/360240.avi
+#EXTINF:-1,(ES-)Campanadas a muerto
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/360239.avi
+#EXTINF:-1,(ES-)Los Octonautas y la Gran Barrera de Coral
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/360238.avi
+#EXTINF:-1,(ES-)Rocca cambia el mundo
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/360237.avi
+#EXTINF:-1,(ES-)Lo que queda de nosotras
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/360236.avi
+#EXTINF:-1,(ES-)Martin Eden
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/360235.avi
+#EXTINF:-1,(ES-)Turbulencia zombi
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/360234.avi
+#EXTINF:-1,(ES-)Una vez más
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/360233.avi
+#EXTINF:-1,(ES-)Porno
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/360232.avi
+#EXTINF:-1,(ES-)El pomo azul
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/360231.avi
+#EXTINF:-1,(ES-)Connected
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/360230.mp4
+#EXTINF:-1,(ES-)Amalia en el otoño
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/360229.avi
+#EXTINF:-1,(ES-)Día de redención
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/358800.avi
+#EXTINF:-1,(ES-)Casas de cristal
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/357797.avi
+#EXTINF:-1,(ES-)Estándar
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/357796.avi
+#EXTINF:-1,(ES-)Los Croods: Una nueva era
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/357795.avi
+#EXTINF:-1,(ES-)Los desorientados
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/357794.avi
+#EXTINF:-1,(ES-)Nomadland
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/357793.avi
+#EXTINF:-1,(ES-)Siempre es Otoño
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/357792.avi
+#EXTINF:-1,(ES-)The Marker
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/357791.avi
+#EXTINF:-1,(ES-)Traición a tres esposas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/357790.avi
+#EXTINF:-1,(ES-)Un efecto óptico
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/357789.avi
+#EXTINF:-1,(ES-)Zaniki
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/357788.avi
+#EXTINF:-1,(ES-)Cruella
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/357787.avi
+#EXTINF:-1,(ES-)Viaje a Nara
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/357361.avi
+#EXTINF:-1,(ES-)Milagro azul
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/357360.avi
+#EXTINF:-1,(ES-)Sound of Metal
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/357313.avi
+#EXTINF:-1,(ES-)Roberto Baggio, la Divina Coleta
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/357312.avi
+#EXTINF:-1,(ES-)Pixie
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/357311.avi
+#EXTINF:-1,(ES-)Music
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/357310.avi
+#EXTINF:-1,(ES-)Mafia Inc.
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/357309.avi
+#EXTINF:-1,(ES-)Lupin III The First
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/357308.avi
+#EXTINF:-1,(ES-)La maldición de Lake Manor
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/357307.avi
+#EXTINF:-1,(ES-)Made in Chinatown
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/357306.avi
+#EXTINF:-1,(ES-)Aquellos que desean mi muerte
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/357305.avi
+#EXTINF:-1,(ES-)El verano de Cody
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/356726.avi
+#EXTINF:-1,(ES-)Niña
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/356724.avi
+#EXTINF:-1,(ES-)Después de la boda
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/356723.avi
+#EXTINF:-1,(ES-)Level 16
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/356722.avi
+#EXTINF:-1,(ES-)Tom y Jerry
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/356711.avi
+#EXTINF:-1,(ES-)La casa del miedo
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/356710.avi
+#EXTINF:-1,(ES-)La batalla de Leningrado
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/356709.avi
+#EXTINF:-1,(ES-)Hope
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/356708.avi
+#EXTINF:-1,(ES-)Ejército de los muertos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/356707.avi
+#EXTINF:-1,(ES-)Creation Stories
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/356706.avi
+#EXTINF:-1,(ES-)Cada respiro que das
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/356702.avi
+#EXTINF:-1,(ES-)Ammonite
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/356697.avi
+#EXTINF:-1,(ES-)Península
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/355926.avi
+#EXTINF:-1,(ES-)Pánico satánico
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/355925.avi
+#EXTINF:-1,(ES-)Y mañana el mundo entero
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/355924.avi
+#EXTINF:-1,(ES-)Oxígeno
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/355237.avi
+#EXTINF:-1,(ES-)Mantén la calma
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/354391.avi
+#EXTINF:-1,(ES-)Monstruo
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/354390.avi
+#EXTINF:-1,(ES-)Mortal Kombat
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/354389.avi
+#EXTINF:-1,(ES-)El destierro
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/354341.avi
+#EXTINF:-1,(ES-)Jacqueline Sauvage: ¿víctima o culpable?
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/354340.avi
+#EXTINF:-1,(ES-)El infiel
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/354339.avi
+#EXTINF:-1,(ES-)Colors of Love
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/354338.avi
+#EXTINF:-1,(ES-)Bill y Ted salvan el universo
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/354337.avi
+#EXTINF:-1,(ES-)Clover
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/354336.avi
+#EXTINF:-1,(ES-)I Am Woman
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/354335.avi
+#EXTINF:-1,(ES-)The Closet
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/353522.avi
+#EXTINF:-1,(ES-)Rafaël
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/353521.avi
+#EXTINF:-1,(ES-)Muerte en la comunidad
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/353520.avi
+#EXTINF:-1,(ES-)Mi amigo pony
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/353519.avi
+#EXTINF:-1,(ES-)Into the Beat: Tu corazón baila
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/353517.avi
+#EXTINF:-1,(ES-)Arlo, el chico caimán
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/353516.avi
+#EXTINF:-1,(ES-)Entonces llegaste tú
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/353515.avi
+#EXTINF:-1,(ES-)El corazón rojo
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/353514.avi
+#EXTINF:-1,(ES-)Benny Loves You
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/353513.avi
+#EXTINF:-1,(ES-)La leyenda de la daga
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/353512.avi
+#EXTINF:-1,(ES-)Fortuna
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/353511.avi
+#EXTINF:-1,(ES-)Salvaje
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347789.avi
+#EXTINF:-1,(ES-)Manual de la buena esposa
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347788.avi
+#EXTINF:-1,(ES-)La apariencia de las cosas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347787.avi
+#EXTINF:-1,(ES-)For the Sake of Vicious
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347786.avi
+#EXTINF:-1,(ES-)Blue & Malone: Casos imposibles
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347785.avi
+#EXTINF:-1,(ES-)Agatha y la maldición de Ishtar
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347784.avi
+#EXTINF:-1,(ES-)Godzilla vs. Kong
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347783.avi
+#EXTINF:-1,(ES-)Ilusiones mortales
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347548.avi
+#EXTINF:-1,(ES-)1000 millones
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347547.avi
+#EXTINF:-1,(ES-)Fritzi:  Un cuento revolucionario
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347519.avi
+#EXTINF:-1,(ES-)Meghan y Harry: Un Romance Real
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347518.avi
+#EXTINF:-1,(ES-)El suelo bajo mis pies
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347517.avi
+#EXTINF:-1,(ES-)Shirley
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347516.avi
+#EXTINF:-1,(ES-)Ondina. Un amor para siempre
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347515.avi
+#EXTINF:-1,(ES-)Los Fixies contra los Crabots
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347514.avi
+#EXTINF:-1,(ES-)Mas locos que una cabra
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347513.avi
+#EXTINF:-1,(ES-)Nekrotronic
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347512.avi
+#EXTINF:-1,(ES-)Super Wombat
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347511.avi
+#EXTINF:-1,(ES-)Ophelia
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347510.avi
+#EXTINF:-1,(ES-)23 paseos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347509.avi
+#EXTINF:-1,(ES-)Érase una vez...
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347508.avi
+#EXTINF:-1,(ES-)Suegra por sorpresa
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347507.avi
+#EXTINF:-1,(ES-)The Mauritanian
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347506.avi
+#EXTINF:-1,(ES-)Teleios (Beyond the Trek)
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347505.avi
+#EXTINF:-1,(ES-)La Liga de la Justicia de Zack Snyder
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347504.avi
+#EXTINF:-1,(ES-)Derelict
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347503.avi
+#EXTINF:-1,(ES-)La leyenda de Hei
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347502.avi
+#EXTINF:-1,(ES-)Fanny Lye liberada
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347501.avi
+#EXTINF:-1,(ES-)Inmune
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347500.avi
+#EXTINF:-1,(ES-)Un mal viaje
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347499.avi
+#EXTINF:-1,(ES-)Madame Curie
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347498.avi
+#EXTINF:-1,(ES-)Monster Hunter
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347497.avi
+#EXTINF:-1,(ES-)Más allá de la ley
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347496.avi
+#EXTINF:-1,(ES-)En la misma ola
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347495.avi
+#EXTINF:-1,(ES-)En guerra con mi abuelo
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347494.avi
+#EXTINF:-1,(ES-)El viaje de Bu
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347493.avi
+#EXTINF:-1,(ES-)El campamento de mi vida
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347492.avi
+#EXTINF:-1,(ES-)Alas de acero
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347491.avi
+#EXTINF:-1,(ES-)Pippi y el señor sin sueño
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347033.avi
+#EXTINF:-1,(ES-)Nieva en Benidorm
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347032.avi
+#EXTINF:-1,(ES-)Miedo a volar
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347031.avi
+#EXTINF:-1,(ES-)Mega Time Squad
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347030.avi
+#EXTINF:-1,(ES-)Impetigore
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347029.avi
+#EXTINF:-1,(ES-)Her Blue Sky
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347027.avi
+#EXTINF:-1,(ES-)Cena en América
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347026.avi
+#EXTINF:-1,(ES-)Artik
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347025.avi
+#EXTINF:-1,(ES-)I Care a Lot
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347024.avi
+#EXTINF:-1,(ES-)Polizón
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347023.avi
+#EXTINF:-1,(ES-)Perfumes
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347022.avi
+#EXTINF:-1,(ES-)Dos sinvergüenzas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347021.avi
+#EXTINF:-1,(ES-)Book of Monsters
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347020.avi
+#EXTINF:-1,(ES-)3 días en Quiberón
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347019.avi
+#EXTINF:-1,(ES-)Koko-di Koko-da
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347018.avi
+#EXTINF:-1,(ES-)Pelea de chicas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347017.avi
+#EXTINF:-1,(ES-)Journeyman
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347016.avi
+#EXTINF:-1,(ES-)Sin remordimientos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347015.avi
+#EXTINF:-1,(ES-)Tierra Salvaje
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/347014.avi
+#EXTINF:-1,(ES-)Golden job
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/345006.mkv
+#EXTINF:-1,(ES-)La escuela de la vida
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/345001.mkv
+#EXTINF:-1,(ES-)Señores del caos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/345000.avi
+#EXTINF:-1,(ES-)Beats
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/344999.mkv
+#EXTINF:-1,(ES-)Cambio de reinas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/344998.mkv
+#EXTINF:-1,(ES-)Dos ovejas descarriadas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/344997.mkv
+#EXTINF:-1,(ES-)El viaje de Fanny
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/344979.avi
+#EXTINF:-1,(ES-)El secreto de Milton
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/344978.mkv
+#EXTINF:-1,(ES-)El canto del lobo
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/344977.mkv
+#EXTINF:-1,(ES-)Fight to the Finish
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/344976.mkv
+#EXTINF:-1,(ES-)Jesse Stone: Perdido En Paraiso
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/344975.avi
+#EXTINF:-1,(ES-)American Justice
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/344961.avi
+#EXTINF:-1,(ES-)Asesinato en Reunión
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/344960.avi
+#EXTINF:-1,(ES-)Cafarnaúm
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/344959.mkv
+#EXTINF:-1,(ES-)Cuestión de karma
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/344958.mkv
+#EXTINF:-1,(ES-)El sueño de Mandy
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/344957.avi
+#EXTINF:-1,(ES-)Feedback
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/344956.mkv
+#EXTINF:-1,(ES-)En manos de un desconocido
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/344946.avi
+#EXTINF:-1,(ES-)70 Binladens
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/344945.mkv
+#EXTINF:-1,(ES-)El Gordo y el Flaco (Stan & Ollie)
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/344944.mkv
+#EXTINF:-1,(ES-)Executor
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/344943.avi
+#EXTINF:-1,(ES-)San Andreas Mega Quake
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/344942.mkv
+#EXTINF:-1,(ES-)Dolor y gloria
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/344941.avi
+#EXTINF:-1,(ES-)Ligar en la era digital
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/344004.mkv
+#EXTINF:-1,(ES-)El Hombre que mató a Hitler y después al Bigfoot
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/344003.mkv
+#EXTINF:-1,(ES-)De tonta, nada
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/344002.mkv
+#EXTINF:-1,(ES-)John Wick: Capítulo 3 - Parabellum
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/343999.mkv
+#EXTINF:-1,(ES-)Ártico
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/343998.mkv
+#EXTINF:-1,(ES-)Spider-Man: Lejos de casa
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/343997.mkv
+#EXTINF:-1,(ES-)Todos a una
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/343975.mkv
+#EXTINF:-1,(ES-)Titán
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/343974.mkv
+#EXTINF:-1,(ES-)El secuestro de Stella
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/343973.mkv
+#EXTINF:-1,(ES-)La felicidad de los demas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/343972.avi
+#EXTINF:-1,(ES-)4 latas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/343971.mkv
+#EXTINF:-1,(ES-)Secret Obsession
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/343968.mkv
+#EXTINF:-1,(ES-)Sargento Stubby, un héroe muy especial
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/343967.mkv
+#EXTINF:-1,(ES-)La bailarina y el pianista
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/343966.avi
+#EXTINF:-1,(ES-)El señor del acero
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/343965.avi
+#EXTINF:-1,(ES-)Beautiful boy, siempre serás mi hijo
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/343964.mkv
+#EXTINF:-1,(ES-)Serenity
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/343963.mkv
+#EXTINF:-1,(ES-)El ocupante
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/343207.mkv
+#EXTINF:-1,(ES-)Taxi a Gibraltar
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/343206.mkv
+#EXTINF:-1,(ES-)Robert Reborn
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/343205.mkv
+#EXTINF:-1,(ES-)Lejos de Praga
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/343204.mkv
+#EXTINF:-1,(ES-)La hija del lobo
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/343203.mkv
+#EXTINF:-1,(ES-)¡Ay, mi madre!
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/343202.mkv
+#EXTINF:-1,(ES-)Boi
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/342527.mkv
+#EXTINF:-1,(ES-)Critters ¡Al ataque!
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/342526.mkv
+#EXTINF:-1,(ES-)Conociendo a Astrid
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/342525.mkv
+#EXTINF:-1,(ES-)Royal Hearts
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/342524.mkv
+#EXTINF:-1,(ES-)Chicas Con Pelotas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/342523.mkv
+#EXTINF:-1,(ES-)El último guerrero
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/342522.mkv
+#EXTINF:-1,(ES-)No te escondas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/342521.mkv
+#EXTINF:-1,(ES-)Mujer y marido
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/342520.mkv
+#EXTINF:-1,(ES-)Más que madres
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/342519.mkv
+#EXTINF:-1,(ES-)La profesora de parvulario
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/342518.mkv
+#EXTINF:-1,(ES-)Dominios Oscuros
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/342517.mkv
+#EXTINF:-1,(ES-)La alfombra mágica
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/342516.mkv
+#EXTINF:-1,(Es-)Un pueblo y su rey
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/342361.mkv
+#EXTINF:-1,(ES-)The Bromley  Boys
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/342348.mkv
+#EXTINF:-1,(ES-)Llenos de vida
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/342347.mkv
+#EXTINF:-1,(ES-)Lifechanger
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/342323.mkv
+#EXTINF:-1,(ES-)La espía roja
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/342314.mkv
+#EXTINF:-1,(ES-)Bikes
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/342313.mkv
+#EXTINF:-1,(ES-)¿Qué te juegas?
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/342312.mkv
+#EXTINF:-1,(ES-)Plan de escape 2: Hades
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/342311.mkv
+#EXTINF:-1,(ES-)Mirai, mi hermana pequeña
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/342310.mkv
+#EXTINF:-1,(ES-)Gracias a Dios
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/342309.mkv
+#EXTINF:-1,(ES-)Framed
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/342308.mkv
+#EXTINF:-1,(ES-)Capsized: Blood in the Water
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/342307.avi
+#EXTINF:-1,(ES-)Un corazón extraordinario
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/341723.mkv
+#EXTINF:-1,(ES-)Secuestro en el paraíso
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/341722.avi
+#EXTINF:-1,(ES-)Las invisibles
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/341721.mkv
+#EXTINF:-1,(ES-)La pequeña Suiza
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/341720.mkv
+#EXTINF:-1,(ES-)Intrigo: muerte de un autor
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/341719.mkv
+#EXTINF:-1,(ES-)Fubar
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/341718.mkv
+#EXTINF:-1,(ES-)Priceless
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/341717.mkv
+#EXTINF:-1,(ES-)Donbass
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/341716.mkv
+#EXTINF:-1,(ES-)Bellezonismo
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/341715.mkv
+#EXTINF:-1,(ES-)Ana y el apocalipsis
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/341714.mkv
+#EXTINF:-1,(ES-)Más veloz que la muerte
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/341713.mkv
+#EXTINF:-1,(ES-)Una familia de alquiler
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/341469.avi
+#EXTINF:-1,(ES-)No hay salida
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/341468.mkv
+#EXTINF:-1,(ES-)Amor en obras
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/341467.mkv
+#EXTINF:-1,(ES-)Sin City: Una dama por la que matar
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/341466.mkv
+#EXTINF:-1,(ES-)El caballero de las sombras
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/341465.mkv
+#EXTINF:-1,(ES-)Los hermanos Sisters
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/341464.mkv
+#EXTINF:-1,(ES-)La intervención
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/341463.mkv
+#EXTINF:-1,(ES-)¡Vaya clase!
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340440.mkv
+#EXTINF:-1,(ES-)Memorias de un hombre en pijama
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340439.mkv
+#EXTINF:-1,(ES-)Lo dejo cuando quiera
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340438.mkv
+#EXTINF:-1,(ES-)Keepers: El misterio del faro
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340437.mkv
+#EXTINF:-1,(ES-)A Bailarina
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340434.mkv
+#EXTINF:-1,(ES-)Assassination Classroom
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340427.mkv
+#EXTINF:-1,(ES-)Welcome Home
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340389.mkv
+#EXTINF:-1,(ES-)Me llamo Gennet
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340388.mkv
+#EXTINF:-1,(ES-)Las nuevas aventuras de Aladino
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340387.mkv
+#EXTINF:-1,(ES-)Héroes humildes
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340386.mkv
+#EXTINF:-1,(ES-)De la India a París en un armario de Ikea
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340385.mkv
+#EXTINF:-1,(ES-)Tall Girl
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340384.mkv
+#EXTINF:-1,(ES-)Un hombre fiel
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340147.mkv
+#EXTINF:-1,(ES-)Todo por Grace
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340146.mkv
+#EXTINF:-1,(ES-)Mug
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340145.mkv
+#EXTINF:-1,(ES-)Estafadores
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340144.mkv
+#EXTINF:-1,(ES-)El año de la plaga
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340143.mkv
+#EXTINF:-1,(ES-)Buenos vecinos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340142.mkv
+#EXTINF:-1,(ES-)Voces ocultas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340141.mkv
+#EXTINF:-1,(ES-)Sombra
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340140.mkv
+#EXTINF:-1,(ES-)La importancia de llamarse Oscar Wilde
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340139.mkv
+#EXTINF:-1,(ES-)Infiltrado en Miami
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340138.mkv
+#EXTINF:-1,(ES-)Entre dos helechos: La película
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340137.mkv
+#EXTINF:-1,(ES-)Como pez fuera del agua
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340136.mkv
+#EXTINF:-1,(ES-)La pequeña traviesa
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340104.mkv
+#EXTINF:-1,(ES-)La última lección
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340073.mkv
+#EXTINF:-1,(ES-)La tercera esposa
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340072.mkv
+#EXTINF:-1,(ES-)La corresponsal
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340071.mkv
+#EXTINF:-1,(ES-)Family Vanished
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340070.mkv
+#EXTINF:-1,(ES-)Dobles vidas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/340069.mkv
+#EXTINF:-1,(ES-)Stuber Express
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339983.mkv
+#EXTINF:-1,(ES-)Project Gutenberg
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339982.mkv
+#EXTINF:-1,(ES-)Inuyashiki
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339962.mkv
+#EXTINF:-1,(ES-)Antes de la quema
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339961.mkv
+#EXTINF:-1,(ES-)Terra Willy: Planeta desconocido
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339287.mkv
+#EXTINF:-1,(ES-)Malcolm & Marie
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339286.mkv
+#EXTINF:-1,(ES-)Necesitamos tu voto
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339285.mkv
+#EXTINF:-1,(ES-)El final de la verdad
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339284.avi
+#EXTINF:-1,(ES-)La biblioteca de los libros rechazados
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339280.mkv
+#EXTINF:-1,(ES-)Fractura
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339271.mkv
+#EXTINF:-1,(ES-)Una nueva identidad
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339269.mkv
+#EXTINF:-1,(ES-)Suburbanos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339267.mkv
+#EXTINF:-1,(ES-)Diecisiete
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339260.mkv
+#EXTINF:-1,(ES-)La canción de mi padre
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339258.mkv
+#EXTINF:-1,(ES-)Vuela como una mariposa
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339254.avi
+#EXTINF:-1,(ES-)10 días sin mamá
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339253.mkv
+#EXTINF:-1,(ES-)Driven: El origen de la leyenda
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339252.mkv
+#EXTINF:-1,(ES-)Vitoria, 3 de marzo
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339250.mkv
+#EXTINF:-1,(ES-)El vendedor de tabaco
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339245.mkv
+#EXTINF:-1,(ES-)The Laundromat: Dinero sucio
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339244.mkv
+#EXTINF:-1,(ES-)Playa paraíso
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339242.mkv
+#EXTINF:-1,(ES-)Mr. Link: El origen perdido
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339240.avi
+#EXTINF:-1,(ES-)Los Japón
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339239.mkv
+#EXTINF:-1,(ES-)La música del terremoto
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339237.mkv
+#EXTINF:-1,(ES-)El permiso
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339236.mkv
+#EXTINF:-1,(ES-)Safari por Navidad
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339234.mkv
+#EXTINF:-1,(ES-)El emperador de París
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339226.mkv
+#EXTINF:-1,(ES-)Blaze Foley: Duct Tape Messiah
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339220.mkv
+#EXTINF:-1,(ES-)Prisionero en casa
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339216.mkv
+#EXTINF:-1,(ES-)Al agua gambas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339215.mkv
+#EXTINF:-1,(ES-)303
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339214.mkv
+#EXTINF:-1,(ES-)La trampa de la araña
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339212.mkv
+#EXTINF:-1,(ES-)30 Miles from Nowhere
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339183.mkv
+#EXTINF:-1,(ES-)The King
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339181.mkv
+#EXTINF:-1,(ES-)Los Bando
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339180.mkv
+#EXTINF:-1,(ES-)El caballero de la Navidad
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339178.mkv
+#EXTINF:-1,(ES-)Brittany Runs a Marathon
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339174.mkv
+#EXTINF:-1,(ES-)Garabandal, solo Dios lo sabe
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339172.mkv
+#EXTINF:-1,(ES-)American Wrestler: Luchando Por Un Sueño
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339165.mkv
+#EXTINF:-1,(ES-)Padre no hay más que uno
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339157.mkv
+#EXTINF:-1,(ES-)6 en la sombra
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339155.mkv
+#EXTINF:-1,(ES-)A 47 metros 2: El terror emerge
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/339153.mkv
+#EXTINF:-1,(ES-)The Karate Kid
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338978.1
+#EXTINF:-1,(ES-)Hermanos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338972.mp4
+#EXTINF:-1,(ES-)Cube
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338971.mp4
+#EXTINF:-1,(ES-)Karate Kid, el momento de la verdad
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338970.mp4
+#EXTINF:-1,(ES-)Eternamente enamorados
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338969.mp4
+#EXTINF:-1,(ES-)Broken Law
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338968.mkv
+#EXTINF:-1,(ES-)Blackbear
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338967.mp4
+#EXTINF:-1,(ES-)Escuela para seductores
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338966.mp4
+#EXTINF:-1,(ES-)Os Espetaculares
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338964.mp4
+#EXTINF:-1,(ES-)Cuidado con lo que deseas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338791.mp4
+#EXTINF:-1,(ES-)Figli
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338790.mp4
+#EXTINF:-1,(ES-)Kindred
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338301.mkv
+#EXTINF:-1,(ES-)Baba Yaga: El regreso del demonio
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338296.mp4
+#EXTINF:-1,(ES-)Viking Blood
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338295.mp4
+#EXTINF:-1,(ES-)Colombia fue nuestra
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338291.mp4
+#EXTINF:-1,(ES-)God You’re Such A Prick
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338288.mkv
+#EXTINF:-1,(ES-)S.O.S. Survive or Sacrifice
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338287.mkv
+#EXTINF:-1,(ES-)La cita navideña de papá
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338285.mkv
+#EXTINF:-1,(ES-)Este cuerpo me sienta de muerte
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338283.mkv
+#EXTINF:-1,(ES-)Block Z
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338281.mkv
+#EXTINF:-1,(ES-)Inesperado
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338278.mp4
+#EXTINF:-1,(ES-)Saint Maud
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338277.mkv
+#EXTINF:-1,(ES-)A Christmas Gift from Bob
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338276.mkv
+#EXTINF:-1,(ES-)Full Out 2: You Got This!
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338271.mp4
+#EXTINF:-1,(ES-)Random Acts of Christmas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338268.mp4
+#EXTINF:-1,(ES-)Nuevo orden
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338265.mp4
+#EXTINF:-1,(ES-)The Furnace
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338264.mkv
+#EXTINF:-1,(ES-)Soy de rancho
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338262.mp4
+#EXTINF:-1,(ES-)La diosa fortuna
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338261.mp4
+#EXTINF:-1,(ES-)The 100 Candles Game
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338260.mp4
+#EXTINF:-1,(ES-)Sightless
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338259.mp4
+#EXTINF:-1,(ES-)Brothers by Blood
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/338258.mkv
+#EXTINF:-1,(ES-)Tony Parker: La última canasta
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337800.mp4
+#EXTINF:-1,(ES-)Pequeños detalles
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337796.mp4
+#EXTINF:-1,(ES-)The Right One
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337792.mp4
+#EXTINF:-1,(ES-)Enjaulado
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337791.mkv
+#EXTINF:-1,(ES-)Ghost Light
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337732.mkv
+#EXTINF:-1,(ES-)Twist
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337730.mkv
+#EXTINF:-1,(ES-)Virgen de San Juan, cuatro siglos de milagros
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337728.mp4
+#EXTINF:-1,(ES-)Felicidad
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337727.mp4
+#EXTINF:-1,(ES-)Supernova
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337699.mkv
+#EXTINF:-1,(ES-)The Mad Hatter
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337691.mkv
+#EXTINF:-1,(ES-)Wrong Turn
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337667.mkv
+#EXTINF:-1,(ES-)Heridas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337649.mkv
+#EXTINF:-1,(ES-)Eli
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337648.mkv
+#EXTINF:-1,(ES-)Un extraño presentimiento
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337647.mkv
+#EXTINF:-1,(ES-)It: Capítulo 2
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337646.mkv
+#EXTINF:-1,(ES-)Los ángeles de Charlie
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337645.mkv
+#EXTINF:-1,(ES-)A young man with high potential
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337644.mkv
+#EXTINF:-1,(ES-)Subterranean
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337643.mkv
+#EXTINF:-1,(ES-)Día de lluvia en Nueva York
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337642.mkv
+#EXTINF:-1,(ES-)El misterio de Block Island
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337641.avi
+#EXTINF:-1,(ES-)El día que todo cambió
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337640.avi
+#EXTINF:-1,(ES-)Los secretos que ocultamos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337639.avi
+#EXTINF:-1,(ES-)Vicious fun
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337638.avi
+#EXTINF:-1,(ES-)Vidas de papel
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337636.avi
+#EXTINF:-1,(ES-)Cómo sobrevivir en un mundo material (Kajillionaire)
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337635.mkv
+#EXTINF:-1,(ES-)Attraction 2: El fin de los tiempos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/337634.mkv
+#EXTINF:-1,(ES-)Crack: Cocaína corrupción y conspiración
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/314449.mp4
+#EXTINF:-1,(ES-)Los Croods: Una nueva era
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/309145.mp4
+#EXTINF:-1,(ES-)Wonder Woman 1984
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/308020.mp4
+#EXTINF:-1,(ES-)Young Ones
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/295180.mp4
+#EXTINF:-1,(ES-)Unas rubias muy legales
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/295179.mp4
+#EXTINF:-1,(ES-)Una rubia muy legal
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/295178.mp4
+#EXTINF:-1,(ES-)The Neon Demon
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/295177.mp4
+#EXTINF:-1,(ES-)Los lunes al sol
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/295176.mp4
+#EXTINF:-1,(ES-)La mejor navidad de nuestras vidas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/295175.avi
+#EXTINF:-1,(ES-)La escafandra y la mariposa
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/295174.mp4
+#EXTINF:-1,(ES-)Cartas de Berlín
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/295173.mp4
+#EXTINF:-1,(ES-)Bully
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/295172.mp4
+#EXTINF:-1,(ES-)A ciegas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/295171.mp4
+#EXTINF:-1,(ES-)Deep Blue Sea 3
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/294658.avi
+#EXTINF:-1,(ES-)Rapera a los 40
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/294602.mp4
+#EXTINF:-1,(ES-)Los chicos de la banda
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/294562.mp4
+#EXTINF:-1,(ES-)Tenet
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/294561.mp4
+#EXTINF:-1,(ES-)Cajas oscuras
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/294115.mp4
+#EXTINF:-1,(ES-)Padre no hay más que uno 2: la llegada de la suegra
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/294114.mp4
+#EXTINF:-1,(ES-)Nocturno
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/294113.mkv
+#EXTINF:-1,(ES-)Atrapado
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/294112.mp4
+#EXTINF:-1,(ES-)Un buen doctor
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/278192.mkv
+#EXTINF:-1,(ES-)The Speed Cubers
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/278191.mkv
+#EXTINF:-1,(ES-)Larva: Aventuras en la isla - La película
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/278190.mkv
+#EXTINF:-1,(ES-)El príncipe olvidado
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/278059.mkv
+#EXTINF:-1,(ES-)The Best Is Yet to Come
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/278057.avi
+#EXTINF:-1,(ES-)Tal como soy
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/278055.avi
+#EXTINF:-1,(ES-)Superagente Makey
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/278054.mp4
+#EXTINF:-1,(ES-)Shin Chan en busca de las bolas perdidas
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/278053.mkv
+#EXTINF:-1,(ES-)S.W.A.T.: Los hombres de Harrelson
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/278052.avi
+#EXTINF:-1,(ES-)Mi primer beso 2
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/278051.mkv
+#EXTINF:-1,(ES-)Ofrenda a la tormenta
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277956.mkv
+#EXTINF:-1,(ES-)Mi semana extraordinaria con Tess
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277936.mkv
+#EXTINF:-1,(ES-)Los vigilantes de Malibú: La nueva ola
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277935.mkv
+#EXTINF:-1,(ES-)La amabilidad de los extraños
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277934.avi
+#EXTINF:-1,(ES-)Las invisibles
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277933.avi
+#EXTINF:-1,(ES-)L'Intrepido
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277746.mkv
+#EXTINF:-1,(ES-)Hulk vs.
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277745.mkv
+#EXTINF:-1,(ES-)Padre, Soldado, Hijo
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277744.mkv
+#EXTINF:-1,(ES-)El pájaro pintado
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277743.avi
+#EXTINF:-1,(ES-)El árbol de los deseos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277742.mkv
+#EXTINF:-1,(ES-)Dragones al rescate: El secreto del Ala Cantarina
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277741.mkv
+#EXTINF:-1,(ES-)Cenicienta pop
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277740.mkv
+#EXTINF:-1,(ES-)Berlin, Berlin: la novia se fuga
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277739.mkv
+#EXTINF:-1,(ES-)Animal Crackers
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277738.mkv
+#EXTINF:-1,(ES-)En plan estrella de rock
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277737.mp4
+#EXTINF:-1,(ES-)A casa
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277736.mp4
+#EXTINF:-1,(ES-)A Night of Horror: Nightmare Radio
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277735.avi
+#EXTINF:-1,(ES-)The Souvenir
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277733.mkv
+#EXTINF:-1,(ES-)Supervivencia
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277732.mkv
+#EXTINF:-1,(ES-)Stano
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277731.mkv
+#EXTINF:-1,(ES-)Saint Frances
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277730.mkv
+#EXTINF:-1,(ES-)Rocambola
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277729.mkv
+#EXTINF:-1,(ES-)Mr. Jones
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277728.mkv
+#EXTINF:-1,(ES-)Los niños de Windermere
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277727.mkv
+#EXTINF:-1,(ES-)Harpoon
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277726.mkv
+#EXTINF:-1,(ES-)Coda
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277664.avi
+#EXTINF:-1,(ES-)La decisión de Alice
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277663.mkv
+#EXTINF:-1,(ES-)Badland
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277602.mkv
+#EXTINF:-1,(ES-)Made in Italy
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277601.mkv
+#EXTINF:-1,(ES-)Proyecto Power
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277600.mkv
+#EXTINF:-1,(ES-)El convento
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277599.mkv
+#EXTINF:-1,(ES-)Follow Me
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277598.mp4
+#EXTINF:-1,(ES-)Efectos colaterales del amor
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277597.mkv
+#EXTINF:-1,(ES-)Ip Man 4: El final
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277596.avi
+#EXTINF:-1,(ES-)Killer Sofa
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277595.mkv
+#EXTINF:-1,(ES-)Orígenes secretos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277594.mp4
+#EXTINF:-1,(ES-)Rising Phoenix: Historia de los Juegos Paralímpicos
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/277593.mkv
+#EXTINF:-1,(ES-)2012 - 2009
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221267.mkv
+#EXTINF:-1,(ES-)300 - 2007
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221269.mkv
+#EXTINF:-1,(ES-)Despite Everything - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219646.mp4
+#EXTINF:-1,(ES-)Acceleration - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221258.avi
+#EXTINF:-1,(ES-)Alien Warfare - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219647.mp4
+#EXTINF:-1,(ES-)On the Edge - 2006
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221260.avi
+#EXTINF:-1,(ES-)AVP: Alien vs. Predator - 2004
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221302.mp4
+#EXTINF:-1,(ES-)Beetlejuice - 1988
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221272.mkv
+#EXTINF:-1,(ES-)Bumblebee - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221273.mkv
+#EXTINF:-1,(ES-)Backdraft 2 - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219649.mp4
+#EXTINF:-1,(ES-)Blood Will Tell - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219650.mp4
+#EXTINF:-1,(ES-)Boyka: Undisputed IV - 2016
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221303.mp4
+#EXTINF:-1,(ES-)Brexit: The Uncivil War - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219651.mp4
+#EXTINF:-1,(ES-)Bruce Almighty - 2003
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221274.mkv
+#EXTINF:-1,(ES-)Rim of the World - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219652.mp4
+#EXTINF:-1,(ES-)Cañitas, presencia - 2007
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221261.avi
+#EXTINF:-1,(ES-)Coco - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221277.mkv
+#EXTINF:-1,(ES-)Contratiempo - 2011
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219130.mkv
+#EXTINF:-1,(ES-)Critters Attack! - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219654.mp4
+#EXTINF:-1,(ES-)Into the Storm - 2009
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219131.mkv
+#EXTINF:-1,(ES-)El camino más largo - 2016
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219655.mp4
+#EXTINF:-1,(ES-)The Highwaymen - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219656.mp4
+#EXTINF:-1,(ES-)Bomb Scared - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219132.mkv
+#EXTINF:-1,(ES-)Happy Death Day 2U - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219657.mp4
+#EXTINF:-1,(ES-)Glass - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219658.mp4
+#EXTINF:-1,(ES-)Grace - 2014
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221262.avi
+#EXTINF:-1,(ES-)High Flying Bird - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219659.mp4
+#EXTINF:-1,(ES-)How to Train Your Dragon: The Hidden World - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219660.mp4
+#EXTINF:-1,(ES-)Kim Possible - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219661.mp4
+#EXTINF:-1,(ES-)The Last Hour - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219133.mkv
+#EXTINF:-1,(ES-)The Call - 2013
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219134.mkv
+#EXTINF:-1,(ES-)La Peor de Mis Bodas 2 - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219662.mp4
+#EXTINF:-1,(ES-)Walk. Ride. Rodeo. - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219663.mp4
+#EXTINF:-1,(ES-)Los Ajenos Fútbol Club - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219664.mp4
+#EXTINF:-1,(ES-)The Ruthless - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219665.mp4
+#EXTINF:-1,(ES-)Fighting with My Family - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219666.mp4
+#EXTINF:-1,(ES-)Pickpockets - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219135.mkv
+#EXTINF:-1,(ES-)Maligno - 2016
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219667.mp4
+#EXTINF:-1,(ES-)A Dog's Way Home - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219668.mp4
+#EXTINF:-1,(ES-)The Kid Who Would Be King - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219669.mp4
+#EXTINF:-1,(ES-)Nancy Drew and the Hidden Staircase - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219670.mp4
+#EXTINF:-1,(ES-)Neruda - 2016
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219136.mkv
+#EXTINF:-1,(ES-)No Manches Frida 2 - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219671.mp4
+#EXTINF:-1,(ES-)Norbit - 2007
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219672.mp4
+#EXTINF:-1,(ES-)The Last Summer - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219673.mp4
+#EXTINF:-1,(ES-)Secret Obsession - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219674.mp4
+#EXTINF:-1,(ES-)Overlord - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219675.mp4
+#EXTINF:-1,(ES-)Money Trap - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219676.mp4
+#EXTINF:-1,(ES-)Palm Trees in the Snow - 2015
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219137.mkv
+#EXTINF:-1,(ES-)Primal - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221263.avi
+#EXTINF:-1,(ES-)Saga of Tanya the Evil Movie - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221264.avi
+#EXTINF:-1,(ES-)Shaft - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219677.mp4
+#EXTINF:-1,(ES-)Stockholm - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221307.mp4
+#EXTINF:-1,(ES-)Strange But True - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221308.mp4
+#EXTINF:-1,(ES-)The Fury of a Patient Man - 2016
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219138.mkv
+#EXTINF:-1,(ES-)The Dirt - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219678.mp4
+#EXTINF:-1,(ES-)Everybody Knows - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219139.mkv
+#EXTINF:-1,(ES-)Triple Frontier - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219679.mp4
+#EXTINF:-1,(ES-)Green Book - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219680.mp4
+#EXTINF:-1,(ES-)Deadly Still - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219681.mp4
+#EXTINF:-1,(ES-)Us - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219682.mp4
+#EXTINF:-1,(ES-)Grease - 1978
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221266.avi
+#EXTINF:-1,(ES-)Veronica - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219222.mkv
+#EXTINF:-1,(ES-)Y Tu Mamá También - 2001
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221309.mp4
+#EXTINF:-1,(ES-)Venom - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221298.mkv
+#EXTINF:-1,(ES-)Who Framed Roger Rabbit - 1988
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221299.mkv
+#EXTINF:-1,(ES-)Back to the Future - 1985
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221301.mkv
+#EXTINF:-1,(ES-)Back to the Future Part II - 1989
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221300.mkv
+#EXTINF:-1,(ES-)70 Big Ones - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221154.mkv
+#EXTINF:-1,(ES-)A Magic Stick - 2016
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219438.mkv
+#EXTINF:-1,(ES-)Spy Cat - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221155.mkv
+#EXTINF:-1,(ES-)Alien - 1979
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221148.mp4
+#EXTINF:-1,(ES-)Alien Resurrection - 1997
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221150.mp4
+#EXTINF:-1,(ES-)Aliens - 1986
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221151.mp4
+#EXTINF:-1,(ES-)Aliens vs Predator: Requiem - 2007
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221152.mp4
+#EXTINF:-1,(ES-)Anna - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221156.mkv
+#EXTINF:-1,(ES-)Redcon-1 - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221157.mkv
+#EXTINF:-1,(ES-)Arctic - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221158.mkv
+#EXTINF:-1,(ES-)Killers Anonymous - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221159.mkv
+#EXTINF:-1,(ES-)Asterix: The Secret of the Magic Potion - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221160.mkv
+#EXTINF:-1,(ES-)Attack the Block - 2011
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219439.mkv
+#EXTINF:-1,(ES-)Barbarella - 1968
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219440.mkv
+#EXTINF:-1,(ES-)Batman: Hush - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221162.mkv
+#EXTINF:-1,(ES-)Welcome to Marwen - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219441.mkv
+#EXTINF:-1,(ES-)Carmen and Lola - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219442.mkv
+#EXTINF:-1,(ES-)Pet Sematary - 1989
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219443.mkv
+#EXTINF:-1,(ES-)Pet Sematary II - 1992
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219444.mkv
+#EXTINF:-1,(ES-)Chinatown - 1974
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219445.mkv
+#EXTINF:-1,(ES-)Chuck Norris vs Communism - 2015
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219446.mkv
+#EXTINF:-1,(ES-)Computer Chess - 2013
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219448.mkv
+#EXTINF:-1,(ES-)Death Race 2000 - 1975
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219449.mkv
+#EXTINF:-1,(ES-)Deep Blue Sea - 1999
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219450.mkv
+#EXTINF:-1,(ES-)Deep Blue Sea 2 - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219451.mkv
+#EXTINF:-1,(ES-)A Breath Away - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221163.mkv
+#EXTINF:-1,(ES-)Dirty Dancing - 1987
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221066.mp4
+#EXTINF:-1,(ES-)Donnybrook - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221164.mkv
+#EXTINF:-1,(ES-)Twins of Evil - 1971
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219452.mkv
+#EXTINF:-1,(ES-)Dumbo - 1941
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219453.mkv
+#EXTINF:-1,(ES-)I Still See You - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221165.mkv
+#EXTINF:-1,(ES-)Edward Scissorhands - 1990
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219454.mkv
+#EXTINF:-1,(ES-)The Mongolian Conspiracy - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221167.mkv
+#EXTINF:-1,(ES-)The Man Who Killed Hitler and Then the Bigfoot - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221169.mkv
+#EXTINF:-1,(ES-)The intruder - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221170.mkv
+#EXTINF:-1,(ES-)El astronauta - 1970
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219455.mkv
+#EXTINF:-1,(ES-)Kiss Me Deadly - 1955
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219456.mkv
+#EXTINF:-1,(ES-)Circus World - 1964
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219457.mkv
+#EXTINF:-1,(ES-)Stan & Ollie - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219458.mkv
+#EXTINF:-1,(ES-)Explosion - 1969
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221068.mp4
+#EXTINF:-1,(ES-)Final Destination - 2000
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221069.mp4
+#EXTINF:-1,(ES-)Fireworks - 1976
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219459.mkv
+#EXTINF:-1,(ES-)Forrest Gump - 1994
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219460.mkv
+#EXTINF:-1,(ES-)Funny Games - 1997
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219461.mkv
+#EXTINF:-1,(ES-)General Commander - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221174.mkv
+#EXTINF:-1,(ES-)Golden Job - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221176.mkv
+#EXTINF:-1,(ES-)Gremlins - 1984
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219462.mkv
+#EXTINF:-1,(ES-)Gremlins 2: The New Batch - 1990
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219463.mkv
+#EXTINF:-1,(ES-)The Hitchhiker's Guide to the Galaxy - 2005
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219464.mkv
+#EXTINF:-1,(ES-)Hardware - 1990
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219465.mkv
+#EXTINF:-1,(ES-)Brightburn - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221177.mkv
+#EXTINF:-1,(ES-)Murder, My Sweet - 1944
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219466.mkv
+#EXTINF:-1,(ES-)Holmes & Watson - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219467.mkv
+#EXTINF:-1,(ES-)House of Wax - 1953
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219468.mkv
+#EXTINF:-1,(ES-)Johnny Got His Gun - 1971
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219469.mkv
+#EXTINF:-1,(ES-)WarGames - 1983
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219470.mkv
+#EXTINF:-1,(ES-)Jurassic Park - 1993
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219471.mkv
+#EXTINF:-1,(ES-)The Lost World: Jurassic Park - 1997
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219472.mkv
+#EXTINF:-1,(ES-)Jurassic Park III - 2001
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219473.mkv
+#EXTINF:-1,(ES-)Jurassic World - 2015
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219474.mkv
+#EXTINF:-1,(ES-)Jurassic World: Fallen Kingdom - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219475.mkv
+#EXTINF:-1,(ES-)A Dog's Journey - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221182.mkv
+#EXTINF:-1,(ES-)Around the World in Eighty Days - 1956
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219476.mkv
+#EXTINF:-1,(ES-)Level 16 - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221184.mkv
+#EXTINF:-1,(ES-)The Dead Don't Die - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221185.mkv
+#EXTINF:-1,(ES-)The Goonies - 1985
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219477.mkv
+#EXTINF:-1,(ES-)Luis and the Aliens - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219478.mkv
+#EXTINF:-1,(ES-)Mary Shelley - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219479.mkv
+#EXTINF:-1,(ES-)To Kill God - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219480.mkv
+#EXTINF:-1,(ES-)Mejor que Nunca - 2009
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221187.mkv
+#EXTINF:-1,(ES-)Nightcrawler - 2014
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219481.mkv
+#EXTINF:-1,(ES-)Black Sheep - 2006
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219482.mkv
+#EXTINF:-1,(ES-)Porco Rosso - 1992
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219483.mkv
+#EXTINF:-1,(ES-)First Blood - 1982
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221138.mkv
+#EXTINF:-1,(ES-)Rambo: First Blood Part II - 1985
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221139.mkv
+#EXTINF:-1,(ES-)Rambo III - 1988
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221140.mkv
+#EXTINF:-1,(ES-)Rambo - 2008
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221141.mkv
+#EXTINF:-1,(ES-)Rocky - 1976
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221142.mkv
+#EXTINF:-1,(ES-)Rocky II - 1979
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221143.mkv
+#EXTINF:-1,(ES-)Rocky III - 1982
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221144.mkv
+#EXTINF:-1,(ES-)Rocky IV - 1985
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221145.mkv
+#EXTINF:-1,(ES-)Rocky Balboa - 2006
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221146.mkv
+#EXTINF:-1,(ES-) Rocky Balboa - 2006
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221147.mkv
+#EXTINF:-1,(ES-)Rust Creek - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221191.mkv
+#EXTINF:-1,(ES-)Fast & Furious Presents: Hobbs & Shaw - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221192.mkv
+#EXTINF:-1,(ES-)Scooby-Doo! Return to Zombie Island - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221193.mkv
+#EXTINF:-1,(ES-)Selfie - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219484.mkv
+#EXTINF:-1,(ES-)Sirius - 2013
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221083.mp4
+#EXTINF:-1,(ES-)T-34 - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221196.mkv
+#EXTINF:-1,(ES-)Terminator 2: Judgment Day - 1991
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219489.mkv
+#EXTINF:-1,(ES-)Astro Kid - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221197.mkv
+#EXTINF:-1,(ES-)The Banana Splits Movie - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/221198.mkv
+#EXTINF:-1,(ES-)WALL·E - 2008
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219495.mkv
+#EXTINF:-1,(ES-)Zelig - 1983
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219496.mkv
+#EXTINF:-1,(ES-)Zombeavers - 2014
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/219497.mkv
+#EXTINF:-1,(ES-)100 Acres of Hell - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/222123.avi
+#EXTINF:-1,(ES-)Assimilate - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/222125.avi
+#EXTINF:-1,(ES-)Blood Myth - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/222126.avi
+#EXTINF:-1,(ES-)Depraved - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/222127.avi
+#EXTINF:-1,(ES-)Doom: Annihilation - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/222128.avi
+#EXTINF:-1,(ES-)Fast & Furious - 2009
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/222129.mkv
+#EXTINF:-1,(ES-)Hex - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/222131.avi
+#EXTINF:-1,(ES-)Crawl - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/222133.mkv
+#EXTINF:-1,(ES-)Jacob's Ladder - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/222135.mp4
+#EXTINF:-1,(ES-)La oscuridad - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/222137.mkv
+#EXTINF:-1,(ES-)Ready or Not - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/222141.mkv
+#EXTINF:-1,(ES-)Reborn - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/222142.avi
+#EXTINF:-1,(ES-)Stained - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/222143.avi
+#EXTINF:-1,(ES-)The Black String - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/222144.avi
+#EXTINF:-1,(ES-)The Convent - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/222145.mkv
+#EXTINF:-1,(ES-)The Final Wish - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/222146.mkv
+#EXTINF:-1,(ES-)The Golem - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/222147.mkv
+#EXTINF:-1,(ES-)The Soul Conductor - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/222148.avi
+#EXTINF:-1,(ES-)They Remain - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/222149.avi
+#EXTINF:-1,(ES-)Thriller - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/222150.avi
+#EXTINF:-1,(ES-)Zombieland: Double Tap - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/222152.mkv
+#EXTINF:-1,(ES-)303 - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223454.mkv
+#EXTINF:-1,(ES-)A March to Remember - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223457.mkv
+#EXTINF:-1,(ES-)Blaze - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223461.mkv
+#EXTINF:-1,(ES-)Close Enemies - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223465.mkv
+#EXTINF:-1,(ES-)Descendants 3 - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223466.mkv
+#EXTINF:-1,(ES-)Dora and the Lost City of Gold - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223467.avi
+#EXTINF:-1,(ES-)Blame Game - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223469.avi
+#EXTINF:-1,(ES-)Fractured - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223475.mkv
+#EXTINF:-1,(ES-)Garabandal: Only God Knows - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223476.mkv
+#EXTINF:-1,(ES-)Gemini Man - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223477.mkv
+#EXTINF:-1,(ES-)Scary Stories to Tell in the Dark - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223479.mkv
+#EXTINF:-1,(ES-)It Chapter Two - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223482.mkv
+#EXTINF:-1,(ES-)Kin - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223484.mkv
+#EXTINF:-1,(ES-)Los Bando - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223485.mkv
+#EXTINF:-1,(ES-)The Japon - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223487.mkv
+#EXTINF:-1,(ES-)The Third Wife - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223488.mkv
+#EXTINF:-1,(ES-)The Influence - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223489.mkv
+#EXTINF:-1,(ES-)Maleficent: Mistress of Evil - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223491.mkv
+#EXTINF:-1,(ES-)Once Upon a Time… in Hollywood - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223498.mkv
+#EXTINF:-1,(ES-)Project Gutenberg - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223503.mkv
+#EXTINF:-1,(ES-)Rambo: Last Blood - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223504.mkv
+#EXTINF:-1,(ES-)Serenity - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223505.mkv
+#EXTINF:-1,(ES-)Holiday in the Wild - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223506.mkv
+#EXTINF:-1,(ES-)Street Flow - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223510.mkv
+#EXTINF:-1,(ES-)Terminator: Dark Fate - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223513.mkv
+#EXTINF:-1,(ES-)The King - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223517.mkv
+#EXTINF:-1,(ES-)The Tobacconist - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223520.mkv
+#EXTINF:-1,(ES-)Taken Heart - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223523.mkv
+#EXTINF:-1,(ES-)Of Love and Lies - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223524.avi
+#EXTINF:-1,(ES-)Float Like a Butterfly - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223525.avi
+#EXTINF:-1,(ES-)Yesterday - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223526.mkv
+#EXTINF:-1,(ES-)47 Meters Down: Uncaged - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223994.avi
+#EXTINF:-1,(ES-)Abominable - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223995.avi
+#EXTINF:-1,(ES-)Ad Astra - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223996.mkv
+#EXTINF:-1,(ES-)The Corrupted - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223998.avi
+#EXTINF:-1,(ES-)The Death and Return of Superman - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/223999.avi
+#EXTINF:-1,(ES-)Frozen II - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/224001.mp4
+#EXTINF:-1,(ES-)Inside Man: Most Wanted - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/224002.avi
+#EXTINF:-1,(ES-)Kabir Singh - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/224003.avi
+#EXTINF:-1,(ES-)Midsommar - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/224007.avi
+#EXTINF:-1,(ES-)Drunk Parents - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/224009.mkv
+#EXTINF:-1,(ES-)Paradise Hills - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/224010.avi
+#EXTINF:-1,(ES-)Play or Die - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/224011.avi
+#EXTINF:-1,(ES-)Running with the Devil - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/224012.avi
+#EXTINF:-1,(ES-)Shanghai Fortress - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/224014.avi
+#EXTINF:-1,(ES-)Stained - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/224015.avi
+#EXTINF:-1,(ES-)The Tracker - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/224018.avi
+#EXTINF:-1,(ES-)Tod@s Caen - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/224019.avi
+#EXTINF:-1,(ES-)Aladin - 2009
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229523.mkv
+#EXTINF:-1,(ES-)Annihilation - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229524.mp4
+#EXTINF:-1,(ES-)Annabelle Comes Home - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229525.mp4
+#EXTINF:-1,(ES-)Captain Marvel - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229526.mp4
+#EXTINF:-1,(ES-)Long Shot - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229527.mkv
+#EXTINF:-1,(ES-)Like a Cat on a Highway - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229528.mkv
+#EXTINF:-1,(ES-)The Queen's Corgi - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229529.mkv
+#EXTINF:-1,(ES-)Seventeen - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229530.mkv
+#EXTINF:-1,(ES-)Driven - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229531.mkv
+#EXTINF:-1,(ES-)10 Days without Mamma - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229532.mkv
+#EXTINF:-1,(ES-)El Camino: A Breaking Bad Movie - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229533.mp4
+#EXTINF:-1,(ES-)The Grinch - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229534.mkv
+#EXTINF:-1,(ES-)Eli - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229535.mp4
+#EXTINF:-1,(ES-)Night Hunter - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229536.mkv
+#EXTINF:-1,(ES-)The Lion King - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229538.mkv
+#EXTINF:-1,(ES-)The Sun Is Also a Star - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229539.mkv
+#EXTINF:-1,(ES-)Ma - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229540.mp4
+#EXTINF:-1,(ES-)Enemigos íntimos - 2009
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229541.mkv
+#EXTINF:-1,(ES-)In the Tall Grass - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229542.mp4
+#EXTINF:-1,(ES-)Lying and Stealing - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229543.mkv
+#EXTINF:-1,(ES-)Gloria Bell - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229545.mkv
+#EXTINF:-1,(ES-)Godzilla: King of the Monsters - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229546.mkv
+#EXTINF:-1,(ES-)Hellboy - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229547.mkv
+#EXTINF:-1,(ES-)Hotel Artemis - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229548.mp4
+#EXTINF:-1,(ES-)Hotel Transylvania 3: Summer Vacation - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229549.mp4
+#EXTINF:-1,(ES-)Hurricane - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229550.mkv
+#EXTINF:-1,(ES-)Belleville Cop - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229551.mkv
+#EXTINF:-1,(ES-)In the Shadow of the Moon - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229552.mkv
+#EXTINF:-1,(ES-)John Wick: Chapter 3 - Parabellum - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229553.mkv
+#EXTINF:-1,(ES-)Jeepers Creepers - 2001
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229554.mkv
+#EXTINF:-1,(ES-)La cabaña - 1966
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229555.mp4
+#EXTINF:-1,(ES-)I Can Only Imagine - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229556.mkv
+#EXTINF:-1,(ES-)A Private War - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229557.mkv
+#EXTINF:-1,(ES-)The Shape of Water - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229558.mp4
+#EXTINF:-1,(ES-)School's Out - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229559.mkv
+#EXTINF:-1,(ES-)Greta - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229560.mkv
+#EXTINF:-1,(ES-)Justice League - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229561.mp4
+#EXTINF:-1,(ES-)I Can Quit Whenever I Want - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229562.mkv
+#EXTINF:-1,(ES-)Me llamo Gennet - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229563.mkv
+#EXTINF:-1,(ES-)Men in Black: International - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229564.mp4
+#EXTINF:-1,(ES-)Missing Link - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229565.mkv
+#EXTINF:-1,(ES-)Mug - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229566.mkv
+#EXTINF:-1,(ES-)The Mule - 2013
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229567.mp4
+#EXTINF:-1,(ES-)Oscar Wilde - 1960
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229569.mkv
+#EXTINF:-1,(ES-)Rocketman - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229570.mp4
+#EXTINF:-1,(ES-)Sombra City - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229571.mkv
+#EXTINF:-1,(ES-)Spider-Man: Far from Home - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229572.mp4
+#EXTINF:-1,(ES-)Stuber - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229573.mp4
+#EXTINF:-1,(ES-)Booksmart - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229574.mkv
+#EXTINF:-1,(ES-)The Laundromat - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229575.mp4
+#EXTINF:-1,(ES-)The Prodigy - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229576.mp4
+#EXTINF:-1,(ES-)The Tobacconist - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229577.mkv
+#EXTINF:-1,(ES-)The Hustle - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229578.mkv
+#EXTINF:-1,(ES-)Running for Grace - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229579.mkv
+#EXTINF:-1,(ES-)Tolkien - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229580.mp4
+#EXTINF:-1,(ES-)Toy Story 4 - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229581.mkv
+#EXTINF:-1,(ES-)I Almost Married a Serial Killer - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229582.mkv
+#EXTINF:-1,(ES-)A Faithful Man - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229584.mkv
+#EXTINF:-1,(ES-)Avengers: Endgame - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229585.mp4
+#EXTINF:-1,(ES-)Voice from the Stone - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229587.mkv
+#EXTINF:-1,(ES-)Wounds - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229588.mkv
+#EXTINF:-1,(ES-)Dark Phoenix - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/229589.mkv
+#EXTINF:-1,(ES-) 30m1les.m1080p.Castellano
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/264962.mkv
+#EXTINF:-1,(ES-) 8247
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265115.mkv
+#EXTINF:-1,(ES-)Capone - 2020
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265627.mkv
+#EXTINF:-1,(ES-) El Camino [HDRip][Castellano][wWw.EliteTorrent.IS]
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265628.mp4
+#EXTINF:-1,(ES-)Mujeres Arriba - 2020
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265631.mkv
+#EXTINF:-1,(ES-)Primal: Tales of Savagery - 2020
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265632.mkv
+#EXTINF:-1,(ES-)Time to Hunt - 2020
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265633.mp4
+#EXTINF:-1,(ES-)La rusa - 2020
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265635.avi
+#EXTINF:-1,(ES-)All Day and a Night - 2020
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265672.mkv
+#EXTINF:-1,(ES-)The Half of It - 2020
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265673.mkv
+#EXTINF:-1,(ES-)The Wrong Missy - 2020
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265674.mkv
+#EXTINF:-1,(ES-)A Secret Love - 2020
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265675.mkv
+#EXTINF:-1,(ES-)Dangerous Lies - 2020
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265676.mkv
+#EXTINF:-1,(ES-)Earth and Blood - 2020
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265677.mkv
+#EXTINF:-1,(ES-) Angel of Mine - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265648.mp4
+#EXTINF:-1,(ES-) Amor entre Viñedos  - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265944.mkv
+#EXTINF:-1,(ES-) Burn - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265945.mp4
+#EXTINF:-1,(ES-) Dobles vidas - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265946.mkv
+#EXTINF:-1,(ES-) El Paletero - 2016
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265947.mkv
+#EXTINF:-1,(ES-) En la Hierba Alta - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265948.mp4
+#EXTINF:-1,(ES-) Family Vanished - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265949.mkv
+#EXTINF:-1,(ES-) Galveston - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265950.mkv
+#EXTINF:-1,(ES-) Groomzilla - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265951.mkv
+#EXTINF:-1,(ES-) La tercera esposa  - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265952.mp4
+#EXTINF:-1,(ES-) My Soul To Keep - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265953.mp4
+#EXTINF:-1,(ES-) Pequena Traviesa - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265954.mkv
+#EXTINF:-1,(ES-) Project Gutenberg - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265955.mkv
+#EXTINF:-1,(ES-) Rambo: Last Blood - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265956.mkv
+#EXTINF:-1,(ES-) Stuber - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265957.mkv
+#EXTINF:-1,(ES-) The Convent - 2000
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265958.mp4
+#EXTINF:-1,(ES-) Todo por el ascenso - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265959.mkv
+#EXTINF:-1,(ES-) Tú Yo Y El - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265960.mkv
+#EXTINF:-1,(ES-) Uma - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265961.mkv
+#EXTINF:-1,(ES-) Un Extrano Presentimiento - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265962.mkv
+#EXTINF:-1,(ES-) Un Verano en Vietnam - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265963.mkv
+#EXTINF:-1,(ES-) Vigilia en Agosto - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265964.mkv
+#EXTINF:-1,(ES-) Claudia - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265649.mkv
+#EXTINF:-1,(ES-) Conoces a Tomás  - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265650.mkv
+#EXTINF:-1,(ES-) Cucuy: The Boogeyman - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265651.mp4
+#EXTINF:-1,(ES-) El bosque sangriento - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265652.mkv
+#EXTINF:-1,(ES-) El vampiro del lago - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265653.mkv
+#EXTINF:-1,(ES-) El vigilante  - 2016
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265654.mkv
+#EXTINF:-1,(ES-) El Ángel Maligno - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265655.mkv
+#EXTINF:-1,(ES-) Endzeit - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265656.mkv
+#EXTINF:-1,(ES-) Flow Callejero - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265657.mp4
+#EXTINF:-1,(ES-) Fractura - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265658.mp4
+#EXTINF:-1,(ES-) Inuyashiki - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265659.mkv
+#EXTINF:-1,(ES-) La nueva Cenicienta Un deseo de Navidad - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265660.mkv
+#EXTINF:-1,(ES-) Las puertas del paraíso - 1971
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265661.mkv
+#EXTINF:-1,(ES-) Loki 7 - 2016
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265662.mkv
+#EXTINF:-1,(ES-) Poder Absoluto - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265663.mkv
+#EXTINF:-1,(ES-) Remi Nobody's Boy - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265664.mp4
+#EXTINF:-1,(ES-) Secondhand Hearts - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265665.mkv
+#EXTINF:-1,(ES-) Super empollonas- 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265666.mkv
+#EXTINF:-1,(ES-) The Dark Knight - 2008
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265667.mkv
+#EXTINF:-1,(ES-)  Remain - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265668.mp4
+#EXTINF:-1,(ES-) Victor Crowley - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265669.mkv
+#EXTINF:-1,(ES-) Alfombra Magica - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265997.mkv
+#EXTINF:-1,(ES-) Astérix El secreto de la poción mágica - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265998.mp4
+#EXTINF:-1,(ES-) Batman vs las Tortugas Ninja - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/265999.mkv
+#EXTINF:-1,(ES-) Corgi - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266000.mkv
+#EXTINF:-1,(ES-) Cómo entrenar a tu dragón 3 - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266002.mkv
+#EXTINF:-1,(ES-) The Death and Return of Superman - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266003.mkv
+#EXTINF:-1,(ES-) Heroes humildes - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266004.mkv
+#EXTINF:-1,(ES-) Invasor Zim y el Poder del Florpus - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266005.mp4
+#EXTINF:-1,(ES-) Lukas Storyteller - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266006.mkv
+#EXTINF:-1,(ES-) Marvel Rising: Heart of Iron - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266007.mkv
+#EXTINF:-1,(ES-) Mascotas 2 - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266008.mp4
+#EXTINF:-1,(ES-) Memorias de un hombre en pijama - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266009.mkv
+#EXTINF:-1,(ES-) Pocoyo Special Sports - 2016
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266010.mkv
+#EXTINF:-1,(ES-) Ruben Brandt, Collector - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266011.mp4
+#EXTINF:-1,(ES-) Scooby-Doo! Return to Zombie Island - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266012.mp4
+#EXTINF:-1,(ES-) Steven Universe: The Movie - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266013.mkv
+#EXTINF:-1,(ES-) Terra Willy Planeta desconocido - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266014.mp4
+#EXTINF:-1,(ES-) The Big Trip - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266015.avi
+#EXTINF:-1,(ES-) The Swan Princess: Kingdom of Music - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266016.mp4
+#EXTINF:-1,(ES-) Thomas and Friends Big World - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266017.mkv
+#EXTINF:-1,(ES-) Virus Tropical - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266018.mkv
+#EXTINF:-1,(ES-) Wonder Woman: Bloodlines - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266019.mp4
+#EXTINF:-1,(ES-) Agente 00-Gato - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266020.mkv
+#EXTINF:-1,(ES-) Batman: Hush - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266021.mp4
+#EXTINF:-1,(ES-) Batman Luz de gas - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266022.mkv
+#EXTINF:-1,(ES-) Käpt'n Sharky - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266024.mkv
+#EXTINF:-1,(ES-) Coco - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266025.mkv
+#EXTINF:-1,(ES-) Enredados Otra Vez - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266026.mkv
+#EXTINF:-1,(ES-) Gatos Un viaje de vuelta a casa - 2016
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266027.mkv
+#EXTINF:-1,(ES-) Happy Family - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266028.mkv
+#EXTINF:-1,(ES-) La vida moderna de Rocko cambio de chip - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266029.mp4
+#EXTINF:-1,(ES-) Lego DC Bat-Familia importa - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266030.mp4
+#EXTINF:-1,(ES-) Loving Vincent - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266031.mkv
+#EXTINF:-1,(ES-) Mazinger Z: Infinity - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266032.mkv
+#EXTINF:-1,(ES-) Mirai - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266033.mkv
+#EXTINF:-1,(ES-) My Little Pony: The Movie - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266034.mkv
+#EXTINF:-1,(ES-) Okko - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266035.mkv
+#EXTINF:-1,(ES-) Parque Magico - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266036.mkv
+#EXTINF:-1,(ES-) Pixi Post y los genios de Navidad - 2016
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266037.mkv
+#EXTINF:-1,(ES-) Pokémon ¡Yo te elijo - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266038.mkv
+#EXTINF:-1,(ES-) Sargento Stubby  - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266039.mkv
+#EXTINF:-1,(ES-) El Hijo Perdido - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266040.mkv
+#EXTINF:-1,(ES-) El que se enamora pierde - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266041.mkv
+#EXTINF:-1,(ES-) En las buenas y en las malas - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266042.mkv
+#EXTINF:-1,(ES-) Extremadamente cruel, malvado y perverso - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266043.mkv
+#EXTINF:-1,(ES-) Faith Under Fire: The Antoinette Tuff Story - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266044.mkv
+#EXTINF:-1,(ES-) Feliz Día de t - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266045.mkv
+#EXTINF:-1,(ES-) Good Sam - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266047.mkv
+#EXTINF:-1,(ES-) I believe - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266048.mkv
+#EXTINF:-1,(ES-) La democracia en peligro - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266050.mkv
+#EXTINF:-1,(ES-) Las niñas bien - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266051.mkv
+#EXTINF:-1,(ES-) Maluma Lo Que Era, Lo Que Soy, Lo Que Sere - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266052.mkv
+#EXTINF:-1,(ES-) Nuestro último verano - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266054.mkv
+#EXTINF:-1,(ES-) See You Yesterday - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266055.mkv
+#EXTINF:-1,(ES-) Solteras - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266056.mkv
+#EXTINF:-1,(ES-) The Perfection - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266057.mkv
+#EXTINF:-1,(ES-) Todo lo demás - 2016
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266058.mkv
+#EXTINF:-1,(ES-) Un loco funeral 2 - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266059.mkv
+#EXTINF:-1,(ES-) Air Strike - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266467.mkv
+#EXTINF:-1,(ES-) Amor Sin Condición - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266468.mkv
+#EXTINF:-1,(ES-) Bad Date Chronicles - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266469.mkv
+#EXTINF:-1,(ES-) Banjo - 2016
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266470.mkv
+#EXTINF:-1,(ES-) Cementerio General 2 
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266472.mkv
+#EXTINF:-1,(ES-) Dead Ant - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266473.mkv
+#EXTINF:-1,(ES-) Farruko: En letra de otro - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266474.mkv
+#EXTINF:-1,(ES-) Joel - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266475.mkv
+#EXTINF:-1,(ES-) Los ojos del zorro - 2016
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266476.mkv
+#EXTINF:-1,(ES-) México Bárbaro II - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266477.mkv
+#EXTINF:-1,(ES-) Mujercitas - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266478.mkv
+#EXTINF:-1,(ES-) Pasao de libras - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266480.mkv
+#EXTINF:-1,(ES-) Perseguida - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266481.mkv
+#EXTINF:-1,(ES-) Royal Matchmaker - 2018
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266482.mkv
+#EXTINF:-1,(ES-) Shaadi Mein Zaroor Aana - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266483.mkv
+#EXTINF:-1,(ES-) The Joneses Unplugged - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266484.mkv
+#EXTINF:-1,(ES-) Una cita con el destino - 2017
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266485.mkv
+#EXTINF:-1,(ES-) Venganza bajo cero - 2019
+http://ip.sltv.shop:8080/movie/Berdegue22/CYLwDqvAYm/266486.mkv
