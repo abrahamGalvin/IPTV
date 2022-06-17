@@ -11,235 +11,96 @@ http://6i8ri.top:8000/av500/bFfma6xghG/14
 http://6i8ri.top:8000/av500/bFfma6xghG/61
 #EXTINF:-1 xui-id="48393" tvg-id="LA SEXTA HD" tvg-name="LA SEXTA SD" tvg-logo="" group-title="TDT",LA SEXTA 
 http://6i8ri.top:8000/av500/bFfma6xghG/24
-#EXTINF:-1,Telemadrid
-http://6i8ri.top:8000/av500/bFfma6xghG/374
-#EXTINF:-1,8 MEDITERRANEO
-http://6i8ri.top:8000/av500/bFfma6xghG/1714
-#EXTINF:-1,TRECE TV
-http://6i8ri.top:8000/av500/bFfma6xghG/1712
-#EXTINF:-1,CANAL SUR ANDALUCIA HD
-http://6i8ri.top:8000/av500/bFfma6xghG/84
-#EXTINF:-1,TV 3 HD
-http://6i8ri.top:8000/av500/bFfma6xghG/1445
-#EXTINF:-1,DMAX
+
+#EXTINF:-1 xui-id="48487" tvg-id="Discovery MAX" tvg-name="DMAX SD" tvg-logo="" group-title="TDT",DMAX
 http://6i8ri.top:8000/av500/bFfma6xghG/478
-#EXTINF:-1,TEN
-http://6i8ri.top:8000/av500/bFfma6xghG/1710
-#EXTINF:-1,DKISS
-http://6i8ri.top:8000/av500/bFfma6xghG/392
-#EXTINF:-1,BE MAD HD
+
+#EXTINF:-1 xui-id="48463" tvg-id="BE MAD" tvg-name="BE MAD SD" tvg-logo="" group-title="TDT",BEMAD 
 http://6i8ri.top:8000/av500/bFfma6xghG/81
-#EXTINF:-1,ENERGY HD
+#EXTINF:-1 xui-id="48456" tvg-id="ENERGY" tvg-name="ENERGY SD" tvg-logo="" group-title="TDT",ENERGY 
 http://6i8ri.top:8000/av500/bFfma6xghG/18
-#EXTINF:-1,FDF 
-http://6i8ri.top:8000/av500/bFfma6xghG/98
-#EXTINF:-1,DIVINITY HD
-http://6i8ri.top:8000/av500/bFfma6xghG/17
-#EXTINF:-1,ASTRESERIES
-http://6i8ri.top:8000/av500/bFfma6xghG/1188
-#EXTINF:-1,MEGA 
+
+#EXTINF:-1 xui-id="48455" tvg-id="Mega HD" tvg-name="MEGA SD" tvg-logo="" group-title="TDT",MEGA 
 http://6i8ri.top:8000/av500/bFfma6xghG/615
-#EXTINF:-1,NEOX 
+#EXTINF:-1 xui-id="48465" tvg-id="NEOX" tvg-name="NEOX SD" tvg-logo="" group-title="TDT",NEOX FHD
 http://6i8ri.top:8000/av500/bFfma6xghG/136
-#EXTINF:-1,NOVA 
-http://6i8ri.top:8000/av500/bFfma6xghG/139
-#EXTINF:-1,Castilla La Mancha
-http://6i8ri.top:8000/av500/bFfma6xghG/371
-#EXTINF:-1,A PUNT
-http://6i8ri.top:8000/av500/bFfma6xghG/395
-#EXTINF:-1,EXTREMADURA HD
-http://6i8ri.top:8000/av500/bFfma6xghG/497
-#EXTINF:-1,TV GALICIA HD
-http://6i8ri.top:8000/av500/bFfma6xghG/553
-#EXTINF:-1,ARAGON TV INT
-http://6i8ri.top:8000/av500/bFfma6xghG/76
-#EXTINF:-1,24 HORAS
-http://6i8ri.top:8000/av500/bFfma6xghG/74
-#EXTINF:-1,#0 HD
+
+#EXTINF:-1 xui-id="48397" tvg-id="#0 HD" tvg-name="0# SD" tvg-logo="" group-title="CINE",0#
 http://6i8ri.top:8000/av500/bFfma6xghG/1670
-#EXTINF:-1,M.ESTRENOS HD
+#EXTINF:-1 xui-id="48399" tvg-id="M.ESTRENOS HD" tvg-name="ESTRENOS SD" tvg-logo="" group-title="CINE",ESTRENOS
 http://6i8ri.top:8000/av500/bFfma6xghG/125
-#EXTINF:-1,M. ESTRENOS 2 HD
+#EXTINF:-1 xui-id="102335" tvg-id="M. ESTRENOS 2 HD" tvg-name="ESTRENOS 2 SD" tvg-logo="" group-title="CINE",ESTRENOS 2
 http://6i8ri.top:8000/av500/bFfma6xghG/1328
-#EXTINF:-1,M. ACCION HD
+#EXTINF:-1 xui-id="48401" tvg-id="M. ACCION HD" tvg-name="ACCION SD" tvg-logo="" group-title="CINE",ACCION
 http://6i8ri.top:8000/av500/bFfma6xghG/25
-#EXTINF:-1,M.COMEDIA HD
+#EXTINF:-1 xui-id="48403" tvg-id="M.COMEDIA HD" tvg-name="COMEDIA SD" tvg-logo="" group-title="CINE",COMEDIA
 http://6i8ri.top:8000/av500/bFfma6xghG/168
-#EXTINF:-1,M. DRAMA HD
+#EXTINF:-1 xui-id="48405" tvg-id="M. DRAMA HD" tvg-name="DRAMA SD" tvg-logo="" group-title="CINE",DRAMA
 http://6i8ri.top:8000/av500/bFfma6xghG/33
-#EXTINF:-1,M.CLASICOS HD
-http://6i8ri.top:8000/av500/bFfma6xghG/1335
-#EXTINF:-1,M.LA RESISTENCIA
-http://6i8ri.top:8000/av500/bFfma6xghG/1449
-#EXTINF:-1,M+ FEST
-http://6i8ri.top:8000/av500/bFfma6xghG/1713
-#EXTINF:-1,M.Series HD
-http://6i8ri.top:8000/av500/bFfma6xghG/133
-#EXTINF:-1,M. SERIES 2 HD
-http://6i8ri.top:8000/av500/bFfma6xghG/39
-#EXTINF:-1,M. CINE ESPAÑA
-http://6i8ri.top:8000/av500/bFfma6xghG/112
-#EXTINF:-1,BOM CINE
-http://6i8ri.top:8000/av500/bFfma6xghG/1711
-#EXTINF:-1,MTV ESPAÑA
-http://6i8ri.top:8000/av500/bFfma6xghG/51
-#EXTINF:-1,SOMOS
+
+#EXTINF:-1 xui-id="48419" tvg-id="Somos" tvg-name="SOMOS HD" tvg-logo="" group-title="TDT",SOMOS
 http://6i8ri.top:8000/av500/bFfma6xghG/796
 #EXTINF:-1 xui-id="62202" tvg-id="Dark" tvg-name="DARK HD" tvg-logo="" group-title="CINE",DARK 
 http://6i8ri.top:8000/av500/bFfma6xghG/342
-#EXTINF:-1,XTRM HD
-http://6i8ri.top:8000/av500/bFfma6xghG/260
-#EXTINF:-1,AXN HD
-http://6i8ri.top:8000/av500/bFfma6xghG/78
-#EXTINF:-1,AXN WHITE HD
-http://6i8ri.top:8000/av500/bFfma6xghG/167
-#EXTINF:-1,AMC HD
-http://6i8ri.top:8000/av500/bFfma6xghG/3
-#EXTINF:-1,TNT HD
-http://6i8ri.top:8000/av500/bFfma6xghG/63
-#EXTINF:-1,SYFY HD
+
+#EXTINF:-1 xui-id="48445" tvg-id="SYFY HD" tvg-name="SYFY SD" tvg-logo="" group-title="CINE",SYFY
 http://6i8ri.top:8000/av500/bFfma6xghG/143
-#EXTINF:-1,COMEDYCENTRAL HD
+#EXTINF:-1 xui-id="48449" tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDY CENTRAL SD" tvg-logo="" group-title="CINE",COMEDY CENTRAL
 http://6i8ri.top:8000/av500/bFfma6xghG/88
-#EXTINF:-1,COSMO HD
-http://6i8ri.top:8000/av500/bFfma6xghG/90
-#EXTINF:-1,FOX HD
+
+#EXTINF:-1 xui-id="48433" tvg-id="FOX HD" tvg-name="FOX SD" tvg-logo="" group-title="CINE",FOX
 http://6i8ri.top:8000/av500/bFfma6xghG/21
-#EXTINF:-1,CALLE 13 HD
+#EXTINF:-1 xui-id="48431" tvg-id="CALLE 13 HD" tvg-name="CALLE 13 SD" tvg-logo="" group-title="CINE",CALLE 13
 http://6i8ri.top:8000/av500/bFfma6xghG/146
-#EXTINF:-1,HOLLYWOOD HD
+#EXTINF:-1 xui-id="48410" tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD SD" tvg-logo="" group-title="CINE",HOLLYWOOD
 http://6i8ri.top:8000/av500/bFfma6xghG/23
-#EXTINF:-1,TCM HD
-http://6i8ri.top:8000/av500/bFfma6xghG/60
-#EXTINF:-1,PARAMOUNT NETWORK
+
+#EXTINF:-1 xui-id="48420" tvg-id="PARAMOUNT" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="" group-title="TDT",PARAMOUNT
 http://6i8ri.top:8000/av500/bFfma6xghG/140
-#EXTINF:-1,SUNDANCE TV
-http://6i8ri.top:8000/av500/bFfma6xghG/142
-#EXTINF:-1,NASA TV
-http://6i8ri.top:8000/av500/bFfma6xghG/1242
-#EXTINF:-1,HISTORIA HD
+
+#EXTINF:-1 xui-id="48479" tvg-id="HISTORIA" tvg-name="HISTORIA SD" tvg-logo="" group-title="CULTURA",HISTORIA
 http://6i8ri.top:8000/av500/bFfma6xghG/467
-#EXTINF:-1,HISTORIA
-http://6i8ri.top:8000/av500/bFfma6xghG/102
-#EXTINF:-1,ODISEA HD
+
+#EXTINF:-1 xui-id="48482" tvg-id="CANAL ODISEA" tvg-name="ODISEA SD" tvg-logo="" group-title="CULTURA",ODISEA
 http://6i8ri.top:8000/av500/bFfma6xghG/770
-#EXTINF:-1,ODISEA 
-http://6i8ri.top:8000/av500/bFfma6xghG/11
-#EXTINF:-1,DISCOVERY HD
+
+#EXTINF:-1 xui-id="48481" tvg-id="DISCOVERY" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="" group-title="CULTURA",DISCOVERY CHANNEL
 http://6i8ri.top:8000/av500/bFfma6xghG/1344
-#EXTINF:-1,DISCOVERY
-http://6i8ri.top:8000/av500/bFfma6xghG/93
-#EXTINF:-1,NAT GEOGRAPHIC HD
+
+#EXTINF:-1 xui-id="48483" tvg-id="NAT GEO HD" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="" group-title="CULTURA",NATIONAL GEOGRAPHIC
 http://6i8ri.top:8000/av500/bFfma6xghG/52
-#EXTINF:-1,NAT GEOGRAPHIC WILD HD
-http://6i8ri.top:8000/av500/bFfma6xghG/54
-#EXTINF:-1,CRIMEN+INVES
-http://6i8ri.top:8000/av500/bFfma6xghG/91
-#EXTINF:-1,BLAZE
-http://6i8ri.top:8000/av500/bFfma6xghG/82
-#EXTINF:-1,CAZAyPESCA HD
+
+#EXTINF:-1 xui-id="48493" tvg-id="CAZAyPESCA HD" tvg-name="CAZA Y PESCA SD" tvg-logo="" group-title="CULTURA",CAZA Y PESCA
 http://6i8ri.top:8000/av500/bFfma6xghG/12
-#EXTINF:-1,IBERALIA TV
-http://6i8ri.top:8000/av500/bFfma6xghG/104
-#EXTINF:-1,CANAL COCINA
-http://6i8ri.top:8000/av500/bFfma6xghG/9
-#EXTINF:-1,CANAL DECASA
-http://6i8ri.top:8000/av500/bFfma6xghG/10
-#EXTINF:-1,TOROS HD
+
+#EXTINF:-1 xui-id="48547" tvg-id="TOROS HD" tvg-name="TOROS SD" tvg-logo="" group-title="TOROS",TOROS
 http://6i8ri.top:8000/av500/bFfma6xghG/65
-#EXTINF:-1,DREAMWORKS HD
+#EXTINF:-1 xui-id="64410" tvg-id="DreamWorks HD" tvg-name="DREAMWORKS SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="INFANTIL",DREAMWORKS
 http://6i8ri.top:8000/av500/bFfma6xghG/1147
-#EXTINF:-1,NICKELODEON HD
+#EXTINF:-1 xui-id="48476" tvg-id="NICKELODEON HD" tvg-name="NICKELODEON SD" tvg-logo="" group-title="INFANTIL",NICKELODEON
 http://6i8ri.top:8000/av500/bFfma6xghG/55
-#EXTINF:-1,DISNEY CHANEL HD
-http://6i8ri.top:8000/av500/bFfma6xghG/15
-#EXTINF:-1,DISNEY JR
-http://6i8ri.top:8000/av500/bFfma6xghG/94
-#EXTINF:-1,BABY TV
-http://6i8ri.top:8000/av500/bFfma6xghG/5
-#EXTINF:-1,NICK JR
-http://6i8ri.top:8000/av500/bFfma6xghG/137
-#EXTINF:-1,BOING
-http://6i8ri.top:8000/av500/bFfma6xghG/7
-#EXTINF:-1,CANAL PANDA
-http://6i8ri.top:8000/av500/bFfma6xghG/83
-#EXTINF:-1,CLAN TV
-http://6i8ri.top:8000/av500/bFfma6xghG/86
-#EXTINF:-1,DAZN F1 HD 
+
+#EXTINF:-1 xui-id="48538" tvg-id="DAZN F1 HD" tvg-name="F1 SD" tvg-logo="" group-title="DEPORTES",DAZN F1
 http://6i8ri.top:8000/av500/bFfma6xghG/43
-#EXTINF:-1,DAZN  1 HD
+#EXTINF:-1 xui-id="60297" tvg-id="DAZN 1 HD" tvg-name="DAZN 1 SD" tvg-logo="" group-title="DEPORTES",DAZN 1
 http://6i8ri.top:8000/av500/bFfma6xghG/771
-#EXTINF:-1,DAZN 2 HD
-http://6i8ri.top:8000/av500/bFfma6xghG/774
-#EXTINF:-1,DAZN 3 HD
-http://6i8ri.top:8000/av500/bFfma6xghG/1184
-#EXTINF:-1,DAZN 4 HD 
-http://6i8ri.top:8000/av500/bFfma6xghG/1185
-#EXTINF:-1,#VAMOS HD
-http://6i8ri.top:8000/av500/bFfma6xghG/187
-#EXTINF:-1,M.LA LIGA HD
+
+#EXTINF:-1 xui-id="48563" tvg-id="M. LaLiga HD" tvg-name="LA LIGA SD" tvg-logo="" group-title="FUTBOL",LALIGA
 http://6i8ri.top:8000/av500/bFfma6xghG/804
-#EXTINF:-1,M.LA LIGA 1 hd
+#EXTINF:-1 xui-id="48502" tvg-id="M. LaLiga 1 HD" tvg-name="LA LIGA 1 SD" tvg-logo="" group-title="FUTBOL",LALIGA 1
 http://6i8ri.top:8000/av500/bFfma6xghG/44
-#EXTINF:-1,M.LA LIGA 2 HD
-http://6i8ri.top:8000/av500/bFfma6xghG/1186
-#EXTINF:-1,M.LA LIGA 3 HD
-http://6i8ri.top:8000/av500/bFfma6xghG/1187
-#EXTINF:-1,M.LALIGA 4
-http://6i8ri.top:8000/av500/bFfma6xghG/126
-#EXTINF:-1,M.LALIGA 5
-http://6i8ri.top:8000/av500/bFfma6xghG/47
-#EXTINF:-1,M.LALIGA 6
-http://6i8ri.top:8000/av500/bFfma6xghG/48
-#EXTINF:-1,M.LALIGA 7
-http://6i8ri.top:8000/av500/bFfma6xghG/49
-#EXTINF:-1,MOVISTAR CAMPEONES HD
+
+#EXTINF:-1 xui-id="48512" tvg-id="M.LCAMPEONES HD" tvg-name="LIGA CAMPEONES SD" tvg-logo="" group-title="FUTBOL",LIGA CAMPEONES
 http://6i8ri.top:8000/av500/bFfma6xghG/708
-#EXTINF:-1,M.LCAMPEON 1 hd
+#EXTINF:-1 xui-id="48515" tvg-id="M.LCAMPEON1" tvg-name="LIGA CAMPEONES 1 SD" tvg-logo="" group-title="FUTBOL",LIGA CAMPEONES 1
 http://6i8ri.top:8000/av500/bFfma6xghG/128
-#EXTINF:-1,M.LCAMPEON 2 hd
-http://6i8ri.top:8000/av500/bFfma6xghG/130
-#EXTINF:-1,M.LCAMPEON 3
-http://6i8ri.top:8000/av500/bFfma6xghG/68
-#EXTINF:-1,M.LCAMPEON 4
-http://6i8ri.top:8000/av500/bFfma6xghG/1397
-#EXTINF:-1,M.LCAMPEON 5
-http://6i8ri.top:8000/av500/bFfma6xghG/69
-#EXTINF:-1,M.LCAMPEON 6
-http://6i8ri.top:8000/av500/bFfma6xghG/70
-#EXTINF:-1,M.LCAMPEON 7
-http://6i8ri.top:8000/av500/bFfma6xghG/71
-#EXTINF:-1,M.LCAMPEON 8
-http://6i8ri.top:8000/av500/bFfma6xghG/1667
-#EXTINF:-1,M.LCAMPEON 9
-http://6i8ri.top:8000/av500/bFfma6xghG/1668
-#EXTINF:-1,M.LCAMPEON 10
-http://6i8ri.top:8000/av500/bFfma6xghG/1669
-#EXTINF:-1,M. DEPORTES HD
+
+#EXTINF:-1 xui-id="48560" tvg-id="M. DEPORTE HD" tvg-name="DEPORTE SD" tvg-logo="" group-title="DEPORTES",DEPORTE
 http://6i8ri.top:8000/av500/bFfma6xghG/31
-#EXTINF:-1,M.DEPORTES 1 HD
-http://6i8ri.top:8000/av500/bFfma6xghG/41
-#EXTINF:-1,M. DEPORTES2
-http://6i8ri.top:8000/av500/bFfma6xghG/27
-#EXTINF:-1,M. DEPORTES 3
-http://6i8ri.top:8000/av500/bFfma6xghG/28
-#EXTINF:-1,M. DEPORTES 4
-http://6i8ri.top:8000/av500/bFfma6xghG/29
-#EXTINF:-1,M. DEPORTES 5
-http://6i8ri.top:8000/av500/bFfma6xghG/30
-#EXTINF:-1,M. GOLF HD
-http://6i8ri.top:8000/av500/bFfma6xghG/118
-#EXTINF:-1,EUROSPORT 1HD
-http://6i8ri.top:8000/av500/bFfma6xghG/20
-#EXTINF:-1,EUROSPORT 2 HD
-http://6i8ri.top:8000/av500/bFfma6xghG/97
-#EXTINF:-1,R. MADRID TV
+
+#EXTINF:-1 xui-id="48543" tvg-id="R. MADRID TV" tvg-name="REAL MADRID TV SD" tvg-logo="" group-title="FUTBOL",REAL MADRID TV
 http://6i8ri.top:8000/av500/bFfma6xghG/141
-#EXTINF:-1,BARCA TV
+#EXTINF:-1 xui-id="48542" tvg-id="BARCA TV" tvg-name="BARCA TV SD" tvg-logo="" group-title="FUTBOL",BARCA TV
 http://6i8ri.top:8000/av500/bFfma6xghG/6
-#EXTINF:-1,GOL TV HD
+#EXTINF:-1 xui-id="48544" tvg-id="GOL HD" tvg-name="GOL TV SD" tvg-logo="" group-title="FUTBOL",GOL TV
 http://6i8ri.top:8000/av500/bFfma6xghG/22
-#EXTINF:-1,TELEDEPORTE HD
-http://6i8ri.top:8000/av500/bFfma6xghG/62
-#EXTINF:-1,MTV 00S
-http://6i8ri.top:8000/av500/bFfma6xghG/835
