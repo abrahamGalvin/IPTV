@@ -1,17 +1,15 @@
 #EXTM3U
-#EXTINF:-1,PORTADA
-http://6i8ri.top:8000/av500/bFfma6xghG/706
-#EXTINF:-1,LA 1 HD
+#EXTINF:-1 xui-id="48383" tvg-id="LA 1 HD" tvg-name="LA 1 SD" tvg-logo="" group-title="TDT",LA 1 
 http://6i8ri.top:8000/av500/bFfma6xghG/106
-#EXTINF:-1,LA 2 HD
+#EXTINF:-1 xui-id="48385" tvg-id="La 2 HD" tvg-name="LA 2 SD" tvg-logo="" group-title="TDT",LA 2 
 http://6i8ri.top:8000/av500/bFfma6xghG/107
-#EXTINF:-1,ANTENA 3 HD
+#EXTINF:-1 xui-id="48387" tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 SD" tvg-logo="" group-title="TDT",ANTENA 3 
 http://6i8ri.top:8000/av500/bFfma6xghG/4
-#EXTINF:-1,CUATRO HD
+#EXTINF:-1 xui-id="48389" tvg-id="CUATRO HD" tvg-name="CUATRO SD" tvg-logo="" group-title="TDT",CUATRO 
 http://6i8ri.top:8000/av500/bFfma6xghG/14
-#EXTINF:-1,TELECINCO HD
+#EXTINF:-1 xui-id="48391" tvg-id="TELECINCO HD" tvg-name="TELECINCO SD" tvg-logo="" group-title="TDT",TELECINCO 
 http://6i8ri.top:8000/av500/bFfma6xghG/61
-#EXTINF:-1,LA SEXTA HD
+#EXTINF:-1 xui-id="48393" tvg-id="LA SEXTA HD" tvg-name="LA SEXTA SD" tvg-logo="" group-title="TDT",LA SEXTA 
 http://6i8ri.top:8000/av500/bFfma6xghG/24
 #EXTINF:-1,Telemadrid
 http://6i8ri.top:8000/av500/bFfma6xghG/374
@@ -87,7 +85,7 @@ http://6i8ri.top:8000/av500/bFfma6xghG/1711
 http://6i8ri.top:8000/av500/bFfma6xghG/51
 #EXTINF:-1,SOMOS
 http://6i8ri.top:8000/av500/bFfma6xghG/796
-#EXTINF:-1,DARK 
+#EXTINF:-1 xui-id="62202" tvg-id="Dark" tvg-name="DARK HD" tvg-logo="" group-title="CINE",DARK 
 http://6i8ri.top:8000/av500/bFfma6xghG/342
 #EXTINF:-1,XTRM HD
 http://6i8ri.top:8000/av500/bFfma6xghG/260
@@ -245,201 +243,3 @@ http://6i8ri.top:8000/av500/bFfma6xghG/22
 http://6i8ri.top:8000/av500/bFfma6xghG/62
 #EXTINF:-1,MTV 00S
 http://6i8ri.top:8000/av500/bFfma6xghG/835
-#EXTINF:-1,KRONE TV MUSIC
-http://6i8ri.top:8000/av500/bFfma6xghG/266
-#EXTINF:-1,CADENA ELITE
-http://6i8ri.top:8000/av500/bFfma6xghG/1349
-#EXTINF:-1,LA URBAN TV
-http://6i8ri.top:8000/av500/bFfma6xghG/1663
-#EXTINF:-1,ACTIVA TV
-http://6i8ri.top:8000/av500/bFfma6xghG/1664
-#EXTINF:-1,Wyrmwood: Apocalypse (2022)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1674.avi
-#EXTINF:-1,Uncharted (2022)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1675.avi
-#EXTINF:-1,Un espíritu burlón (2020)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1676.avi
-#EXTINF:-1,Tras la pista del asesino (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1677.avi
-#EXTINF:-1,Todo es Gila (2022)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1678.mkv
-#EXTINF:-1,Siempre en el mejor momento (2022)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1679.avi
-#EXTINF:-1,Salvar el árbol (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1680.avi
-#EXTINF:-1,Refugiado americano (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1681.mkv
-#EXTINF:-1,Querido Evan Hansen (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1682.mkv
-#EXTINF:-1,Pájaros enjaulados (Hasta que estemos muertos o libres) (2022)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1683.mkv
-#EXTINF:-1,Muerte en el Nilo (2022)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1684.avi
-#EXTINF:-1,Matrix Resurrections (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1685.avi
-#EXTINF:-1,Madeleine Collins (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1686.avi
-#EXTINF:-1,Luz Natural (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1687.mkv
-#EXTINF:-1,Socias y enemigas (2020)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1688.mkv
-#EXTINF:-1,Las fantasías (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1689.avi
-#EXTINF:-1,Lansky (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1690.mkv
-#EXTINF:-1,La Octava Clausula (2022)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1691.mkv
-#EXTINF:-1,La hija oscura (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1692.avi
-#EXTINF:-1,La guerra del mañana (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1693.avi
-#EXTINF:-1,Kanna y los dioses de octubre (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1694.avi
-#EXTINF:-1,Incompatibles 2 (2022)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1695.avi
-#EXTINF:-1,Ice Age: Las aventuras de Buck (2022)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1696.avi
-#EXTINF:-1,Hotel Transilvania: Transformanía (2022)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1697.avi
-#EXTINF:-1,Hazme volar (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1698.mkv
-#EXTINF:-1,El último tren al Rock'n'Roll (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1699.mkv
-#EXTINF:-1,El Misterio De Marilyn Monroe Las Cintas Ineditas (2022)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1700.mkv
-#EXTINF:-1,El espía honesto (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1701.avi
-#EXTINF:-1,El día de la bandera (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1702.avi
-#EXTINF:-1,Déjate llevar (2022)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1703.avi
-#EXTINF:-1,¡Canta! 2 (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1704.mkv
-#EXTINF:-1,Black Friday (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1705.avi
-#EXTINF:-1,Arturo y el algoritmo (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1706.avi
-#EXTINF:-1,Amor de madre (2022)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1707.mkv
-#EXTINF:-1,Aline (2020)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1708.avi
-#EXTINF:-1,Sonic 2: La película (2022)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1709.mkv
-#EXTINF:-1,ACTIVA FM
-http://6i8ri.top:8000/av500/bFfma6xghG/300
-#EXTINF:-1,LA MUY BUENA
-http://6i8ri.top:8000/av500/bFfma6xghG/301
-#EXTINF:-1,BIKINI FM
-http://6i8ri.top:8000/av500/bFfma6xghG/302
-#EXTINF:-1,LA MEGA
-http://6i8ri.top:8000/av500/bFfma6xghG/303
-#EXTINF:-1,LA FLAMENCA FM
-http://6i8ri.top:8000/av500/bFfma6xghG/305
-#EXTINF:-1,LOS 40 PRINCIPALES
-http://6i8ri.top:8000/av500/bFfma6xghG/306
-#EXTINF:-1,CADENA DIAL 
-http://6i8ri.top:8000/av500/bFfma6xghG/307
-#EXTINF:-1,RADIO OLE
-http://6i8ri.top:8000/av500/bFfma6xghG/308
-#EXTINF:-1,EUROPA FM
-http://6i8ri.top:8000/av500/bFfma6xghG/309
-#EXTINF:-1,ESENCIA FM
-http://6i8ri.top:8000/av500/bFfma6xghG/401
-#EXTINF:-1,GOLD FM
-http://6i8ri.top:8000/av500/bFfma6xghG/404
-#EXTINF:-1,ROCK STAR
-http://6i8ri.top:8000/av500/bFfma6xghG/405
-#EXTINF:-1,+ACTIVA
-http://6i8ri.top:8000/av500/bFfma6xghG/552
-#EXTINF:-1,LOS 40 URBAN
-http://6i8ri.top:8000/av500/bFfma6xghG/954
-#EXTINF:-1,CANAL FIESTA RADIO
-http://6i8ri.top:8000/av500/bFfma6xghG/955
-#EXTINF:-1,Wagner: los mercenarios de Putin (2022)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1715.mp4
-#EXTINF:-1,Veneciafrenia (2022)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1716.mkv
-#EXTINF:-1,OSS 117: Desde África con amor (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1717.mkv
-#EXTINF:-1,Las reinas de los cupones (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1718.mkv
-#EXTINF:-1,En el silencio (2020)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1719.mkv
-#EXTINF:-1,El brindis
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1720.mkv
-#EXTINF:-1,Dark Cloud (2022)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1721.mkv
-#EXTINF:-1,Conspiración en Hollywood (2022)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1722.mkv
-#EXTINF:-1,Chip y Chop: Los guardianes rescatadores (2022)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1723.mkv
-#EXTINF:-1,Camera café: la película (2022)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1724.mkv
-#EXTINF:-1,Amor redentor (2022)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1725.mkv
-#EXTINF:-1,Animales fantásticos: Los secretos de Dumbledore (2022)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1726.mkv
-#EXTINF:-1,El aparcacoches (2022)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1727.mkv
-#EXTINF:-1,Freaks Out (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1728.mkv
-#EXTINF:-1,Ghost in the Shell: SAC_2045: Guerra sostenible (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1729.mkv
-#EXTINF:-1,Jackass 4.5 (2022)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1730.mkv
-#EXTINF:-1,Juntos (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1731.mkv
-#EXTINF:-1,Milagro en la celda 7 (2019)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1732.mp4
-#EXTINF:-1,Nosotros, ratas de laboratorio (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1733.mp4
-#EXTINF:-1,Pan De Limón Con Semillas De Amapola (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1734.mkv
-#EXTINF:-1,Prisioneros de Ghostland (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1735.mkv
-#EXTINF:-1,Rehén letal (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1736.mkv
-#EXTINF:-1,The Fanatic (2019)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1737.mkv
-#EXTINF:-1,The Nowhere Inn (2021)
-http://6i8ri.top:8000/movie/av500/bFfma6xghG/1738.mkv
-#EXTINF:-1,Playhouse
-http://6i8ri.top:8000/av500/bFfma6xghG/1301
-#EXTINF:-1,Redlight HD
-http://6i8ri.top:8000/av500/bFfma6xghG/1300
-#EXTINF:-1,Prıvate TV HD
-http://6i8ri.top:8000/av500/bFfma6xghG/1299
-#EXTINF:-1,Dorcel HD
-http://6i8ri.top:8000/av500/bFfma6xghG/1231
-#EXTINF:-1,Dorcel XxX  HD
-http://6i8ri.top:8000/av500/bFfma6xghG/1230
-#EXTINF:-1,Vivid Red HD
-http://6i8ri.top:8000/av500/bFfma6xghG/1127
-#EXTINF:-1,Vixen HD
-http://6i8ri.top:8000/av500/bFfma6xghG/1126
-#EXTINF:-1,Erox HD
-http://6i8ri.top:8000/av500/bFfma6xghG/1125
-#EXTINF:-1,Penthouse Gold HD
-http://6i8ri.top:8000/av500/bFfma6xghG/1122
-#EXTINF:-1,Penthouse Quickies HD
-http://6i8ri.top:8000/av500/bFfma6xghG/838
-#EXTINF:-1,Super One HD
-http://6i8ri.top:8000/av500/bFfma6xghG/313
-#EXTINF:-1,Xy Plus HD
-http://6i8ri.top:8000/av500/bFfma6xghG/249
-#EXTINF:-1,Xy Max HD
-http://6i8ri.top:8000/av500/bFfma6xghG/244
-#EXTINF:-1,Cento X Cento
-http://6i8ri.top:8000/av500/bFfma6xghG/239
-#EXTINF:-1,Dream Porn HD
-http://6i8ri.top:8000/av500/bFfma6xghG/220
-#EXTINF:-1,Evil Angel Europe
-http://6i8ri.top:8000/av500/bFfma6xghG/1389
-#EXTINF:-1,Hustler HD
-http://6i8ri.top:8000/av500/bFfma6xghG/1393
-#EXTINF:-1,X Bizarre
-http://6i8ri.top:8000/av500/bFfma6xghG/1671
-#EXTINF:-1,Bunga Bunga
-http://6i8ri.top:8000/av500/bFfma6xghG/1672
-#EXTINF:-1,Emanuelle
-http://6i8ri.top:8000/av500/bFfma6xghG/1673
