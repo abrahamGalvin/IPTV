@@ -80,65 +80,67 @@ http://2022spn.net:8080/miguelangel/21041978/4855
 http://2022spn.net:8080/miguelangel/21041978/4858
 
 
-#EXTINF:-1 xui-id="" tvg-id="Somos" tvg-name="SOMOS HD" tvg-logo="" group-title="MOVISTAR+",SOMOS
+
+
+####SUSCRIPCIÓN
+#EXTINF:-1 xui-id="" tvg-id="Somos" tvg-name="SOMOS HD" tvg-logo="" group-title="SUSCRIPCIÓN",SOMOS
 http://2022spn.net:8080/miguelangel/21041978/4897
 
 
-#EXTINF:-1 xui-id="" tvg-id="Dark" tvg-name="DARK HD" tvg-logo="" group-title="MOVISTAR+",DARK 
+#EXTINF:-1 xui-id="" tvg-id="Dark" tvg-name="DARK HD" tvg-logo="" group-title="SUSCRIPCIÓN",DARK 
 http://2022spn.net:8080/miguelangel/21041978/4904
 
 
-#EXTINF:-1 xui-id="" tvg-id="SYFY HD" tvg-name="SYFY" tvg-logo="" group-title="MOVISTAR+",SYFY
+#EXTINF:-1 xui-id="" tvg-id="SYFY HD" tvg-name="SYFY" tvg-logo="" group-title="SUSCRIPCIÓN",SYFY
 http://2022spn.net:8080/miguelangel/21041978/4888
 
 
-#EXTINF:-1 xui-id="" tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="MOVISTAR+",COMEDY CENTRAL
+#EXTINF:-1 xui-id="" tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="SUSCRIPCIÓN",COMEDY CENTRAL
 http://2022spn.net:8080/miguelangel/21041978/4876
 
 
-#EXTINF:-1 xui-id="" tvg-id="FOX HD" tvg-name="FOX" tvg-logo="" group-title="MOVISTAR+",FOX
+#EXTINF:-1 xui-id="" tvg-id="FOX HD" tvg-name="FOX" tvg-logo="" group-title="SUSCRIPCIÓN",FOX
 http://2022spn.net:8080/miguelangel/21041978/4864
 
 
-#EXTINF:-1 xui-id="" tvg-id="CALLE 13 HD" tvg-name="CALLE 13" tvg-logo="" group-title="MOVISTAR+",CALLE 13
+#EXTINF:-1 xui-id="" tvg-id="CALLE 13 HD" tvg-name="CALLE 13" tvg-logo="" group-title="SUSCRIPCIÓN",CALLE 13
 http://2022spn.net:8080/miguelangel/21041978/4879
 
 
-#EXTINF:-1 xui-id="" tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD" tvg-logo="" group-title="MOVISTAR+",HOLLYWOOD
+#EXTINF:-1 xui-id="" tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD" tvg-logo="" group-title="SUSCRIPCIÓN",HOLLYWOOD
 http://2022spn.net:8080/miguelangel/21041978/4901
 
 
-#EXTINF:-1 xui-id="" tvg-id="HISTORIA" tvg-name="HISTORIA" tvg-logo="" group-title="MOVISTAR+",HISTORIA
+#EXTINF:-1 xui-id="" tvg-id="HISTORIA" tvg-name="HISTORIA" tvg-logo="" group-title="SUSCRIPCIÓN",HISTORIA
 http://2022spn.net:8080/miguelangel/21041978/5188
 
 
-#EXTINF:-1 xui-id="" tvg-id="CANAL ODISEA" tvg-name="ODISEA" tvg-logo="" group-title="MOVISTAR+",ODISEA
+#EXTINF:-1 xui-id="" tvg-id="CANAL ODISEA" tvg-name="ODISEA" tvg-logo="" group-title="SUSCRIPCIÓN",ODISEA
 http://2022spn.net:8080/miguelangel/21041978/5195
 
 
-#EXTINF:-1 xui-id="" tvg-id="DISCOVERY" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="MOVISTAR+",DISCOVERY CHANNEL
+#EXTINF:-1 xui-id="" tvg-id="DISCOVERY" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="SUSCRIPCIÓN",DISCOVERY CHANNEL
 http://2022spn.net:8080/miguelangel/21041978/5193
 
 
-#EXTINF:-1 xui-id="" tvg-id="NAT GEO HD" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="MOVISTAR+",NATIONAL GEOGRAPHIC
+#EXTINF:-1 xui-id="" tvg-id="NAT GEO HD" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="SUSCRIPCIÓN",NATIONAL GEOGRAPHIC
 http://2022spn.net:8080/miguelangel/21041978/5182
 
 
-#EXTINF:-1 xui-id="" tvg-id="CAZAyPESCA HD" tvg-name="CAZA Y PESCA" tvg-logo="" group-title="MOVISTAR+",CAZA Y PESCA
+#EXTINF:-1 xui-id="" tvg-id="CAZAyPESCA HD" tvg-name="CAZA Y PESCA" tvg-logo="" group-title="SUSCRIPCIÓN",CAZA Y PESCA
 http://2022spn.net:8080/miguelangel/21041978/5199
 
 
-#EXTINF:-1 xui-id="" tvg-id="TOROS HD" tvg-name="TOROS" tvg-logo="" group-title="MOVISTAR+",TOROS
+#EXTINF:-1 xui-id="" tvg-id="TOROS HD" tvg-name="TOROS" tvg-logo="" group-title="SUSCRIPCIÓN",TOROS
 http://2022spn.net:8080/miguelangel/21041978/5208
 
 
-#EXTINF:-1 xui-id="" tvg-id="DreamWorks HD" tvg-name="DREAMWORKS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="MOVISTAR+",DREAMWORKS
+#EXTINF:-1 xui-id="" tvg-id="DreamWorks HD" tvg-name="DREAMWORKS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="SUSCRIPCIÓN",DREAMWORKS
 http://2022spn.net:8080/miguelangel/21041978/5000
 
 
-#EXTINF:-1 xui-id="" tvg-id="NICKELODEON HD" tvg-name="NICKELODEON" tvg-logo="" group-title="MOVISTAR+",NICKELODEON
+#EXTINF:-1 xui-id="" tvg-id="NICKELODEON HD" tvg-name="NICKELODEON" tvg-logo="" group-title="SUSCRIPCIÓN",NICKELODEON
 http://2022spn.net:8080/miguelangel/21041978/5017
-
 
 ####DEPORTES
 #EXTINF:-1 xui-id="" tvg-id="LALIGATV BAR" tvg-name="LA LIGA BAR" tvg-logo="" group-title="DEPORTES",LA LIGA BAR
