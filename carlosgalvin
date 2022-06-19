@@ -142,23 +142,15 @@ http://kb2x.top:8000/tu508/yo15y47/55
 http://kb2x.top:8000/tu508/yo15y47/804
 
 
-#EXTINF:-1 xui-id="" tvg-id="M. LaLiga 1 HD" tvg-name="LA LIGA 1 SD" tvg-logo="" group-title="DEPORTES",LALIGA 1
-http://kb2x.top:8000/tu508/yo15y47/44
-
-
-#EXTINF:-1 xui-id="" tvg-id="M.LCAMPEONES HD" tvg-name="LIGA CAMPEONES SD" tvg-logo="" group-title="DEPORTES",LIGA CAMPEONES
+#EXTINF:-1 xui-id="" tvg-id="M.LCAMPEONES HD" tvg-name="LIGA CAMPEONES SD" tvg-logo="" group-title="DEPORTES",LIGA DE CAMPEONES
 http://kb2x.top:8000/tu508/yo15y47/708
 
 
-#EXTINF:-1 xui-id="" tvg-id="M.LCAMPEON1" tvg-name="LIGA CAMPEONES 1 SD" tvg-logo="" group-title="DEPORTES",LIGA CAMPEONES 1
-http://kb2x.top:8000/tu508/yo15y47/128
-
-
-#EXTINF:-1 xui-id="" tvg-id="GOL HD" tvg-name="GOL TV SD" tvg-logo="" group-title="DEPORTES",GOL TV
+#EXTINF:-1 xui-id="" tvg-id="GOL HD" tvg-name="GOL TV SD" tvg-logo="" group-title="DEPORTES",GOL
 http://kb2x.top:8000/tu508/yo15y47/22
 
 
-#EXTINF:-1 xui-id="" tvg-id="M. DEPORTE HD" tvg-name="DEPORTE SD" tvg-logo="" group-title="DEPORTES",DEPORTE
+#EXTINF:-1 xui-id="" tvg-id="M. DEPORTE HD" tvg-name="DEPORTE SD" tvg-logo="" group-title="DEPORTES",DEPORTES
 http://kb2x.top:8000/tu508/yo15y47/31
 
 
