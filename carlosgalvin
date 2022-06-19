@@ -1,106 +1,132 @@
 #EXTM3U
-#EXTINF:-1 xui-id="48383" tvg-id="LA 1 HD" tvg-name="LA 1 SD" tvg-logo="" group-title="TDT",LA 1 
-http://6i8ri.top:8000/av500/bFfma6xghG/106
-#EXTINF:-1 xui-id="48385" tvg-id="La 2 HD" tvg-name="LA 2 SD" tvg-logo="" group-title="TDT",LA 2 
-http://6i8ri.top:8000/av500/bFfma6xghG/107
-#EXTINF:-1 xui-id="48387" tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 SD" tvg-logo="" group-title="TDT",ANTENA 3 
-http://6i8ri.top:8000/av500/bFfma6xghG/4
-#EXTINF:-1 xui-id="48389" tvg-id="CUATRO HD" tvg-name="CUATRO SD" tvg-logo="" group-title="TDT",CUATRO 
-http://6i8ri.top:8000/av500/bFfma6xghG/14
-#EXTINF:-1 xui-id="48391" tvg-id="TELECINCO HD" tvg-name="TELECINCO SD" tvg-logo="" group-title="TDT",TELECINCO 
-http://6i8ri.top:8000/av500/bFfma6xghG/61
-#EXTINF:-1 xui-id="48393" tvg-id="LA SEXTA HD" tvg-name="LA SEXTA SD" tvg-logo="" group-title="TDT",LA SEXTA 
-http://6i8ri.top:8000/av500/bFfma6xghG/24
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="PORTADA" tvg-logo="https://logos.fandom.com/es/wiki/Movistar_Plus%2B?file=Movistar_print_black.png" group-title="PORTADA",PORTADA
+http://kb2x.top:8000/tu508/yo15y47/706
 
-#EXTINF:-1 xui-id="48487" tvg-id="Discovery MAX" tvg-name="DMAX SD" tvg-logo="" group-title="TDT",DMAX
-http://6i8ri.top:8000/av500/bFfma6xghG/478
+#EXTINF:-1 xui-id="" tvg-id="LA 1 HD" tvg-name="LA 1 SD" tvg-logo="" group-title="TDT",LA 1 
 
-#EXTINF:-1 xui-id="48463" tvg-id="BE MAD" tvg-name="BE MAD SD" tvg-logo="" group-title="TDT",BEMAD 
-http://6i8ri.top:8000/av500/bFfma6xghG/81
-#EXTINF:-1 xui-id="48456" tvg-id="ENERGY" tvg-name="ENERGY SD" tvg-logo="" group-title="TDT",ENERGY 
-http://6i8ri.top:8000/av500/bFfma6xghG/18
 
-#EXTINF:-1 xui-id="48455" tvg-id="Mega HD" tvg-name="MEGA SD" tvg-logo="" group-title="TDT",MEGA 
-http://6i8ri.top:8000/av500/bFfma6xghG/615
-#EXTINF:-1 xui-id="48465" tvg-id="NEOX" tvg-name="NEOX SD" tvg-logo="" group-title="TDT",NEOX FHD
-http://6i8ri.top:8000/av500/bFfma6xghG/136
+#EXTINF:-1 xui-id="" tvg-id="La 2 HD" tvg-name="LA 2 SD" tvg-logo="" group-title="TDT",LA 2 
 
-#EXTINF:-1 xui-id="48397" tvg-id="#0 HD" tvg-name="0# SD" tvg-logo="" group-title="CINE",0#
-http://6i8ri.top:8000/av500/bFfma6xghG/1670
-#EXTINF:-1 xui-id="48399" tvg-id="M.ESTRENOS HD" tvg-name="ESTRENOS SD" tvg-logo="" group-title="CINE",ESTRENOS
-http://6i8ri.top:8000/av500/bFfma6xghG/125
-#EXTINF:-1 xui-id="102335" tvg-id="M. ESTRENOS 2 HD" tvg-name="ESTRENOS 2 SD" tvg-logo="" group-title="CINE",ESTRENOS 2
-http://6i8ri.top:8000/av500/bFfma6xghG/1328
-#EXTINF:-1 xui-id="48401" tvg-id="M. ACCION HD" tvg-name="ACCION SD" tvg-logo="" group-title="CINE",ACCION
-http://6i8ri.top:8000/av500/bFfma6xghG/25
-#EXTINF:-1 xui-id="48403" tvg-id="M.COMEDIA HD" tvg-name="COMEDIA SD" tvg-logo="" group-title="CINE",COMEDIA
-http://6i8ri.top:8000/av500/bFfma6xghG/168
-#EXTINF:-1 xui-id="48405" tvg-id="M. DRAMA HD" tvg-name="DRAMA SD" tvg-logo="" group-title="CINE",DRAMA
-http://6i8ri.top:8000/av500/bFfma6xghG/33
 
-#EXTINF:-1 xui-id="48419" tvg-id="Somos" tvg-name="SOMOS HD" tvg-logo="" group-title="TDT",SOMOS
-http://6i8ri.top:8000/av500/bFfma6xghG/796
-#EXTINF:-1 xui-id="62202" tvg-id="Dark" tvg-name="DARK HD" tvg-logo="" group-title="CINE",DARK 
-http://6i8ri.top:8000/av500/bFfma6xghG/342
+#EXTINF:-1 xui-id="" tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 SD" tvg-logo="" group-title="TDT",ANTENA 3 
 
-#EXTINF:-1 xui-id="48445" tvg-id="SYFY HD" tvg-name="SYFY SD" tvg-logo="" group-title="CINE",SYFY
-http://6i8ri.top:8000/av500/bFfma6xghG/143
-#EXTINF:-1 xui-id="48449" tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDY CENTRAL SD" tvg-logo="" group-title="CINE",COMEDY CENTRAL
-http://6i8ri.top:8000/av500/bFfma6xghG/88
 
-#EXTINF:-1 xui-id="48433" tvg-id="FOX HD" tvg-name="FOX SD" tvg-logo="" group-title="CINE",FOX
-http://6i8ri.top:8000/av500/bFfma6xghG/21
-#EXTINF:-1 xui-id="48431" tvg-id="CALLE 13 HD" tvg-name="CALLE 13 SD" tvg-logo="" group-title="CINE",CALLE 13
-http://6i8ri.top:8000/av500/bFfma6xghG/146
-#EXTINF:-1 xui-id="48410" tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD SD" tvg-logo="" group-title="CINE",HOLLYWOOD
-http://6i8ri.top:8000/av500/bFfma6xghG/23
+#EXTINF:-1 xui-id="" tvg-id="CUATRO HD" tvg-name="CUATRO SD" tvg-logo="" group-title="TDT",CUATRO 
 
-#EXTINF:-1 xui-id="48420" tvg-id="PARAMOUNT" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="" group-title="TDT",PARAMOUNT
-http://6i8ri.top:8000/av500/bFfma6xghG/140
 
-#EXTINF:-1 xui-id="48479" tvg-id="HISTORIA" tvg-name="HISTORIA SD" tvg-logo="" group-title="CULTURA",HISTORIA
-http://6i8ri.top:8000/av500/bFfma6xghG/467
+#EXTINF:-1 xui-id="" tvg-id="TELECINCO HD" tvg-name="TELECINCO SD" tvg-logo="" group-title="TDT",TELECINCO 
 
-#EXTINF:-1 xui-id="48482" tvg-id="CANAL ODISEA" tvg-name="ODISEA SD" tvg-logo="" group-title="CULTURA",ODISEA
-http://6i8ri.top:8000/av500/bFfma6xghG/770
 
-#EXTINF:-1 xui-id="48481" tvg-id="DISCOVERY" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="" group-title="CULTURA",DISCOVERY CHANNEL
-http://6i8ri.top:8000/av500/bFfma6xghG/1344
+#EXTINF:-1 xui-id="" tvg-id="LA SEXTA HD" tvg-name="LA SEXTA SD" tvg-logo="" group-title="TDT",LA SEXTA 
 
-#EXTINF:-1 xui-id="48483" tvg-id="NAT GEO HD" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="" group-title="CULTURA",NATIONAL GEOGRAPHIC
-http://6i8ri.top:8000/av500/bFfma6xghG/52
 
-#EXTINF:-1 xui-id="48493" tvg-id="CAZAyPESCA HD" tvg-name="CAZA Y PESCA SD" tvg-logo="" group-title="CULTURA",CAZA Y PESCA
-http://6i8ri.top:8000/av500/bFfma6xghG/12
+#EXTINF:-1 xui-id="" tvg-id="Discovery MAX" tvg-name="DMAX SD" tvg-logo="" group-title="TDT",DMAX
 
-#EXTINF:-1 xui-id="48547" tvg-id="TOROS HD" tvg-name="TOROS SD" tvg-logo="" group-title="TOROS",TOROS
-http://6i8ri.top:8000/av500/bFfma6xghG/65
-#EXTINF:-1 xui-id="64410" tvg-id="DreamWorks HD" tvg-name="DREAMWORKS SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="INFANTIL",DREAMWORKS
-http://6i8ri.top:8000/av500/bFfma6xghG/1147
-#EXTINF:-1 xui-id="48476" tvg-id="NICKELODEON HD" tvg-name="NICKELODEON SD" tvg-logo="" group-title="INFANTIL",NICKELODEON
-http://6i8ri.top:8000/av500/bFfma6xghG/55
 
-#EXTINF:-1 xui-id="48538" tvg-id="DAZN F1 HD" tvg-name="F1 SD" tvg-logo="" group-title="DEPORTES",DAZN F1
-http://6i8ri.top:8000/av500/bFfma6xghG/43
-#EXTINF:-1 xui-id="60297" tvg-id="DAZN 1 HD" tvg-name="DAZN 1 SD" tvg-logo="" group-title="DEPORTES",DAZN 1
-http://6i8ri.top:8000/av500/bFfma6xghG/771
+#EXTINF:-1 xui-id="" tvg-id="BE MAD" tvg-name="BE MAD SD" tvg-logo="" group-title="TDT",BEMAD 
 
-#EXTINF:-1 xui-id="48563" tvg-id="M. LaLiga HD" tvg-name="LA LIGA SD" tvg-logo="" group-title="FUTBOL",LALIGA
-http://6i8ri.top:8000/av500/bFfma6xghG/804
-#EXTINF:-1 xui-id="48502" tvg-id="M. LaLiga 1 HD" tvg-name="LA LIGA 1 SD" tvg-logo="" group-title="FUTBOL",LALIGA 1
-http://6i8ri.top:8000/av500/bFfma6xghG/44
 
-#EXTINF:-1 xui-id="48512" tvg-id="M.LCAMPEONES HD" tvg-name="LIGA CAMPEONES SD" tvg-logo="" group-title="FUTBOL",LIGA CAMPEONES
-http://6i8ri.top:8000/av500/bFfma6xghG/708
-#EXTINF:-1 xui-id="48515" tvg-id="M.LCAMPEON1" tvg-name="LIGA CAMPEONES 1 SD" tvg-logo="" group-title="FUTBOL",LIGA CAMPEONES 1
-http://6i8ri.top:8000/av500/bFfma6xghG/128
+#EXTINF:-1 xui-id="" tvg-id="ENERGY" tvg-name="ENERGY SD" tvg-logo="" group-title="TDT",ENERGY 
 
-#EXTINF:-1 xui-id="48560" tvg-id="M. DEPORTE HD" tvg-name="DEPORTE SD" tvg-logo="" group-title="DEPORTES",DEPORTE
-http://6i8ri.top:8000/av500/bFfma6xghG/31
 
-#EXTINF:-1 xui-id="48543" tvg-id="R. MADRID TV" tvg-name="REAL MADRID TV SD" tvg-logo="" group-title="FUTBOL",REAL MADRID TV
-http://6i8ri.top:8000/av500/bFfma6xghG/141
-#EXTINF:-1 xui-id="48542" tvg-id="BARCA TV" tvg-name="BARCA TV SD" tvg-logo="" group-title="FUTBOL",BARCA TV
-http://6i8ri.top:8000/av500/bFfma6xghG/6
-#EXTINF:-1 xui-id="48544" tvg-id="GOL HD" tvg-name="GOL TV SD" tvg-logo="" group-title="FUTBOL",GOL TV
-http://6i8ri.top:8000/av500/bFfma6xghG/22
+#EXTINF:-1 xui-id="" tvg-id="Mega HD" tvg-name="MEGA SD" tvg-logo="" group-title="TDT",MEGA 
+
+
+#EXTINF:-1 xui-id="" tvg-id="NEOX" tvg-name="NEOX SD" tvg-logo="" group-title="TDT",NEOX FHD
+
+
+#EXTINF:-1 xui-id="" tvg-id="#0 HD" tvg-name="0# SD" tvg-logo="" group-title="CINE",0#
+
+
+#EXTINF:-1 xui-id="" tvg-id="M.ESTRENOS HD" tvg-name="ESTRENOS SD" tvg-logo="" group-title="CINE",ESTRENOS
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. ESTRENOS 2 HD" tvg-name="ESTRENOS 2 SD" tvg-logo="" group-title="CINE",ESTRENOS 2
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. ACCION HD" tvg-name="ACCION SD" tvg-logo="" group-title="CINE",ACCION
+
+
+#EXTINF:-1 xui-id="" tvg-id="M.COMEDIA HD" tvg-name="COMEDIA SD" tvg-logo="" group-title="CINE",COMEDIA
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. DRAMA HD" tvg-name="DRAMA SD" tvg-logo="" group-title="CINE",DRAMA
+
+
+#EXTINF:-1 xui-id="" tvg-id="Somos" tvg-name="SOMOS HD" tvg-logo="" group-title="TDT",SOMOS
+
+
+#EXTINF:-1 xui-id="" tvg-id="Dark" tvg-name="DARK HD" tvg-logo="" group-title="CINE",DARK 
+
+
+#EXTINF:-1 xui-id="" tvg-id="SYFY HD" tvg-name="SYFY SD" tvg-logo="" group-title="CINE",SYFY
+
+
+#EXTINF:-1 xui-id="" tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDY CENTRAL SD" tvg-logo="" group-title="CINE",COMEDY CENTRAL
+
+
+#EXTINF:-1 xui-id="" tvg-id="FOX HD" tvg-name="FOX SD" tvg-logo="" group-title="CINE",FOX
+
+
+#EXTINF:-1 xui-id="" tvg-id="CALLE 13 HD" tvg-name="CALLE 13 SD" tvg-logo="" group-title="CINE",CALLE 13
+
+
+#EXTINF:-1 xui-id="" tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD SD" tvg-logo="" group-title="CINE",HOLLYWOOD
+
+
+#EXTINF:-1 xui-id="" tvg-id="PARAMOUNT" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="" group-title="TDT",PARAMOUNT
+
+
+#EXTINF:-1 xui-id="" tvg-id="HISTORIA" tvg-name="HISTORIA SD" tvg-logo="" group-title="CULTURA",HISTORIA
+
+
+#EXTINF:-1 xui-id="" tvg-id="CANAL ODISEA" tvg-name="ODISEA SD" tvg-logo="" group-title="CULTURA",ODISEA
+
+
+#EXTINF:-1 xui-id="" tvg-id="DISCOVERY" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="" group-title="CULTURA",DISCOVERY CHANNEL
+
+
+#EXTINF:-1 xui-id="" tvg-id="NAT GEO HD" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="" group-title="CULTURA",NATIONAL GEOGRAPHIC
+
+
+#EXTINF:-1 xui-id="" tvg-id="CAZAyPESCA HD" tvg-name="CAZA Y PESCA SD" tvg-logo="" group-title="CULTURA",CAZA Y PESCA
+
+
+#EXTINF:-1 xui-id="" tvg-id="TOROS HD" tvg-name="TOROS SD" tvg-logo="" group-title="TOROS",TOROS
+
+
+#EXTINF:-1 xui-id="" tvg-id="DreamWorks HD" tvg-name="DREAMWORKS SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="INFANTIL",DREAMWORKS
+
+
+#EXTINF:-1 xui-id="" tvg-id="NICKELODEON HD" tvg-name="NICKELODEON SD" tvg-logo="" group-title="INFANTIL",NICKELODEON
+
+
+#EXTINF:-1 xui-id="" tvg-id="DAZN F1 HD" tvg-name="F1 SD" tvg-logo="" group-title="DEPORTES",DAZN F1
+
+
+#EXTINF:-1 xui-id="" tvg-id="DAZN 1 HD" tvg-name="DAZN 1 SD" tvg-logo="" group-title="DEPORTES",DAZN 1
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. LaLiga HD" tvg-name="LA LIGA SD" tvg-logo="" group-title="FUTBOL",LALIGA
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. LaLiga 1 HD" tvg-name="LA LIGA 1 SD" tvg-logo="" group-title="FUTBOL",LALIGA 1
+
+
+#EXTINF:-1 xui-id="" tvg-id="M.LCAMPEONES HD" tvg-name="LIGA CAMPEONES SD" tvg-logo="" group-title="FUTBOL",LIGA CAMPEONES
+
+
+#EXTINF:-1 xui-id="" tvg-id="M.LCAMPEON1" tvg-name="LIGA CAMPEONES 1 SD" tvg-logo="" group-title="FUTBOL",LIGA CAMPEONES 1
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. DEPORTE HD" tvg-name="DEPORTE SD" tvg-logo="" group-title="DEPORTES",DEPORTE
+
+
+#EXTINF:-1 xui-id="" tvg-id="R. MADRID TV" tvg-name="REAL MADRID TV SD" tvg-logo="" group-title="FUTBOL",REAL MADRID TV
+
+
+#EXTINF:-1 xui-id="" tvg-id="BARCA TV" tvg-name="BARCA TV SD" tvg-logo="" group-title="FUTBOL",BARCA TV
+
+
+#EXTINF:-1 xui-id="" tvg-id="GOL HD" tvg-name="GOL TV SD" tvg-logo="" group-title="FUTBOL",GOL TV
+
