@@ -45,126 +45,129 @@ http://kb2x.top:8000/tu508/yo15y47/615
 http://kb2x.top:8000/tu508/yo15y47/136
 
 #EXTINF:-1 xui-id="" tvg-id="PARAMOUNT" tvg-name="PARAMOUNT CHANNEL" tvg-logo="" group-title="TDT",PARAMOUNT NETWORK
-http://kb2x.top:8000/tu508/yo15y47/140
+
+
 
 
 ####MOVISTAR+
 #EXTINF:-1 xui-id="" tvg-id="" tvg-name="PORTADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="MOVISTAR+",PORTADA
-http://kb2x.top:8000/tu508/yo15y47/706
+
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="#0 HD" tvg-name="0#" tvg-logo="" group-title="MOVISTAR+",0#
-http://kb2x.top:8000/tu508/yo15y47/1670
+
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="M.ESTRENOS HD" tvg-name="ESTRENOS" tvg-logo="" group-title="MOVISTAR+",ESTRENOS
-http://kb2x.top:8000/tu508/yo15y47/125
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="M. ESTRENOS 2 HD" tvg-name="ESTRENOS 2" tvg-logo="" group-title="MOVISTAR+",ESTRENOS 2
-http://kb2x.top:8000/tu508/yo15y47/1328
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="M. ACCION HD" tvg-name="ACCION" tvg-logo="" group-title="MOVISTAR+",ACCION
-http://kb2x.top:8000/tu508/yo15y47/25
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="M.COMEDIA HD" tvg-name="COMEDIA" tvg-logo="" group-title="MOVISTAR+",COMEDIA
-http://kb2x.top:8000/tu508/yo15y47/168
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="M. DRAMA HD" tvg-name="DRAMA" tvg-logo="" group-title="MOVISTAR+",DRAMA
-http://kb2x.top:8000/tu508/yo15y47/33
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="Somos" tvg-name="SOMOS HD" tvg-logo="" group-title="MOVISTAR+",SOMOS
-http://kb2x.top:8000/tu508/yo15y47/796
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="Dark" tvg-name="DARK HD" tvg-logo="" group-title="MOVISTAR+",DARK 
-http://kb2x.top:8000/tu508/yo15y47/342
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="SYFY HD" tvg-name="SYFY" tvg-logo="" group-title="MOVISTAR+",SYFY
-http://kb2x.top:8000/tu508/yo15y47/143
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="MOVISTAR+",COMEDY CENTRAL
-http://kb2x.top:8000/tu508/yo15y47/88
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="FOX HD" tvg-name="FOX" tvg-logo="" group-title="MOVISTAR+",FOX
-http://kb2x.top:8000/tu508/yo15y47/21
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="CALLE 13 HD" tvg-name="CALLE 13" tvg-logo="" group-title="MOVISTAR+",CALLE 13
-http://kb2x.top:8000/tu508/yo15y47/146
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD" tvg-logo="" group-title="MOVISTAR+",HOLLYWOOD
-http://kb2x.top:8000/tu508/yo15y47/23
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="HISTORIA" tvg-name="HISTORIA" tvg-logo="" group-title="MOVISTAR+",HISTORIA
-http://kb2x.top:8000/tu508/yo15y47/467
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="CANAL ODISEA" tvg-name="ODISEA" tvg-logo="" group-title="MOVISTAR+",ODISEA
-http://kb2x.top:8000/tu508/yo15y47/770
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="DISCOVERY" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="MOVISTAR+",DISCOVERY CHANNEL
-http://kb2x.top:8000/tu508/yo15y47/1344
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="NAT GEO HD" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="MOVISTAR+",NATIONAL GEOGRAPHIC
-http://kb2x.top:8000/tu508/yo15y47/52
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="CAZAyPESCA HD" tvg-name="CAZA Y PESCA" tvg-logo="" group-title="MOVISTAR+",CAZA Y PESCA
-http://kb2x.top:8000/tu508/yo15y47/12
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="TOROS HD" tvg-name="TOROS" tvg-logo="" group-title="MOVISTAR+",TOROS
-http://kb2x.top:8000/tu508/yo15y47/65
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="DreamWorks HD" tvg-name="DREAMWORKS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="MOVISTAR+",DREAMWORKS
-http://kb2x.top:8000/tu508/yo15y47/1147
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="NICKELODEON HD" tvg-name="NICKELODEON" tvg-logo="" group-title="MOVISTAR+",NICKELODEON
-http://kb2x.top:8000/tu508/yo15y47/55
+
 
 
 ####DEPORTES
 #EXTINF:-1 xui-id="" tvg-id="M. LaLiga HD" tvg-name="LA LIGA" tvg-logo="" group-title="DEPORTES",LALIGA
-http://kb2x.top:8000/tu508/yo15y47/804
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="M.LCAMPEONES HD" tvg-name="LIGA CAMPEONES" tvg-logo="" group-title="DEPORTES",LIGA DE CAMPEONES
-http://kb2x.top:8000/tu508/yo15y47/708
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="GOL HD" tvg-name="GOL TV" tvg-logo="" group-title="DEPORTES",GOL
-http://kb2x.top:8000/tu508/yo15y47/22
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="M. DEPORTE HD" tvg-name="DEPORTE" tvg-logo="" group-title="DEPORTES",DEPORTES
-http://kb2x.top:8000/tu508/yo15y47/31
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="R. MADRID TV" tvg-name="REAL MADRID TV" tvg-logo="" group-title="DEPORTES",REAL MADRID TV
-http://kb2x.top:8000/tu508/yo15y47/141
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="BARCA TV" tvg-name="BARCA TV" tvg-logo="" group-title="DEPORTES",BARCA TV
-http://kb2x.top:8000/tu508/yo15y47/6
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="DAZN F1 HD" tvg-name="F1" tvg-logo="" group-title="DEPORTES",DAZN F1
-http://2022spn.net:8080/miguelangel/21041978/4930
+
 
 
 #EXTINF:-1 xui-id="" tvg-id="DAZN 1 HD" tvg-name="DAZN 1" tvg-logo="" group-title="DEPORTES",DAZN 1
-http://kb2x.top:8000/tu508/yo15y47/771
+
