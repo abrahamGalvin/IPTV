@@ -157,9 +157,6 @@ http://2022spn.net:8080/miguelangel/21041978/5000
 http://2022spn.net:8080/miguelangel/21041978/5017
 
 
-#EXTINF:-1 xui-id="" tvg-id="" tvg-name="VIAJAR" tvg-logo="https://es.wikipedia.org/wiki/Viajar_%28canal_de_televisi%C3%B3n%29#/media/Archivo:Canalviajar.png" group-title="SUSCRIPCIÓN",VIAJAR
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211114
-
 ####DEPORTES
 #EXTINF:-1 xui-id="" tvg-id="LALIGATV BAR" tvg-name="LA LIGA BAR" tvg-logo="" group-title="DEPORTES",LA LIGA BAR
 http://2022spn.net:8080/miguelangel/21041978/4919
