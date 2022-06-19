@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 xui-id="" tvg-id="" tvg-name="PORTADA" tvg-logo="https://es.wikipedia.org/wiki/Movistar_Plus%2B#/media/Archivo:Movistar_Plus+_2022_logo.svg" group-title="PORTADA",PORTADA
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="PORTADA" tvg-logo="https://es.wikipedia.org/wiki/Movistar_Plus#/media/Archivo:Movistar_Plus_(Peru)_-_2017_logo.png" group-title="PORTADA",PORTADA
 http://kb2x.top:8000/tu508/yo15y47/706
 
 #EXTINF:-1 xui-id="" tvg-id="LA 1 HD" tvg-name="LA 1 SD" tvg-logo="" group-title="TDT",LA 1 
