@@ -1,1376 +1,207 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 xui-id="56222" tvg-id="MOLIGA" tvg-name="|ES| MOVISTAR LA LIGA FHD" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7AU4iREvt6wijCYrYSyyM1n2uy6dNVf_W_zA-adNhHou
-#EXTINF:-1 xui-id="48563" tvg-id="MOLIGA" tvg-name="|ES| MOVISTAR LA LIGA" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nSFdoUzk9WkwDNNHfB_MnXGPebyauooZlJu6IsgxQ98QA.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ406bS-evSofK0qlWMv4-OTX
-#EXTINF:-1 xui-id="48503" tvg-id="MOVLIG1" tvg-name="|ES| MOVISTAR LA LIGA 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/8dbd78e23ee5795fa914ea4ad6c91324.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 1 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41SD9DZWl0WBceC8z0woDO4
-#EXTINF:-1 xui-id="48502" tvg-id="LALIGA1" tvg-name="|ES| MOVISTAR LA LIGA 1" tvg-logo="http://protocol.solanaflix.com:8080/images/0ff7ae3ad722402663d8d6fb0252dd02.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 1
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43dngPlFxkUEar_hKvoyI7B
-#EXTINF:-1 xui-id="48505" tvg-id="MVLIGA2" tvg-name="|ES| MOVISTAR LA LIGA 2 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/c4fc97650b75e6ffb857ecc33b3e35ed.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 2 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40zwXLiCIagAJ6H-49lWY_9
-#EXTINF:-1 xui-id="48504" tvg-id="MVLIGA2" tvg-name="|ES| MOVISTAR LA LIGA 2" tvg-logo="http://protocol.solanaflix.com:8080/images/c4fc97650b75e6ffb857ecc33b3e35ed.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 2
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40fYxzV-aY2ZPP0BXMLJhVo
-#EXTINF:-1 xui-id="48565" tvg-id="MVLIGA3" tvg-name="|ES| MOVISTAR LA LIGA 3 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/cc90d4b099ab89bfe675e27bd1b13245.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 3 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41fNyUN7o6-K_ryPCBh3Tgc
-#EXTINF:-1 xui-id="101681" tvg-id="LALTV" tvg-name="|ES| LaLiga TV Bar FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nR_d1kpJPqZRIlbrE86UUg68iIPTQ3AfL1LYCurI-y3EQ.png" group-title="ESPANA -  FUTBOL",|ES| LaLiga TV Bar FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7JQCubK_m5_H_IT1kcA2dOgkNTaRbIBrCbNx3VuthEVF
-#EXTINF:-1 xui-id="101682" tvg-id="LALTV" tvg-name="|ES| LaLiga TV Bar" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nR_d1kpJPqZRIlbrE86UUg68iIPTQ3AfL1LYCurI-y3EQ.png" group-title="ESPANA -  FUTBOL",|ES| LaLiga TV Bar
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7JQCubK_m5_H_IT1kcA2dOhqMB1zj7C5IyxmgvsNgHEy
-#EXTINF:-1 xui-id="77942" tvg-id="GOLTVLE" tvg-name="|ES| GOL TV FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/865cc3da0b037e87c67e8d7c19ba2b1c.png" group-title="ESPANA -  FUTBOL",|ES| GOL TV FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7EfvsG7xr5O7ExmYQdYJgw54R4As1pqSZAulCfcPheZc
-#EXTINF:-1 xui-id="48544" tvg-id="GOLTVLE" tvg-name="|ES| GOL TV" tvg-logo="http://protocol.solanaflix.com:8080/images/865cc3da0b037e87c67e8d7c19ba2b1c.png" group-title="ESPANA -  FUTBOL",|ES| GOL TV
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42qTuy5OeXxg4ec-QMs0AGJ
-#EXTINF:-1 xui-id="48514" tvg-id="LIGCAHD" tvg-name="|ES| MOVISTAR LIGA CAMPEONES FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nQvnIRfTRGbKgkik5Zoi9Z6JphsRnETVoxLh0MwhY8lig.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LIGA CAMPEONES FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ423NPpQlyVJTmAGKanWVLRf
-#EXTINF:-1 xui-id="48512" tvg-id="LIGCAHD" tvg-name="|ES| MOVISTAR LIGA CAMPEONES" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nQvnIRfTRGbKgkik5Zoi9Z6JphsRnETVoxLh0MwhY8lig.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LIGA CAMPEONES
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43YtCYU6HIp_QZykzKABxex
-#EXTINF:-1 xui-id="48516" tvg-id="MVLGCM1" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nRACV-R0QaFek9mjJEuatba7yB910EKbPQx9z8kayL01g.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LIGA CAMPEONES 1 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ437p19Q9kAsopuanh5xyqCO
-#EXTINF:-1 xui-id="48515" tvg-id="MVLGCM1" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 1" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LIGA CAMPEONES 1
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40I11zEQhCwEzoxqtASSxjr
-#EXTINF:-1 xui-id="48518" tvg-id="MVLGCM2" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 2 FHD" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LIGA CAMPEONES 2 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42gsUI07spg431c-GPUDzom
-#EXTINF:-1 xui-id="96376" tvg-id="MVLGCM2" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 2" tvg-logo="http://protocol.solanaflix.com:8080/images/3ff280a0f15ba449af3519baa7b57564.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LIGA CAMPEONES 2
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7EHvry-SiDDnyNQUf5McAcShE67GxuqP9wgmQ51g9_cq
-#EXTINF:-1 xui-id="48519" tvg-id="MVLGCM3" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 3" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LIGA CAMPEONES 3
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40rQAC6NP7TBf_upNEOTR_r
-#EXTINF:-1 xui-id="48520" tvg-id="MVLGCM4" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 4" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LIGA CAMPEONES 4
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40odqCaknSMoW67T_219b-x
-#EXTINF:-1 xui-id="48521" tvg-id="MVLGCM5" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 5" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LIGA CAMPEONES 5
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40QI607bPtGNytZUcbG2MSg
-#EXTINF:-1 xui-id="48522" tvg-id="MVLGCM6" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 6" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LIGA CAMPEONES 6
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41NUyOgjIqPBMZlO-tewo4d
-#EXTINF:-1 xui-id="48523" tvg-id="MVLGCM8" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 7" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LIGA CAMPEONES 7
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40-x4L4RkYS5Y6Ki0gW9s70
-#EXTINF:-1 xui-id="48524" tvg-id="MVLGCM8" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 8" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LIGA CAMPEONES 8
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ430KgpCYuu6DUo9Q599OFs1
-#EXTINF:-1 xui-id="48506" tvg-id="LALIGA3" tvg-name="|ES| MOVISTAR LA LIGA 3" tvg-logo="http://protocol.solanaflix.com:8080/images/d64660706f02f2352453a0f41987c21e.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 3
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42pKexalbcatT6YAcMjYAOC
-#EXTINF:-1 xui-id="48507" tvg-id="LALIGA4" tvg-name="|ES| MOVISTAR LA LIGA 4" tvg-logo="http://protocol.solanaflix.com:8080/images/a6ea9090f032afeaae74388678a7d1b2.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 4
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ400aaQkIEIWEN5VFIRLaTjN
-#EXTINF:-1 xui-id="48508" tvg-id="LALIGA5" tvg-name="|ES| MOVISTAR LA LIGA 5" tvg-logo="http://protocol.solanaflix.com:8080/images/9d6af501751f0c862db18e6fef90d00f.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 5
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41gRcOvAZD8Ur4btcEcguOq
-#EXTINF:-1 xui-id="48509" tvg-id="MOVLIG1" tvg-name="|ES| MOVISTAR LA LIGA 6" tvg-logo="http://protocol.solanaflix.com:8080/images/b9cd14920d0617cddf9f115008173cbc.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 6
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42Tebmg8euY0J5Qm6GRYYg5
-#EXTINF:-1 xui-id="48510" tvg-id="MOVLIG1" tvg-name="|ES| MOVISTAR LA LIGA 7" tvg-logo="http://protocol.solanaflix.com:8080/images/4bebaf63e00b422f9942900ddab9164b.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 7
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42X3ycRL33TCxQzZWk_5Eve
-#EXTINF:-1 xui-id="48511" tvg-id="MOVLIG1" tvg-name="|ES| MOVISTAR LA LIGA 8" tvg-logo="http://protocol.solanaflix.com:8080/images/9cda4f45bb8c4376ca66bccee2f56cd3.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 8
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40mYmCv3Wfl2ZwISZzwvePn
-#EXTINF:-1 xui-id="48566" tvg-id="MOVLIG1" tvg-name="|ES| MOVISTAR LA LIGA 9" tvg-logo="http://protocol.solanaflix.com:8080/images/bb32050654bf6f137787fb0c27cc6664.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 9
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42bKiHYIAtG-_Cb5Zj7aG7H
-#EXTINF:-1 xui-id="48564" tvg-id="MOVLIG1" tvg-name="|ES| MOVISTAR LA LIGA 10" tvg-logo="http://protocol.solanaflix.com:8080/images/9400e5add83ca9a2c643d7a959f9dda9.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 10
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40AD7hz1G-rAXhEe5GgtYr4
-#EXTINF:-1 xui-id="77943" tvg-id="BARCATV" tvg-name="|ES| BARCA TV FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/6020c4a2f7ffd1e8ab1f45216070dcee.png" group-title="ESPANA -  FUTBOL",|ES| BARCA TV FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7EfvsG7xr5O7ExmYQdYJgw4ZBX7pmy5jqPW9k75KBEd7
-#EXTINF:-1 xui-id="48542" tvg-id="BARCATV" tvg-name="|ES| BARCA TV" tvg-logo="http://protocol.solanaflix.com:8080/images/6020c4a2f7ffd1e8ab1f45216070dcee.png" group-title="ESPANA -  FUTBOL",|ES| BARCA TV
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40AcQTWKAZrAoTas1HGA5s5
-#EXTINF:-1 xui-id="48543" tvg-id="RMADH" tvg-name="|ES| REAL MADRID TV" tvg-logo="http://protocol.solanaflix.com:8080/images/fb776e65d3427fd98d1cfd08576d0f1e.png" group-title="ESPANA -  FUTBOL",|ES| REAL MADRID TV
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40GLc9BxnKhpbm8nl6x2ZgM
-#EXTINF:-1 xui-id="48539" tvg-id="MFOR1HD" tvg-name="|ES| MOVISTAR F1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/581fb6c82289bbb18ce4500a7454cbaa.png" group-title="ESPANA - DEPORTES",|ES| MOVISTAR F1 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43Wn1G5F6w9zec1-zgHyzwf
-#EXTINF:-1 xui-id="48538" tvg-id="MFOR1" tvg-name="|ES| MOVISTAR F1" tvg-logo="" group-title="ESPANA - DEPORTES",|ES| MOVISTAR F1
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40MmsXBgcpdW1hkU_F3Pl7s
-#EXTINF:-1 xui-id="82181" tvg-id="MFOR1HD" tvg-name="|ES| DAZN F1 FHD" tvg-logo="" group-title="ESPANA - DEPORTES",|ES| DAZN F1 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7CExcSNWgzzLKfwMXViD_p-IbdyVTd0QRb9l0pK4nn89
-#EXTINF:-1 xui-id="48526" tvg-id="MDEP1HD" tvg-name="|ES| MOVISTAR DEPORTE FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/e3db432d2c1e957261e5d0222cb2f2b4.png" group-title="ESPANA - DEPORTES",|ES| MOVISTAR DEPORTE FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40UmnyFiR0lKn2JnrYQDgUN
-#EXTINF:-1 xui-id="48560" tvg-id="MOVDEPH" tvg-name="|ES| MOVISTAR DEPORTE" tvg-logo="http://protocol.solanaflix.com:8080/images/d6cce6e9adc52e23b63a3699731fb4ff.png" group-title="ESPANA - DEPORTES",|ES| MOVISTAR DEPORTE
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42qGLFy4O7NBPEkudpQcRCe
-#EXTINF:-1 xui-id="48528" tvg-id="MOVDEPH" tvg-name="|ES| MOVISTAR DEPORTE 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvj1rGuS1uoj9o3GtZAVe7rBGF-2qqD40UGaf6ys1tPjw7eUBO626ouh3Y0KgIvK_Raw.png" group-title="ESPANA - DEPORTES",|ES| MOVISTAR DEPORTE 1 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40ve1aWVsFUyy4gW6JjMuxt
-#EXTINF:-1 xui-id="48529" tvg-id="MOVDEPH" tvg-name="|ES| MOVISTAR DEPORTE 1" tvg-logo="" group-title="ESPANA - DEPORTES",|ES| MOVISTAR DEPORTE 1
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42tDaA4Wf86SXETrB_fOPed
-#EXTINF:-1 xui-id="48530" tvg-id="MOVDEPH" tvg-name="|ES| MOVISTAR DEPORTE 2" tvg-logo="" group-title="ESPANA - DEPORTES",|ES| MOVISTAR DEPORTE 2
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41_KxWdMQ28kHdPX7Xr8Mjx
-#EXTINF:-1 xui-id="48531" tvg-id="MOVDEPH" tvg-name="|ES| MOVISTAR DEPORTE 3" tvg-logo="" group-title="ESPANA - DEPORTES",|ES| MOVISTAR DEPORTE 3
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41MDPEZy644MSozHSrxt21G
-#EXTINF:-1 xui-id="48532" tvg-id="MOVDEPH" tvg-name="|ES| MOVISTAR DEPORTE 4" tvg-logo="" group-title="ESPANA - DEPORTES",|ES| MOVISTAR DEPORTE 4
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40oE9rE9nhrETUzdDvcinxh
-#EXTINF:-1 xui-id="48533" tvg-id="MOVDEPH" tvg-name="|ES| MOVISTAR DEPORTE 5" tvg-logo="" group-title="ESPANA - DEPORTES",|ES| MOVISTAR DEPORTE 5
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40mXOXPiPAroz-gIzhWPpa4
-#EXTINF:-1 xui-id="48534" tvg-id="MOVDEPH" tvg-name="|ES| MOVISTAR DEPORTE 6" tvg-logo="" group-title="ESPANA - DEPORTES",|ES| MOVISTAR DEPORTE 6
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40U6CC1TdLSwOg9MKREDkrD
-#EXTINF:-1 xui-id="48558" tvg-id="MOVDEPH" tvg-name="|ES| MOVISTAR DEPORTE 7" tvg-logo="" group-title="ESPANA - DEPORTES",|ES| MOVISTAR DEPORTE 7
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40M9YMxEUbY3YzENnoWIqja
-#EXTINF:-1 xui-id="48559" tvg-id="MOVDEPH" tvg-name="|ES| MOVISTAR DEPORTE 8" tvg-logo="" group-title="ESPANA - DEPORTES",|ES| MOVISTAR DEPORTE 8
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42VQj1ZTYqNoG_Jx31o5On1
-#EXTINF:-1 xui-id="48541" tvg-id="MGOLFHD" tvg-name="|ES| MOVISTAR GOLF FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/5b739952580a5fe4358ab442ff632d55.png" group-title="ESPANA - DEPORTES",|ES| MOVISTAR GOLF FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40St-kvt-Dyppo9YxgfmyWG
-#EXTINF:-1 xui-id="48540" tvg-id="MGOLF" tvg-name="|ES| MOVISTAR GOLF" tvg-logo="http://protocol.solanaflix.com:8080/images/b3483f059f8b4f1338a362ce50da1b62.png" group-title="ESPANA - DEPORTES",|ES| MOVISTAR GOLF
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42hR6SExYcuKXfiNT4p67RB
-#EXTINF:-1 xui-id="48548" tvg-id="TOROSHD" tvg-name="|ES| MOVISTAR TOROS FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/5faccf2983f789bf4e09a567b58aa9a2.png" group-title="ESPANA - DEPORTES",|ES| MOVISTAR TOROS FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43RL1-quhQNss_KwLRXJavK
-#EXTINF:-1 xui-id="48547" tvg-id="TOROSHD" tvg-name="|ES| MOVISTAR TOROS" tvg-logo="http://protocol.solanaflix.com:8080/images/5faccf2983f789bf4e09a567b58aa9a2.png" group-title="ESPANA - DEPORTES",|ES| MOVISTAR TOROS
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41ESUx5TW5N3xoPZBQTS8en
-#EXTINF:-1 xui-id="48496" tvg-id="VAMOS" tvg-name="|ES| MOVISTAR VAMOS FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/c56f7ced3ca9acb742698b73c40b0aed.png" group-title="ESPANA - DEPORTES",|ES| MOVISTAR VAMOS FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40wxmUMuodzmWFHpfxrEMmD
-#EXTINF:-1 xui-id="48605" tvg-id="VAMOS" tvg-name="|ES| MOVISTAR VAMOS" tvg-logo="http://protocol.solanaflix.com:8080/images/c56f7ced3ca9acb742698b73c40b0aed.png" group-title="ESPANA - DEPORTES",|ES| MOVISTAR VAMOS
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40t9rkbc_-4oRLnOxe5eiW1
-#EXTINF:-1 xui-id="48527" tvg-id="" tvg-name="|ES| MULTIDEPORTE" tvg-logo="" group-title="ESPANA - DEPORTES",|ES| MULTIDEPORTE
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43zzSPGqBMpLcwP3Na37nSE
-#EXTINF:-1 xui-id="48536" tvg-id="EURSPHD" tvg-name="|ES| EUROSPORT 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/9022d29e833941a833cf52ad0b337346.png" group-title="ESPANA - DEPORTES",|ES| EUROSPORT 1 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40h45OLixnwgwJDMJjh30vi
-#EXTINF:-1 xui-id="48535" tvg-id="EURSPHD" tvg-name="|ES| EUROSPORT 1" tvg-logo="http://protocol.solanaflix.com:8080/images/9022d29e833941a833cf52ad0b337346.png" group-title="ESPANA - DEPORTES",|ES| EUROSPORT 1
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40mFK8p--nKFPpXBJa1D_D1
-#EXTINF:-1 xui-id="102765" tvg-id="ES2ESP" tvg-name="|ES| EUROSPORT 2 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nRzDBhkt_Smf3HF9bsaPPYrNxlpdDIYbp8OnMw0yEND7A.png" group-title="ESPANA - DEPORTES",|ES| EUROSPORT 2 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7JQCubK_m5_H_IT1kcA2dOiKSriWEYVGOzQN3eeU3rhF
-#EXTINF:-1 xui-id="48537" tvg-id="EUROSPS" tvg-name="|ES| EUROSPORT 2" tvg-logo="http://protocol.solanaflix.com:8080/images/1ab6f436b2918cbcaff21cb57ffb8947.png" group-title="ESPANA - DEPORTES",|ES| EUROSPORT 2
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42nTVe0hibW0tQ_c9tawPaT
-#EXTINF:-1 xui-id="48545" tvg-id="TELEDHD" tvg-name="|ES| TELEDEPORTE" tvg-logo="http://protocol.solanaflix.com:8080/images/f2441f5007f7434c4016d8c772892d5b.png" group-title="ESPANA - DEPORTES",|ES| TELEDEPORTE
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40L5YCIDXnQSUgjQ0QWcK-9
-#EXTINF:-1 xui-id="48546" tvg-id="TELEDHD" tvg-name="|ES| TELEDEPORTE FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/f2441f5007f7434c4016d8c772892d5b.png" group-title="ESPANA - DEPORTES",|ES| TELEDEPORTE FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41NQQKLDGCLCHoPP1ka7puU
-#EXTINF:-1 xui-id="48549" tvg-id="ESPOR3" tvg-name="|ES| ESPORT 3" tvg-logo="http://protocol.solanaflix.com:8080/images/97e7168864b8f624c099101b442a970c.png" group-title="ESPANA - DEPORTES",|ES| ESPORT 3
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41nyiW6opxPTulRFWfp5BT5
-#EXTINF:-1 xui-id="60298" tvg-id="" tvg-name="|ES| DAZN 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/dea32a3fc70cb6494714487d51bd6e93.png" group-title="ESPANA - DEPORTES",|ES| DAZN 1 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7M5fp3FINY3XtNSDySJeqWQWqoeKH1mvwHkqkuva9n1m
-#EXTINF:-1 xui-id="60297" tvg-id="" tvg-name="|ES| DAZN 1" tvg-logo="http://protocol.solanaflix.com:8080/images/dea32a3fc70cb6494714487d51bd6e93.png" group-title="ESPANA - DEPORTES",|ES| DAZN 1
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7M5fp3FINY3XtNSDySJeqWQknDltRkRyJssepI6P2rbx
-#EXTINF:-1 xui-id="79524" tvg-id="" tvg-name="|ES| DAZN 2 FHD" tvg-logo="" group-title="ESPANA - DEPORTES",|ES| DAZN 2 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7GHXfFj6UGwzNmLr2FOxjnVJUyG1e_KlB2f-5tki71ue
-#EXTINF:-1 xui-id="79529" tvg-id="" tvg-name="|ES| DAZN 2" tvg-logo="" group-title="ESPANA - DEPORTES",|ES| DAZN 2
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7GHXfFj6UGwzNmLr2FOxjnVDKovSWOGSoUlf9PLznQkF
-#EXTINF:-1 xui-id="79530" tvg-id="" tvg-name="|ES| DAZN 3 FHD" tvg-logo="" group-title="ESPANA - DEPORTES",|ES| DAZN 3 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7GHXfFj6UGwzNmLr2FOxjnWHClCey_jZ6h6Ll24kSYYZ
-#EXTINF:-1 xui-id="79531" tvg-id="" tvg-name="|ES| DAZN 4 FHD" tvg-logo="" group-title="ESPANA - DEPORTES",|ES| DAZN 4 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7GHXfFj6UGwzNmLr2FOxjnUEph__4_FifJ5UaPCmUjLn
-#EXTINF:-1 xui-id="64410" tvg-id="DSNPL" tvg-name="|ES| DreamWorks FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/5ed7fed512a482bd3a8d048699453af7.png" group-title="ESPANA -  CINE",|ES| DreamWorks FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7MCFTdumnY8cSQjbcXU07gO9jtUA4aMClpSx6sL1CCiK
-#EXTINF:-1 xui-id="64410" tvg-id="DSNPL" tvg-name="|ES| DreamWorks FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/5ed7fed512a482bd3a8d048699453af7.png" group-title="ESPANA -  NINOS",|ES| DreamWorks FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7MCFTdumnY8cSQjbcXU07gO9jtUA4aMClpSx6sL1CCiK
-#EXTINF:-1 xui-id="48398" tvg-id="CEROHD" tvg-name="|ES| MOVISTAR 0# FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/88bf12850d39831cdf64199d615ffe52.png" group-title="ESPANA -  CINE",|ES| MOVISTAR 0# FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43ZUIenxwLyTRLl92r6p-TF
-#EXTINF:-1 xui-id="48397" tvg-id="CERO" tvg-name="|ES| MOVISTAR 0#" tvg-logo="http://protocol.solanaflix.com:8080/images/dce3b5866fc77e687af494fcebecef2a.png" group-title="ESPANA -  CINE",|ES| MOVISTAR 0#
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42IiDkKZAhIyYukyqOGfckj
-#EXTINF:-1 xui-id="48400" tvg-id="MESTHD" tvg-name="|ES| MOVISTAR ESTRENOS FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/1455d278e2d60d507074e65cee44e58e.png" group-title="ESPANA -  CINE",|ES| MOVISTAR ESTRENOS FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43xmghNc8bkUyzwCNdDZpmT
-#EXTINF:-1 xui-id="48399" tvg-id="MESTHD" tvg-name="|ES| MOVISTAR ESTRENOS" tvg-logo="http://protocol.solanaflix.com:8080/images/1455d278e2d60d507074e65cee44e58e.png" group-title="ESPANA -  CINE",|ES| MOVISTAR ESTRENOS
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41huiSqeoM02OR0zID9snjY
-#EXTINF:-1 xui-id="102334" tvg-id="" tvg-name="|ES| MOVISTAR ESTRENOS 2 FHD" tvg-logo="" group-title="ESPANA -  CINE",|ES| MOVISTAR ESTRENOS 2 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7JQCubK_m5_H_IT1kcA2dOi685dY3BdMtoRsdwCRRye8
-#EXTINF:-1 xui-id="102335" tvg-id="" tvg-name="|ES| MOVISTAR ESTRENOS 2" tvg-logo="" group-title="ESPANA -  CINE",|ES| MOVISTAR ESTRENOS 2
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7JQCubK_m5_H_IT1kcA2dOhzSUf9ccIBjEAqwRgpDZk8
-#EXTINF:-1 xui-id="48402" tvg-id="MACCIHD" tvg-name="|ES| MOVISTAR ACCION FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/c4f6fdf24e4a5c55c4518342fa2d16f5.png" group-title="ESPANA -  CINE",|ES| MOVISTAR ACCION FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42MKdZlisAI_u8og7xuTA7x
-#EXTINF:-1 xui-id="48401" tvg-id="MACCI" tvg-name="|ES| MOVISTAR ACCION" tvg-logo="http://protocol.solanaflix.com:8080/images/d97fb24e0deabe8b47e780745e3161d4.png" group-title="ESPANA -  CINE",|ES| MOVISTAR ACCION
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ432P7zMKGjEtl4ch-JNPxL2
-#EXTINF:-1 xui-id="48404" tvg-id="MCOMHD" tvg-name="|ES| MOVISTAR COMEDIA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/ddfdb0ccac6bbc67650fafdbde3a360d.png" group-title="ESPANA -  CINE",|ES| MOVISTAR COMEDIA FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42Bq3GpLqATBdGNnTXXysY4
-#EXTINF:-1 xui-id="48403" tvg-id="MCOM" tvg-name="|ES| MOVISTAR COMEDIA" tvg-logo="http://protocol.solanaflix.com:8080/images/a63b54980dfa8fbba4a7e596afb5e798.png" group-title="ESPANA -  CINE",|ES| MOVISTAR COMEDIA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41ufr0HC06UCYJaDXTukVG6
-#EXTINF:-1 xui-id="48406" tvg-id="MDRAMHD" tvg-name="|ES| MOVISTAR DRAMA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/6a82846d38b09664c8fb65fed62d8d19.png" group-title="ESPANA -  CINE",|ES| MOVISTAR DRAMA FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40VC85ogPNNIn8eje-EPv2k
-#EXTINF:-1 xui-id="48405" tvg-id="MDRAM" tvg-name="|ES| MOVISTAR DRAMA" tvg-logo="http://protocol.solanaflix.com:8080/images/12311ddb62355dff2654656fc1815614.png" group-title="ESPANA -  CINE",|ES| MOVISTAR DRAMA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40XJdcXZoKzQ5WIMcqPw-_z
-#EXTINF:-1 xui-id="48407" tvg-id="MCINNHD" tvg-name="|ES| MOVISTAR CINE Ñ" tvg-logo="http://protocol.solanaflix.com:8080/images/a107aa2c3a55817e0ac524f4077f7806.png" group-title="ESPANA -  CINE",|ES| MOVISTAR CINE Ñ
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41fiOpPfC2p6m31sC4S-GtP
-#EXTINF:-1 xui-id="48428" tvg-id="MSER" tvg-name="|ES| MOVISTAR SERIES FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/8f56109b1e5ddcac71837c62f6e5515e.png" group-title="ESPANA -  CINE",|ES| MOVISTAR SERIES FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42SOkCdC3aLk4vJ4Sn4znLe
-#EXTINF:-1 xui-id="48427" tvg-id="MSER" tvg-name="|ES| MOVISTAR SERIES" tvg-logo="http://protocol.solanaflix.com:8080/images/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBi2wv5Viw52b0x8Vgq8Ba3RVvjrmeESotWXAAyOY0yDbzs8JqpXcUthsEpzffvNG24.png" group-title="ESPANA -  CINE",|ES| MOVISTAR SERIES
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42-vUHuZBlt7_pme2HvYiTO
-#EXTINF:-1 xui-id="48430" tvg-id="MSERMAN" tvg-name="|ES| MOVISTAR SERIES 2 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/d6005f8f7fb642bcdbcb542c10384e48.png" group-title="ESPANA -  CINE",|ES| MOVISTAR SERIES 2 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ412BCBnA8jT4AHxSs10BBev
-#EXTINF:-1 xui-id="48429" tvg-id="MSERMAN" tvg-name="|ES| MOVISTAR SERIES 2" tvg-logo="http://protocol.solanaflix.com:8080/images/d6005f8f7fb642bcdbcb542c10384e48.png" group-title="ESPANA -  CINE",|ES| MOVISTAR SERIES 2
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42JEXMbWUYGwdMH_h5gqjfC
-#EXTINF:-1 xui-id="48411" tvg-id="HOLWHD" tvg-name="|ES| HOLLYWOOD FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/08f97a2cf9e4533df2046db62aa85fee.png" group-title="ESPANA -  CINE",|ES| HOLLYWOOD FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41j9O_rPQ83yAJ6Ki8gImtH
-#EXTINF:-1 xui-id="48410" tvg-id="CANHOLL" tvg-name="|ES| HOLLYWOOD" tvg-logo="http://protocol.solanaflix.com:8080/images/09a27e8761f96269efec9453d18dc660.png" group-title="ESPANA -  CINE",|ES| HOLLYWOOD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40dfGWaCW-uPpzJTrqJx7qL
-#EXTINF:-1 xui-id="48412" tvg-id="TCMARHD" tvg-name="|ES| TCM" tvg-logo="http://protocol.solanaflix.com:8080/images/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBiVhzRvMEb1u6LNyOW093I4fqqtX7s8FR4dcRcOOqcESw.png" group-title="ESPANA -  CINE",|ES| TCM
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40niLk1sCNOl6_Rf5IZ0jzb
-#EXTINF:-1 xui-id="48413" tvg-id="TCMAAM" tvg-name="|ES| TCM FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/94f68ad1468ebfc8d0effa90f6a4f4c0.png" group-title="ESPANA -  CINE",|ES| TCM FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ418ROAkyadYWks1ge5Sgfxq
-#EXTINF:-1 xui-id="48415" tvg-id="SUNDAHD" tvg-name="|ES| SUNDANCE FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/014dec09d30ae7a62daf5875bf2bcd62.png" group-title="ESPANA -  CINE",|ES| SUNDANCE FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42_bx_R_8_9ZXFP-oW8i8in
-#EXTINF:-1 xui-id="48414" tvg-id="SUNDEU" tvg-name="|ES| SUNDANCE" tvg-logo="" group-title="ESPANA -  CINE",|ES| SUNDANCE
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ426Bl2T1FQ8RY132C5Odw8N
-#EXTINF:-1 xui-id="48418" tvg-id="XTRMHD" tvg-name="|ES| XTRM FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/760584d13f0c6712c5b7df4dc65c075e.png" group-title="ESPANA -  CINE",|ES| XTRM FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ405FQZ2jtax4GyYV48Fl9kx
-#EXTINF:-1 xui-id="48417" tvg-id="EXTTEUV" tvg-name="|ES| XTREM" tvg-logo="" group-title="ESPANA -  CINE",|ES| XTREM
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43TMyUZOSO0zcuxpDzd9ZZh
-#EXTINF:-1 xui-id="62202" tvg-id="DARKSPA" tvg-name="|ES| DARK FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/e9163bcafb4ddaa04be7b1f4842a42da.png" group-title="ESPANA -  CINE",|ES| DARK FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7PiO5_JvwUpluCRvHs4E3NrZkP2GIjrt8Uvvs15P7qz7
-#EXTINF:-1 xui-id="48432" tvg-id="CALLE13" tvg-name="|ES| CALLE 13 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/bec671b8f24c482c48416977a354c36a.png" group-title="ESPANA -  CINE",|ES| CALLE 13 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43fsAwv1gyFDkuohmOEatlk
-#EXTINF:-1 xui-id="48431" tvg-id="CALLE13" tvg-name="|ES| CALLE 13" tvg-logo="http://protocol.solanaflix.com:8080/images/bec671b8f24c482c48416977a354c36a.png" group-title="ESPANA -  CINE",|ES| CALLE 13
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ412qU2Mw-kswcNoEw2-Wk0d
-#EXTINF:-1 xui-id="48434" tvg-id="FOXESP" tvg-name="|ES| FOX FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/1fe310e6e32823d6c18d1ace507779a8.png" group-title="ESPANA -  CINE",|ES| FOX FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42j1j534k5HhqclfJQkabwv
-#EXTINF:-1 xui-id="48433" tvg-id="FOXESP" tvg-name="|ES| FOX" tvg-logo="http://protocol.solanaflix.com:8080/images/1fe310e6e32823d6c18d1ace507779a8.png" group-title="ESPANA -  CINE",|ES| FOX
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42-Ha-8rGK-ZVbwudTcSfnW
-#EXTINF:-1 xui-id="48438" tvg-id="AXNHDSP" tvg-name="|ES| AXN FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/85fcdbfcd7e35d29c2c8efff3ea9df7e.png" group-title="ESPANA -  CINE",|ES| AXN FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42krMCEYw_FgiKlEfTOJDg_
-#EXTINF:-1 xui-id="48437" tvg-id="AXNESPP" tvg-name="|ES| AXN" tvg-logo="http://protocol.solanaflix.com:8080/images/c7bcbc671d54de0d717eb1663e1eea11.png" group-title="ESPANA -  CINE",|ES| AXN
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42AYPpWUCwLExwxhrg1rELk
-#EXTINF:-1 xui-id="48440" tvg-id="AXNWHHD" tvg-name="|ES| AXN WHITE FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/0db1f8e3bae410631575704b703f45f0.png" group-title="ESPANA -  CINE",|ES| AXN WHITE FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42-z6coJTJSNBFRTXlEKGYx
-#EXTINF:-1 xui-id="48439" tvg-id="AXNWHHD" tvg-name="|ES| AXN WHITE" tvg-logo="http://protocol.solanaflix.com:8080/images/0db1f8e3bae410631575704b703f45f0.png" group-title="ESPANA -  CINE",|ES| AXN WHITE
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40J1ylvE0gJmKWl37QjkqJ3
-#EXTINF:-1 xui-id="48442" tvg-id="AMCESHD" tvg-name="|ES| AMC FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/eba62e97568a6ee0c5a95ffba7b124c1.png" group-title="ESPANA -  CINE",|ES| AMC FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41Umd3kVoX8VLXiocAxZeFe
-#EXTINF:-1 xui-id="48441" tvg-id="AMCARAM" tvg-name="|ES| AMC" tvg-logo="http://protocol.solanaflix.com:8080/images/68271f533c2ea1941772cdb2982b152d.png" group-title="ESPANA -  CINE",|ES| AMC
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42JGDz8wsjud7560Q17WUVE
-#EXTINF:-1 xui-id="48444" tvg-id="TNTSPHD" tvg-name="|ES| TNT FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/634a1d48d5928a7a01c367cc62c68a91.png" group-title="ESPANA -  CINE",|ES| TNT FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40LoByof68kBsxtFN7aQqFk
-#EXTINF:-1 xui-id="48443" tvg-id="TNTLVHD" tvg-name="|ES| TNT" tvg-logo="http://protocol.solanaflix.com:8080/images/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBi7Cw23EXtA1g9QHzsUNHtt5k2IqDFj4-dLnAS8LUB8Nw.png" group-title="ESPANA -  CINE",|ES| TNT
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40IIqPfSBAq09aHeC_uKc4i
-#EXTINF:-1 xui-id="48446" tvg-id="SYFYLAH" tvg-name="|ES| SYFY FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBjQ240BH71_8hlPT6Fo9C59m9-CcCEM6741fZI7X_fQDA.png" group-title="ESPANA -  CINE",|ES| SYFY FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ427i9_ZlhOO03JukNYrPt-3
-#EXTINF:-1 xui-id="48445" tvg-id="SYFYLAH" tvg-name="|ES| SYFY" tvg-logo="http://protocol.solanaflix.com:8080/images/85470b41c4778a801cfc1c17387e9fd7.png" group-title="ESPANA -  CINE",|ES| SYFY
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40p0WOZSCR0mzv5D6rAHzHs
-#EXTINF:-1 xui-id="48448" tvg-id="COSTVES" tvg-name="|ES| COSMOPOLITAN FHD" tvg-logo="" group-title="ESPANA -  CINE",|ES| COSMOPOLITAN FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40L1VxnYFP--S8yT7uSjXCT
-#EXTINF:-1 xui-id="48447" tvg-id="" tvg-name="|ES| COSMOS" tvg-logo="http://protocol.solanaflix.com:8080/images/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBjuaGAWKRr_Ts34WdxrjmjD44JrFALcO8ftC2D8dW01gg.png" group-title="ESPANA -  CINE",|ES| COSMOS
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41Qhh_MVsLt101M7A_vAh1a
-#EXTINF:-1 xui-id="48450" tvg-id="CCLASHD" tvg-name="|ES| COMEDY CENTRAL FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/368ee045a76d8af7a0efa688e40838ed.png" group-title="ESPANA -  CINE",|ES| COMEDY CENTRAL FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41yeoS5_-uS9mvMHsdFpqBP
-#EXTINF:-1 xui-id="48449" tvg-id="CCLASHD" tvg-name="|ES| COMEDY CENTRAL" tvg-logo="http://protocol.solanaflix.com:8080/images/7130d47fe203cc4be9948cb9c5c9a31e.png" group-title="ESPANA -  CINE",|ES| COMEDY CENTRAL
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42bporB4npoiGqfkukIGE1S
-#EXTINF:-1 xui-id="48469" tvg-id="DJRESP" tvg-name="|ES| DISNEY JR" tvg-logo="http://protocol.solanaflix.com:8080/images/ebd7b1ccb3142ea8542e35b221f1c959.png" group-title="ESPANA -  NINOS",|ES| DISNEY JR
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41QUWgjuTiDIxMGUETxrroV
-#EXTINF:-1 xui-id="48470" tvg-id="DISNLSH" tvg-name="|ES| DISNEY CHANNEL" tvg-logo="http://protocol.solanaflix.com:8080/images/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBi82QgVYu4Cor6HZxVWp2jX7aRSXiZ35R_yIhiNyL9Ng7OjfrqRouLOOZyqVjmDhdE.png" group-title="ESPANA -  NINOS",|ES| DISNEY CHANNEL
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43ymp4THZgV_QVOnwHSok3r
-#EXTINF:-1 xui-id="48473" tvg-id="BOINGE" tvg-name="|ES| BOING" tvg-logo="http://protocol.solanaflix.com:8080/images/22ba1ddaa71b15f6cb7d89cb5afa6581.png" group-title="ESPANA -  NINOS",|ES| BOING
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40DZYfX3l1SA6MH8TJNDylX
-#EXTINF:-1 xui-id="48474" tvg-id="CANLPAN" tvg-name="|ES| CANAL PANDA" tvg-logo="http://protocol.solanaflix.com:8080/images/556adef058bd150e440b47f09e9065ca.png" group-title="ESPANA -  NINOS",|ES| CANAL PANDA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41VfnWVw5COVIZ2g8Rkmg1F
-#EXTINF:-1 xui-id="48475" tvg-id="BABYTVS" tvg-name="|ES| BABY TV" tvg-logo="http://protocol.solanaflix.com:8080/images/69535f49d5fb8179e26d08819a219612.png" group-title="ESPANA -  NINOS",|ES| BABY TV
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43urNasGW1NYy9IOaDKGzWD
-#EXTINF:-1 xui-id="48477" tvg-id="NICKLMC" tvg-name="|ES| NICKELODEON FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/429952d925933658248eed71c47ed1bf.png" group-title="ESPANA -  NINOS",|ES| NICKELODEON FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ402Mxorn_6XjY6NCDwgv6gm
-#EXTINF:-1 xui-id="48476" tvg-id="NICHDES" tvg-name="|ES| NICKELODEON" tvg-logo="http://protocol.solanaflix.com:8080/images/49bb0121634b05cf7037811a4078d7b0.png" group-title="ESPANA -  NINOS",|ES| NICKELODEON
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43TNMxSQ7LUiPClDYN-eotA
-#EXTINF:-1 xui-id="48478" tvg-id="NICJRS" tvg-name="|ES| NICK JR" tvg-logo="http://protocol.solanaflix.com:8080/images/4f03339017aa8caddffc93575f75f6d8.png" group-title="ESPANA -  NINOS",|ES| NICK JR
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42mAmGZ1qaCP05kgkqI6ccX
-#EXTINF:-1 xui-id="48453" tvg-id="DKISS" tvg-name="|ES| DKISS" tvg-logo="http://protocol.solanaflix.com:8080/images/ea8965a16fc2667103961d8f646c5cfb.png" group-title="ESPANA - ESTILO DE VIDA",|ES| DKISS
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ420pcyfEqfL9I6kAy3Hm1_c
-#EXTINF:-1 xui-id="48458" tvg-id="CRINV" tvg-name="|ES| CRIMEN MAS+ INVESTIGACION" tvg-logo="http://protocol.solanaflix.com:8080/images/54923f7550a0a91f5e67dd049b97f51d.png" group-title="ESPANA - ESTILO DE VIDA",|ES| CRIMEN MAS+ INVESTIGACION
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40uvh14JefCstA10PPh24hr
-#EXTINF:-1 xui-id="48459" tvg-id="DECASHD" tvg-name="|ES| DECASA" tvg-logo="http://protocol.solanaflix.com:8080/images/424a4384855f790861dfaabfcb49e83e.png" group-title="ESPANA - ESTILO DE VIDA",|ES| DECASA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40ivr-L-KG0lqQYwOgZ17zT
-#EXTINF:-1 xui-id="48460" tvg-id="DECASHD" tvg-name="|ES| DECASA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/424a4384855f790861dfaabfcb49e83e.png" group-title="ESPANA - ESTILO DE VIDA",|ES| DECASA FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43vmmQGJcrjlXxU7F_7i9P9
-#EXTINF:-1 xui-id="48462" tvg-id="COCINHD" tvg-name="|ES| CANAL COCINA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/382879a07b1b6aca3b35d29128c90584.png" group-title="ESPANA - ESTILO DE VIDA",|ES| CANAL COCINA FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42QU0KpcMOufb36m0bVgPPx
-#EXTINF:-1 xui-id="48461" tvg-id="COCINHD" tvg-name="|ES| CANAL COCINA" tvg-logo="http://protocol.solanaflix.com:8080/images/382879a07b1b6aca3b35d29128c90584.png" group-title="ESPANA - ESTILO DE VIDA",|ES| CANAL COCINA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43B0PlyWu51DQMOrp012_Kf
-#EXTINF:-1 xui-id="48489" tvg-id="BLAZESH" tvg-name="|ES| BLAZE" tvg-logo="http://protocol.solanaflix.com:8080/images/09b63f2f502e2ce8121bbdbf420d63f4.png" group-title="ESPANA - ESTILO DE VIDA",|ES| BLAZE
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42uVDU4IKEDZGxDNrS2UAZK
-#EXTINF:-1 xui-id="48480" tvg-id="HISHDES" tvg-name="|ES| HISTORIA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/1e4e034406cd2444557b1986321d4be4.png" group-title="ESPANA -  CULTURA",|ES| HISTORIA FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43YHKaNYuAXETiuh2M4xtM6
-#EXTINF:-1 xui-id="48479" tvg-id="HISHDES" tvg-name="|ES| HISTORIA" tvg-logo="http://protocol.solanaflix.com:8080/images/1e4e034406cd2444557b1986321d4be4.png" group-title="ESPANA -  CULTURA",|ES| HISTORIA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41DdccPAAq0zMmYgudgTvKd
-#EXTINF:-1 xui-id="48481" tvg-id="DISHDES" tvg-name="|ES| DISCOVERY CHANNEL" tvg-logo="http://protocol.solanaflix.com:8080/images/a4a3ecd7e4d08a420123ca06b36e3673.png" group-title="ESPANA -  CULTURA",|ES| DISCOVERY CHANNEL
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40Ctq7kI7txwRgeMv2RoCAp
-#EXTINF:-1 xui-id="48482" tvg-id="ODISEHD" tvg-name="|ES| ODISEA" tvg-logo="http://protocol.solanaflix.com:8080/images/52b70868846523bdd40fbee724601f08.png" group-title="ESPANA -  CULTURA",|ES| ODISEA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43GYDzpIfmhURvrW5g1EgUm
-#EXTINF:-1 xui-id="48484" tvg-id="NGCCLA" tvg-name="|ES| NATIONAL GEOGRAPHIC FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/c7b80593b3725b0fcca4f645f6430b7a.png" group-title="ESPANA -  CULTURA",|ES| NATIONAL GEOGRAPHIC FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41qyyuHMPgn6DKMvMw3Q7x_
-#EXTINF:-1 xui-id="48483" tvg-id="NATGSHD" tvg-name="|ES| NATIONAL GEOGRAPHIC" tvg-logo="http://protocol.solanaflix.com:8080/images/a94b5b322eaf66d0fc5018d10280ec57.png" group-title="ESPANA -  CULTURA",|ES| NATIONAL GEOGRAPHIC
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41Au_eIyAWKCIl-bwBcVcpi
-#EXTINF:-1 xui-id="48486" tvg-id="NATGWES" tvg-name="|ES| NATIONAL GEOGRAFIC WILD FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCmr8hEgRwbmp10Y-Nm7DmqVJ7n0J9drEbyyye-pH_rmQ.png" group-title="ESPANA -  CULTURA",|ES| NATIONAL GEOGRAFIC WILD FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40U6ECnSfvpHVYCTUq45Tlo
-#EXTINF:-1 xui-id="48485" tvg-id="NATWILA" tvg-name="|ES| NATIONAL GEOGRAFIC WILD" tvg-logo="http://protocol.solanaflix.com:8080/images/33c0eb9393902f872b58e16b0e6cb4b7.png" group-title="ESPANA -  CULTURA",|ES| NATIONAL GEOGRAFIC WILD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42_lKm6DuWjFVF5qUr6OX0B
-#EXTINF:-1 xui-id="48494" tvg-id="CAZPESH" tvg-name="|ES| CAZA Y PESCA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/e09f3396e4422178ebb50a5820dfe5b4.png" group-title="ESPANA -  CULTURA",|ES| CAZA Y PESCA FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41Gwi0FC_mD11oOl7BPQSoG
-#EXTINF:-1 xui-id="48493" tvg-id="CAZPES" tvg-name="|ES| CAZA Y PESCA" tvg-logo="http://protocol.solanaflix.com:8080/images/d2bc2a6f29ffe9250fd8fc94f5b9774b.png" group-title="ESPANA -  CULTURA",|ES| CAZA Y PESCA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43UKpyAMCjqMg4f9-2n6eSk
-#EXTINF:-1 xui-id="48451" tvg-id="MTVESPA" tvg-name="|ES| MTV" tvg-logo="http://protocol.solanaflix.com:8080/images/f04f2d52a88f8379dc684df154e30864.png" group-title="ESPANA -  MUSICA",|ES| MTV
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43mvuWiPxYJgOCsXBXZcsnl
-#EXTINF:-1 xui-id="48555" tvg-id="SOLMUSC" tvg-name="|ES| SOL MUSIC" tvg-logo="http://protocol.solanaflix.com:8080/images/32ba9efd8be218780c70c4127b2e67b4.png" group-title="ESPANA -  MUSICA",|ES| SOL MUSIC
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40-BR5qLy1drWWdMM2ZTZKS
-#EXTINF:-1 xui-id="48557" tvg-id="MEZLVSD" tvg-name="|ES| MEZZO LIVE FHD" tvg-logo="" group-title="ESPANA -  MUSICA",|ES| MEZZO LIVE FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42Ong-_qIgqa-X1r7AHXKrK
-#EXTINF:-1 xui-id="48556" tvg-id="MEZLVSD" tvg-name="|ES| MEZZO LIVE" tvg-logo="" group-title="ESPANA -  MUSICA",|ES| MEZZO LIVE
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ407MlrpWFbDOz0-BGzSobK5
-#EXTINF:-1 xui-id="48701" tvg-id="VH1MGAM" tvg-name="|ES| VH1" tvg-logo="http://protocol.solanaflix.com:8080/images/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBiMRAagNN_-EkOidlLVs7-j7ZXuuDrzaXW4yh87AFmm5g.png" group-title="ESPANA -  MUSICA",|ES| VH1
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43kiWEVXjrXC8dnWm1ZVTXu
-#EXTINF:-1 xui-id="48702" tvg-id="VH1CLAS" tvg-name="|ES| VH1 CLASSIC" tvg-logo="http://protocol.solanaflix.com:8080/images/e3ced67396ae2583abc36943d80489ba.png" group-title="ESPANA -  MUSICA",|ES| VH1 CLASSIC
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42ANkghhWlsJOyrLIxNlQ7n
-#EXTINF:-1 xui-id="48384" tvg-id="LA1" tvg-name="|ES| LA 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/e13673e8547a1cd8c0b93be62033ebdf.png" group-title="ESPANA -  TDT",|ES| LA 1 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43YQVXocUcxBuuefqBwPJey
-#EXTINF:-1 xui-id="48383" tvg-id="LA1" tvg-name="|ES| LA 1" tvg-logo="http://protocol.solanaflix.com:8080/images/e13673e8547a1cd8c0b93be62033ebdf.png" group-title="ESPANA -  TDT",|ES| LA 1
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43UYXovZ7NCPbTapBzNF5nY
-#EXTINF:-1 xui-id="48386" tvg-id="LA2" tvg-name="|ES| LA 2 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/b06b2be704778cd642aa231d51d5e000.png" group-title="ESPANA -  TDT",|ES| LA 2 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43ycNhB2-_FMduqbb1HKiAh
-#EXTINF:-1 xui-id="48385" tvg-id="LA2" tvg-name="|ES| LA 2" tvg-logo="http://protocol.solanaflix.com:8080/images/b06b2be704778cd642aa231d51d5e000.png" group-title="ESPANA -  TDT",|ES| LA 2
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40ta_pVjFtGn9vUphjqujsw
-#EXTINF:-1 xui-id="48388" tvg-id="ANT3SPH" tvg-name="|ES| ANTENA 3 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/ef4363eba23444774531bd12e574c16d.png" group-title="ESPANA -  TDT",|ES| ANTENA 3 FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ429GxA4hJwRciKct_KnvmK0
-#EXTINF:-1 xui-id="48387" tvg-id="ANTENA3" tvg-name="|ES| ANTENA 3" tvg-logo="http://protocol.solanaflix.com:8080/images/285f709b24c0a4796d58221551d96670.png" group-title="ESPANA -  TDT",|ES| ANTENA 3
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41nIK93e-FPzDZFoWZwDFQH
-#EXTINF:-1 xui-id="48390" tvg-id="CUATRO" tvg-name="|ES| CUATRO FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/8803ac2e225904c7be8479d14e43878b.png" group-title="ESPANA -  TDT",|ES| CUATRO FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ433P6XGlDkMeXwKQ_aGK_0e
-#EXTINF:-1 xui-id="48389" tvg-id="CUATRO" tvg-name="|ES| CUATRO" tvg-logo="http://protocol.solanaflix.com:8080/images/8803ac2e225904c7be8479d14e43878b.png" group-title="ESPANA -  TDT",|ES| CUATRO
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43P04vKFZsQLgaHXNYxwaTK
-#EXTINF:-1 xui-id="48392" tvg-id="TELECHD" tvg-name="|ES| TELECINCO FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/e84bf793645c7a574099fe935f3b6c53.png" group-title="ESPANA -  TDT",|ES| TELECINCO FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43_0umMwuU7vCSXm_0lAnZ3
-#EXTINF:-1 xui-id="48391" tvg-id="TELECIN" tvg-name="|ES| TELECINCO" tvg-logo="http://protocol.solanaflix.com:8080/images/07d25eb3c41b277d417b0614e8bda9ad.png" group-title="ESPANA -  TDT",|ES| TELECINCO
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41yJforS1NX0Lut_47gnq4K
-#EXTINF:-1 xui-id="48394" tvg-id="SEXTHD" tvg-name="|ES| LA SEXTA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/97068a83d9ad701cff04ada6ede87b43.png" group-title="ESPANA -  TDT",|ES| LA SEXTA FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43_HyCcMZeN8E5R9JBJoNHW
-#EXTINF:-1 xui-id="48393" tvg-id="SEXTHD" tvg-name="|ES| LA SEXTA" tvg-logo="http://protocol.solanaflix.com:8080/images/97068a83d9ad701cff04ada6ede87b43.png" group-title="ESPANA -  TDT",|ES| LA SEXTA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ424-8Pc98O0lBiYVEYfzZIE
-#EXTINF:-1 xui-id="48419" tvg-id="SOMO" tvg-name="|ES| SOMOS FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/754c93154a5ac9bc754b8d57b6a2fd5d.png" group-title="ESPANA -  TDT",|ES| SOMOS FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41Dz4FKWGgGfBvwiixHwT1T
-#EXTINF:-1 xui-id="48420" tvg-id="PARMDA" tvg-name="|ES| PARAMOUNT CHANNEL" tvg-logo="http://protocol.solanaflix.com:8080/images/12a171a4c616f398c636128fefe9f620.png" group-title="ESPANA -  TDT",|ES| PARAMOUNT CHANNEL
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ419EwRl2BcEXdVFrrYaP6fr
-#EXTINF:-1 xui-id="48426" tvg-id="MEGAHD" tvg-name="|ES| MEGA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/1504d6af583e9eb1f493ed6b4929ea84.png" group-title="ESPANA -  TDT",|ES| MEGA FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43Mryp_AVX_cPcNLvRBHcgW
-#EXTINF:-1 xui-id="48395" tvg-id="CAN24AM" tvg-name="|ES| 24 HORAS" tvg-logo="" group-title="ESPANA -  TDT",|ES| 24 HORAS
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ418GEr9ricUZ7BGShuDK3M4
-#EXTINF:-1 xui-id="48452" tvg-id="FDFS" tvg-name="|ES| FDF" tvg-logo="http://protocol.solanaflix.com:8080/images/302e246e62857a73580e4541a042c098.png" group-title="ESPANA -  TDT",|ES| FDF
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41xbKrGaX0QeJJIbwR4cVND
-#EXTINF:-1 xui-id="48454" tvg-id="A3CI" tvg-name="|ES| A3SERIES" tvg-logo="http://protocol.solanaflix.com:8080/images/75966d8f0b754bc4917ae3bd83d37d87.png" group-title="ESPANA -  TDT",|ES| A3SERIES
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40cWG8Qk79o45fdS3C6KOdf
-#EXTINF:-1 xui-id="48455" tvg-id="MEGAHD" tvg-name="|ES| MEGA" tvg-logo="http://protocol.solanaflix.com:8080/images/1504d6af583e9eb1f493ed6b4929ea84.png" group-title="ESPANA -  TDT",|ES| MEGA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42E-ZC4BbhZmvREwjADvSD7
-#EXTINF:-1 xui-id="48456" tvg-id="ENERGYE" tvg-name="|ES| ENERGY" tvg-logo="http://protocol.solanaflix.com:8080/images/5efdde3d783f2d201d06e0a949eb1fd4.png" group-title="ESPANA -  TDT",|ES| ENERGY
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ416can6DzoPmTwxbVkzrBAl
-#EXTINF:-1 xui-id="48457" tvg-id="DIVINIT" tvg-name="|ES| DIVINITY" tvg-logo="http://protocol.solanaflix.com:8080/images/0d9e9bafc45fa91e81a9a89baa0e82bf.png" group-title="ESPANA -  TDT",|ES| DIVINITY
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ408p0kGx3fW418SmMQrqhMZ
-#EXTINF:-1 xui-id="48464" tvg-id="BEMAD" tvg-name="|ES| BEMAD FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBjN8j7H6V4zGwj_nXNSYJFSILS_nWi9QS-qIsH24rL73A.png" group-title="ESPANA -  TDT",|ES| BEMAD FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43W2jMSb0QJ7P07mOMO1H9f
-#EXTINF:-1 xui-id="48463" tvg-id="BEMAD" tvg-name="|ES| BE MAD" tvg-logo="http://protocol.solanaflix.com:8080/images/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBjN8j7H6V4zGwj_nXNSYJFSILS_nWi9QS-qIsH24rL73A.png" group-title="ESPANA -  TDT",|ES| BE MAD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42RGyZd6G53dIclnGgLvBIJ
-#EXTINF:-1 xui-id="48465" tvg-id="NEOX" tvg-name="|ES| NEOX" tvg-logo="http://protocol.solanaflix.com:8080/images/4337120eec924b379bacf60654411200.png" group-title="ESPANA -  TDT",|ES| NEOX
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41SPVILVaX6aQwEJ3qbZTh8
-#EXTINF:-1 xui-id="48466" tvg-id="NOVANT" tvg-name="|ES| NOVA" tvg-logo="http://protocol.solanaflix.com:8080/images/5c2e1cebc605ff56e6283f2e21d26a3e.png" group-title="ESPANA -  TDT",|ES| NOVA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42YrGQqE5zoQW1_XPtHmyp-
-#EXTINF:-1 xui-id="48472" tvg-id="CLAN" tvg-name="|ES| CLAN FHD" tvg-logo="" group-title="ESPANA -  TDT",|ES| CLAN FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ43Zc_Nrsd13c3UiZhCw5n6h
-#EXTINF:-1 xui-id="48471" tvg-id="CLAN" tvg-name="|ES| CLAN" tvg-logo="http://protocol.solanaflix.com:8080/images/3c06f96b6f7bbdb97366dff76a00eca4.png" group-title="ESPANA -  TDT",|ES| CLAN
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ439nFFx6Aj2r0yBpAWDTON7
-#EXTINF:-1 xui-id="48487" tvg-id="DISCMAX" tvg-name="|ES| DMAX" tvg-logo="http://protocol.solanaflix.com:8080/images/26bfaabc8ab71544f153e910bcec2a31.png" group-title="ESPANA -  TDT",|ES| DMAX
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41Sy-IpgOKGFUf3o3ypCL4Z
-#EXTINF:-1 xui-id="48488" tvg-id="TENESP" tvg-name="|ES| TEN" tvg-logo="" group-title="ESPANA -  TDT",|ES| TEN
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ403vDSSmfjMJxJet1Zyhz0T
-#EXTINF:-1 xui-id="48495" tvg-id="IBRALHD" tvg-name="|ES| IBERALIA" tvg-logo="http://protocol.solanaflix.com:8080/images/735ce065417968c0f63988ae76db2106.png" group-title="ESPANA -  TDT",|ES| IBERALIA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40JKoH3_fcmjzMve4OgLxiz
-#EXTINF:-1 xui-id="48550" tvg-id="" tvg-name="|ES| TV 13" tvg-logo="" group-title="ESPANA -  TDT",|ES| TV 13
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40141w6NvwZrRlRgt6nXP57
-#EXTINF:-1 xui-id="77777" tvg-id="TV3SPHD" tvg-name="|ES| TV3 CAT" tvg-logo="http://protocol.solanaflix.com:8080/images/57b7c483603f8cd6c360455d05226b88.png" group-title="ESPANA -  TDT",|ES| TV3 CAT
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7EfvsG7xr5O7ExmYQdYJgw7Nlk4-sdQIA16lZqX7pwgA
-#EXTINF:-1 xui-id="77778" tvg-id="324CAT" tvg-name="|ES| 3/24 CAT" tvg-logo="http://protocol.solanaflix.com:8080/images/e393067b49099d817c4dfcf39ea3ad0a.png" group-title="ESPANA -  TDT",|ES| 3/24 CAT
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7EfvsG7xr5O7ExmYQdYJgw6Wdn69s8_XMSbrUm5tVGqM
-#EXTINF:-1 xui-id="48551" tvg-id="HITVE" tvg-name="|ES| HIT TV" tvg-logo="http://protocol.solanaflix.com:8080/images/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBiAVIixKjkMbskEaEJYysiVOmT4JbhjpXoXk9fsVKWhlg.png" group-title="ESPANA -  TDT",|ES| HIT TV
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40P9_kqwR6qAoUmtCxay5uh
-#EXTINF:-1 xui-id="48552" tvg-id="" tvg-name="|ES| 8TV" tvg-logo="" group-title="ESPANA -  TDT",|ES| 8TV
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42rkyQ4T3xp980f86018x3R
-#EXTINF:-1 xui-id="48553" tvg-id="ANDALTV" tvg-name="|ES| ANDALUCIA TV" tvg-logo="http://protocol.solanaflix.com:8080/images/a40ba62fb72a4218dbc98ef122b0c1eb.png" group-title="ESPANA -  TDT",|ES| ANDALUCIA TV
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41K41bR1xW5SNeiTqvF0utG
-#EXTINF:-1 xui-id="48554" tvg-id="ARAGON" tvg-name="|ES| ARAGON TV" tvg-logo="http://protocol.solanaflix.com:8080/images/6367652eadbbfac29fef37282e00a07b.png" group-title="ESPANA -  TDT",|ES| ARAGON TV
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42EkD8kOnVK8nbp_CGQIKwb
-#EXTINF:-1 xui-id="48614" tvg-id="7RMHD" tvg-name="|ES| 7RM" tvg-logo="" group-title="ESPANA -  TDT",|ES| 7RM
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40IizXx3TsShVpbYa3JHTUD
-#EXTINF:-1 xui-id="48615" tvg-id="SUR" tvg-name="|ES| CANAL SUR" tvg-logo="" group-title="ESPANA -  TDT",|ES| CANAL SUR
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42wlCpDKDvEkSWN2vdxO9BU
-#EXTINF:-1 xui-id="48616" tvg-id="SUR" tvg-name="|ES| CANAL SUR FHD" tvg-logo="" group-title="ESPANA -  TDT",|ES| CANAL SUR FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42FAbmVGDGT_DY0mylmLLeH
-#EXTINF:-1 xui-id="48617" tvg-id="CMM" tvg-name="|ES| CMM FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/e57a74d4872ad4c5a01ebe50e5378277.png" group-title="ESPANA -  TDT",|ES| CMM FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40ZRrLa5LMxIfJH8QaPDx1q
-#EXTINF:-1 xui-id="48619" tvg-id="" tvg-name="|ES| EXTREMADURA TV" tvg-logo="" group-title="ESPANA -  TDT",|ES| EXTREMADURA TV
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41HvMsSFXWGkFNTQDBK1D61
-#EXTINF:-1 xui-id="48620" tvg-id="TSATOTR" tvg-name="|ES| LA OTRA" tvg-logo="http://protocol.solanaflix.com:8080/images/d82ffb81a007d680aa9d16fc0dfcb0f3.png" group-title="ESPANA -  TDT",|ES| LA OTRA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ41BJtoygx7T0Ix0oZd4DVBZ
-#EXTINF:-1 xui-id="48622" tvg-id="TELEMAD" tvg-name="|ES| TELEMADRID FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/e49102d639b0535f53940fedd2e9ecd3.png" group-title="ESPANA -  TDT",|ES| TELEMADRID FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42EK7JVUpphKSF9uulccmk9
-#EXTINF:-1 xui-id="48624" tvg-id="FNWSANZ" tvg-name="|ES| FOX NEWS" tvg-logo="http://protocol.solanaflix.com:8080/images/a6c44036012786b5f8e9b84b61b62b94.png" group-title="ESPANA -  TDT",|ES| FOX NEWS
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42inmomCuQnYG390UgG2wK8
-#EXTINF:-1 xui-id="48638" tvg-id="CLSSCA" tvg-name="|ES| CLASSICA" tvg-logo="http://protocol.solanaflix.com:8080/images/71a8b554262aa45df4e2de41ac0526e5.png" group-title="ESPANA -  TDT",|ES| CLASSICA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ40b6Vrgx1U725kW6dWFQLIQ
-#EXTINF:-1 xui-id="48666" tvg-id="SUR" tvg-name="|ES| CANAL SUR ANDALUCÍA" tvg-logo="" group-title="ESPANA -  TDT",|ES| CANAL SUR ANDALUCÍA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42I4ORzzdMkLq6dpWFZb5Pb
-#EXTINF:-1 xui-id="48674" tvg-id="TELEMAD" tvg-name="|ES| TELEMADRID" tvg-logo="http://protocol.solanaflix.com:8080/images/e49102d639b0535f53940fedd2e9ecd3.png" group-title="ESPANA -  TDT",|ES| TELEMADRID
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7Fz3VrEVA3KwWMJkED8uQ42Ac93S9Yfz0NVpZIXmy9VM
-#EXTINF:-1 xui-id="102338" tvg-id="" tvg-name="|ES| MOVISTAR FEST FHD" tvg-logo="" group-title="ESPANA -  MUSICA",|ES| MOVISTAR FEST FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7JQCubK_m5_H_IT1kcA2dOgZ74axUZ1FUmOUNufQ50Mo
-#EXTINF:-1 xui-id="102339" tvg-id="" tvg-name="|ES| MOVISTAR FEST" tvg-logo="" group-title="ESPANA -  MUSICA",|ES| MOVISTAR FEST
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7JQCubK_m5_H_IT1kcA2dOhbbhQNR8Y0h1ORurKnW8A5
-#EXTINF:-1 xui-id="109245" tvg-id="" tvg-name="|ES| LA RESISTENCIA" tvg-logo="" group-title="ESPANA -  CINE",|ES| LA RESISTENCIA
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7JQCubK_m5_H_IT1kcA2dOh68uwGltTpx0zV9F8zNE-0
-#EXTINF:-1 xui-id="109246" tvg-id="" tvg-name="|ES| M+ VERY BRITISH" tvg-logo="" group-title="ESPANA -  MUSICA",|ES| M+ VERY BRITISH
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7JQCubK_m5_H_IT1kcA2dOhI3HU7UgtdysoXbzDJ-5mF
-#EXTINF:-1 xui-id="109247" tvg-id="" tvg-name="|ES| BOM CINE" tvg-logo="" group-title="ESPANA -  CINE",|ES| BOM CINE
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7JQCubK_m5_H_IT1kcA2dOi1cU6DkKcEn4KpgFi8VsGK
-#EXTINF:-1 xui-id="109248" tvg-id="" tvg-name="|ES| M+ CLASICO FHD" tvg-logo="" group-title="ESPANA -  CINE",|ES| M+ CLASICO FHD
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7JQCubK_m5_H_IT1kcA2dOhZSeAvsFeETzx5PWSzNzcU
-#EXTINF:-1 xui-id="109249" tvg-id="" tvg-name="|ES| M+ Classico" tvg-logo="" group-title="ESPANA -  CINE",|ES| M+ Classico
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7JQCubK_m5_H_IT1kcA2dOhO7GnAHObnh01xrOdZBcax
-#EXTINF:-1 xui-id="109250" tvg-id="" tvg-name="|ES| CAZAVISION" tvg-logo="" group-title="ESPANA -  CULTURA",|ES| CAZAVISION
-http://valina.solanaflix.com:8080/play/Lz9H_UwNbtTWew3GEC3b7JQCubK_m5_H_IT1kcA2dOjmIzb7cPbURYFUvnaJ0xGW
+
+####TDT
+#EXTINF:-1 xui-id="" tvg-id="LA 1 HD" tvg-name="LA 1" tvg-logo="" group-title="TDT",LA 1 
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4785
 
 
-#EXTINF:-1 xui-id="92756" tvg-name="Mortal Kombat (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Mortal Kombat (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Ah8HiZcoWWnsPPilB9Fjby#.mp4
-#EXTINF:-1 xui-id="92758" tvg-name="Soul (2020)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Soul (2020)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AzTO_BdRKTUlm84xyki55b#.mp4
-#EXTINF:-1 xui-id="92755" tvg-name="Wonder Woman (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Wonder Woman (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_D5ASG9oxgeaZsWJ1p4UL-U#.mp4
-#EXTINF:-1 xui-id="92753" tvg-name="Godzilla vs. Kong (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Godzilla vs. Kong (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_A3aezZF0SGEjvsxR3Jf4vu#.mp4
-#EXTINF:-1 xui-id="92754" tvg-name="Nadie (2021)" tvg-logo="http://protocol.solanaflix.com:8080/images/95fe8044640e576bb76a3561ead82ff8.jpg" group-title="PELÍCULAS EN ESPAÑOL",Nadie (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_A0t1uMc2ecoi3wsTNO21gz#.mp4
-#EXTINF:-1 xui-id="92752" tvg-name="El padre (2020)" tvg-logo="http://protocol.solanaflix.com:8080/images/923013e1c39caf5e53a756f64105242a.jpg" group-title="PELÍCULAS EN ESPAÑOL",El padre (2020)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AKPjGrZRP1Vumf3GANm4r9#.mp4
-#EXTINF:-1 xui-id="92757" tvg-name="Otra ronda (2020)" tvg-logo="http://protocol.solanaflix.com:8080/images/57393280e0ecfd1ad46c29d2d1e46c1c.jpg" group-title="PELÍCULAS EN ESPAÑOL",Otra ronda (2020)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DxVJmVGBateOGJuzdDE6fG#.mp4
-#EXTINF:-1 xui-id="92800" tvg-name="Thor: Ragnarok (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Thor: Ragnarok (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CQh_xdaIUd9dAF_1WRXqmh#.mp4
-#EXTINF:-1 xui-id="92777" tvg-name="Parasite (2004)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Parasite (2004)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Cg5FXye8nyoinByXp201wL#.mp4
-#EXTINF:-1 xui-id="92804" tvg-name="Ex_Machina (2015)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Ex_Machina (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DVpe0bWkPhdW3bSRV94H3J#.mp4
-#EXTINF:-1 xui-id="92797" tvg-name="Iron Man (2008)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Iron Man (2008)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C1zPuR30dJBhUWSAVug2DX#.mp4
-#EXTINF:-1 xui-id="92773" tvg-name="Bad Boys for Life (2020)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Bad Boys for Life (2020)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C1yDYSd61hzj5ZjG2g7yIl#.mp4
-#EXTINF:-1 xui-id="92802" tvg-name="Deadpool (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Deadpool (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Dd8PYM9KtJ6gcXnUjPq3NH#.mp4
-#EXTINF:-1 xui-id="92779" tvg-name="Joker (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Joker (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AdefKLXLnqvikVJRVQkSrA#.mp4
-#EXTINF:-1 xui-id="92760" tvg-name="El contable (2016)" tvg-logo="http://protocol.solanaflix.com:8080/images/09f0168217a51466f2a0d2812583081b.jpg" group-title="PELÍCULAS EN ESPAÑOL",El contable (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BidIGLyLwNpBpt3tMVcFUB#.mp4
-#EXTINF:-1 xui-id="92765" tvg-name="Beauty and the Beast (1987)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Beauty and the Beast (1987)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DTeNrhEvXC8kzHaP9ET6Qp#.mp4
-#EXTINF:-1 xui-id="92770" tvg-name="Black Panther (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Black Panther (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CxQu39Jdz6YvFsQ7ds90_l#.mp4
-#EXTINF:-1 xui-id="92766" tvg-name="Vengadores: Infinity War (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Vengadores: Infinity War (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AsgE5nXj901hy6b6PeWzdo#.mp4
-#EXTINF:-1 xui-id="92791" tvg-name="Avatar (2009)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Avatar (2009)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DDHHs8_5HRnZSsUbdHTfBN#.mp4
-#EXTINF:-1 xui-id="92784" tvg-name="John Wick (Otro día para matar) (2014)" tvg-logo="http://protocol.solanaflix.com:8080/images/ba7935a83050c1ef30926446f1f0ebec.jpg" group-title="PELÍCULAS EN ESPAÑOL",John Wick (Otro día para matar) (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DPLgfD9hkMr-VGIAEDzBRn#.mp4
-#EXTINF:-1 xui-id="92799" tvg-name="Logan (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Logan (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Ce9sCI6YgyMTxUmmTHkKWn#.mp4
-#EXTINF:-1 xui-id="92788" tvg-name="Vengadores: Endgame (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Vengadores: Endgame (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C9w1i5Mbkzv3DL1i-R0OQV#.mp4
-#EXTINF:-1 xui-id="92769" tvg-name="Forrest Gump (1994)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Forrest Gump (1994)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Cl-O2nEopxXtH9FllFnA2b#.mp4
-#EXTINF:-1 xui-id="92775" tvg-name="Doctor Strange (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Doctor Strange (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CRn2jrwqPPJTnHAl6wv_Jc#.mp4
-#EXTINF:-1 xui-id="92790" tvg-name="Los Vengadores (2012)" tvg-logo="http://protocol.solanaflix.com:8080/images/0d0f7fbc2f8615956ac50bb59b073b61.jpg" group-title="PELÍCULAS EN ESPAÑOL",Los Vengadores (2012)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_At6d_QJmk68O1mLSg5MdGr#.mp4
-#EXTINF:-1 xui-id="92781" tvg-name="Pulp Fiction (1994)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Pulp Fiction (1994)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AZlCSnYA_q6JGmXt34g7Em#.mp4
-#EXTINF:-1 xui-id="92789" tvg-name="John Wick: Capítulo 3 - Parabellum (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",John Wick: Capítulo 3 - Parabellum (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C0IkSydeDzaBz5IJZ8-7a-#.mp4
-#EXTINF:-1 xui-id="92761" tvg-name="Big Hero 6 (2014)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Big Hero 6 (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CXHxxjjrZCwee5cUu3Fsks#.mp4
-#EXTINF:-1 xui-id="92778" tvg-name="Aquaman (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Aquaman (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Cgo_6uaBcIGDGbSU2c4uc0#.mp4
-#EXTINF:-1 xui-id="92767" tvg-name="Iron Man 3 (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Iron Man 3 (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CnDULxMWQ2WFseEJ0ORO9q#.mp4
-#EXTINF:-1 xui-id="92780" tvg-name="Harry Potter y el prisionero de Azkaban (2004)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Harry Potter y el prisionero de Azkaban (2004)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CdE-MUPlABPPIzqvgZv1bx#.mp4
-#EXTINF:-1 xui-id="92782" tvg-name="Deadpool 2 (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Deadpool 2 (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AyJA_QgScsmcNCRE0sM1kA#.mp4
-#EXTINF:-1 xui-id="92796" tvg-name="Arrival (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Arrival (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_ByP1UQ_mwm4pGQ2dISYjf6#.mp4
-#EXTINF:-1 xui-id="92763" tvg-name="The Wolf of Wall Street (1929)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Wolf of Wall Street (1929)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BBxOvjaLdOkN1KuNz17C1B#.mp4
-#EXTINF:-1 xui-id="92772" tvg-name="Ant-Man (2015)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Ant-Man (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AgCyqer-24rxLP3edaJHxm#.mp4
-#EXTINF:-1 xui-id="92764" tvg-name="Up (2009)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Up (2009)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AjnCYzh-Zw2OqTRebfe4yx#.mp4
-#EXTINF:-1 xui-id="92801" tvg-name="Cruella (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Cruella (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AhSOZbD9rZAFPSCCmR5hfC#.mp4
-#EXTINF:-1 xui-id="92794" tvg-name="Iron Man 2 (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Iron Man 2 (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AsbSvRD0-1k0CIe_iJauwU#.mp4
-#EXTINF:-1 xui-id="92798" tvg-name="Ready Player One (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Ready Player One (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Dwu0R6GOtvj2BuPnRsobXY#.mp4
-#EXTINF:-1 xui-id="92793" tvg-name="Baby Driver (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Baby Driver (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DYmSSIKyDV7n7wz0jc5zaE#.mp4
-#EXTINF:-1 xui-id="92771" tvg-name="Jurassic World (2015)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Jurassic World (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_B8CXq5Ail4zeoT-3eMxAwG#.mp4
-#EXTINF:-1 xui-id="92768" tvg-name="Frozen (2005)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Frozen (2005)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BI1tUmPYaHJeNrGAA_gfgU#.mp4
-#EXTINF:-1 xui-id="92792" tvg-name="Blade Runner 2049 (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Blade Runner 2049 (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AgSH6G7-wAJWO1iNzdsNbq#.mp4
-#EXTINF:-1 xui-id="92787" tvg-name="Del revés (2015)" tvg-logo="http://protocol.solanaflix.com:8080/images/27317781f347e1cb9734f3472f362aaf.jpg" group-title="PELÍCULAS EN ESPAÑOL",Del revés (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BASTc5l_RbPC-RlJqamwjv#.mp4
-#EXTINF:-1 xui-id="92786" tvg-name="Nomadland (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Nomadland (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DZBGiPrlyUB-QU3Dv_u9kq#.mp4
-#EXTINF:-1 xui-id="92783" tvg-name="Guardians of the Galaxy: Inferno (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Guardians of the Galaxy: Inferno (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_D8ZSGXD-yhKOPRz8jokcsJ#.mp4
-#EXTINF:-1 xui-id="92795" tvg-name="Batman Begins (2005)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Batman Begins (2005)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C1cGncHnVuI2MmXtefh_NA#.mp4
-#EXTINF:-1 xui-id="92785" tvg-name="A Quiet Place (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",A Quiet Place (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BMCzTqujqBseQNHUHMzQE0#.mp4
-#EXTINF:-1 xui-id="92774" tvg-name="Moana (2009)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Moana (2009)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DpW18Yck5gsUTY4X3Bw5zw#.mp4
-#EXTINF:-1 xui-id="92776" tvg-name="Déjame salir (2017)" tvg-logo="http://protocol.solanaflix.com:8080/images/ee5eaae1790d9c290a62e8503c444132.jpg" group-title="PELÍCULAS EN ESPAÑOL",Déjame salir (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AWNjKf9PL21OB3xl-pwMOu#.mp4
-#EXTINF:-1 xui-id="92762" tvg-name="Toy Story (1995)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Toy Story (1995)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CGb-CUlg91gtbMnkYO9S2v#.mp4
-#EXTINF:-1 xui-id="92803" tvg-name="Interestelar (2014)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Interestelar (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CkXtsJ4NprMXTTupDe8_vW#.mp4
-#EXTINF:-1 xui-id="92826" tvg-name="Spider-Man: Un nuevo universo (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Spider-Man: Un nuevo universo (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CYFBP8qFrHMO6TgpYuaxod#.mp4
-#EXTINF:-1 xui-id="92813" tvg-name="Harry Potter y el misterio del príncipe (2009)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Harry Potter y el misterio del príncipe (2009)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Apz4iZnZSIink1PC25zqwR#.mp4
-#EXTINF:-1 xui-id="92810" tvg-name="Spider-Man: Lejos de casa (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Spider-Man: Lejos de casa (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Ab-3Acb3UstFdCUbxjKgVj#.mp4
-#EXTINF:-1 xui-id="92824" tvg-name="La Liga de la Justicia de Zack Snyder (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",La Liga de la Justicia de Zack Snyder (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_B6vxIdaxtg8331TsKox8Ar#.mp4
-#EXTINF:-1 xui-id="92828" tvg-name="Guardianes de la galaxia Vol. 2 (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Guardianes de la galaxia Vol. 2 (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CMh_IFdMVOtcaQJZvdlZuR#.mp4
-#EXTINF:-1 xui-id="92834" tvg-name="X-Men: Apocalipsis (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",X-Men: Apocalipsis (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Ds62fjlIJzAC5Vcz18LTpO#.mp4
-#EXTINF:-1 xui-id="92808" tvg-name="Monstruos, S.A. (2001)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Monstruos, S.A. (2001)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DvrpyqDWGjRJY11qFFgD61#.mp4
-#EXTINF:-1 xui-id="92838" tvg-name="Mad Max: Furia en la carretera (2015)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Mad Max: Furia en la carretera (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AkOfvdu-9egP1BohgIEZp9#.mp4
-#EXTINF:-1 xui-id="92840" tvg-name="Marte (The Martian) (2015)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Marte (The Martian) (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CgGzwixxx91wFXiVz85fBA#.mp4
-#EXTINF:-1 xui-id="92809" tvg-name="Star Wars: Los últimos Jedi (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Star Wars: Los últimos Jedi (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DI0s1EnjkxS7lB0Dq8d1Jb#.mp4
-#EXTINF:-1 xui-id="92835" tvg-name="El caballero oscuro: La leyenda renace (2012)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El caballero oscuro: La leyenda renace (2012)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CjgNiOont9AVJkOsctow-k#.mp4
-#EXTINF:-1 xui-id="92817" tvg-name="Harry Potter y el cáliz de fuego (2005)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Harry Potter y el cáliz de fuego (2005)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DOeocni3OKHbfDuSi9UUj8#.mp4
-#EXTINF:-1 xui-id="92830" tvg-name="Los Increíbles (2004)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Los Increíbles (2004)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BaVrSAwAyWJV9Ul532lQ_h#.mp4
-#EXTINF:-1 xui-id="92816" tvg-name="Perdida (2014)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Perdida (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BWsmIvEQV77tVXDOGtxVf7#.mp4
-#EXTINF:-1 xui-id="92829" tvg-name="V/H/S (2012)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",V/H/S (2012)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DLc7PbuW7TrhmHoZLg8s8W#.mp4
-#EXTINF:-1 xui-id="92821" tvg-name="Kingsman: El círculo de oro (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Kingsman: El círculo de oro (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Ai1n9LxNOXFitem887Pp6N#.mp4
-#EXTINF:-1 xui-id="92836" tvg-name="Animales fantásticos y dónde encontrarlos (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Animales fantásticos y dónde encontrarlos (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BMaOWx4K0rBy1Kp2WtQRjU#.mp4
-#EXTINF:-1 xui-id="92820" tvg-name="Malditos bastardos (2009)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Malditos bastardos (2009)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AQD-97ymp7LFyyFiz8jV9g#.mp4
-#EXTINF:-1 xui-id="92806" tvg-name="Inception: The Cobol Job (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Inception: The Cobol Job (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BmfifEqKOow3-dVldNpNu-#.mp4
-#EXTINF:-1 xui-id="92807" tvg-name="Los juegos del hambre: En llamas (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Los juegos del hambre: En llamas (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DQYm7JDAfJ_NYSBJ7xG8rV#.mp4
-#EXTINF:-1 xui-id="92822" tvg-name="Jumanji: Bienvenidos a la jungla (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Jumanji: Bienvenidos a la jungla (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BlSTcIUgrVaaVM7kKu3-OP#.mp4
-#EXTINF:-1 xui-id="92812" tvg-name="Harry Potter y la Orden del Fénix (2007)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Harry Potter y la Orden del Fénix (2007)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AquOnMRxmuIWYdv3425aVg#.mp4
-#EXTINF:-1 xui-id="92818" tvg-name="Matrix (1999)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Matrix (1999)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AWQBljtwAq0pS7l30XmDhQ#.mp4
-#EXTINF:-1 xui-id="92825" tvg-name="Django desencadenado (2012)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Django desencadenado (2012)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Bkc0tDz2V0R6-Xg1uxUbib#.mp4
-#EXTINF:-1 xui-id="92833" tvg-name="Los juegos del hambre (2012)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Los juegos del hambre (2012)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CFklHOqtL6VD5xrb0Kt4gj#.mp4
-#EXTINF:-1 xui-id="92814" tvg-name="The Secret Life of Pets: 3 Mini-Movies Collection (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Secret Life of Pets: 3 Mini-Movies Collection (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C9_PR6_KGygQJbwpUcOnRU#.mp4
-#EXTINF:-1 xui-id="92823" tvg-name="The Soul of War: Making 'Hacksaw Ridge' (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Soul of War: Making 'Hacksaw Ridge' (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CJMjizV-Rhpw7LayhKyEEN#.mp4
-#EXTINF:-1 xui-id="92819" tvg-name="An Epic at Sea: The Making of 'Pirates of the Caribbean: The Curse of the Black Pearl' (2003)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",An Epic at Sea: The Making of 'Pirates of the Caribbean: The Curse of the Black Pearl' (2003)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BjIxpAyxOGBWw3oGqdZ-_y#.mp4
-#EXTINF:-1 xui-id="92837" tvg-name="Harry Potter y la piedra filosofal (2001)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Harry Potter y la piedra filosofal (2001)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AvOitLSa3A7pqXXB1mnL--#.mp4
-#EXTINF:-1 xui-id="92827" tvg-name="Thor: el mundo oscuro (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Thor: el mundo oscuro (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CgiWKWrnPcdG13sxZMyrup#.mp4
-#EXTINF:-1 xui-id="92815" tvg-name="Una joven prometedora (2020)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Una joven prometedora (2020)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BjfVMTzsoBUUrzjQRRxLqW#.mp4
-#EXTINF:-1 xui-id="92811" tvg-name="13 asesinos (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",13 asesinos (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CJhNcH_3p7YZPYA1t0Eyu9#.mp4
-#EXTINF:-1 xui-id="92841" tvg-name="Ahora me ves (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Ahora me ves (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DBizNvkLlbyctDbPyWSRsg#.mp4
-#EXTINF:-1 xui-id="92839" tvg-name="De amor y monstruos (2020)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",De amor y monstruos (2020)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CS7quGU5M2E9EKLe5sgLU0#.mp4
-#EXTINF:-1 xui-id="92832" tvg-name="Harry Potter y la cámara secreta (2002)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Harry Potter y la cámara secreta (2002)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CrP_GfIWBl6pujoOclJZQn#.mp4
-#EXTINF:-1 xui-id="92831" tvg-name="Raya y el último dragón (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Raya y el último dragón (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AYxJQEQ-ag--iPTr0KMRmk#.mp4
-#EXTINF:-1 xui-id="92877" tvg-name="1917 (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",1917 (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AUZi1k6TRiOdL63b-axLZ4#.mp4
-#EXTINF:-1 xui-id="92866" tvg-name="Ferry (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Ferry (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_B0PBy8dj3hOpBqfKjAwBxH#.mp4
-#EXTINF:-1 xui-id="92862" tvg-name="Dunkerque (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Dunkerque (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DS1bh-y3FaV7-kxm5Nco5b#.mp4
-#EXTINF:-1 xui-id="92854" tvg-name="Journey of Discovery: Creating Man of Steel (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PELÍCULAS EN ESPAÑOL",Journey of Discovery: Creating Man of Steel (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Cx6BC4HB2bH2LJ3cCChslg#.mp4
-#EXTINF:-1 xui-id="92869" tvg-name="Ant-Man y la Avispa (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Ant-Man y la Avispa (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DOcIZzH8j8nkl-9JvEAxTl#.mp4
-#EXTINF:-1 xui-id="92878" tvg-name="The Real American Sniper (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PELÍCULAS EN ESPAÑOL",The Real American Sniper (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DC6SF3qfDS9gSt75EQxA07#.mp4
-#EXTINF:-1 xui-id="92865" tvg-name="Infiltrados en la universidad (2014)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Infiltrados en la universidad (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CeImF8GsNKe5ZtAQQas49g#.mp4
-#EXTINF:-1 xui-id="92872" tvg-name="Frozen 2 (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Frozen 2 (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BhMKGkkpKCSirwb4Do8jVy#.mp4
-#EXTINF:-1 xui-id="92857" tvg-name="Brave (Indomable) (2012)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Brave (Indomable) (2012)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BOUsEICXE3odr2410j0siO#.mp4
-#EXTINF:-1 xui-id="92883" tvg-name="Los Croods: Una nueva era (2020)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Los Croods: Una nueva era (2020)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BK-6FTfpotGBz7qKBRZt35#.mp4
-#EXTINF:-1 xui-id="92876" tvg-name="Tenet (2020)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Tenet (2020)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C1fz0EDHg9ZK1EjEUHQ-rA#.mp4
-#EXTINF:-1 xui-id="92882" tvg-name="Tangled Up (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Tangled Up (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AFHrtGmAj0U7d9gzqRo8vz#.mp4
-#EXTINF:-1 xui-id="92856" tvg-name="Camino a la libertad (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Camino a la libertad (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BuCJszO-1ua0qBcw5LrbA3#.mp4
-#EXTINF:-1 xui-id="92858" tvg-name="Fast & Furious: Hobbs & Shaw (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Fast & Furious: Hobbs & Shaw (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AULWE9LLI395jUlcRIfmtd#.mp4
-#EXTINF:-1 xui-id="92863" tvg-name="Alita: Ángel de combate (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Alita: Ángel de combate (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_ABFPU7x2q8ToA8JpiarX-E#.mp4
-#EXTINF:-1 xui-id="92855" tvg-name="Objetivo: Washington D.C. (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Objetivo: Washington D.C. (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DudTTVmgMAkM6FhfyeTsbg#.mp4
-#EXTINF:-1 xui-id="92881" tvg-name="Los Croods (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Los Croods (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AQSjh95s9iGdaZPiXXwgpf#.mp4
-#EXTINF:-1 xui-id="92860" tvg-name="A World Unseen: The Revenant (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",A World Unseen: The Revenant (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BLHvVtD0jyTlUT0wV-EhUI#.mp4
-#EXTINF:-1 xui-id="92859" tvg-name="El corredor del laberinto: Las pruebas (2015)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El corredor del laberinto: Las pruebas (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CpkN9ssAXGoVFh7GxNm7so#.mp4
-#EXTINF:-1 xui-id="92867" tvg-name="Anna (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Anna (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CqHvIk-5M2znctaD7L_F77#.mp4
-#EXTINF:-1 xui-id="92874" tvg-name="Leo the Lion: King of the Jungle (1994)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Leo the Lion: King of the Jungle (1994)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AsF0mLndY_NJIFRHMNiD2C#.mp4
-#EXTINF:-1 xui-id="92870" tvg-name="La red social (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",La red social (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_A3h44S5XILkRT8urAL9NkC#.mp4
-#EXTINF:-1 xui-id="92875" tvg-name="Aladdín (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Aladdín (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BtWgqiSElTRJW4tFaHUEgN#.mp4
-#EXTINF:-1 xui-id="92879" tvg-name="Split (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Split (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_B-hmNZPdYl6Nzz3QnBYgbL#.mp4
-#EXTINF:-1 xui-id="92871" tvg-name="Figuras ocultas (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Figuras ocultas (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BEtJiCoI-x8_RfkoVHleHH#.mp4
-#EXTINF:-1 xui-id="92880" tvg-name="Infiltrados en clase (2012)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Infiltrados en clase (2012)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C32qANK_eJwQIE3K9EkKqI#.mp4
-#EXTINF:-1 xui-id="92873" tvg-name="Puñales por la espalda (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Puñales por la espalda (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_ALfitTxLfZPFQxpfoLGwsM#.mp4
-#EXTINF:-1 xui-id="92864" tvg-name="Passengers (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Passengers (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Aui80or5c6spZyv99k2JmG#.mp4
-#EXTINF:-1 xui-id="92861" tvg-name="Venom (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Venom (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BjoRBRo3XTLov7ucBU6JEJ#.mp4
-#EXTINF:-1 xui-id="92868" tvg-name="WALL·E: Batallón de limpieza (2008)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",WALL·E: Batallón de limpieza (2008)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AGVYcfK7ZdlegQlZuvFXmd#.mp4
-#EXTINF:-1 xui-id="92891" tvg-name="Expediente Warren: The Conjuring (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Expediente Warren: The Conjuring (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C6O0vXRluV59upPSt7chgV#.mp4
-#EXTINF:-1 xui-id="92886" tvg-name="World of Warcraft: Looking For Group (2014)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",World of Warcraft: Looking For Group (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_D1eHRw8PjN5BIopD97Oz8b#.mp4
-#EXTINF:-1 xui-id="92890" tvg-name="Vengadores: La era de Ultrón (2015)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Vengadores: La era de Ultrón (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Aj-TvgfcVBi_9URGcDMCRx#.mp4
-#EXTINF:-1 xui-id="92884" tvg-name="Capitana Marvel (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Capitana Marvel (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C4PRvMrWWMfkqdcGUbin5h#.mp4
-#EXTINF:-1 xui-id="92888" tvg-name="Expediente Warren: El caso Enfield (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Expediente Warren: El caso Enfield (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AsgAyL_wyTVLPC9cHA3xCG#.mp4
-#EXTINF:-1 xui-id="92887" tvg-name="Fast & Furious 8 (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Fast & Furious 8 (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Ak1LUH9-sx5gUZtgMtm8SR#.mp4
-#EXTINF:-1 xui-id="92889" tvg-name="The Amazing Spider-Man (2012)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Amazing Spider-Man (2012)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_A7ufkVW9ZDaoAre14bVrzk#.mp4
-#EXTINF:-1 xui-id="92892" tvg-name="Jason Bourne (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Jason Bourne (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_B2PdsR5sdDNwnHNFMSoT7b#.mp4
-#EXTINF:-1 xui-id="92885" tvg-name="Los siete magníficos (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Los siete magníficos (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DGOPds975g5rv1K4AiVwxD#.mp4
-#EXTINF:-1 xui-id="92897" tvg-name="Como la vida misma (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Como la vida misma (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CDE6rxHCVnSKNr0kGJm8Lm#.mp4
-#EXTINF:-1 xui-id="92894" tvg-name="The Rogue One: A Star Wars Toy Story (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PELÍCULAS EN ESPAÑOL",The Rogue One: A Star Wars Toy Story (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Dzn6A8SRE_lhLS40VEKBJn#.mp4
-#EXTINF:-1 xui-id="92896" tvg-name="Buscando a Nemo (2003)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Buscando a Nemo (2003)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Ahf8z2NKPDSXmMJ6Hduh4m#.mp4
-#EXTINF:-1 xui-id="92895" tvg-name="Buscando a Dory (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Buscando a Dory (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Dn1K9eoDGuhBB2jLf7Atgk#.mp4
-#EXTINF:-1 xui-id="92930" tvg-name="Regreso al futuro (1985)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Regreso al futuro (1985)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DjkdMfmjp1dn3zzkvvaiSu#.mp4
-#EXTINF:-1 xui-id="92922" tvg-name="Barbie: Moda Mágica en París (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Barbie: Moda Mágica en París (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_ClRT5yleGTfgnrT5lKFVLU#.mp4
-#EXTINF:-1 xui-id="92927" tvg-name="Dinero fácil (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Dinero fácil (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Ax8xgzI2PYqx_Gz8EYTAHZ#.mp4
-#EXTINF:-1 xui-id="92920" tvg-name="4 Lions (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",4 Lions (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_D_wDJ6gNG4bmQqzfMSh5NU#.mp4
-#EXTINF:-1 xui-id="92923" tvg-name="Remember Me in Red (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Remember Me in Red (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_A0gfR0dewxrvy7VJtTdjU3#.mp4
-#EXTINF:-1 xui-id="92929" tvg-name="Blue Valentine (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Blue Valentine (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CzrsZong09KZxf2Vr2YBgG#.mp4
-#EXTINF:-1 xui-id="92925" tvg-name="Siempre a mi lado (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Siempre a mi lado (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BDsOmKw4GP1l_8bX1yK8j2#.mp4
-#EXTINF:-1 xui-id="92919" tvg-name="Minions: Redecorando la casa (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Minions: Redecorando la casa (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DmRBZYDFVvRRsKg3boW_iI#.mp4
-#EXTINF:-1 xui-id="92917" tvg-name="Barbie en Una Aventura de Sirenas (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Barbie en Una Aventura de Sirenas (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_D4mq1NxCjMLzdJxpc0xsS_#.mp4
-#EXTINF:-1 xui-id="92924" tvg-name="22 balas (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",22 balas (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DlJjnC-waoKw-CqxsRn22P#.mp4
-#EXTINF:-1 xui-id="92928" tvg-name="Capitán América: El soldado de invierno (2014)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Capitán América: El soldado de invierno (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C8QF6BEg4rlXEWVkCEnh-M#.mp4
-#EXTINF:-1 xui-id="92921" tvg-name="How to Train Your Dragon - Legends (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",How to Train Your Dragon - Legends (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CNSgDFCjPR4ojpb7386ydA#.mp4
-#EXTINF:-1 xui-id="92918" tvg-name="John Wick Chapter 2: Wick-vizzed (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",John Wick Chapter 2: Wick-vizzed (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_D3GODWjvFOkOgt2fxOsQ1K#.mp4
-#EXTINF:-1 xui-id="92926" tvg-name="A First Look at Batman: Under the Red Hood (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PELÍCULAS EN ESPAÑOL",A First Look at Batman: Under the Red Hood (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_B_Bj4y4onqIe-hDWZWrAfC#.mp4
-#EXTINF:-1 xui-id="92935" tvg-name="Tucker & Dale contra el mal (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Tucker & Dale contra el mal (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CLuws0pTo-VF5E1y1BhV6h#.mp4
-#EXTINF:-1 xui-id="92956" tvg-name="Coco (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Coco (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BiZk5mMbTQ5TBWeXw_NRBo#.mp4
-#EXTINF:-1 xui-id="92965" tvg-name="Ga'Hoole: La leyenda de los guardianes (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Ga'Hoole: La leyenda de los guardianes (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DuCIgEq23boqx8zZvqnAUF#.mp4
-#EXTINF:-1 xui-id="92972" tvg-name="Pequeño gran guerrero (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Pequeño gran guerrero (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DgPZeS-2L_kgo4PdsWwlQz#.mp4
-#EXTINF:-1 xui-id="92942" tvg-name="Star Wars: El despertar de la fuerza (2015)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Star Wars: El despertar de la fuerza (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BiAnxkxEM1vSbRF5GrGyMn#.mp4
-#EXTINF:-1 xui-id="92934" tvg-name="Don't Let Me Drown (2009)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Don't Let Me Drown (2009)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CrRGrGdddfoTg3NQC2Wb1R#.mp4
-#EXTINF:-1 xui-id="92958" tvg-name="127 horas (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",127 horas (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DEWDgwvpCpwwTtKBFslKtt#.mp4
-#EXTINF:-1 xui-id="92962" tvg-name="Senna (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Senna (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DYe9CLf2tdwYIGbfVo_SxR#.mp4
-#EXTINF:-1 xui-id="92950" tvg-name="Arrietty y el mundo de los diminutos (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Arrietty y el mundo de los diminutos (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C2p10KNMr73Uf5PQQ_NB7g#.mp4
-#EXTINF:-1 xui-id="92946" tvg-name="La conspiración (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",La conspiración (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CUlURu8oW9NtiCtPW9RwDq#.mp4
-#EXTINF:-1 xui-id="92943" tvg-name="El hombre sin pasado (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El hombre sin pasado (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_D2ZSddKKfOPEKnsHST_-Xc#.mp4
-#EXTINF:-1 xui-id="92931" tvg-name="RED (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",RED (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C8ejhIeF3cmGXhLB8GNS6v#.mp4
-#EXTINF:-1 xui-id="92945" tvg-name="The Boss Baby and Tim's Treasure Hunt Through Time (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Boss Baby and Tim's Treasure Hunt Through Time (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BjuhQviIZ_zhfgC3ejJkQ8#.mp4
-#EXTINF:-1 xui-id="92954" tvg-name="The Illusionist (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PELÍCULAS EN ESPAÑOL",The Illusionist (2009)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AXV4pLI7Yr_yDurVi4hcTF#.mp4
-#EXTINF:-1 xui-id="92968" tvg-name="El espía inglés (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El espía inglés (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CRjjf8FOcWuepXrvs0-ytq#.mp4
-#EXTINF:-1 xui-id="92970" tvg-name="El hobbit: Un viaje inesperado (2012)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El hobbit: Un viaje inesperado (2012)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_D7tLWtG7a-_9Pldeis6eCf#.mp4
-#EXTINF:-1 xui-id="92932" tvg-name="Invicto 3: Redención (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Invicto 3: Redención (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BQfbRzg9l-0MWYycApsgtc#.mp4
-#EXTINF:-1 xui-id="92933" tvg-name="Megamind (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Megamind (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_D0U5STHnFiSjxwEJcKmyPH#.mp4
-#EXTINF:-1 xui-id="92951" tvg-name="The Town Christmas Forgot (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Town Christmas Forgot (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DQl02ILxVwSfzll2Y48kG7#.mp4
-#EXTINF:-1 xui-id="92952" tvg-name="Las aventuras de Sammy (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Las aventuras de Sammy (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CwP-8m2dzH_JmMs2xIh82l#.mp4
-#EXTINF:-1 xui-id="92971" tvg-name="Colorful (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Colorful (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CROUjychTp_HLiB-_3jhHZ#.mp4
-#EXTINF:-1 xui-id="92949" tvg-name="Spider-Man: Homecoming (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Spider-Man: Homecoming (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CGdPcisRZjEOi3wLN08CNn#.mp4
-#EXTINF:-1 xui-id="92948" tvg-name="El camino del guerrero (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El camino del guerrero (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BKwpwSewD8dE0FVBKUxnHB#.mp4
-#EXTINF:-1 xui-id="92936" tvg-name="El perfecto anfitrión (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El perfecto anfitrión (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BABVSW4SPkIylQfmmtf_tz#.mp4
-#EXTINF:-1 xui-id="92969" tvg-name="El señor de los anillos: El retorno del rey (2003)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El señor de los anillos: El retorno del rey (2003)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DAeJCmoQyV7nuA0Gt1CzkZ#.mp4
-#EXTINF:-1 xui-id="92961" tvg-name="En un mundo mejor (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",En un mundo mejor (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C7fUkH7tYaRLpgfuVoyixv#.mp4
-#EXTINF:-1 xui-id="92937" tvg-name="Encontré al diablo (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Encontré al diablo (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C2czyrEgjBodf7OfEJNHZ4#.mp4
-#EXTINF:-1 xui-id="92940" tvg-name="Shutter Island (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Shutter Island (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BCLDc-b2CgwUkoGq-h1wKK#.mp4
-#EXTINF:-1 xui-id="92941" tvg-name="El hobbit: La desolación de Smaug (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El hobbit: La desolación de Smaug (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AVJGxoQBaqP19sGjocdoi-#.mp4
-#EXTINF:-1 xui-id="92944" tvg-name="El señor de los anillos: La comunidad del anillo (2001)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El señor de los anillos: La comunidad del anillo (2001)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_A1MYtzLtgj7mLWmvzarpM_#.mp4
-#EXTINF:-1 xui-id="92963" tvg-name="Ahora me ves 2 (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Ahora me ves 2 (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AL7MQSBMyP1tVvLISVXXQ2#.mp4
-#EXTINF:-1 xui-id="92967" tvg-name="Kingsman: The Secret Service Revealed (2015)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Kingsman: The Secret Service Revealed (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Deueergfb0xB-kU1gvCMow#.mp4
-#EXTINF:-1 xui-id="92964" tvg-name="The Real King's Speech (2011)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Real King's Speech (2011)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C2IYBkP0RSwIMiN9e1T5Dt#.mp4
-#EXTINF:-1 xui-id="92959" tvg-name="El señor de los anillos: Las dos torres (2002)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El señor de los anillos: Las dos torres (2002)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Cenz2YRfGLJuNYfodG6NCm#.mp4
-#EXTINF:-1 xui-id="92966" tvg-name="Valor de ley (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Valor de ley (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BkOKpf8t-3yzvCxvoLPFZK#.mp4
-#EXTINF:-1 xui-id="92939" tvg-name="X-Men: Días del futuro pasado (2014)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",X-Men: Días del futuro pasado (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CpXsxdsCIOGdd3PxSajimp#.mp4
-#EXTINF:-1 xui-id="92973" tvg-name="Una historia casi divertida (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Una historia casi divertida (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DmuZJ9T_OQNpfKK21pxCV2#.mp4
-#EXTINF:-1 xui-id="92953" tvg-name="La verdad oculta (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",La verdad oculta (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BYVbbHoVTIj2WIOiLRr1ju#.mp4
-#EXTINF:-1 xui-id="92955" tvg-name="Star Trek: Más allá (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Star Trek: Más allá (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BrOK94rGwJY6emWJun3Wm-#.mp4
-#EXTINF:-1 xui-id="92947" tvg-name="Amor y otras drogas (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Amor y otras drogas (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AV5R6J3kV3BqTb3-SSjxvD#.mp4
-#EXTINF:-1 xui-id="92938" tvg-name="The Company Men (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Company Men (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C_0bafJO9u6XYWYJUTa3SR#.mp4
-#EXTINF:-1 xui-id="92957" tvg-name="Minions: Cachorro (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Minions: Cachorro (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Dcm-xoFDHRfM-7Ez-W-_7J#.mp4
-#EXTINF:-1 xui-id="92960" tvg-name="Restrepo (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Restrepo (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BmLAlxL6vKLgzvGu9TEhJ1#.mp4
-#EXTINF:-1 xui-id="93862" tvg-name="Los próximos tres días (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Los próximos tres días (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C5VdmmLz8lnwc0tN7KcZUS#.mp4
-#EXTINF:-1 xui-id="93861" tvg-name="Betty Anne Waters (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Betty Anne Waters (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CGK3FSdLPTtewZDAwhlo1Q#.mp4
-#EXTINF:-1 xui-id="93863" tvg-name="Bohemian Rhapsody (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Bohemian Rhapsody (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Ad8KkQ4tet0OUYslMwalSD#.mp4
-#EXTINF:-1 xui-id="93859" tvg-name="Capitán América: Civil War (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Capitán América: Civil War (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DKu9y5A6sXpKqyA1Ay_2xp#.mp4
-#EXTINF:-1 xui-id="93864" tvg-name="El caballero oscuro (2008)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El caballero oscuro (2008)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DbMFIfDzIn7DQ-Sa2cbotX#.mp4
-#EXTINF:-1 xui-id="93865" tvg-name="Jugada perfecta (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Jugada perfecta (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BWwzTZXziVRbPjwVJZsIYy#.mp4
-#EXTINF:-1 xui-id="93860" tvg-name="Imparable (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Imparable (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DZJkaD0bz-fLdCslmeHn2i#.mp4
-#EXTINF:-1 xui-id="94422" tvg-name="Incendies (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Incendies (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Dzd-UlzJmErRgyFPAEdlaT#.mp4
-#EXTINF:-1 xui-id="94420" tvg-name="Edge of Tomorrow: Weapons of the Future (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PELÍCULAS EN ESPAÑOL",Edge of Tomorrow: Weapons of the Future (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_D0mGjlHClN5VlXihPYcLID#.mp4
-#EXTINF:-1 xui-id="94423" tvg-name="Tenías que ser tú (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Tenías que ser tú (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CSwLuuXvL5J_Rs9KtuMh5O#.mp4
-#EXTINF:-1 xui-id="94421" tvg-name="Rumores y mentiras (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Rumores y mentiras (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CNtQsbYU1KWauq7I0t0XZF#.mp4
-#EXTINF:-1 xui-id="94425" tvg-name="Toy Story 3 (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Toy Story 3 (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BLh-wFSlrLCLnN_Tn4Xcc4#.mp4
-#EXTINF:-1 xui-id="94430" tvg-name="Campanilla y el gran rescate (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Campanilla y el gran rescate (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DVWcfNBXo1wEHbiw4a1D7e#.mp4
-#EXTINF:-1 xui-id="94428" tvg-name="El camino (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El camino (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CnCzVyXlF_dSnfftPxwA52#.mp4
-#EXTINF:-1 xui-id="94426" tvg-name="American Assassin (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",American Assassin (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_A0pZMD_hbcyRSiwjhKyWIR#.mp4
-#EXTINF:-1 xui-id="94431" tvg-name="Nunca me abandones (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Nunca me abandones (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DVv15gQgAaHzr78XD7Qohd#.mp4
-#EXTINF:-1 xui-id="94429" tvg-name="Manhattan sin salida (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Manhattan sin salida (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AKIO_VFlFmMN-SNNWyhTuM#.mp4
-#EXTINF:-1 xui-id="94432" tvg-name="El escritor (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El escritor (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AMjBk-6DxaEb-9MW1_615O#.mp4
-#EXTINF:-1 xui-id="94433" tvg-name="Jumanji: siguiente nivel (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Jumanji: siguiente nivel (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Cz4eliOKhl68HRKokMuQvR#.mp4
-#EXTINF:-1 xui-id="94427" tvg-name="Las aventuras de Tintín: El secreto del unicornio (2011)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Las aventuras de Tintín: El secreto del unicornio (2011)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C7PeGX4dnvmTlCUPasE5K_#.mp4
-#EXTINF:-1 xui-id="94440" tvg-name="Hotel Transilvania 3: Unas vacaciones monstruosas (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Hotel Transilvania 3: Unas vacaciones monstruosas (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DSZ6bfNpXfcFWpELWWK8xY#.mp4
-#EXTINF:-1 xui-id="94449" tvg-name="Destino oculto (2011)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Destino oculto (2011)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_B7vQHvXxNHleab-w7IoVpa#.mp4
-#EXTINF:-1 xui-id="94446" tvg-name="Sing Street (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Sing Street (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DZIojV5ODIxfKPzG_xdMeg#.mp4
-#EXTINF:-1 xui-id="94455" tvg-name="Fast & Furious 7 (2015)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Fast & Furious 7 (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CUbljyPnP_NlWC_Z8hwmF5#.mp4
-#EXTINF:-1 xui-id="94453" tvg-name="Mi nombre es Khan (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Mi nombre es Khan (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DFicLfCtejcN35cbaIBznh#.mp4
-#EXTINF:-1 xui-id="94445" tvg-name="The League of Gentlemen - Live Again! (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The League of Gentlemen - Live Again! (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_ADESNZhbBrpMepvlHL8NQS#.mp4
-#EXTINF:-1 xui-id="94438" tvg-name="El libro de Eli (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El libro de Eli (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CFJfQNluNWWP4DVXzJ8Ez8#.mp4
-#EXTINF:-1 xui-id="94448" tvg-name="Secretariat (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Secretariat (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_A1Gv0fx5W9m_N4T53IyMFl#.mp4
-#EXTINF:-1 xui-id="94450" tvg-name="The Artist (2011)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Artist (2011)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DfESdQ9iomZ9P_27BgfjHy#.mp4
-#EXTINF:-1 xui-id="94442" tvg-name="El amanecer del planeta de los simios (2014)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El amanecer del planeta de los simios (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_A_g6zPr18XL06mc2j73ZFJ#.mp4
-#EXTINF:-1 xui-id="94454" tvg-name="Detective Dee y el misterio de la llama fantasma (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Detective Dee y el misterio de la llama fantasma (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_D8g9Vlv4fJW0EsJZDxhdqR#.mp4
-#EXTINF:-1 xui-id="94435" tvg-name="Abominable (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Abominable (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AuebWkeu-dXFbv4PJ_tVSN#.mp4
-#EXTINF:-1 xui-id="94447" tvg-name="Bumblebee (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Bumblebee (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CDr7CEQxb9KkQma7AJbdPq#.mp4
-#EXTINF:-1 xui-id="94434" tvg-name="Gravity (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Gravity (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Akmq5J7VLpeiHAlyfVPCQu#.mp4
-#EXTINF:-1 xui-id="94444" tvg-name="Un espía y medio (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Un espía y medio (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CnU7OWmYtJ1GvqIi54lyRn#.mp4
-#EXTINF:-1 xui-id="94441" tvg-name="About Time (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",About Time (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_A8Wqg_RIU4KpjLPrhQdOTL#.mp4
-#EXTINF:-1 xui-id="94451" tvg-name="Winter's Bone (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Winter's Bone (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CcxQ71dpVM3ZSZn2o5f5BQ#.mp4
-#EXTINF:-1 xui-id="94452" tvg-name="Hotel Transilvania (2012)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Hotel Transilvania (2012)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BtJ6q_De8fjaioJz9JFZKk#.mp4
-#EXTINF:-1 xui-id="94436" tvg-name="2 Guns (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",2 Guns (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_ASuOjHPe90LtU8-PvjWuAz#.mp4
-#EXTINF:-1 xui-id="94443" tvg-name="Black and Blue (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Black and Blue (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DH4_Zm0QSnWeFyLkD-ZWpE#.mp4
-#EXTINF:-1 xui-id="94456" tvg-name="Milagro azul (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Milagro azul (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DxQFrRpNSHOwqEy37K6zOk#.mp4
-#EXTINF:-1 xui-id="94437" tvg-name="Ramona y su hermana (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Ramona y su hermana (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_D-V7k38viCXzDVg6YPj3Ot#.mp4
-#EXTINF:-1 xui-id="94439" tvg-name="Barry Seal: el traficante (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Barry Seal: el traficante (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_A7wWozfcR7PbS7ctMGGmGi#.mp4
-#EXTINF:-1 xui-id="94457" tvg-name="Érase una vez en… Hollywood (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Érase una vez en… Hollywood (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_A961Pqn0qwd2E3f4ge1iiM#.mp4
-#EXTINF:-1 xui-id="94481" tvg-name="Caramel Coffee Jelly Frappuccino Light Blended Coffee (2009)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Caramel Coffee Jelly Frappuccino Light Blended Coffee (2009)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DAwnAq6JRyV_fPGI1aq_zg#.mp4
-#EXTINF:-1 xui-id="94482" tvg-name="The Secret Life of Kyle (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Secret Life of Kyle (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AKu3Xeok_8SCx8uMmtpmPZ#.mp4
-#EXTINF:-1 xui-id="94460" tvg-name="Sonic the Hedgehog - Around the World in 80 Seconds (2020)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Sonic the Hedgehog - Around the World in 80 Seconds (2020)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CmiLcpgRXMnvpSrpGE4fkt#.mp4
-#EXTINF:-1 xui-id="94468" tvg-name="El hobbit: La batalla de los cinco ejércitos (2014)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El hobbit: La batalla de los cinco ejércitos (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AeXU6LNoURU8ONwW03U5t0#.mp4
-#EXTINF:-1 xui-id="94471" tvg-name="El pasajero (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El pasajero (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CJ4TwluWiaHgFzkRcl_Om9#.mp4
-#EXTINF:-1 xui-id="94458" tvg-name="La llamada de lo salvaje (2020)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",La llamada de lo salvaje (2020)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CE-MbU632AIyeKkZOCZza1#.mp4
-#EXTINF:-1 xui-id="94465" tvg-name="Lluvia de albóndigas 2 (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Lluvia de albóndigas 2 (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AdTpeOKlO2otVTbC_OFwcR#.mp4
-#EXTINF:-1 xui-id="94466" tvg-name="Birdman (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PELÍCULAS EN ESPAÑOL",Birdman (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Cub3t8rbA2QMKTHrX1kpva#.mp4
-#EXTINF:-1 xui-id="94484" tvg-name="El otro guardaespaldas (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El otro guardaespaldas (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BxdAiVxs8EA3dxi9qeEKuu#.mp4
-#EXTINF:-1 xui-id="94462" tvg-name="Los Increíbles 2 (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Los Increíbles 2 (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BlvR7nwYsT2detve7SbcaH#.mp4
-#EXTINF:-1 xui-id="94476" tvg-name="Amenazados (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Amenazados (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_D3LY66pabNwTasCcZ0hmtw#.mp4
-#EXTINF:-1 xui-id="94480" tvg-name="Misión imposible: Fallout (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Misión imposible: Fallout (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DsHpFBBvPEWu_VFaTVnbP1#.mp4
-#EXTINF:-1 xui-id="94459" tvg-name="La boda de mi mejor amiga (2011)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",La boda de mi mejor amiga (2011)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_A7tGjJWc4xmV0IpZWJKoYK#.mp4
-#EXTINF:-1 xui-id="94472" tvg-name="El gran showman (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El gran showman (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DTmoo9ulGy71nekbqCl1t1#.mp4
-#EXTINF:-1 xui-id="94474" tvg-name="Argo (2012)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Argo (2012)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_A6pT1FYFWVsx-Y0exJZ29V#.mp4
-#EXTINF:-1 xui-id="94473" tvg-name="Spank the Banker (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PELÍCULAS EN ESPAÑOL",Spank the Banker (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DJKiCR1IWl0QZLXmBL76ck#.mp4
-#EXTINF:-1 xui-id="94467" tvg-name="Acto de valor (2012)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Acto de valor (2012)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CkFCI_U2g1ol_fY2Rh9bsq#.mp4
-#EXTINF:-1 xui-id="94469" tvg-name="The Mauritanian (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Mauritanian (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AjkTSKBu80aXvF4Bz55BE1#.mp4
-#EXTINF:-1 xui-id="94475" tvg-name="Le Mans '66 (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Le Mans '66 (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_D1geZiKG_EudX3P8mUI7Zo#.mp4
-#EXTINF:-1 xui-id="94483" tvg-name="Insidious (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Insidious (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Ajjt5QYjJ_0YuvfQp0XbmK#.mp4
-#EXTINF:-1 xui-id="94470" tvg-name="TRON: Legacy (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",TRON: Legacy (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DgRplo94FgAeVLfIrBqDwj#.mp4
-#EXTINF:-1 xui-id="94478" tvg-name="El atlas de las nubes (2012)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El atlas de las nubes (2012)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Adh9dk1B7BCqZ-dmKEfO-q#.mp4
-#EXTINF:-1 xui-id="94464" tvg-name="Judges Creed (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PELÍCULAS EN ESPAÑOL",Judges Creed (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BTGOlmad3ZBVf0NkvqPHTe#.mp4
-#EXTINF:-1 xui-id="94461" tvg-name="Jojo Rabbit (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Jojo Rabbit (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AR35dWNAP3PXqMlxEzKcnq#.mp4
-#EXTINF:-1 xui-id="94479" tvg-name="Judas y el Mesías Negro (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Judas y el Mesías Negro (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_B5A6l8cMUazOMKChFwINF0#.mp4
-#EXTINF:-1 xui-id="94463" tvg-name="Trolls 2: Gira mundial (2020)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Trolls 2: Gira mundial (2020)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DElxYF1PcaXxAFI3dNa-qC#.mp4
-#EXTINF:-1 xui-id="94477" tvg-name="Bestias del sur salvaje (2012)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Bestias del sur salvaje (2012)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C_RQ48PDL5Fc-3yEMZbP_h#.mp4
-#EXTINF:-1 xui-id="94486" tvg-name="¡Shazam! (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",¡Shazam! (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Dhhu9ROdSWgxxg-bW1MROM#.mp4
-#EXTINF:-1 xui-id="94487" tvg-name="Begin Again (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Begin Again (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BqBNb_FEMJdKeYPnQO2rXn#.mp4
-#EXTINF:-1 xui-id="94485" tvg-name="The Glass Room (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Glass Room (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AYgsqpDROPlZWFkkFtKPkE#.mp4
-#EXTINF:-1 xui-id="94490" tvg-name="Infiltrado en el KKKlan (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Infiltrado en el KKKlan (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Ct_o_jL5tDn5vab65ok6rg#.mp4
-#EXTINF:-1 xui-id="94488" tvg-name="Toy Story 4 (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Toy Story 4 (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_D-CqLuoJzqzhp-fm_HkApt#.mp4
-#EXTINF:-1 xui-id="94489" tvg-name="Black Swan: Metamorphosis (2011)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Black Swan: Metamorphosis (2011)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BIiJ3Yk1PthinW0aKPaFTW#.mp4
-#EXTINF:-1 xui-id="94495" tvg-name="El camino: una película de Breaking Bad (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El camino: una película de Breaking Bad (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BOgIvQBn6lcM6bKK7NVeVr#.mp4
-#EXTINF:-1 xui-id="94496" tvg-name="Antes del anochecer (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Antes del anochecer (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CzwbC_Q4UPEQe2Yku2Zmmp#.mp4
-#EXTINF:-1 xui-id="94497" tvg-name="The Making of 'Scott Pilgrim vs. the World' (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Making of 'Scott Pilgrim vs. the World' (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_A8uotHZvosTuo-EShbKGhh#.mp4
-#EXTINF:-1 xui-id="94500" tvg-name="Creed II: la leyenda de Rocky (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Creed II: la leyenda de Rocky (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DK7q6UW_JcGxIem8Q4Tawk#.mp4
-#EXTINF:-1 xui-id="94501" tvg-name="12 años de esclavitud (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",12 años de esclavitud (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AoqwYVH6LyyTeOQS9jvuPB#.mp4
-#EXTINF:-1 xui-id="94499" tvg-name="La cabaña en el bosque (2012)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",La cabaña en el bosque (2012)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_D4SjKyEA4DqjJVJESKuLnk#.mp4
-#EXTINF:-1 xui-id="94505" tvg-name="Fast & Furious 5 (2011)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Fast & Furious 5 (2011)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CiwGhQphkILQ4o1f8X_TVw#.mp4
-#EXTINF:-1 xui-id="94502" tvg-name="Thor (2011)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Thor (2011)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Db4H67sZb8L01CBOET88zg#.mp4
-#EXTINF:-1 xui-id="94498" tvg-name="Chappie (2015)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Chappie (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_D7qvn6M0SpMnihaV00LvKk#.mp4
-#EXTINF:-1 xui-id="94504" tvg-name="Un amigo extraordinario (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Un amigo extraordinario (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_A6UKy55HEiFFdzHlyEx5N6#.mp4
-#EXTINF:-1 xui-id="94503" tvg-name="Captain America: The First Avenger - The Transformation (2011)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Captain America: The First Avenger - The Transformation (2011)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_A5Yg7lXnRcWRsQYvGofz7V#.mp4
-#EXTINF:-1 xui-id="94507" tvg-name="Ip Man 2 (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Ip Man 2 (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C7PxNUPpJJNKQBt83hCJn6#.mp4
-#EXTINF:-1 xui-id="94506" tvg-name="Cartas a Julieta (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Cartas a Julieta (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CvI0D67ra4S7SNpVfBUHcz#.mp4
-#EXTINF:-1 xui-id="94508" tvg-name="Biutiful (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Biutiful (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DHgxmj0JOKnI0XSl7Ovwkx#.mp4
-#EXTINF:-1 xui-id="94509" tvg-name="Mr. Church (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Mr. Church (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BINcLqPfqO8BO8vdqp-RgN#.mp4
-#EXTINF:-1 xui-id="94524" tvg-name="Batman: El regreso del Caballero Oscuro, Parte 1 (2012)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Batman: El regreso del Caballero Oscuro, Parte 1 (2012)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CCsROFbI7xPkOJoSdwUItO#.mp4
-#EXTINF:-1 xui-id="94519" tvg-name="Contratiempo (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Contratiempo (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_ACRBK_HAgOg9qAiu1onZZD#.mp4
-#EXTINF:-1 xui-id="94513" tvg-name="A Silent Voice (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",A Silent Voice (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AfjsQD86ApaNV5rzjZq8QU#.mp4
-#EXTINF:-1 xui-id="94520" tvg-name="Retrato de una mujer en llamas (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Retrato de una mujer en llamas (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BooAFHCUY9rsDtLYEhHnVV#.mp4
-#EXTINF:-1 xui-id="94516" tvg-name="Your name (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Your name (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Dv8k9nRTHKv92VcjT6iFPt#.mp4
-#EXTINF:-1 xui-id="94512" tvg-name="Tu mejor amigo (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Tu mejor amigo (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BXTGNkXCAiSi60sDWlXDGJ#.mp4
-#EXTINF:-1 xui-id="94510" tvg-name="Batman: El regreso del Caballero Oscuro, Parte 2 (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Batman: El regreso del Caballero Oscuro, Parte 2 (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_D9ec0rd_juz7fw_gNFEonG#.mp4
-#EXTINF:-1 xui-id="94518" tvg-name="El tiempo contigo (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El tiempo contigo (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Dc4hmiB3i_btGyLxQBwY37#.mp4
-#EXTINF:-1 xui-id="94514" tvg-name="Cuestión de justicia (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Cuestión de justicia (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DSUBE9C47SYBB4s81XcuSE#.mp4
-#EXTINF:-1 xui-id="94515" tvg-name="El arte de vivir bajo la lluvia (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El arte de vivir bajo la lluvia (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_ArFrufwEJwW7DPngYDwY-8#.mp4
-#EXTINF:-1 xui-id="94517" tvg-name="Whiplash (2014)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Whiplash (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AmvnfKrL87HeGXd8XtVPyH#.mp4
-#EXTINF:-1 xui-id="94511" tvg-name="Las ventajas de ser un marginado (2012)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Las ventajas de ser un marginado (2012)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BWnPhtoipAgDx4MrYrRT7N#.mp4
-#EXTINF:-1 xui-id="94523" tvg-name="Llámame por tu nombre (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Llámame por tu nombre (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_D__RGTzMsBUih-fujDqyRF#.mp4
-#EXTINF:-1 xui-id="94521" tvg-name="Con amor, Simon (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Con amor, Simon (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_A_bhMuaLekS1scifdOurkD#.mp4
-#EXTINF:-1 xui-id="94522" tvg-name="Prisioneros (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Prisioneros (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AfS-kZMTEETHX_jYwL0aPi#.mp4
-#EXTINF:-1 xui-id="94525" tvg-name="La canción del mar (2014)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",La canción del mar (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C9taBfmRcl_jNopL9kaER2#.mp4
-#EXTINF:-1 xui-id="94529" tvg-name="The Hunt (2012)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Hunt (2012)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CyJXvcCmqPAl-Dyz1GLQVZ#.mp4
-#EXTINF:-1 xui-id="94526" tvg-name="A dos metros de ti (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",A dos metros de ti (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CwNbe14evKu4lan3180mMq#.mp4
-#EXTINF:-1 xui-id="94530" tvg-name="Wonder (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Wonder (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_A24y1svDxVQ8DQsato0fqD#.mp4
-#EXTINF:-1 xui-id="94527" tvg-name="Re-Gifted (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Re-Gifted (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_D-sIgURNQ0C6FXm0_NIx_w#.mp4
-#EXTINF:-1 xui-id="94528" tvg-name="Her (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Her (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_B-cCUnIjD6frF9iF1bqRpt#.mp4
-#EXTINF:-1 xui-id="94533" tvg-name="Dallas Buyers Club (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Dallas Buyers Club (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BP1AGrk5FZuVielulQTvAx#.mp4
-#EXTINF:-1 xui-id="94532" tvg-name="Warrior (2011)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Warrior (2011)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Db1rgA9f1uSRu2ERW37SvF#.mp4
-#EXTINF:-1 xui-id="94534" tvg-name="Wolfwalkers (2020)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Wolfwalkers (2020)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C0F8r9meMd4DojUvuLl4QN#.mp4
-#EXTINF:-1 xui-id="94531" tvg-name="Togo (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Togo (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C6nVjsLYl6rwunwS_DiZn_#.mp4
-#EXTINF:-1 xui-id="94535" tvg-name="Blackfish (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Blackfish (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DjXgJNF6WpJ1aDNo-tbsgQ#.mp4
-#EXTINF:-1 xui-id="94538" tvg-name="La sombra del pasado (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",La sombra del pasado (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CST_JyS2SCDF3CGk9AGCwe#.mp4
-#EXTINF:-1 xui-id="94541" tvg-name="Un gato callejero llamado Bob (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Un gato callejero llamado Bob (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_D0hwF5WPK4cWZz8uoYxy8B#.mp4
-#EXTINF:-1 xui-id="94537" tvg-name="El gran hotel Budapest (2014)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El gran hotel Budapest (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AB9j_MtfYCbKf2bugPcx6H#.mp4
-#EXTINF:-1 xui-id="94536" tvg-name="Rush (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Rush (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CVxUNZXthaWulU-xmfSBU0#.mp4
-#EXTINF:-1 xui-id="94539" tvg-name="Wolfskinder (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Wolfskinder (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CPK4fz4bivT8MCFyT_Ydtb#.mp4
-#EXTINF:-1 xui-id="94540" tvg-name="Green Room (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Green Room (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DSgn14ePslUMAIO8moOxjQ#.mp4
-#EXTINF:-1 xui-id="94542" tvg-name="Loving Vincent (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Loving Vincent (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CYdvrhMov1ADu0ArUoa7NG#.mp4
-#EXTINF:-1 xui-id="94545" tvg-name="El niño y la bestia (2015)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El niño y la bestia (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DgKDR98dBRawDJDlUMVNTi#.mp4
-#EXTINF:-1 xui-id="94547" tvg-name="Animales fantásticos: Los crímenes de Grindelwald (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Animales fantásticos: Los crímenes de Grindelwald (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CvDCrnL-lR9w7z1JyyPgmO#.mp4
-#EXTINF:-1 xui-id="94548" tvg-name="Mommy (2014)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Mommy (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Dto7qcwOClFCZ_W5BQme3_#.mp4
-#EXTINF:-1 xui-id="94549" tvg-name="Nader y Simin, una separación (2011)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Nader y Simin, una separación (2011)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_ChT9btER6k9KWr3mHm2IHW#.mp4
-#EXTINF:-1 xui-id="94546" tvg-name="Los milagros del cielo (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Los milagros del cielo (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BTKrzdGfYpdHRmJ82_H6Wo#.mp4
-#EXTINF:-1 xui-id="94543" tvg-name="Kong: La isla calavera (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Kong: La isla calavera (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AaWT5aRpoRjT2tV7R-4sUv#.mp4
-#EXTINF:-1 xui-id="94552" tvg-name="Maquia: Una historia de amor inmortal (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Maquia: Una historia de amor inmortal (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CpOxSHHh5U4rN3sDROybmQ#.mp4
-#EXTINF:-1 xui-id="94550" tvg-name="World War Three: Inside the War Room (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",World War Three: Inside the War Room (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_D2BGsppLA9zpnBgTvIC4aW#.mp4
-#EXTINF:-1 xui-id="94551" tvg-name="Kubo y las dos cuerdas mágicas (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Kubo y las dos cuerdas mágicas (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AKsAlWp7YPChfq0Btb8rgi#.mp4
-#EXTINF:-1 xui-id="94544" tvg-name="El cuento de la princesa Kaguya (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El cuento de la princesa Kaguya (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C6Wan1LDOF-eHbgASkTN5A#.mp4
-#EXTINF:-1 xui-id="94553" tvg-name="Ayla, la hija de la guerra (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Ayla, la hija de la guerra (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Cqh1C10q3kRC14b6V8Wf3W#.mp4
-#EXTINF:-1 xui-id="94554" tvg-name="Flipped (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Flipped (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CdkMVUGGWDmcgdLKjwar_E#.mp4
-#EXTINF:-1 xui-id="94557" tvg-name="Blanco escurridizo (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Blanco escurridizo (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BitXhXRP5-H3Hh23qSGzCY#.mp4
-#EXTINF:-1 xui-id="94558" tvg-name="La última canción (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",La última canción (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AxutHEo5WJhBlf1oruIeon#.mp4
-#EXTINF:-1 xui-id="94556" tvg-name="The Fighter (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Fighter (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DZcgaE6CC1kFVmRdaAIVsI#.mp4
-#EXTINF:-1 xui-id="94562" tvg-name="Clouds (2020)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Clouds (2020)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DCQP9v77cvDhKdfErbgMU7#.mp4
-#EXTINF:-1 xui-id="94561" tvg-name="Un hombre llamado Ove (2015)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Un hombre llamado Ove (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_ACfNtt8pWT_rQDoQASaAUw#.mp4
-#EXTINF:-1 xui-id="94559" tvg-name="Way Down (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Way Down (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CRTGhB6Ky3-VZ3Xm0qaKFr#.mp4
-#EXTINF:-1 xui-id="94560" tvg-name="Lion (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Lion (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AjB3wVbJeNJQFywwxTziQz#.mp4
-#EXTINF:-1 xui-id="94563" tvg-name="The equalizer (El protector) (2014)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The equalizer (El protector) (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CA3vj1jy8_JE0E_wjhIPm9#.mp4
-#EXTINF:-1 xui-id="94564" tvg-name="La canción de mi padre (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",La canción de mi padre (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CQinnWqTt5D8iTgzLBbMB8#.mp4
-#EXTINF:-1 xui-id="94565" tvg-name="Animal Kingdom (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Animal Kingdom (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CsizKhkire4Wv9JjSptCwQ#.mp4
-#EXTINF:-1 xui-id="94566" tvg-name="Contagion (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Contagion (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AEyriPKDcw4CUA4WQjYXPH#.mp4
-#EXTINF:-1 xui-id="94567" tvg-name="Hotel Transilvania 2 (2015)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Hotel Transilvania 2 (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DWIXvSh-nW7fa9_yVKTmmQ#.mp4
-#EXTINF:-1 xui-id="94568" tvg-name="Greyhound Attack (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Greyhound Attack (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DWw_wLh_9F191G7LDDcm9R#.mp4
-#EXTINF:-1 xui-id="94575" tvg-name="El mundo según Barney (2010)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El mundo según Barney (2010)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Aqnh52D3cbQubhfUiQQu6k#.mp4
-#EXTINF:-1 xui-id="94572" tvg-name="It (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",It (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_A3XpXxwLSQ23IRBsGDHEIK#.mp4
-#EXTINF:-1 xui-id="94574" tvg-name="Justice Society: World War II (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Justice Society: World War II (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_B2YpN_BTG2cF3nAfiZs8Qy#.mp4
-#EXTINF:-1 xui-id="94573" tvg-name="Harry Potter y las Reliquias de la Muerte - Parte 2 (2011)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Harry Potter y las Reliquias de la Muerte - Parte 2 (2011)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AUE-tsWxnKv9uMesosALow#.mp4
-#EXTINF:-1 xui-id="94576" tvg-name="El odio que das (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El odio que das (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BnnAfsDEXTZnoUPGW7MkkR#.mp4
-#EXTINF:-1 xui-id="94578" tvg-name="Los Mitchell contra las máquinas (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Los Mitchell contra las máquinas (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BxKZBlJcpa3po8uA4stxP-#.mp4
-#EXTINF:-1 xui-id="94579" tvg-name="The Mockingjay Lives: The Making of the Hunger Games: Mockingjay Part 1 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PELÍCULAS EN ESPAÑOL",The Mockingjay Lives: The Making of the Hunger Games: Mockingjay Part 1 (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DHu2hgZSW1wBFcnDz2Et7X#.mp4
-#EXTINF:-1 xui-id="94581" tvg-name="La leyenda de Klaus (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",La leyenda de Klaus (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CGM5FKrfn6toU86tC5yChA#.mp4
-#EXTINF:-1 xui-id="94582" tvg-name="The Lion King: Can You Feel The Love Tonight with Robin Roberts (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Lion King: Can You Feel The Love Tonight with Robin Roberts (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AVDbQMmgaShSy-bm30rQ6X#.mp4
-#EXTINF:-1 xui-id="94577" tvg-name="En un lugar salvaje (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",En un lugar salvaje (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AvAqMZqC8HqgGSaxR8TmaZ#.mp4
-#EXTINF:-1 xui-id="94580" tvg-name="El especial navideño de la Guerra de las Galaxias (The Star Wars Holiday Special) (1978)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El especial navideño de la Guerra de las Galaxias (The Star Wars Holiday Special) (1978)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DSKE8Euar7SeDZKRnpG_HI#.mp4
-#EXTINF:-1 xui-id="94583" tvg-name="Imagining Zootopia (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Imagining Zootopia (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CBoPHa7OxkldCOF63tJGn3#.mp4
-#EXTINF:-1 xui-id="94589" tvg-name="Cenicienta (2015)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Cenicienta (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DXtQe5VekH2ZqQy2UEeRRM#.mp4
-#EXTINF:-1 xui-id="94588" tvg-name="The Helpers (2012)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Helpers (2012)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Cmis8l9bDShk2CdAl4BtOo#.mp4
-#EXTINF:-1 xui-id="94584" tvg-name="12 valientes (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",12 valientes (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_B3rsWXaVvRQzNeo_yLlMXE#.mp4
-#EXTINF:-1 xui-id="94586" tvg-name="Crazy, Stupid, Love (2011)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Crazy, Stupid, Love (2011)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_B0UwA0OfTjyCONASx11acv#.mp4
-#EXTINF:-1 xui-id="94585" tvg-name="¡Rompe Ralph! (2012)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",¡Rompe Ralph! (2012)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DRtqNM5mwinujJSc39HXyB#.mp4
-#EXTINF:-1 xui-id="94587" tvg-name="Green Book (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Green Book (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_A4cfuMJ0g5-bD-LKeJzi7x#.mp4
-#EXTINF:-1 xui-id="94591" tvg-name="The Imitation Game (Descifrando Enigma) (2014)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Imitation Game (Descifrando Enigma) (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CUC0amvhB9l8OXmoUuOZNM#.mp4
-#EXTINF:-1 xui-id="94590" tvg-name="Intocable (2011)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Intocable (2011)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DN61EvGEWlMojAIZ1s2jv1#.mp4
-#EXTINF:-1 xui-id="94592" tvg-name="American Hustle Life (2014)" tvg-logo="http://protocol.solanaflix.com:8080/images/84532d649dbd063ac827e748e8b9257a.jpg" group-title="PELÍCULAS EN ESPAÑOL",American Hustle Life (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DCA90HbCz3-2C3UTeXVSKT#.mp4
-#EXTINF:-1 xui-id="94594" tvg-name="Cherry (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Cherry (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DlSmrZiNNM27R1Acw7syiy#.mp4
-#EXTINF:-1 xui-id="94595" tvg-name="El dragón de los deseos (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El dragón de los deseos (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_ClXq9eK1ECtusg9RKzW_Vi#.mp4
-#EXTINF:-1 xui-id="94610" tvg-name="Luca (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Luca (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AgLLKNKJmASOzJtYfnhU1N#.mp4
-#EXTINF:-1 xui-id="94611" tvg-name="Colombiana (2011)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Colombiana (2011)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DmfJcq57E8V1bdjkS9AdZB#.mp4
-#EXTINF:-1 xui-id="94613" tvg-name="Ser padre (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Ser padre (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DyTpQz4xJ4EDXMjjH3KW4j#.mp4
-#EXTINF:-1 xui-id="94614" tvg-name="Kenshin, el guerrero samurái: El final (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Kenshin, el guerrero samurái: El final (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CI5RFbe8RYTjutQluS30Kr#.mp4
-#EXTINF:-1 xui-id="94616" tvg-name="Perfect Pitch (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PELÍCULAS EN ESPAÑOL",Perfect Pitch (2012)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_B0DufU12Ek-qfMprTnrzFH#.mp4
-#EXTINF:-1 xui-id="94619" tvg-name="The Big Short (2015)" tvg-logo="http://protocol.solanaflix.com:8080/images/76e6dfb1cd349f1bda2405a543d1bbfb.jpg" group-title="PELÍCULAS EN ESPAÑOL",The Big Short (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_A0ZbpdKBUa5C9eh1jyC4QU#.mp4
-#EXTINF:-1 xui-id="94626" tvg-name="The Ice Road (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Ice Road (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DKn9fbrOzcAKST1JIek5BI#.mp4
-#EXTINF:-1 xui-id="94629" tvg-name="Maléfica: Maestra del mal (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Maléfica: Maestra del mal (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_D1lqp1CbINgtdhBeh1WosI#.mp4
-#EXTINF:-1 xui-id="94634" tvg-name="X-Men: Primera Generación (2011)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",X-Men: Primera Generación (2011)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Cjd4EMRo7tU0H_6Y1i505x#.mp4
-#EXTINF:-1 xui-id="94635" tvg-name="Spectre (2015)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Spectre (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Bn4TrAHCESrnZ37xcjHH-U#.mp4
-#EXTINF:-1 xui-id="94630" tvg-name="Enola Holmes (2020)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Enola Holmes (2020)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_A8esQzAaKAEfFb8yQCp9fl#.mp4
-#EXTINF:-1 xui-id="94639" tvg-name="Cómo entrenar a tu dragón 3 (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Cómo entrenar a tu dragón 3 (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DvuAv_yURyl6t8VwCzcZPi#.mp4
-#EXTINF:-1 xui-id="94632" tvg-name="Los descendientes (2015)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Los descendientes (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Bdv5wmlL__Byidqs_98U-d#.mp4
-#EXTINF:-1 xui-id="94633" tvg-name="Piratas del Caribe: La venganza de Salazar (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Piratas del Caribe: La venganza de Salazar (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Boc5IyvXMBJwLFJ3ZqLrDg#.mp4
-#EXTINF:-1 xui-id="94638" tvg-name="Cars 3 (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Cars 3 (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BhWNek0IYO1kZRn7uwiIhT#.mp4
-#EXTINF:-1 xui-id="94637" tvg-name="Piratas del Caribe: En mareas misteriosas (2011)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Piratas del Caribe: En mareas misteriosas (2011)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BFSrFQtwe683VOSV7EH5cb#.mp4
-#EXTINF:-1 xui-id="94631" tvg-name="Kung Fu Panda 3 (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Kung Fu Panda 3 (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Dv6fOn1rYMMur2gmtJK72f#.mp4
-#EXTINF:-1 xui-id="94636" tvg-name="Divergente (2014)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Divergente (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DK4Y1ET7iLnGQuRFkMSTii#.mp4
-#EXTINF:-1 xui-id="94640" tvg-name="Los Minions (2015)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Los Minions (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DmZMgyYwoBj9KqtH02MkNr#.mp4
-#EXTINF:-1 xui-id="94641" tvg-name="Palmer (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Palmer (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BD5wAhOa_NPAX0qM81KDww#.mp4
-#EXTINF:-1 xui-id="94644" tvg-name="Misión imposible: Protocolo fantasma (2011)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Misión imposible: Protocolo fantasma (2011)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CCZqD2eZVh59BryzXuwNd5#.mp4
-#EXTINF:-1 xui-id="94643" tvg-name="13 horas: los soldados secretos de Bengasi (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",13 horas: los soldados secretos de Bengasi (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_ALcUrC8ybj6FddZBQqhhpW#.mp4
-#EXTINF:-1 xui-id="94645" tvg-name="The Tomorrow War (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Tomorrow War (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AOSFE2U0MTvP3QtQRiKnt-#.mp4
-#EXTINF:-1 xui-id="94647" tvg-name="Game Night (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Game Night (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CoH6O9RcQMmxPbi9ZDgKir#.mp4
-#EXTINF:-1 xui-id="94646" tvg-name="Atómica (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Atómica (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BSJN2hgbNlaMN6URjPelKi#.mp4
-#EXTINF:-1 xui-id="94649" tvg-name="Young Hearts (2020)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Young Hearts (2020)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BAZUY-t6EtFqWD_vTgk0p8#.mp4
-#EXTINF:-1 xui-id="94651" tvg-name="Chicos buenos (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Chicos buenos (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AOc0XkiPelAScNPsIsRy5N#.mp4
-#EXTINF:-1 xui-id="94653" tvg-name="Peter Rabbit (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Peter Rabbit (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Bkz9kdS6UCuBr8ZH-PDgFU#.mp4
-#EXTINF:-1 xui-id="94652" tvg-name="Prometheus (2012)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Prometheus (2012)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Cz55WPafLnrqWLyIBLDBkt#.mp4
-#EXTINF:-1 xui-id="94654" tvg-name="Moneymaker – Behind Black Widow (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PELÍCULAS EN ESPAÑOL",Moneymaker – Behind Black Widow (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Dix0-SninNYcUzP9fMz0xF#.mp4
-#EXTINF:-1 xui-id="94655" tvg-name="Peter Rabbit 2: A la fuga (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Peter Rabbit 2: A la fuga (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CUFru5h3Rfefiuqoc5KA_j#.mp4
-#EXTINF:-1 xui-id="94656" tvg-name="The Invisible Man (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Invisible Man (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AS1HT-VBrobqinb2c_miEX#.mp4
-#EXTINF:-1 xui-id="94663" tvg-name="Monstruos University (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Monstruos University (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AgvTuhVo33mSXoqTIWsD5N#.mp4
-#EXTINF:-1 xui-id="94664" tvg-name="La vieja guardia (2020)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",La vieja guardia (2020)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Czw9PDKlYjSnFqbIVVrkfY#.mp4
-#EXTINF:-1 xui-id="94665" tvg-name="La calle del terror, Parte 2: 1978 (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",La calle del terror, Parte 2: 1978 (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BqGhMXO5psvatM0ilEYG6z#.mp4
-#EXTINF:-1 xui-id="94667" tvg-name="La vida de Adèle (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",La vida de Adèle (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DWXb_0yoaTzxSoexa-GiWa#.mp4
-#EXTINF:-1 xui-id="94670" tvg-name="La Purga: Infinita (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",La Purga: Infinita (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C0boa9pKOFg3uiAWL-40N9#.mp4
-#EXTINF:-1 xui-id="94673" tvg-name="Star Trek: En la oscuridad (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Star Trek: En la oscuridad (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BhL1yQBaVcOg35uSBH_n1U#.mp4
-#EXTINF:-1 xui-id="94672" tvg-name="Despierta la furia (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Despierta la furia (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AjMuhiuCFfW-i3RVTiyGqz#.mp4
-#EXTINF:-1 xui-id="94678" tvg-name="Han Solo: Una historia de Star Wars (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Han Solo: Una historia de Star Wars (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CWd2ofou2teVNjqyEVWphw#.mp4
-#EXTINF:-1 xui-id="94676" tvg-name="Onward (2020)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Onward (2020)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CeDF-RORMP2RDNiJ-GZCPY#.mp4
-#EXTINF:-1 xui-id="94675" tvg-name="Yesterday (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Yesterday (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AUi0ZL3LZlFIq1xmdHUyQc#.mp4
-#EXTINF:-1 xui-id="94677" tvg-name="Ralph rompe Internet (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Ralph rompe Internet (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DrrhzkmASEE9GNvT_9BhIM#.mp4
-#EXTINF:-1 xui-id="94674" tvg-name="Relatos salvajes (2014)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Relatos salvajes (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DQ1gLnCl2VfZ7IGTolo4si#.mp4
-#EXTINF:-1 xui-id="94679" tvg-name="The Equalizer 2 (El protector 2) (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Equalizer 2 (El protector 2) (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AjVm1wJpmz5sxIhJgR14RS#.mp4
-#EXTINF:-1 xui-id="94681" tvg-name="Jóvenes titanes: el contrato de Judas (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Jóvenes titanes: el contrato de Judas (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DE8t_Si5j-687oRiQ9pdGd#.mp4
-#EXTINF:-1 xui-id="94680" tvg-name="Making The Irishman (2020)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Making The Irishman (2020)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C2Vbz9EEnP-SmnIXRLHckM#.mp4
-#EXTINF:-1 xui-id="94682" tvg-name="Spirit - Indomable (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Spirit - Indomable (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_ANb4amMqza-FdzLgyvwxdu#.mp4
-#EXTINF:-1 xui-id="94685" tvg-name="Midsommar (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Midsommar (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BawiSmtu_5fACGhrXMlXiy#.mp4
-#EXTINF:-1 xui-id="94684" tvg-name="La calle del terror - Parte 3: 1666 (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",La calle del terror - Parte 3: 1666 (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AJyukNfoXaGr5TwL6wC8UM#.mp4
-#EXTINF:-1 xui-id="95134" tvg-name="No respires (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",No respires (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Ca4GAELFE0Ut2lG2mjWHDI#.mp4
-#EXTINF:-1 xui-id="95140" tvg-name="Batman: El Largo Halloween, Parte 2 (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Batman: El Largo Halloween, Parte 2 (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C8on6whqHbf-ffl5wizL5z#.mp4
-#EXTINF:-1 xui-id="95141" tvg-name="Jungle Cruise (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Jungle Cruise (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BYGoTp_Tsn3FZbCelCVqNG#.mp4
-#EXTINF:-1 xui-id="95143" tvg-name="Sicario (2015)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Sicario (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Blox64QQza2275SXmPNTB1#.mp4
-#EXTINF:-1 xui-id="95152" tvg-name="One Brick at a Time: Making the LEGO Batman Movie (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",One Brick at a Time: Making the LEGO Batman Movie (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Bl8Xyu7TkcYBMJ5dS2UVkF#.mp4
-#EXTINF:-1 xui-id="95154" tvg-name="El Escuadrón Suicida (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El Escuadrón Suicida (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CSVi_1XaT7SGXP-KWw4VMs#.mp4
-#EXTINF:-1 xui-id="95838" tvg-name="Trolls (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Trolls (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Du_iEqb38yY4qplbo4acZH#.mp4
-#EXTINF:-1 xui-id="95846" tvg-name="Coda (2020)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Coda (2020)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CB_XP4aISjLAaagqBG_GCC#.mp4
-#EXTINF:-1 xui-id="95847" tvg-name="Vivo (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Vivo (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CMwUksIn_h2sR9Uqy0nY7P#.mp4
-#EXTINF:-1 xui-id="95848" tvg-name="La LEGO película (2014)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",La LEGO película (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C-WcXGFe8ldR5C6PF08lJn#.mp4
-#EXTINF:-1 xui-id="95911" tvg-name="Una casa de locos: La película (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Una casa de locos: La película (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DmzMEq6QQb5HSLtMulpcWp#.mp4
-#EXTINF:-1 xui-id="95912" tvg-name="Disobedience (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Disobedience (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AK-Go3bgvcLpg2pFhjBSCU#.mp4
-#EXTINF:-1 xui-id="95913" tvg-name="The Witcher: La pesadilla del lobo (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Witcher: La pesadilla del lobo (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CHeR1-VeBZA-to0_BiRd22#.mp4
-#EXTINF:-1 xui-id="95914" tvg-name="Dune (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Dune (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AUkvfaCnQL6s27PCAfbt3p#.mp4
-#EXTINF:-1 xui-id="95915" tvg-name="Gorrión rojo (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Gorrión rojo (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DPQokQV5W2rVbn2a4maE7a#.mp4
-#EXTINF:-1 xui-id="95916" tvg-name="Oblivion (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Oblivion (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DnWBSE-aupQmMKG4sR5JKn#.mp4
-#EXTINF:-1 xui-id="95933" tvg-name="Doce huérfanos (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Doce huérfanos (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_D2dF7Xq1C47Nvj9GxJzRCz#.mp4
-#EXTINF:-1 xui-id="95934" tvg-name="AOC: A Star Is Born (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",AOC: A Star Is Born (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DrjwMXvyBXAcgf6tob4s1X#.mp4
-#EXTINF:-1 xui-id="95935" tvg-name="No Respires 2 (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",No Respires 2 (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C4JfulaXh1ZNt7i6f5G0ol#.mp4
-#EXTINF:-1 xui-id="95936" tvg-name="Mortal Kombat Leyendas: La Batalla de los Reinos (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Mortal Kombat Leyendas: La Batalla de los Reinos (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Az_h_F4n_V8h-3MM6FYJVF#.mp4
-#EXTINF:-1 xui-id="95937" tvg-name="Amigos pasajeros (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Amigos pasajeros (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DIjMB7yzRRM8mmIGTtmU7e#.mp4
-#EXTINF:-1 xui-id="95939" tvg-name="Escape Room 2: Mueres por salir (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Escape Room 2: Mueres por salir (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DdfUvwGNpwx6IASZ2MI9YW#.mp4
-#EXTINF:-1 xui-id="95940" tvg-name="Kate (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Kate (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BNj9AqpNtQbAg0Cn41srde#.mp4
-#EXTINF:-1 xui-id="95941" tvg-name="Worth (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Worth (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CgqQtjXZ9NgNWDWF6jTLrx#.mp4
-#EXTINF:-1 xui-id="96379" tvg-name="Jack Reacher: Nunca vuelvas atrás (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Jack Reacher: Nunca vuelvas atrás (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C-MI-ii_Ki-Odh9orqfcOE#.mp4
-#EXTINF:-1 xui-id="96389" tvg-name="In Time (2011)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",In Time (2011)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CMK2S0j3oKXqleTuIZeNkY#.mp4
-#EXTINF:-1 xui-id="96390" tvg-name="Culpable (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Culpable (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_C1EP1Nyj8AR_4wg0LrjQ94#.mp4
-#EXTINF:-1 xui-id="96396" tvg-name="Rey Arturo: la leyenda de Excalibur (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Rey Arturo: la leyenda de Excalibur (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AHOX-b0Tb2A5m4hTvYqvHc#.mp4
-#EXTINF:-1 xui-id="96397" tvg-name="Free Guy (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Free Guy (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CIn9-QPJ8nu0pYY9bxZU1C#.mp4
-#EXTINF:-1 xui-id="96398" tvg-name="Misión imposible: Nación secreta (2015)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Misión imposible: Nación secreta (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BZutpUmuHImc5WLvwzReJu#.mp4
-#EXTINF:-1 xui-id="96410" tvg-name="My Little Pony: Una nueva generación (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",My Little Pony: Una nueva generación (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Bmp3lVkhW2D6gf3OhzgXqY#.mp4
-#EXTINF:-1 xui-id="96412" tvg-name="Los Santos Del La Mafia (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Los Santos Del La Mafia (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Aw3-oRnQJsROWjM8_do50s#.mp4
-#EXTINF:-1 xui-id="96413" tvg-name="Hereditary (2018)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Hereditary (2018)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DPRsL8EbPl1cEF2FZa9Wr-#.mp4
-#EXTINF:-1 xui-id="96417" tvg-name="Old Henry (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Old Henry (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CL4uXRuyklfblIOMti_haI#.mp4
-#EXTINF:-1 xui-id="96418" tvg-name="The Night House (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Night House (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AYnTcwwg4KhvXc5eX8oviG#.mp4
-#EXTINF:-1 xui-id="96874" tvg-name="Drive (2011)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Drive (2011)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CcxUZYYEYQ2lF1A7LiMA5z#.mp4
-#EXTINF:-1 xui-id="96875" tvg-name="Bone Tomahawk (2015)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Bone Tomahawk (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DXuc06ViGpOwEshMqcxQKs#.mp4
-#EXTINF:-1 xui-id="96876" tvg-name="La patrulla canina: la película (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",La patrulla canina: la película (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AAmOvsqkwPfWNThX1wQnOk#.mp4
-#EXTINF:-1 xui-id="96877" tvg-name="Injustice (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Injustice (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DwVHLewv-YTT_fDPq00X6N#.mp4
-#EXTINF:-1 xui-id="96878" tvg-name="Where No One Goes: The Making of How to Train Your Dragon 2 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PELÍCULAS EN ESPAÑOL",Where No One Goes: The Making of How to Train Your Dragon 2 (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BiUWluPFxm_yXmSEdjEBF3#.mp4
-#EXTINF:-1 xui-id="96882" tvg-name="Angry Birds: La película (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Angry Birds: La película (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AYP9Zzcdv92dLxOvLFY9FG#.mp4
-#EXTINF:-1 xui-id="96883" tvg-name="Los Muppets en Haunted Mansion (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Los Muppets en Haunted Mansion (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DXBsMPsFfSsANtmRqy_hDl#.mp4
-#EXTINF:-1 xui-id="96884" tvg-name="Todos hablan de Jamie (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Todos hablan de Jamie (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DsUhVZ-tzN3o_5qEqxuvQD#.mp4
-#EXTINF:-1 xui-id="96893" tvg-name="La protegida (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",La protegida (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Dsc42bh3VK-7-KjY5bchja#.mp4
-#EXTINF:-1 xui-id="96898" tvg-name="Gunpowder Milkshake (Cóctel explosivo) (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Gunpowder Milkshake (Cóctel explosivo) (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CNFZbTPGa6umRBth3eH_bR#.mp4
-#EXTINF:-1 xui-id="96906" tvg-name="Gunpowder Milkshake (2021)" tvg-logo="http://protocol.solanaflix.com:8080/images/d2d791b6c742043132f30fbbd435f72f.jpg" group-title="PELÍCULAS EN ESPAÑOL",Gunpowder Milkshake (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AgDDUvKWxuAem1IflHzzMZ#.mp4
-#EXTINF:-1 xui-id="96907" tvg-name="Midway (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Midway (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DmayR0jBEBdSjjw80w-Tt4#.mp4
-#EXTINF:-1 xui-id="98019" tvg-name="Finch (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Finch (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DWpTw0e2gMgLKy2T1kXcBQ#.mp4
-#EXTINF:-1 xui-id="98021" tvg-name="Alerta roja (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Alerta roja (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_CYuJybXKim6ils58eTGTeh#.mp4
-#EXTINF:-1 xui-id="98031" tvg-name="Doctor Sueño (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Doctor Sueño (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_DBz_Hjmab0N2zyYPVjsIUE#.mp4
-#EXTINF:-1 xui-id="98032" tvg-name="Shang-Chi y la leyenda de los Diez Anillos (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Shang-Chi y la leyenda de los Diez Anillos (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_Cbwj8YA15_jNff3QdCxAxn#.mp4
-#EXTINF:-1 xui-id="98034" tvg-name="Way Down (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Way Down (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AaR4Y0VdPwWu4vtIw7pslG#.mp4
-#EXTINF:-1 xui-id="98036" tvg-name="Ciao Alberto (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Ciao Alberto (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BTdf0dxpJW9HAtfNiiSLAe#.mp4
-#EXTINF:-1 xui-id="98037" tvg-name="Violet Evergarden: La película (2020)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Violet Evergarden: La película (2020)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_AYJptpJbMiAq08nsCmj5Bs#.mp4
-#EXTINF:-1 xui-id="98041" tvg-name="Maléfica (2014)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Maléfica (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_BGDQYrrZ3Y3DJRv6XaxmNR#.mp4
-#EXTINF:-1 xui-id="99441" tvg-name="El juego de Ender (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",El juego de Ender (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5HedHU-6XXP6FUHaV-ppcK_A9Cv-VyIa7eZ0Kh-PohxAP#.mp4
-#EXTINF:-1 xui-id="101664" tvg-name="Dos padres por desigual (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Dos padres por desigual (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5Hb_Kv-1bs8FT6IV3zgUHeYPQpxV9SyNGbylRULn31-Er#.mp4
-#EXTINF:-1 xui-id="101683" tvg-name="Last Christmas (2019)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Last Christmas (2019)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5Hb_Kv-1bs8FT6IV3zgUHeYMDI-1Hc77Svj5DYWCWDv0x#.mp4
-#EXTINF:-1 xui-id="101684" tvg-name="Fiesta de empresa (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Fiesta de empresa (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5Hb_Kv-1bs8FT6IV3zgUHeYMQBwEVoCbRk_O9B36mVN_Z#.mp4
-#EXTINF:-1 xui-id="101702" tvg-name="Straight Outta Compton (2015)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Straight Outta Compton (2015)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5Hb_Kv-1bs8FT6IV3zgUHeYN1A6BmTM4qjnReNHItlnOB#.mp4
-#EXTINF:-1 xui-id="101703" tvg-name="Capitán Phillips (2013)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Capitán Phillips (2013)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5Hb_Kv-1bs8FT6IV3zgUHeYMQAy5NXxKovcTT7diZikAU#.mp4
-#EXTINF:-1 xui-id="102305" tvg-name="Encanto (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Encanto (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5Hb_Kv-1bs8FT6IV3zgUHeYN2zTtZ9MEguJ9xXcHIpXrP#.mp4
-#EXTINF:-1 xui-id="102306" tvg-name="Swan Song (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Swan Song (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5Hb_Kv-1bs8FT6IV3zgUHeYPC9UHBoNOnw92gKhUx9Tbi#.mp4
-#EXTINF:-1 xui-id="102308" tvg-name="Daddy's Home (2014)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Daddy's Home (2014)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5Hb_Kv-1bs8FT6IV3zgUHeYMa5Qzm9bJFrtF_-lesi0sk#.mp4
-#EXTINF:-1 xui-id="102309" tvg-name="Bob Esponja: Historia Marina (2017)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Bob Esponja: Historia Marina (2017)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5Hb_Kv-1bs8FT6IV3zgUHeYPdYq2XMoCdlkUMLW1l8xgg#.mp4
-#EXTINF:-1 xui-id="102315" tvg-name="Resident Evil: Bienvenidos a Raccoon City (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Resident Evil: Bienvenidos a Raccoon City (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5Hb_Kv-1bs8FT6IV3zgUHeYO5gKFMPI2vJp8NxwBiYDvE#.mp4
-#EXTINF:-1 xui-id="102319" tvg-name="Ice Age: El gran cataclismo (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Ice Age: El gran cataclismo (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5Hb_Kv-1bs8FT6IV3zgUHeYNsKLb-26ODRjosJAZIKs2F#.mp4
-#EXTINF:-1 xui-id="102322" tvg-name="The Tragedy of Macbeth (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Tragedy of Macbeth (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5Hb_Kv-1bs8FT6IV3zgUHeYOp3ZFe4WkbnYQxa8oX46DC#.mp4
-#EXTINF:-1 xui-id="102332" tvg-name="Hierve (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Hierve (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5Hb_Kv-1bs8FT6IV3zgUHeYNHgTu9kx-aqsGFUKUxQOA4#.mp4
-#EXTINF:-1 xui-id="102345" tvg-name="La chica del tren (2016)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",La chica del tren (2016)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5Hb_Kv-1bs8FT6IV3zgUHeYNquT7_6AT6b7ngfd-edOwK#.mp4
-#EXTINF:-1 xui-id="102352" tvg-name="La Casa Gucci (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",La Casa Gucci (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5Hb_Kv-1bs8FT6IV3zgUHeYPiURXFCWCl3Bs-W-iV_1xt#.mp4
-#EXTINF:-1 xui-id="102354" tvg-name="Los ojos de Tammy Faye (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Los ojos de Tammy Faye (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5Hb_Kv-1bs8FT6IV3zgUHeYOwsrntb5T6XxTQDf2m0OA7#.mp4
-#EXTINF:-1 xui-id="102761" tvg-name="The Fallout (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",The Fallout (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5Hb_Kv-1bs8FT6IV3zgUHeYNyPGodVAqvxamsXmxsn-ij#.mp4
-#EXTINF:-1 xui-id="102769" tvg-name="Madres paralelas (2021)" tvg-logo="" group-title="PELÍCULAS EN ESPAÑOL",Madres paralelas (2021)
-http://valina.solanaflix.com:8080/play/8hofdWDElusFe2lS-EL5Hb_Kv-1bs8FT6IV3zgUHeYPwXNRi_AGdoy-Rz4HbowHN#.mp4
+#EXTINF:-1 xui-id="" tvg-id="La 2 HD" tvg-name="LA 2" tvg-logo="" group-title="TDT",LA 2 
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4788
+
+
+#EXTINF:-1 xui-id="" tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3" tvg-logo="" group-title="TDT",ANTENA 3 
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4791
+
+
+#EXTINF:-1 xui-id="" tvg-id="CUATRO HD" tvg-name="CUATRO" tvg-logo="" group-title="TDT",CUATRO 
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4794
+
+
+#EXTINF:-1 xui-id="" tvg-id="TELECINCO HD" tvg-name="TELECINCO" tvg-logo="" group-title="TDT",TELECINCO 
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4797
+
+
+#EXTINF:-1 xui-id="" tvg-id="LA SEXTA HD" tvg-name="LA SEXTA" tvg-logo="" group-title="TDT",LA SEXTA 
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4800
+
+
+#EXTINF:-1 xui-id="" tvg-id="Discovery MAX" tvg-name="DMAX" tvg-logo="" group-title="TDT",DMAX
+http://805nb.top:8000/8ee177/25YtSU1F74/478
+
+
+#EXTINF:-1 xui-id="" tvg-id="BE MAD" tvg-name="BE MAD" tvg-logo="" group-title="TDT",BEMAD 
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4805
+
+
+#EXTINF:-1 xui-id="" tvg-id="ENERGY" tvg-name="ENERGY" tvg-logo="" group-title="TDT",ENERGY 
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4817
+
+
+#EXTINF:-1 xui-id="" tvg-id="Mega HD" tvg-name="MEGA" tvg-logo="" group-title="TDT",MEGA 
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4826
+
+
+#EXTINF:-1 xui-id="" tvg-id="NEOX" tvg-name="NEOX" tvg-logo="" group-title="TDT",NEOX
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4811
+
+#EXTINF:-1 xui-id="" tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="" group-title="TDT",PARAMOUNT NETWORK
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4894
+
+
+
+####MOVISTAR+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="PORTADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="MOVISTAR+",PORTADA
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4784
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="#0 HD" tvg-name="0#" tvg-logo="" group-title="MOVISTAR+",0#
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4829
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="M.ESTRENOS HD" tvg-name="ESTRENOS" tvg-logo="" group-title="MOVISTAR+",ESTRENOS
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4846
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. ESTRENOS 2 HD" tvg-name="ESTRENOS 2" tvg-logo="" group-title="MOVISTAR+",ESTRENOS 2
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4849
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. ACCION HD" tvg-name="ACCION" tvg-logo="" group-title="MOVISTAR+",ACCION
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4843
+
+
+#EXTINF:-1 xui-id="" tvg-id="M.COMEDIA HD" tvg-name="COMEDIA" tvg-logo="" group-title="MOVISTAR+",COMEDIA
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4855
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. DRAMA HD" tvg-name="DRAMA" tvg-logo="" group-title="MOVISTAR+",DRAMA
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4858
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. CLÁSICOS HD" tvg-name="CLASICOS" tvg-logo="" group-title="MOVISTAR+",CLÁSICOS
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4852
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. Cine Español" tvg-name="CINE Ñ" tvg-logo="" group-title="MOVISTAR+",CINE Ñ
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4861
+
+
+#EXTINF:-1 xui-id="48427" tvg-id="M. SERIES HD" tvg-name="SERIES" tvg-logo="" group-title="MOVISTAR+",SERIES
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4832
+
+
+#EXTINF:-1 xui-id="48430" tvg-id="M. SERIES 2 HD" tvg-name="SERIES 2" tvg-logo="" group-title="MOVISTAR+",SERIES 2
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4835
+
+
+#EXTINF:-1 xui-id="" tvg-id="La Resistencia" tvg-name="LA RESISTENCIA" tvg-logo="" group-title="MOVISTAR+",LA RESISTENCIA
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4838
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. Fest" tvg-name="MOVISTAR FEST" tvg-logo="" group-title="MOVISTAR+",FEST
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4863
+
+
+####SUSCRIPCIÓN
+#EXTINF:-1 xui-id="" tvg-id="Somos" tvg-name="SOMOS HD" tvg-logo="" group-title="SUSCRIPCIÓN",SOMOS
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4897
+
+
+#EXTINF:-1 xui-id="" tvg-id="Dark" tvg-name="DARK HD" tvg-logo="" group-title="SUSCRIPCIÓN",DARK 
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4904
+
+
+#EXTINF:-1 xui-id="" tvg-id="SYFY HD" tvg-name="SYFY" tvg-logo="" group-title="SUSCRIPCIÓN",SYFY
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4888
+
+
+#EXTINF:-1 xui-id="" tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="SUSCRIPCIÓN",COMEDY CENTRAL
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4876
+
+
+#EXTINF:-1 xui-id="" tvg-id="FOX HD" tvg-name="FOX" tvg-logo="" group-title="SUSCRIPCIÓN",FOX
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4864
+
+
+#EXTINF:-1 xui-id="" tvg-id="CALLE 13 HD" tvg-name="CALLE 13" tvg-logo="" group-title="SUSCRIPCIÓN",CALLE 13
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4879
+
+
+#EXTINF:-1 xui-id="" tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD" tvg-logo="" group-title="SUSCRIPCIÓN",HOLLYWOOD
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4901
+
+
+#EXTINF:-1 xui-id="" tvg-id="HISTORIA" tvg-name="HISTORIA" tvg-logo="" group-title="SUSCRIPCIÓN",HISTORIA
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5188
+
+
+#EXTINF:-1 xui-id="" tvg-id="CANAL ODISEA" tvg-name="ODISEA" tvg-logo="" group-title="SUSCRIPCIÓN",ODISEA
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5196
+
+
+#EXTINF:-1 xui-id="" tvg-id="DISCOVERY" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="SUSCRIPCIÓN",DISCOVERY CHANNEL
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5193
+
+
+#EXTINF:-1 xui-id="" tvg-id="NAT GEO HD" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="SUSCRIPCIÓN",NATIONAL GEOGRAPHIC
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5182
+
+
+#EXTINF:-1 xui-id="" tvg-id="CAZAyPESCA HD" tvg-name="CAZA Y PESCA" tvg-logo="" group-title="SUSCRIPCIÓN",CAZA Y PESCA
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5199
+
+
+#EXTINF:-1 xui-id="" tvg-id="TOROS HD" tvg-name="TOROS" tvg-logo="" group-title="SUSCRIPCIÓN",TOROS
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5208
+
+
+#EXTINF:-1 xui-id="" tvg-id="DreamWorks HD" tvg-name="DREAMWORKS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="SUSCRIPCIÓN",DREAMWORKS
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5000
+
+
+#EXTINF:-1 xui-id="" tvg-id="NICKELODEON HD" tvg-name="NICKELODEON" tvg-logo="" group-title="SUSCRIPCIÓN",NICKELODEON
+http://805nb.top:8000/8ee177/25YtSU1F74/55
+
+
+####DEPORTES
+#EXTINF:-1 xui-id="" tvg-id="LALIGATV BAR" tvg-name="LA LIGA BAR" tvg-logo="" group-title="DEPORTES",LA LIGA BAR
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4919
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. LaLiga HD" tvg-name="LA LIGA" tvg-logo="" group-title="DEPORTES",LA LIGA
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4912
+
+
+#EXTINF:-1 xui-id="" tvg-id="M.LCAMPEONES HD" tvg-name="LIGA CAMPEONES" tvg-logo="" group-title="DEPORTES",LIGA DE CAMPEONES
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4952
+
+
+#EXTINF:-1 xui-id="" tvg-id="GOL HD" tvg-name="GOL TV" tvg-logo="" group-title="DEPORTES",GOL
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4925
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. DEPORTE HD" tvg-name="DEPORTE" tvg-logo="" group-title="DEPORTES",DEPORTES
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4927
+
+
+#EXTINF:-1 xui-id="" tvg-id="R. MADRID TV" tvg-name="REAL MADRID TV" tvg-logo="" group-title="DEPORTES",REAL MADRID TV
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4947
+
+
+#EXTINF:-1 xui-id="" tvg-id="BARCA TV" tvg-name="BARCA TV" tvg-logo="" group-title="DEPORTES",BARCA TV
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4949
+
+
+#EXTINF:-1 xui-id="" tvg-id="DAZN F1 HD" tvg-name="F1" tvg-logo="" group-title="DEPORTES",DAZN F1
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4931
+
+
+#EXTINF:-1 xui-id="" tvg-id="DAZN 1 HD" tvg-name="DAZN 1" tvg-logo="" group-title="DEPORTES",DAZN 1
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4937
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. GOLF HD" tvg-name="GOLF" tvg-logo="" group-title="DEPORTES",GOLF
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4934
