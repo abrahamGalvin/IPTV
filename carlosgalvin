@@ -40,10 +40,6 @@ http://261594742249268157.dut886.xyz:80/4BQNUACJNS/6010766685/268157
 
 
 ####MOVISTAR+
-#EXTINF:-1 xui-id="" tvg-id="" tvg-name="PORTADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="MOVISTAR+",PORTADA
-http://1faz8.top:8000/as196/32d6f5sdf/706
-
-
 #EXTINF:-1 xui-id="" tvg-id="#0 HD" tvg-name="0#" tvg-logo="" group-title="MOVISTAR+",0#
 http://261594742249267789.dut886.xyz:80/4BQNUACJNS/6010766685/267789
 
