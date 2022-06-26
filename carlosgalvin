@@ -132,4 +132,210 @@ http://f.rim2019.tk:2021/bkhLsYmu6HDh/tmXeWQkTfvrm/87599
 #EXTINF:-1 xui-id="" tvg-id="DAZN 2 HD" tvg-name="DAZN 2" tvg-logo="" group-title="DEPORTES",DAZN 2
 http://f.rim2019.tk:2021/bkhLsYmu6HDh/tmXeWQkTfvrm/87598
 #EXTINF:-1 xui-id="" tvg-id="M. GOLF HD" tvg-name="GOLF" tvg-logo="" group-title="DEPORTES",GOLF
-http://f.rim2019.tk:2021/bkhLsYmu6HDh/tmXeWQkTfvrm/74324
+http://f.rim2019.tk:2021/bkhLsYmu6HDh/tmXeWQkTfvrm/74324#EXTM3U
+
+####TDT
+#EXTINF:-1 xui-id="" tvg-id="LA 1 HD" tvg-name="LA 1" tvg-logo="" group-title="TDT",LA 1 
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4785
+
+
+#EXTINF:-1 xui-id="" tvg-id="La 2 HD" tvg-name="LA 2" tvg-logo="" group-title="TDT",LA 2 
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4788
+
+
+#EXTINF:-1 xui-id="" tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3" tvg-logo="" group-title="TDT",ANTENA 3 
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4791
+
+
+#EXTINF:-1 xui-id="" tvg-id="CUATRO HD" tvg-name="CUATRO" tvg-logo="" group-title="TDT",CUATRO 
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4794
+
+
+#EXTINF:-1 xui-id="" tvg-id="TELECINCO HD" tvg-name="TELECINCO" tvg-logo="" group-title="TDT",TELECINCO 
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4797
+
+
+#EXTINF:-1 xui-id="" tvg-id="LA SEXTA HD" tvg-name="LA SEXTA" tvg-logo="" group-title="TDT",LA SEXTA 
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4800
+
+
+#EXTINF:-1 xui-id="" tvg-id="Discovery MAX" tvg-name="DMAX" tvg-logo="" group-title="TDT",DMAX
+http://805nb.top:8000/8ee177/25YtSU1F74/478
+
+
+#EXTINF:-1 xui-id="" tvg-id="BE MAD" tvg-name="BE MAD" tvg-logo="" group-title="TDT",BEMAD 
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4805
+
+
+#EXTINF:-1 xui-id="" tvg-id="ENERGY" tvg-name="ENERGY" tvg-logo="" group-title="TDT",ENERGY 
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4817
+
+
+#EXTINF:-1 xui-id="" tvg-id="Mega HD" tvg-name="MEGA" tvg-logo="" group-title="TDT",MEGA 
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4826
+
+
+#EXTINF:-1 xui-id="" tvg-id="NEOX" tvg-name="NEOX" tvg-logo="" group-title="TDT",NEOX
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4811
+
+#EXTINF:-1 xui-id="" tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="" group-title="TDT",PARAMOUNT NETWORK
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4894
+
+
+
+####MOVISTAR+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="PORTADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="MOVISTAR+",PORTADA
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4784
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="#0 HD" tvg-name="0#" tvg-logo="" group-title="MOVISTAR+",0#
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4829
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="M.ESTRENOS HD" tvg-name="ESTRENOS" tvg-logo="" group-title="MOVISTAR+",ESTRENOS
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4846
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. ESTRENOS 2 HD" tvg-name="ESTRENOS 2" tvg-logo="" group-title="MOVISTAR+",ESTRENOS 2
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4849
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. ACCION HD" tvg-name="ACCION" tvg-logo="" group-title="MOVISTAR+",ACCION
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4843
+
+
+#EXTINF:-1 xui-id="" tvg-id="M.COMEDIA HD" tvg-name="COMEDIA" tvg-logo="" group-title="MOVISTAR+",COMEDIA
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4855
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. DRAMA HD" tvg-name="DRAMA" tvg-logo="" group-title="MOVISTAR+",DRAMA
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4858
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. CLÁSICOS HD" tvg-name="CLASICOS" tvg-logo="" group-title="MOVISTAR+",CLÁSICOS
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4852
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. Cine Español" tvg-name="CINE Ñ" tvg-logo="" group-title="MOVISTAR+",CINE Ñ
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4861
+
+
+#EXTINF:-1 xui-id="48427" tvg-id="M. SERIES HD" tvg-name="SERIES" tvg-logo="" group-title="MOVISTAR+",SERIES
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4832
+
+
+#EXTINF:-1 xui-id="48430" tvg-id="M. SERIES 2 HD" tvg-name="SERIES 2" tvg-logo="" group-title="MOVISTAR+",SERIES 2
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4835
+
+
+#EXTINF:-1 xui-id="" tvg-id="La Resistencia" tvg-name="LA RESISTENCIA" tvg-logo="" group-title="MOVISTAR+",LA RESISTENCIA
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4838
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. Fest" tvg-name="MOVISTAR FEST" tvg-logo="" group-title="MOVISTAR+",FEST
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4863
+
+
+####SUSCRIPCIÓN
+#EXTINF:-1 xui-id="" tvg-id="Somos" tvg-name="SOMOS HD" tvg-logo="" group-title="SUSCRIPCIÓN",SOMOS
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4897
+
+
+#EXTINF:-1 xui-id="" tvg-id="Dark" tvg-name="DARK HD" tvg-logo="" group-title="SUSCRIPCIÓN",DARK 
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4904
+
+
+#EXTINF:-1 xui-id="" tvg-id="SYFY HD" tvg-name="SYFY" tvg-logo="" group-title="SUSCRIPCIÓN",SYFY
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4888
+
+
+#EXTINF:-1 xui-id="" tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="SUSCRIPCIÓN",COMEDY CENTRAL
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4876
+
+
+#EXTINF:-1 xui-id="" tvg-id="FOX HD" tvg-name="FOX" tvg-logo="" group-title="SUSCRIPCIÓN",FOX
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4864
+
+
+#EXTINF:-1 xui-id="" tvg-id="CALLE 13 HD" tvg-name="CALLE 13" tvg-logo="" group-title="SUSCRIPCIÓN",CALLE 13
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4879
+
+
+#EXTINF:-1 xui-id="" tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD" tvg-logo="" group-title="SUSCRIPCIÓN",HOLLYWOOD
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4901
+
+
+#EXTINF:-1 xui-id="" tvg-id="HISTORIA" tvg-name="HISTORIA" tvg-logo="" group-title="SUSCRIPCIÓN",HISTORIA
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5188
+
+
+#EXTINF:-1 xui-id="" tvg-id="CANAL ODISEA" tvg-name="ODISEA" tvg-logo="" group-title="SUSCRIPCIÓN",ODISEA
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5196
+
+
+#EXTINF:-1 xui-id="" tvg-id="DISCOVERY" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="SUSCRIPCIÓN",DISCOVERY CHANNEL
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5193
+
+
+#EXTINF:-1 xui-id="" tvg-id="NAT GEO HD" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="SUSCRIPCIÓN",NATIONAL GEOGRAPHIC
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5182
+
+
+#EXTINF:-1 xui-id="" tvg-id="CAZAyPESCA HD" tvg-name="CAZA Y PESCA" tvg-logo="" group-title="SUSCRIPCIÓN",CAZA Y PESCA
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5199
+
+
+#EXTINF:-1 xui-id="" tvg-id="TOROS HD" tvg-name="TOROS" tvg-logo="" group-title="SUSCRIPCIÓN",TOROS
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5208
+
+
+#EXTINF:-1 xui-id="" tvg-id="DreamWorks HD" tvg-name="DREAMWORKS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="SUSCRIPCIÓN",DREAMWORKS
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/5000
+
+
+#EXTINF:-1 xui-id="" tvg-id="NICKELODEON HD" tvg-name="NICKELODEON" tvg-logo="" group-title="SUSCRIPCIÓN",NICKELODEON
+http://805nb.top:8000/8ee177/25YtSU1F74/55
+
+
+####DEPORTES
+#EXTINF:-1 xui-id="" tvg-id="LALIGATV BAR" tvg-name="LA LIGA BAR" tvg-logo="" group-title="DEPORTES",LA LIGA BAR
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4919
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. LaLiga HD" tvg-name="LA LIGA" tvg-logo="" group-title="DEPORTES",LA LIGA
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4912
+
+
+#EXTINF:-1 xui-id="" tvg-id="M.LCAMPEONES HD" tvg-name="LIGA CAMPEONES" tvg-logo="" group-title="DEPORTES",LIGA DE CAMPEONES
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4952
+
+
+#EXTINF:-1 xui-id="" tvg-id="GOL HD" tvg-name="GOL TV" tvg-logo="" group-title="DEPORTES",GOL
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4925
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. DEPORTE HD" tvg-name="DEPORTE" tvg-logo="" group-title="DEPORTES",DEPORTES
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4927
+
+
+#EXTINF:-1 xui-id="" tvg-id="R. MADRID TV" tvg-name="REAL MADRID TV" tvg-logo="" group-title="DEPORTES",REAL MADRID TV
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4947
+
+
+#EXTINF:-1 xui-id="" tvg-id="BARCA TV" tvg-name="BARCA TV" tvg-logo="" group-title="DEPORTES",BARCA TV
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4949
+
+
+#EXTINF:-1 xui-id="" tvg-id="DAZN F1 HD" tvg-name="F1" tvg-logo="" group-title="DEPORTES",DAZN F1
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4931
+
+
+#EXTINF:-1 xui-id="" tvg-id="DAZN 1 HD" tvg-name="DAZN 1" tvg-logo="" group-title="DEPORTES",DAZN 1
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4937
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. GOLF HD" tvg-name="GOLF" tvg-logo="" group-title="DEPORTES",GOLF
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4934
