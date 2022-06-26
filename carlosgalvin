@@ -1,27 +1,27 @@
 #EXTM3U
 
 ####TDT
-#EXTINF:-1 xui-id="" tvg-id="LA 1 HD" tvg-name="LA 1" tvg-logo="" group-title="TDT",LA 1 
+#EXTINF:-1 xui-id="1" tvg-id="LA 1 HD" tvg-name="LA 1" tvg-logo="" group-title="TDT",LA 1 
 http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4785
 
 
-#EXTINF:-1 xui-id="" tvg-id="La 2 HD" tvg-name="LA 2" tvg-logo="" group-title="TDT",LA 2 
+#EXTINF:-1 xui-id="2" tvg-id="La 2 HD" tvg-name="LA 2" tvg-logo="" group-title="TDT",LA 2 
 http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4788
 
 
-#EXTINF:-1 xui-id="" tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3" tvg-logo="" group-title="TDT",ANTENA 3 
+#EXTINF:-1 xui-id="3" tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3" tvg-logo="" group-title="TDT",ANTENA 3 
 http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4791
 
 
-#EXTINF:-1 xui-id="" tvg-id="CUATRO HD" tvg-name="CUATRO" tvg-logo="" group-title="TDT",CUATRO 
+#EXTINF:-1 xui-id="4" tvg-id="CUATRO HD" tvg-name="CUATRO" tvg-logo="" group-title="TDT",CUATRO 
 http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4794
 
 
-#EXTINF:-1 xui-id="" tvg-id="TELECINCO HD" tvg-name="TELECINCO" tvg-logo="" group-title="TDT",TELECINCO 
+#EXTINF:-1 xui-id="5" tvg-id="TELECINCO HD" tvg-name="TELECINCO" tvg-logo="" group-title="TDT",TELECINCO 
 http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4797
 
 
-#EXTINF:-1 xui-id="" tvg-id="LA SEXTA HD" tvg-name="LA SEXTA" tvg-logo="" group-title="TDT",LA SEXTA 
+#EXTINF:-1 xui-id="6" tvg-id="LA SEXTA HD" tvg-name="LA SEXTA" tvg-logo="" group-title="TDT",LA SEXTA 
 http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4800
 
 
