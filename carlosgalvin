@@ -1,27 +1,27 @@
 #EXTM3U
 
 ####TDT
-#EXTINF:-1 xui-id="1" tvg-id="LA 1 HD" tvg-name="LA 1" tvg-logo="" group-title="TDT",LA 1 
+#EXTINF:-1 xui-id="" tvg-id="LA 1 HD" tvg-name="LA 1" tvg-logo="" group-title="TDT",LA 1 
 http://541682042689268032.dut886.xyz:80/4BQNUACJNS/6010766685/268032
 
 
-#EXTINF:-1 xui-id="2" tvg-id="La 2 HD" tvg-name="LA 2" tvg-logo="" group-title="TDT",LA 2 
+#EXTINF:-1 xui-id="" tvg-id="La 2 HD" tvg-name="LA 2" tvg-logo="" group-title="TDT",LA 2 
 http://541682042689268035.dut886.xyz:80/4BQNUACJNS/6010766685/268035
 
 
-#EXTINF:-1 xui-id="3" tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3" tvg-logo="" group-title="TDT",ANTENA 3 
+#EXTINF:-1 xui-id="" tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3" tvg-logo="" group-title="TDT",ANTENA 3 
 http://541682042689267819.dut886.xyz:80/4BQNUACJNS/6010766685/267819
 
 
-#EXTINF:-1 xui-id="4" tvg-id="CUATRO HD" tvg-name="CUATRO" tvg-logo="" group-title="TDT",CUATRO 
+#EXTINF:-1 xui-id="" tvg-id="CUATRO HD" tvg-name="CUATRO" tvg-logo="" group-title="TDT",CUATRO 
 http://541682042689267917.dut886.xyz:80/4BQNUACJNS/6010766685/267917
 
 
-#EXTINF:-1 xui-id="5" tvg-id="TELECINCO HD" tvg-name="TELECINCO" tvg-logo="" group-title="TDT",TELECINCO 
+#EXTINF:-1 xui-id="" tvg-id="TELECINCO HD" tvg-name="TELECINCO" tvg-logo="" group-title="TDT",TELECINCO 
 http://541682042689268181.dut886.xyz:80/4BQNUACJNS/6010766685/268181
 
 
-#EXTINF:-1 xui-id="6" tvg-id="LA SEXTA HD" tvg-name="LA SEXTA" tvg-logo="" group-title="TDT",LA SEXTA 
+#EXTINF:-1 xui-id="" tvg-id="LA SEXTA HD" tvg-name="LA SEXTA" tvg-logo="" group-title="TDT",LA SEXTA 
 http://541682042689268039.dut886.xyz:80/4BQNUACJNS/6010766685/268039
 
 
