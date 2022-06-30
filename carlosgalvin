@@ -103,7 +103,7 @@ http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/378507
 http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292574
 
 
-#EXTINF:-1 xui-id="" tvg-id="Dark" tvg-name="DARK HD" tvg-logo="" group-title="SUSCRIPCIÓN",[COLOR red]DARK RED[/COLOR]
+#EXTINF:-1 xui-id="" tvg-id="Dark" tvg-name="DARK HD" tvg-logo="" group-title="SUSCRIPCIÓN",[COLOR red] DARK RED [/COLOR]
 http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/758
 
 
@@ -200,3 +200,658 @@ http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/314679
 
 #EXTINF:-1 xui-id="" tvg-id="M. GOLF HD" tvg-name="GOLF" tvg-logo="" group-title="DEPORTES",GOLF
 http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211076
+
+
+
+
+#EXTM3U
+#EXTINF:-1, tvg-logo="" group-title="M3U",La 1 HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/157
+#EXTINF:-1, tvg-logo="" group-title="M3U",La 1 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/158
+#EXTINF:-1, tvg-logo="" group-title="M3U",La 1 SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/762
+#EXTINF:-1, tvg-logo="" group-title="M3U",La 2 HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/159
+#EXTINF:-1, tvg-logo="" group-title="M3U",La 2 SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/763
+#EXTINF:-1, tvg-logo="" group-title="M3U",Antena 3 HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/161
+#EXTINF:-1, tvg-logo="" group-title="M3U",Antena 3 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/162
+#EXTINF:-1, tvg-logo="" group-title="M3U",Antena 3 SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/764
+#EXTINF:-1, tvg-logo="" group-title="M3U",Cuatro HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/163
+#EXTINF:-1, tvg-logo="" group-title="M3U",Cuatro HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/164
+#EXTINF:-1, tvg-logo="" group-title="M3U",Cuatro SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/765
+#EXTINF:-1, tvg-logo="" group-title="M3U",Telecinco HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/165
+#EXTINF:-1, tvg-logo="" group-title="M3U",Telecinco HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/166
+#EXTINF:-1, tvg-logo="" group-title="M3U",Telecinco SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/766
+#EXTINF:-1, tvg-logo="" group-title="M3U",La Sexta HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/167
+#EXTINF:-1, tvg-logo="" group-title="M3U",La Sexta HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/168
+#EXTINF:-1, tvg-logo="" group-title="M3U",La Sexta SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/767
+#EXTINF:-1, tvg-logo="" group-title="M3U",Secret Story (LA CASA DE LOS SECRETOS)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/75690
+#EXTINF:-1, tvg-logo="" group-title="M3U",La Resistencia HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/95819
+#EXTINF:-1, tvg-logo="" group-title="M3U",La Resistencia HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/95820
+#EXTINF:-1, tvg-logo="" group-title="M3U",La Resistencia SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/95821
+#EXTINF:-1, tvg-logo="" group-title="M3U",Ubeat HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/74127
+#EXTINF:-1, tvg-logo="" group-title="M3U",#0 HD 1080 6MB (conexiones lentas)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/2
+#EXTINF:-1, tvg-logo="" group-title="M3U",#0 HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/20
+#EXTINF:-1, tvg-logo="" group-title="M3U",#0 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/21
+#EXTINF:-1, tvg-logo="" group-title="M3U",#0 SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/781
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Estrenos HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/24
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Estrenos HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/25
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Estrenos SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/775
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Estrenos 2 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/72143
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Estrenos 2 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/72142
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Acción HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/26
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Acción HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/27
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Acción SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/777
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Comedia HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/30
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Comedia HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/31
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Comedia SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/778
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Drama HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/28
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Drama HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/29
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Drama SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/779
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Fest HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/74128
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Fest HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/74129
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Fest SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/74130
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Sagas SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/88699
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Clásicos 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/74402
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Clásicos HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/74401
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Clásicos SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/74403
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Cine Español SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/34
+#EXTINF:-1, tvg-logo="" group-title="M3U",Dreamworks HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/75691
+#EXTINF:-1, tvg-logo="" group-title="M3U",Dreamworks HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/75692
+#EXTINF:-1, tvg-logo="" group-title="M3U",Dreamworks SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/75693
+#EXTINF:-1, tvg-logo="" group-title="M3U",Hollywood HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/35
+#EXTINF:-1, tvg-logo="" group-title="M3U",Hollywood HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/36
+#EXTINF:-1, tvg-logo="" group-title="M3U",Hollywood SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/793
+#EXTINF:-1, tvg-logo="" group-title="M3U",Calle 13 HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/37
+#EXTINF:-1, tvg-logo="" group-title="M3U",Calle 13 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/38
+#EXTINF:-1, tvg-logo="" group-title="M3U",Calle 13 SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/787
+#EXTINF:-1, tvg-logo="" group-title="M3U",TNT HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/41
+#EXTINF:-1, tvg-logo="" group-title="M3U",TNT HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/42
+#EXTINF:-1, tvg-logo="" group-title="M3U",TNT SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/785
+#EXTINF:-1, tvg-logo="" group-title="M3U",TCM HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/39
+#EXTINF:-1, tvg-logo="" group-title="M3U",TCM HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/40
+#EXTINF:-1, tvg-logo="" group-title="M3U",Somos HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/732
+#EXTINF:-1, tvg-logo="" group-title="M3U",Somos SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/153
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Series HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/45
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Series  HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/44
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Series SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/774
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Series 2 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/72140
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Series 2 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/72141
+#EXTINF:-1, tvg-logo="" group-title="M3U",XTRM HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/155
+#EXTINF:-1, tvg-logo="" group-title="M3U",XTRM
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/154
+#EXTINF:-1, tvg-logo="" group-title="M3U",AXN HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/137
+#EXTINF:-1, tvg-logo="" group-title="M3U",AXN HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/138
+#EXTINF:-1, tvg-logo="" group-title="M3U",AXN SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/783
+#EXTINF:-1, tvg-logo="" group-title="M3U",AXN White HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/139
+#EXTINF:-1, tvg-logo="" group-title="M3U",AXN White HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/140
+#EXTINF:-1, tvg-logo="" group-title="M3U",AXN White SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/784
+#EXTINF:-1, tvg-logo="" group-title="M3U",FOX HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/141
+#EXTINF:-1, tvg-logo="" group-title="M3U",FOX HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/142
+#EXTINF:-1, tvg-logo="" group-title="M3U",FOX SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/782
+#EXTINF:-1, tvg-logo="" group-title="M3U",DARK HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/758
+#EXTINF:-1, tvg-logo="" group-title="M3U",DARK HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/759
+#EXTINF:-1, tvg-logo="" group-title="M3U",AMC HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/145
+#EXTINF:-1, tvg-logo="" group-title="M3U",AMC HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/146
+#EXTINF:-1, tvg-logo="" group-title="M3U",AMC SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/789
+#EXTINF:-1, tvg-logo="" group-title="M3U",BLAZE  HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/130
+#EXTINF:-1, tvg-logo="" group-title="M3U",BLAZE / A&E
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/131
+#EXTINF:-1, tvg-logo="" group-title="M3U",Paramount Network
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/179
+#EXTINF:-1, tvg-logo="" group-title="M3U",Comedy Central HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/135
+#EXTINF:-1, tvg-logo="" group-title="M3U",Comedy central HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/136
+#EXTINF:-1, tvg-logo="" group-title="M3U",Comedy Central SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/786
+#EXTINF:-1, tvg-logo="" group-title="M3U",Atreseries HD HD1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/169
+#EXTINF:-1, tvg-logo="" group-title="M3U",Cosmopolitan HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/133
+#EXTINF:-1, tvg-logo="" group-title="M3U",Cosmopolitan HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/134
+#EXTINF:-1, tvg-logo="" group-title="M3U",Cosmopolitan SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/788
+#EXTINF:-1, tvg-logo="" group-title="M3U",SyFy HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/147
+#EXTINF:-1, tvg-logo="" group-title="M3U",SyFy HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/148
+#EXTINF:-1, tvg-logo="" group-title="M3U",SyFy SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/791
+#EXTINF:-1, tvg-logo="" group-title="M3U",FDF
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/178
+#EXTINF:-1, tvg-logo="" group-title="M3U",FDF SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/769
+#EXTINF:-1, tvg-logo="" group-title="M3U",Historia HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/18
+#EXTINF:-1, tvg-logo="" group-title="M3U",Historia HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/114
+#EXTINF:-1, tvg-logo="" group-title="M3U",Historia SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/801
+#EXTINF:-1, tvg-logo="" group-title="M3U",TRECE TV
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/180
+#EXTINF:-1, tvg-logo="" group-title="M3U",Nat Geo HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/122
+#EXTINF:-1, tvg-logo="" group-title="M3U",Nat Geo HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/123
+#EXTINF:-1, tvg-logo="" group-title="M3U",Nat Geo SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/31511
+#EXTINF:-1, tvg-logo="" group-title="M3U",NatGeo Wild HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/124
+#EXTINF:-1, tvg-logo="" group-title="M3U",NatGeo Wild HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/125
+#EXTINF:-1, tvg-logo="" group-title="M3U",NatGeo Wild SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/31510
+#EXTINF:-1, tvg-logo="" group-title="M3U",DMAX HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/91880
+#EXTINF:-1, tvg-logo="" group-title="M3U",DMAX HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/91881
+#EXTINF:-1, tvg-logo="" group-title="M3U",DMAX SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/91882
+#EXTINF:-1, tvg-logo="" group-title="M3U",Discovery HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/116
+#EXTINF:-1, tvg-logo="" group-title="M3U",Discovery Channel SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/802
+#EXTINF:-1, tvg-logo="" group-title="M3U",MEGA HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/170
+#EXTINF:-1, tvg-logo="" group-title="M3U",Mega SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/768
+#EXTINF:-1, tvg-logo="" group-title="M3U",Neox HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/173
+#EXTINF:-1, tvg-logo="" group-title="M3U",NEOX
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/174
+#EXTINF:-1, tvg-logo="" group-title="M3U",Neox SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/770
+#EXTINF:-1, tvg-logo="" group-title="M3U",Nova HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/175
+#EXTINF:-1, tvg-logo="" group-title="M3U",NOVA
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/176
+#EXTINF:-1, tvg-logo="" group-title="M3U",Nova SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/771
+#EXTINF:-1, tvg-logo="" group-title="M3U",BeMad tv HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/132
+#EXTINF:-1, tvg-logo="" group-title="M3U",Be Mad SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/772
+#EXTINF:-1, tvg-logo="" group-title="M3U",Energy
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/171
+#EXTINF:-1, tvg-logo="" group-title="M3U",DKISS
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/172
+#EXTINF:-1, tvg-logo="" group-title="M3U",DIVINITY
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/177
+#EXTINF:-1, tvg-logo="" group-title="M3U",INSIDE HD 1080 ES
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/118
+#EXTINF:-1, tvg-logo="" group-title="M3U",Odisea HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/760
+#EXTINF:-1, tvg-logo="" group-title="M3U",Canal Odisea SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/803
+#EXTINF:-1, tvg-logo="" group-title="M3U",Sundance FHD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/795
+#EXTINF:-1, tvg-logo="" group-title="M3U",Sundance HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/796
+#EXTINF:-1, tvg-logo="" group-title="M3U",Sundance SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/797
+#EXTINF:-1, tvg-logo="" group-title="M3U",CANAL COCINA HD  1080 I
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/16
+#EXTINF:-1, tvg-logo="" group-title="M3U",CANAL COCINA HD  1080 P
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/197
+#EXTINF:-1, tvg-logo="" group-title="M3U",Canal Cocina SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/806
+#EXTINF:-1, tvg-logo="" group-title="M3U",Decasa HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/17
+#EXTINF:-1, tvg-logo="" group-title="M3U",Decasa
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/182
+#EXTINF:-1, tvg-logo="" group-title="M3U",Crimen + Investigacion
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/805
+#EXTINF:-1, tvg-logo="" group-title="M3U",Intereconomía TV (Toro TV)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/7047
+#EXTINF:-1, tvg-logo="" group-title="M3U",Caza y Pesca HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/103
+#EXTINF:-1, tvg-logo="" group-title="M3U",Caza y Pesca HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/104
+#EXTINF:-1, tvg-logo="" group-title="M3U",Caza Vision HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/106
+#EXTINF:-1, tvg-logo="" group-title="M3U",CAZAVISION
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/107
+#EXTINF:-1, tvg-logo="" group-title="M3U",Canal Toros HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/101
+#EXTINF:-1, tvg-logo="" group-title="M3U",Canal Toros HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/102
+#EXTINF:-1, tvg-logo="" group-title="M3U",Canal Toros SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/845
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. La Liga HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/49
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. La Liga HD 1080 (B)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/50
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. La Liga HD 1080 (C)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/34435
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. La Liga HD 1080 (D)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/72579
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. La Liga HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/51
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. La Liga SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/837
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. La Liga HD 1080 6MB (conexiones lentas)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/5
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. La Liga HD 1080 (Yoigo MasMovil Pepephone)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/103515
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Liga De Campeones HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/59
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Liga De Campeones HD 1080 (B)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/60
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Liga De Campeones HD 1080 (C)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/75791
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Liga De Campeones HD 1080 (D)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/61516
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Liga De Campeones HD 1080 (E)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/76532
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Liga De Campeones HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/61
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Liga de Campeones SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/835
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Liga De Campeones HD 1080 6MB (conexiones lentas)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/8
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Liga De Campeones HD 1080 (Yoigo MasMovil Pepephone)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/103361
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. DAZN 1 HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/67049
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. DAZN 1 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/67050
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. DAZN 1 SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/67051
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. DAZN 2 HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/67052
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. DAZN 2 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/67053
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. DAZN 2 SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/67054
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. DAZN 3 HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/67682
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. DAZN 3 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/67683
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. DAZN 4 HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/67680
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. DAZN 4 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/67681
+#EXTINF:-1, tvg-logo="" group-title="M3U",GOL HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/79
+#EXTINF:-1, tvg-logo="" group-title="M3U",GOL HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/78
+#EXTINF:-1, tvg-logo="" group-title="M3U",GOL TV SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/77
+#EXTINF:-1, tvg-logo="" group-title="M3U",GOL HD 1080 6MB (conexiones lentas)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/15
+#EXTINF:-1, tvg-logo="" group-title="M3U",REAL MADRID TV
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/82
+#EXTINF:-1, tvg-logo="" group-title="M3U",Barça TV HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/80
+#EXTINF:-1, tvg-logo="" group-title="M3U",Barça TV 
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/81
+#EXTINF:-1, tvg-logo="" group-title="M3U",Sevilla FC
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/843
+#EXTINF:-1, tvg-logo="" group-title="M3U",Betis TV
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/844
+#EXTINF:-1, tvg-logo="" group-title="M3U",Fútbol REPLAY
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/24432
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Deportes HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/85
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Deportes HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/86
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Deportes SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/848
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Deportes HD 1080 6MB (conexiones lentas)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/12
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. #Vamos HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/89
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. #Vamos HD 1080 (B)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/88
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. #Vamos HD 1080 (C)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/66733
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. #Vamos HD 1080 (D)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/86663
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. #Vamos HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/90
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. #Vamos SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/847
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. #Vamos HD 1080 6MB (conexiones lentas)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/13
+#EXTINF:-1, tvg-logo="" group-title="M3U",Ellas #V HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/104342
+#EXTINF:-1, tvg-logo="" group-title="M3U",Eurosport HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/92
+#EXTINF:-1, tvg-logo="" group-title="M3U",Eurosport HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/93
+#EXTINF:-1, tvg-logo="" group-title="M3U",Eurosport SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/28528
+#EXTINF:-1, tvg-logo="" group-title="M3U",Eurosport HD 1080 6MB (conexiones lentas)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/3
+#EXTINF:-1, tvg-logo="" group-title="M3U",Eurosport 2 HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94
+#EXTINF:-1, tvg-logo="" group-title="M3U",Eurosport 2 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/95
+#EXTINF:-1, tvg-logo="" group-title="M3U",Eurosport 2 SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/28529
+#EXTINF:-1, tvg-logo="" group-title="M3U",Eurosport 2 HD 1080 6MB (conexiones lentas)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/4
+#EXTINF:-1, tvg-logo="" group-title="M3U",DAZN F1 HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/76531
+#EXTINF:-1, tvg-logo="" group-title="M3U",DAZN F1 HD 1080 (B)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/96
+#EXTINF:-1, tvg-logo="" group-title="M3U",DAZN F1 HD 1080 (C)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/94411
+#EXTINF:-1, tvg-logo="" group-title="M3U",DAZN F1 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/97
+#EXTINF:-1, tvg-logo="" group-title="M3U",DAZN F1 SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/836
+#EXTINF:-1, tvg-logo="" group-title="M3U",DAZN F1 HD 1080 6MB (conexiones lentas)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/10
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Golf HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/99
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Golf HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/100
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Golf SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/850
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Golf HD 1080 6MB (conexiones lentas)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/14
+#EXTINF:-1, tvg-logo="" group-title="M3U",WRC Rally Live TV
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/7050
+#EXTINF:-1, tvg-logo="" group-title="M3U",Dakar TV
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/7051
+#EXTINF:-1, tvg-logo="" group-title="M3U",Teledeporte HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/22475
+#EXTINF:-1, tvg-logo="" group-title="M3U",Teledeporte SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/91
+#EXTINF:-1, tvg-logo="" group-title="M3U",Iberalia TV HD 1080-SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/105
+#EXTINF:-1, tvg-logo="" group-title="M3U",TEN
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/128
+#EXTINF:-1, tvg-logo="" group-title="M3U",24 H
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/181
+#EXTINF:-1, tvg-logo="" group-title="M3U",IB3 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/198
+#EXTINF:-1, tvg-logo="" group-title="M3U",fibwi TV Live HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/199
+#EXTINF:-1, tvg-logo="" group-title="M3U",fibwi TV FullHD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/230
+#EXTINF:-1, tvg-logo="" group-title="M3U",Ibiza Global TV
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/200
+#EXTINF:-1, tvg-logo="" group-title="M3U",CANAL 4 BALEARS
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/201
+#EXTINF:-1, tvg-logo="" group-title="M3U",TV3 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/202
+#EXTINF:-1, tvg-logo="" group-title="M3U",TV3 HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/203
+#EXTINF:-1, tvg-logo="" group-title="M3U",SPORT 3 .cat
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/205
+#EXTINF:-1, tvg-logo="" group-title="M3U",SUPER  3 /33 .cat
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/206
+#EXTINF:-1, tvg-logo="" group-title="M3U",3/24 .cat
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/207
+#EXTINF:-1, tvg-logo="" group-title="M3U",8 TV .cat
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/208
+#EXTINF:-1, tvg-logo="" group-title="M3U",À Punt HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/209
+#EXTINF:-1, tvg-logo="" group-title="M3U",BOM CINE
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/210
+#EXTINF:-1, tvg-logo="" group-title="M3U",Libertad Digital TV
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/11296
+#EXTINF:-1, tvg-logo="" group-title="M3U",EL PUNT AVUI
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/211
+#EXTINF:-1, tvg-logo="" group-title="M3U",El 9 TV
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/212
+#EXTINF:-1, tvg-logo="" group-title="M3U",25 TV
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/213
+#EXTINF:-1, tvg-logo="" group-title="M3U",Canal Sur HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/214
+#EXTINF:-1, tvg-logo="" group-title="M3U",Canal Sur HD 720
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/216
+#EXTINF:-1, tvg-logo="" group-title="M3U",TV Canaria
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/75877
+#EXTINF:-1, tvg-logo="" group-title="M3U",Canal Extremadura
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/215
+#EXTINF:-1, tvg-logo="" group-title="M3U",CANAL SUR
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/217
+#EXTINF:-1, tvg-logo="" group-title="M3U",ONDA CADIZ
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/218
+#EXTINF:-1, tvg-logo="" group-title="M3U",CANAL MALAGA
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/219
+#EXTINF:-1, tvg-logo="" group-title="M3U",GALICIA TV
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/222
+#EXTINF:-1, tvg-logo="" group-title="M3U",ETB 1 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/223
+#EXTINF:-1, tvg-logo="" group-title="M3U",ETB 2 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/224
+#EXTINF:-1, tvg-logo="" group-title="M3U",Canal Estrellas HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/225
+#EXTINF:-1, tvg-logo="" group-title="M3U",TV Galicia
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/226
+#EXTINF:-1, tvg-logo="" group-title="M3U",TELE MADRID HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/227
+#EXTINF:-1, tvg-logo="" group-title="M3U",CASTILLA LA MANCHA
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/228
+#EXTINF:-1, tvg-logo="" group-title="M3U",RTV CASTILLA Y LEÓN
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/29579
+#EXTINF:-1, tvg-logo="" group-title="M3U",7TV Región de Murcia
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/23760
+#EXTINF:-1, tvg-logo="" group-title="M3U",LA OTRA
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/229
+#EXTINF:-1, tvg-logo="" group-title="M3U",MTV HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/233
+#EXTINF:-1, tvg-logo="" group-title="M3U",MTV España HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/234
+#EXTINF:-1, tvg-logo="" group-title="M3U",DISNEY CH  HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/248
+#EXTINF:-1, tvg-logo="" group-title="M3U",Disney HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/249
+#EXTINF:-1, tvg-logo="" group-title="M3U",DISNEY JUNIOR
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/250
+#EXTINF:-1, tvg-logo="" group-title="M3U",Nickelodeon HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/251
+#EXTINF:-1, tvg-logo="" group-title="M3U",Nickelodeon HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/846
+#EXTINF:-1, tvg-logo="" group-title="M3U",Nick Jr. (ESP)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/95357
+#EXTINF:-1, tvg-logo="" group-title="M3U",CLAN TV HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/252
+#EXTINF:-1, tvg-logo="" group-title="M3U",CLAN TV
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/253
+#EXTINF:-1, tvg-logo="" group-title="M3U",PANDA
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/254
+#EXTINF:-1, tvg-logo="" group-title="M3U",BOING
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/255
+#EXTINF:-1, tvg-logo="" group-title="M3U",PEQUERADIO TV
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/28535
+#EXTINF:-1, tvg-logo="" group-title="M3U",Baby TV
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/257
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. LaLiga 1 HD 1080(OPCIÓN B)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/51969
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. DEPORTES 1  HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/744
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. DEPORTES 1 HD 1080 (OPCIÓN 2)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/87
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. DEPORTES 1 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/25135
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. DEPORTES 2 HD 1080 - SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/745
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. DEPORTES 3 HD 1080 - SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/746
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. DEPORTES 4 HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/747
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. DEPORTES 5 HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/748
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. DEPORTES 6 HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/749
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Liga De Campeones 1 HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/62
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Liga De Campeones 1 HD 1080 (OPCIÓN B)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/63
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Liga De Campeones 1 HD 1080 (OPCIÓN C)
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/75789
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Liga De Campeones 1 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/16380
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Liga De Campeones 1 SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/15966
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Liga De Campeones 2 HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/65
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Liga De Campeones 2 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/75790
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Liga De Campeones 2 SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/64
+#EXTINF:-1, tvg-logo="" group-title="M3U",M.Liga de Campeones 3 HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/750
+#EXTINF:-1, tvg-logo="" group-title="M3U",M.Liga de Campeones 3 SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/59422
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. Liga De Campeones 4 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/751
+#EXTINF:-1, tvg-logo="" group-title="M3U",M.Liga de Campeones 4
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/752
+#EXTINF:-1, tvg-logo="" group-title="M3U",M.LIGA DE CAMPEONES 5 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/753
+#EXTINF:-1, tvg-logo="" group-title="M3U",M.Liga de Campeones 5
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/754
+#EXTINF:-1, tvg-logo="" group-title="M3U",M.Liga de Campeones 6 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/755
+#EXTINF:-1, tvg-logo="" group-title="M3U",M.Liga de Campeones 6
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/756
+#EXTINF:-1, tvg-logo="" group-title="M3U",M.Liga de Campeones 7
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/757
+#EXTINF:-1, tvg-logo="" group-title="M3U",Multideporte 1 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/269
+#EXTINF:-1, tvg-logo="" group-title="M3U",Multideporte 2
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/270
+#EXTINF:-1, tvg-logo="" group-title="M3U",Multideporte 3
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/271
+#EXTINF:-1, tvg-logo="" group-title="M3U",Multideporte 4
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/272
+#EXTINF:-1, tvg-logo="" group-title="M3U",MULTIFUT. 1 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/258
+#EXTINF:-1, tvg-logo="" group-title="M3U",Multifútbol 2
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/259
+#EXTINF:-1, tvg-logo="" group-title="M3U",MULTIFUT. 3 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/260
+#EXTINF:-1, tvg-logo="" group-title="M3U",Mezzo Live HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/832
+#EXTINF:-1, tvg-logo="" group-title="M3U",World Padel Tour TV
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/834
+#EXTINF:-1, tvg-logo="" group-title="M3U",MILENIO LIVE
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/37407
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. La Liga 1 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69596
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. LaLiga 1 HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69597
+#EXTINF:-1, tvg-logo="" group-title="M3U",La Liga 1 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69598
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. La Liga 2 HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69599
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. La Liga 2 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69600
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. LaLiga 2 SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69601
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. LA LIGA 3 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69602
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. La Liga 3 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69603
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. LaLiga 3 SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69604
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. LA LIGA 4 HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69605
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. La Liga 4 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69606
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. LaLiga 4 SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69607
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. LA LIGA 5 HD 1080
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69608
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. La Liga 5 HD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69609
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. LaLiga 5 SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69610
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. LaLiga 6 SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69613
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. LaLiga 7 SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69616
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. La Liga 8 SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69617
+#EXTINF:-1, tvg-logo="" group-title="M3U",M. La Liga 9 SD
+http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/69620
