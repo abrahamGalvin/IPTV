@@ -1,578 +1,201 @@
-#EXTINF:-1,SP: ----- SPAIN -----
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/135943
-#EXTINF:-1,ES: LA 1 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14476
-#EXTINF:-1,ES: LA 1 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220930
-#EXTINF:-1,ES: LA 1 HEVC
+#EXTM3U
+
+####TDT
+#EXTINF:-1 xui-id="" tvg-id="LA 1 HD" tvg-name="LA 1" tvg-logo="" group-title="TDT",LA 1 
 http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240092
-#EXTINF:-1,ES: LA 2 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14475
-#EXTINF:-1,ES: LA 2 FHD
+
+
+#EXTINF:-1 xui-id="" tvg-id="La 2 HD" tvg-name="LA 2" tvg-logo="" group-title="TDT",LA 2 
 http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277960
-#EXTINF:-1,ES: ANTENA 3 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14478
-#EXTINF:-1,ES: ANTENA 3 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240094
-#EXTINF:-1,ES: ANTENA 3 HEVC
+
+
+#EXTINF:-1 xui-id="" tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3" tvg-logo="" group-title="TDT",ANTENA 3 
 http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240093
-#EXTINF:-1,ES: CUATRO HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14473
-#EXTINF:-1,ES: CUATRO FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292569
-#EXTINF:-1,ES: CUATRO HEVC
+
+
+#EXTINF:-1 xui-id="" tvg-id="CUATRO HD" tvg-name="CUATRO" tvg-logo="" group-title="TDT",CUATRO 
 http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240095
-#EXTINF:-1,ES: TELECINCO HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14472
-#EXTINF:-1,ES: TELECINCO FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211124
-#EXTINF:-1,ES: TELECINCO HEVC
+
+
+#EXTINF:-1 xui-id="" tvg-id="TELECINCO HD" tvg-name="TELECINCO" tvg-logo="" group-title="TDT",TELECINCO 
 http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240096
-#EXTINF:-1,ES: LA SEXTA HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14474
-#EXTINF:-1,ES: LA SEXTA FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292570
-#EXTINF:-1,ES: LA SEXTA HEVC
+
+
+#EXTINF:-1 xui-id="" tvg-id="LA SEXTA HD" tvg-name="LA SEXTA" tvg-logo="" group-title="TDT",LA SEXTA 
 http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240097
-#EXTINF:-1,ES: CANAL 24 HORAS HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292571
-#EXTINF:-1,ES: CANAL SUR ANDALUCIA
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/169730
-#EXTINF:-1,ES: ARAGON TV
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162339
-#EXTINF:-1,ES: ARAGON TV HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211177
-#EXTINF:-1,ES: CANAL 24 HORAS
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/136458
-#EXTINF:-1,ES: FOX NEWS
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162506
-#EXTINF:-1,ES: EXTREMADURA TV
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14456
-#EXTINF:-1,ES: TELEMADRID
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240099
-#EXTINF:-1,ES: CGTN ESPANHOL
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240138
-#EXTINF:-1,ES: DE PELICULA
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211118
-#EXTINF:-1,ES: TV GALICIA
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211105
-#EXTINF:-1,ES: TV3 Catalynia HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211108
-#EXTINF:-1,ES: TELESUR HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/278021
-#EXTINF:-1,ES: MARBELLA TV
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/278019
-#EXTINF:-1,ES: ANDALUCIA TV
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/278016
-#EXTINF:-1,ES: CANAL COIN
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/278009
-#EXTINF:-1,ES: 7RM
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/278007
-#EXTINF:-1,ES: 7RM FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/278006
-#EXTINF:-1,ES: TV3 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/278004
-#EXTINF:-1,ES: TV Galicia Europa HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277985
-#EXTINF:-1,ES: TV Galicia Infantil HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277983
-#EXTINF:-1,ES: TVE Internacional Europa HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/347412
-#EXTINF:-1,ES: ALCARRIA TV
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277979
-#EXTINF:-1,ES: INTERECONOMIA
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277977
-#EXTINF:-1,ES: INTERALMERIA FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277974
-#EXTINF:-1,ES: TVG HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/362504
-#EXTINF:-1,ES: TVG 2 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/362503
-#EXTINF:-1,ES: TVG MOMENTO HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/362509
-#EXTINF:-1,ES: TVG Infantil HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/362508
-#EXTINF:-1,ES: TVG Evento 1 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/362505
-#EXTINF:-1,ES: TVG CULTURAL HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/362506
-#EXTINF:-1,ES: CANAL 25 BARBASTRO TV
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277972
-#EXTINF:-1,ES: RTVC CANARIAS HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/328046
-#EXTINF:-1,ES: ETB SAT
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277965
-#EXTINF:-1,ES: ETB 2 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277963
-#EXTINF:-1,ES: DreamWorks FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292611
-#EXTINF:-1,ES: DreamWorks
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/329619
-#EXTINF:-1,SP: ----- CINE -----
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178155
-#EXTINF:-1,ES: XTRM HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/306442
-#EXTINF:-1,ES: MOVISTAR ESTRENOS HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/174638
-#EXTINF:-1,ES: MOVISTAR ESTRENOS FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211072
-#EXTINF:-1,ES: MOVISTAR ESTRENOS HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220956
-#EXTINF:-1,ES: MOVISTAR ESTRENOS 2 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/367879
-#EXTINF:-1,ES: MOVISTAR ESTRENOS 2 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292598
-#EXTINF:-1,ES: MOVISTAR ACCION HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277952
-#EXTINF:-1,ES: MOVISTAR ACCION FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/174636
-#EXTINF:-1,ES: M. ACCION HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/299332
-#EXTINF:-1,ES: MOVISTAR COMEDIA HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/174637
-#EXTINF:-1,ES: MOVISTAR COMEDIA FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211069
-#EXTINF:-1,ES: MOVISTAR DRAMA HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211176
-#EXTINF:-1,ES: MOVISTAR DRAMA FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277950
-#EXTINF:-1,ES: MOVISTAR DCINE HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14419
-#EXTINF:-1,ES: MOVISTAR DCINE FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211070
-#EXTINF:-1,ES: MOVISTAR CINEDOC / ROLL HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240114
-#EXTINF:-1,ES: MOVISTAR CLASICOS FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/375200
-#EXTINF:-1,ES: #0 HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/299329
-#EXTINF:-1,ES: HOLLYWOOD HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211179
-#EXTINF:-1,ES: HOLLYWOOD FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277942
-#EXTINF:-1,ES: HOLLYWOOD HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240112
-#EXTINF:-1,ES: TCM HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211180
-#EXTINF:-1,ES: TCM FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14423
-#EXTINF:-1,ES: SUNDANCE HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162519
-#EXTINF:-1,ES: SUNDANCE FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277939
-#EXTINF:-1,ES: EXTREMADURA TV HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292573
-#EXTINF:-1,ES: SOMOS HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292574
-#EXTINF:-1,ES: PARAMOUNT CHANNEL
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162448
-#EXTINF:-1,ES: MOVISTAR SERIES HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14417
-#EXTINF:-1,ES: MOVISTAR SERIES FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220959
-#EXTINF:-1,ES: M.SERIES HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/299331
-#EXTINF:-1,ES: MOVISTAR SERIES 2 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/367800
-#EXTINF:-1,ES: MOVISTAR SERIES 2 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/367799
-#EXTINF:-1,ES: MOVISTAR FEST FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/378507
-#EXTINF:-1,ES: CALLE 13 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/133322
-#EXTINF:-1,ES: CALLE 13 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211019
-#EXTINF:-1,ES: CALLE 13 HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240107
-#EXTINF:-1,ES: FOX HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14428
-#EXTINF:-1,ES: FOX FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14427
-#EXTINF:-1,ES: FOX HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240110
-#EXTINF:-1,ES: FOX LIFE HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14426
-#EXTINF:-1,ES: FOX LIFE FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211052
-#EXTINF:-1,ES: FOX LIFE HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240111
-#EXTINF:-1,ES: AXN HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14431
-#EXTINF:-1,ES: AXN FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162338
-#EXTINF:-1,ES: AXN HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240105
-#EXTINF:-1,ES: AXN WHITE HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14430
-#EXTINF:-1,ES: AXN WHITE FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211015
-#EXTINF:-1,ES: AXN WHITE HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240106
-#EXTINF:-1,ES: AMC HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162335
-#EXTINF:-1,ES: AMC FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211011
-#EXTINF:-1,ES: AMC HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240104
-#EXTINF:-1,ES: TNT HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162354
-#EXTINF:-1,ES: TNT FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211103
-#EXTINF:-1,ES: SYFY HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14424
-#EXTINF:-1,ES: SYFY FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292600
-#EXTINF:-1,ES: SYFY HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240117
-#EXTINF:-1,ES: COSMO HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211184
-#EXTINF:-1,ES: COSMO FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14466
-#EXTINF:-1,ES: COSMO HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240109
-#EXTINF:-1,ES: COMEDY CENTRAL HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14468
-#EXTINF:-1,ES: COMEDY CENTRAL FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211031
-#EXTINF:-1,ES: COMEDY CENTRAL HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240108
-#EXTINF:-1,ES: FDF
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211185
-#EXTINF:-1,ES: A3 SERIES HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211183
-#EXTINF:-1,ES: MEGA HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240098
-#EXTINF:-1,ES: ENERGY HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211044
-#EXTINF:-1,ES: DECASA HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211038
-#EXTINF:-1,ES: DECASA FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277957
-#EXTINF:-1,ES: CANAL COCINA HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/208274
-#EXTINF:-1,ES: CANAL COCINA FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277958
-#EXTINF:-1,ES: BE MAD HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/221680
-#EXTINF:-1,ES: BE MAD FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277959
-#EXTINF:-1,ES: BLAZE HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/208273
-#EXTINF:-1,ES: CANAL ODISEA HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14435
-#EXTINF:-1,ES: DIVINITY
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211042
-#EXTINF:-1,ES: NOVA HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14460
-#EXTINF:-1,ES: NEOX HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14446
-#EXTINF:-1,ES: MOVISTAR 0#
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277955
-#EXTINF:-1,ES: ALQUILER HD 1
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178652
-#EXTINF:-1,ES: ALQUILER HD 2
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178651
-#EXTINF:-1,ES: ALQUILER HD 3
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178650
-#EXTINF:-1,ES: ALQUILER HD 4
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178649
-#EXTINF:-1,ES: ALQUILER HD 5
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178648
-#EXTINF:-1,ES: ALQUILER HD 6
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178647
-#EXTINF:-1,ES: ALQUILER HD 7
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178646
-#EXTINF:-1,ES: ALQUILER HD 8
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178645
-#EXTINF:-1,ES: ALQUILER HD 9
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178644
-#EXTINF:-1,SP: ----- MUSIC -----
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178159
-#EXTINF:-1,ES: MTV
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211085
-#EXTINF:-1,ES: CLASSICA
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240121
-#EXTINF:-1,ES: MEZZO LIVE FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211062
-#EXTINF:-1,ES: MEZZO LIVE HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240120
-#EXTINF:-1,SP: ----- INFANTIL -----
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178160
-#EXTINF:-1,ES: DISNEY JR
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14448
-#EXTINF:-1,ES: DISNEY XD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211041
-#EXTINF:-1,ES: DISNEY CHANNEL HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292604
-#EXTINF:-1,ES: DISNEY CHANNEL FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/208278
-#EXTINF:-1,ES: DISNEY+
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/221676
-#EXTINF:-1,ES: NICKELODEON HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14445
-#EXTINF:-1,ES: NICKELODEON FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211091
-#EXTINF:-1,ES: NICKELODEON HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240126
-#EXTINF:-1,ES: NICK JR
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14444
-#EXTINF:-1,ES: CLAN HD (TVE)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211170
-#EXTINF:-1,ES: CLAN FHD (TVE)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/221677
-#EXTINF:-1,ES: BOING
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14450
-#EXTINF:-1,ES: CANAL PANDA
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/208276
-#EXTINF:-1,ES: BABY TV
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162490
-#EXTINF:-1,ES: IBERALIA TV HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277962
-#EXTINF:-1,ES: DKISS HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/217807
-#EXTINF:-1,ES: TEN
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/221682
-#EXTINF:-1,ES: CAZA Y PESCA HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14442
-#EXTINF:-1,ES: CAZA Y PESCA FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211030
-#EXTINF:-1,ES: CAZA Y PESCA HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240122
-#EXTINF:-1,SP: ----- DOCUMENTALES -----
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178158
-#EXTINF:-1,ES: HISTORIA HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14439
-#EXTINF:-1,ES: HISTORIA FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277961
-#EXTINF:-1,ES: CRIMEN+ INVESTIGACION
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14441
-#EXTINF:-1,ES: DISCOVERY CHANNEL HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14440
-#EXTINF:-1,ES: DISCOVERY CHANNEL FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292605
-#EXTINF:-1,ES: NATIONAL GEOGRAPHIC HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/221678
-#EXTINF:-1,ES: NATIONAL GEOGRAPHIC FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211088
-#EXTINF:-1,ES: NAT GEO HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240123
-#EXTINF:-1,ES: NATIONAL GEOGRAPHIC WILD HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/221679
-#EXTINF:-1,ES: NATIONAL GEOGRAPHIC WILD FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211090
-#EXTINF:-1,ES: NATIONAL GEO WILD HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240124
-#EXTINF:-1,ES: DMAX
+
+
+#EXTINF:-1 xui-id="" tvg-id="Discovery MAX" tvg-name="DMAX" tvg-logo="" group-title="TDT",DMAX
 http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/221681
-#EXTINF:-1,ES: VIAJAR HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14434
-#EXTINF:-1,ES: VIAJAR FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211114
-#EXTINF:-1,SP: ----- DEPORTES -----
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178157
-#EXTINF:-1,ES: DAZN F1 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292610
-#EXTINF:-1,ES: DAZN F1 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/339519
-#EXTINF:-1,ES: DAZN 1 FHD.
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/314679
-#EXTINF:-1,ES: DAZN 1 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292616
-#EXTINF:-1,ES: DAZN 2 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/314680
-#EXTINF:-1,ES: DAZN 2 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292617
-#EXTINF:-1,ES: DAZN 3 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292612
-#EXTINF:-1,ES: DAZN 3
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292618
-#EXTINF:-1,ES: DAZN 4 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292613
-#EXTINF:-1,ES: DAZN 4 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292619
-#EXTINF:-1,ES: MOVISTAR VAMOS HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/210552
-#EXTINF:-1,ES: MOVISTAR VAMOS FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292628
-#EXTINF:-1,ES: MOVISTAR VAMOS HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240131
-#EXTINF:-1,ES: LA LIGA BAR HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220975
-#EXTINF:-1,ES: LA LIGA BAR FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220934
-#EXTINF:-1,ES: LA LIGA BAR HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240135
-#EXTINF:-1,ES: LA LIGA TV BAR 2 [LIVE-EVENT]
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220972
-#EXTINF:-1,ES: LA LIGA TV BAR 3 [LIVE-EVENT]
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220971
-#EXTINF:-1,ES: LA LIGA TV BAR 4 [LIVE-EVENT]
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220970
-#EXTINF:-1,ES: MOVISTAR LA LIGA HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220973
-#EXTINF:-1,ES: MOVISTAR LA LIGA FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220943
-#EXTINF:-1,ES: MOVISTAR LA LIGA HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240129
-#EXTINF:-1,ES: MOVISTAR LA LIGA 1 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211205
-#EXTINF:-1,ES: MOVISTAR LA LIGA 1 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211202
-#EXTINF:-1,ES: MOVISTAR LA LIGA 1 HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240130
-#EXTINF:-1,ES: MOVISTAR LA LIGA 2 HD  (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220962
-#EXTINF:-1,ES: MOVISTAR LA LIGA 2 FHD  (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211203
-#EXTINF:-1,ES: MOVISTAR LA LIGA 3 HD [Solo Eventos]
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220961
-#EXTINF:-1,ES: MOVISTAR LA LIGA 3 FHD  (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211204
-#EXTINF:-1,ES: MOVISTAR LA LIGA 4 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211201
-#EXTINF:-1,ES: MOVISTAR LA LIGA 5 HD  (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220944
-#EXTINF:-1,ES: MOVISTAR LA LIGA 7 HD  (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220964
-#EXTINF:-1,ES: MOVISTAR LA LIGA 6 HD  (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220960
-#EXTINF:-1,ES: MOVISTAR LA LIGA 8 HD  (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220963
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220938
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220937
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240134
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 1 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211192
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 1 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211144
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 2 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211193
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 2 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220953
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 3 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211194
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 3 FHD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220954
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 4 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211195
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 5 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211196
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 6 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211197
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 7 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211198
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 8 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211199
-#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 9 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211200
-#EXTINF:-1,ES: MOVISTAR DEPORTES HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211187
-#EXTINF:-1,ES: MOVISTAR DEPORTES FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220967
-#EXTINF:-1,ES: MOVISTAR DEPORTES HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240132
-#EXTINF:-1,ES: MOVISTAR DEPORTE 1 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220940
-#EXTINF:-1,ES: MOVISTAR DEPORTES 1 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292670
-#EXTINF:-1,ES: MOVISTAR DEPORTES 1 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240133
-#EXTINF:-1,ES: MOVISTAR DEPORTES 2
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/330768
-#EXTINF:-1,ES: MOVISTAR DEPORTE 2 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220941
-#EXTINF:-1,ES: MOVISTAR DEPORTES 2 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292669
-#EXTINF:-1,ES: MOVISTAR DEPORTES 3 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292668
-#EXTINF:-1,ES: MOVISTAR DEPORTES 4 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292667
-#EXTINF:-1,ES: MOVISTAR DEPORTES 5 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292666
-#EXTINF:-1,ES: MOVISTAR DEPORTES 6 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292665
-#EXTINF:-1,ES: MOVISTAR DEPORTES 7 HD (Solo Eventos)
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292664
-#EXTINF:-1,ES: MOVISTAR MULTIDEPORTE HD/FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/174639
-#EXTINF:-1,ES: M.LCAMPEON 1
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/330769
-#EXTINF:-1,ES: M.LCAMPEON 2
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/330770
-#EXTINF:-1,ES: M.LCAMPEON 3
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/332198
-#EXTINF:-1,ES: M.LCAMPEON 4
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/332199
-#EXTINF:-1,ES: EUROSPORT 1 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14410
-#EXTINF:-1,ES: EUROSPORT 1 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/164680
-#EXTINF:-1,ES: EUROSPORT1 HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240128
-#EXTINF:-1,ES: EUROSPORT 2
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211210
-#EXTINF:-1,ES: EUROSPORT 2 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220935
-#EXTINF:-1,ES: MOVISTAR FORMULA 1 HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14405
-#EXTINF:-1,ES: MOVISTAR FORMULA 1 FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220955
-#EXTINF:-1,ES: MOVISTAR FORMULA 1 HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240137
-#EXTINF:-1,ES: MOVISTAR GOLF HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14402
-#EXTINF:-1,ES: MOVISTAR GOLF FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211076
-#EXTINF:-1,ES: MOVISTAR GOLF HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240136
-#EXTINF:-1,ES: BARCA TV HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14399
-#EXTINF:-1,ES: BARCA TV FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292671
-#EXTINF:-1,ES: REAL MADRID TV
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14398
-#EXTINF:-1,ES: REAL MADRID TV HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211095
-#EXTINF:-1,ES: GOL TV HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211053
-#EXTINF:-1,ES: GOL TV FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/208275
-#EXTINF:-1,ES: TELEDEPORTE HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/178734
-#EXTINF:-1,ES: TELEDEPORTE FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211126
-#EXTINF:-1,ES: MOVISTAR TOROS HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211104
-#EXTINF:-1,ES: MOVISTAR TOROS FHD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/13908
-#EXTINF:-1,ES: MOVISTAR TOROS HEVC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240127
-#EXTINF:-1,ES: MOVISTAR  FUTBOL HD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211064
-#EXTINF:-1,ES: FOOTTERS 1 FHD [LIVEEVENT]
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/354379
-#EXTINF:-1,ES: FOOTTERS 2 FHD [LIVEEVENT]
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/354378
-#EXTINF:-1,ES: FOOTTERS 3 FHD [LIVEEVENT]
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/354377
-#EXTINF:-1,ES: FOOTTERS 4 FHD [LIVEEVENT]
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/354376
-#EXTINF:-1,ES: FOOTTERS 5 FHD [LIVEEVENT]
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/354375
-#EXTINF:-1,ES: FOOTTERS 6 FHD [LIVEEVENT]
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/354374
-#EXTINF:-1,ES: FOOTTERS 7 FHD [LIVEEVENT]
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/354373
-#EXTINF:-1,ES: FOOTTERS 8 FHD [LIVEEVENT]
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/354372
-#EXTINF:-1,ES: FOOTTERS 9 FHD [LIVEEVENT]
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/354371
-#EXTINF:-1,ES: FOOTTERS 10 FHD [LIVEEVENT]
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/354370
-#EXTINF:-1,ES: FOOTTERS 14 FHD [LIVEEVENT]
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/354366
-#EXTINF:-1,ES: FOOTTERS 20 FHD [LIVEEVENT]
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/354360
+
+
+#EXTINF:-1 xui-id="" tvg-id="BE MAD" tvg-name="BE MAD" tvg-logo="" group-title="TDT",BEMAD 
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277959
+
+
+#EXTINF:-1 xui-id="" tvg-id="ENERGY" tvg-name="ENERGY" tvg-logo="" group-title="TDT",ENERGY 
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211044
+
+
+#EXTINF:-1 xui-id="" tvg-id="Mega HD" tvg-name="MEGA" tvg-logo="" group-title="TDT",MEGA
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240098
+
+#EXTINF:-1 xui-id="" tvg-id="NEOX" tvg-name="NEOX" tvg-logo="" group-title="TDT",NEOX
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14446
+
+
+#EXTINF:-1 xui-id="" tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="" group-title="TDT",PARAMOUNT NETWORK
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/162448
+
+
+
+####MOVISTAR+
+#EXTINF:-1 xui-id="" tvg-id="#0 HD" tvg-name="0#" tvg-logo="" group-title="MOVISTAR+",0#
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/299329
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="M.ESTRENOS HD" tvg-name="ESTRENOS" tvg-logo="" group-title="MOVISTAR+",ESTRENOS
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220956
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. ESTRENOS 2 HD" tvg-name="ESTRENOS 2" tvg-logo="" group-title="MOVISTAR+",ESTRENOS 2
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292598
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. ACCION HD" tvg-name="ACCION" tvg-logo="" group-title="MOVISTAR+",ACCION
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/299332
+
+
+#EXTINF:-1 xui-id="" tvg-id="M.COMEDIA HD" tvg-name="COMEDIA" tvg-logo="" group-title="MOVISTAR+",COMEDIA
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211069
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. DRAMA HD" tvg-name="DRAMA" tvg-logo="" group-title="MOVISTAR+",DRAMA
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277950
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. CLÁSICOS HD" tvg-name="CLASICOS" tvg-logo="" group-title="MOVISTAR+",CLÁSICOS
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/375200
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. Cine Español" tvg-name="CINE Ñ" tvg-logo="" group-title="MOVISTAR+",CINE Ñ
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211070
+
+
+#EXTINF:-1 xui-id="48427" tvg-id="M. SERIES HD" tvg-name="SERIES" tvg-logo="" group-title="MOVISTAR+",SERIES
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/299331
+
+
+#EXTINF:-1 xui-id="48430" tvg-id="M. SERIES 2 HD" tvg-name="SERIES 2" tvg-logo="" group-title="MOVISTAR+",SERIES 2
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/367799
+
+
+#EXTINF:-1 xui-id="" tvg-id="La Resistencia" tvg-name="LA RESISTENCIA" tvg-logo="" group-title="MOVISTAR+",LA RESISTENCIA
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. Fest" tvg-name="MOVISTAR FEST" tvg-logo="" group-title="MOVISTAR+",FEST
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/378507
+
+
+####SUSCRIPCIÓN
+#EXTINF:-1 xui-id="" tvg-id="Somos" tvg-name="SOMOS HD" tvg-logo="" group-title="SUSCRIPCIÓN",SOMOS
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="Dark" tvg-name="DARK HD" tvg-logo="" group-title="SUSCRIPCIÓN",DARK
+
+
+#EXTINF:-1 xui-id="" tvg-id="SYFY HD" tvg-name="SYFY" tvg-logo="" group-title="SUSCRIPCIÓN",SYFY
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="SUSCRIPCIÓN",COMEDY CENTRAL
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="FOX HD" tvg-name="FOX" tvg-logo="" group-title="SUSCRIPCIÓN",FOX
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="CALLE 13 HD" tvg-name="CALLE 13" tvg-logo="" group-title="SUSCRIPCIÓN",CALLE 13
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD" tvg-logo="" group-title="SUSCRIPCIÓN",HOLLYWOOD
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="HISTORIA" tvg-name="HISTORIA" tvg-logo="" group-title="SUSCRIPCIÓN",HISTORIA
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="CANAL ODISEA" tvg-name="ODISEA" tvg-logo="" group-title="SUSCRIPCIÓN",ODISEA
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="DISCOVERY" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="SUSCRIPCIÓN",DISCOVERY CHANNEL
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="NAT GEO HD" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="SUSCRIPCIÓN",NATIONAL GEOGRAPHIC
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="CAZAyPESCA HD" tvg-name="CAZA Y PESCA" tvg-logo="" group-title="SUSCRIPCIÓN",CAZA Y PESCA
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="TOROS HD" tvg-name="TOROS" tvg-logo="" group-title="SUSCRIPCIÓN",TOROS
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="DreamWorks HD" tvg-name="DREAMWORKS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="SUSCRIPCIÓN",DREAMWORKS
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="NICKELODEON HD" tvg-name="NICKELODEON" tvg-logo="" group-title="SUSCRIPCIÓN",NICKELODEON
+
+
+
+####DEPORTES
+#EXTINF:-1 xui-id="" tvg-id="LALIGATV BAR" tvg-name="LA LIGA BAR" tvg-logo="" group-title="DEPORTES",LA LIGA BAR
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. LaLiga HD" tvg-name="LA LIGA" tvg-logo="" group-title="DEPORTES",LA LIGA
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="M.LCAMPEONES HD" tvg-name="LIGA CAMPEONES" tvg-logo="" group-title="DEPORTES",LIGA DE CAMPEONES
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="GOL HD" tvg-name="GOL TV" tvg-logo="" group-title="DEPORTES",GOL
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. DEPORTE HD" tvg-name="DEPORTE" tvg-logo="" group-title="DEPORTES",DEPORTES
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="R. MADRID TV" tvg-name="REAL MADRID TV" tvg-logo="" group-title="DEPORTES",REAL MADRID TV
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="BARCA TV" tvg-name="BARCA TV" tvg-logo="" group-title="DEPORTES",BARCA TV
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="DAZN F1 HD" tvg-name="F1" tvg-logo="" group-title="DEPORTES",DAZN F1
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="DAZN 1 HD" tvg-name="DAZN 1" tvg-logo="" group-title="DEPORTES",DAZN 1
+
+
+
+#EXTINF:-1 xui-id="" tvg-id="M. GOLF HD" tvg-name="GOLF" tvg-logo="" group-title="DEPORTES",GOLF
+
