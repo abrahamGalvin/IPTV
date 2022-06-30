@@ -81,10 +81,10 @@ http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/375200
 
 
 #EXTINF:-1 xui-id="" tvg-id="M. Cine Español" tvg-name="CINE Ñ" tvg-logo="" group-title="MOVISTAR+",CINE Ñ
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14419
+
 
 #EXTINF:-1 xui-id="48427" tvg-id="M. SERIES HD" tvg-name="SERIES" tvg-logo="" group-title="MOVISTAR+",SERIES
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/299331
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220959
 
 
 #EXTINF:-1 xui-id="48430" tvg-id="M. SERIES 2 HD" tvg-name="SERIES 2" tvg-logo="" group-title="MOVISTAR+",SERIES 2
@@ -123,7 +123,7 @@ http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240107
 
 
 #EXTINF:-1 xui-id="" tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD" tvg-logo="" group-title="SUSCRIPCIÓN",HOLLYWOOD
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240112
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/277942
 
 
 #EXTINF:-1 xui-id="" tvg-id="HISTORIA" tvg-name="HISTORIA" tvg-logo="" group-title="SUSCRIPCIÓN",HISTORIA
@@ -135,19 +135,18 @@ http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14435
 
 
 #EXTINF:-1 xui-id="" tvg-id="DISCOVERY" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="SUSCRIPCIÓN",DISCOVERY CHANNEL
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292605
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14440
 
 
 #EXTINF:-1 xui-id="" tvg-id="NAT GEO HD" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="SUSCRIPCIÓN",NATIONAL GEOGRAPHIC
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240123
-
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211088
 
 #EXTINF:-1 xui-id="" tvg-id="CAZAyPESCA HD" tvg-name="CAZA Y PESCA" tvg-logo="" group-title="SUSCRIPCIÓN",CAZA Y PESCA
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240122
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/14442
 
 
 #EXTINF:-1 xui-id="" tvg-id="TOROS HD" tvg-name="TOROS" tvg-logo="" group-title="SUSCRIPCIÓN",TOROS
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240127
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/13908
 
 
 #EXTINF:-1 xui-id="" tvg-id="DreamWorks HD" tvg-name="DREAMWORKS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="SUSCRIPCIÓN",DREAMWORKS
@@ -160,11 +159,11 @@ http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240126
 
 ####DEPORTES
 #EXTINF:-1 xui-id="" tvg-id="LALIGATV BAR" tvg-name="LA LIGA BAR" tvg-logo="" group-title="DEPORTES",LA LIGA BAR
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240135
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220975
 
 
 #EXTINF:-1 xui-id="" tvg-id="M. LaLiga HD" tvg-name="LA LIGA" tvg-logo="" group-title="DEPORTES",LA LIGA
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240129
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/220943
 
 
 #EXTINF:-1 xui-id="" tvg-id="M.LCAMPEONES HD" tvg-name="LIGA CAMPEONES" tvg-logo="" group-title="DEPORTES",LIGA DE CAMPEONES
@@ -196,4 +195,4 @@ http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/314679
 
 
 #EXTINF:-1 xui-id="" tvg-id="M. GOLF HD" tvg-name="GOLF" tvg-logo="" group-title="DEPORTES",GOLF
-http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240136
+http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211076
