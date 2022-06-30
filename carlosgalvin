@@ -102,9 +102,6 @@ http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/378507
 #EXTINF:-1 xui-id="" tvg-id="Somos" tvg-name="SOMOS HD" tvg-logo="" group-title="SUSCRIPCIÓN",SOMOS
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/1412
 
-#EXTINF:-1 xui-id="" tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="" group-title="SUSCRIPCIÓN",NICK JR
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/248
-
 #EXTINF:-1 xui-id="" tvg-id="Dark" tvg-name="DARK HD" tvg-logo="" group-title="SUSCRIPCIÓN",DARK RED
 http://au-ve.eu:25461/Rialinho/F6AtJ8GKXgab/758
 
@@ -161,6 +158,9 @@ http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/292611
 
 #EXTINF:-1 xui-id="" tvg-id="NICKELODEON HD" tvg-name="NICKELODEON" tvg-logo="" group-title="SUSCRIPCIÓN",NICKELODEON
 http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/240126
+
+#EXTINF:-1 xui-id="" tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="" group-title="SUSCRIPCIÓN",NICK JR
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/248
 
 
 ####DEPORTES
