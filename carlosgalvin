@@ -1,729 +1,270 @@
 #EXTM3U
-#EXTINF:-1,La 1 HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41010
-#EXTINF:-1,La 1 1080
+# TDT
+#EXTINF:-1 xui-id="" tvg-id="LA 1 HD" tvg-name="" tvg-logo="" group-title="",LA 1
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41011
-#EXTINF:-1,La 2
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41012
-#EXTINF:-1,La 2 1080
+#EXTINF:-1 xui-id="" tvg-id="LA 2 HD" tvg-name="" tvg-logo="" group-title="",LA 2
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41013
-#EXTINF:-1,Antena 3 HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41014
-#EXTINF:-1,Antena 3 1080
+#EXTINF:-1 xui-id="" tvg-id="ANTENA 3 HD" tvg-name="" tvg-logo="" group-title="",ANTENA 3
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41015
-#EXTINF:-1,Cuatro HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41016
-#EXTINF:-1,Cuatro 1080
+#EXTINF:-1 xui-id="" tvg-id="CUATRO HD" tvg-name="" tvg-logo="" group-title="",CUATRO
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41017
-#EXTINF:-1,Telecinco HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41018
-#EXTINF:-1,Telecinco 1080
+#EXTINF:-1 xui-id="" tvg-id="TELECINCO HD" tvg-name="" tvg-logo="" group-title="",TELECINCO
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41019
-#EXTINF:-1,La Sexta HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41020
-#EXTINF:-1,La Sexta 1080
+#EXTINF:-1 xui-id="" tvg-id="LA SEXTA HD" tvg-name="" tvg-logo="" group-title="",LA SEXTA
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41021
-#EXTINF:-1,Neox SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41022
-#EXTINF:-1,Neox 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41023
-#EXTINF:-1,Energy
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41024
-#EXTINF:-1,Mega SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41026
-#EXTINF:-1,Mega 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41027
-#EXTINF:-1,Nova SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41028
-#EXTINF:-1,Nova FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41029
-#EXTINF:-1,Divinity
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41030
-#EXTINF:-1,FDF
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41032
-#EXTINF:-1,Ten
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41034
-#EXTINF:-1,A3Series 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41036
-#EXTINF:-1,BeMad TV
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41037
-#EXTINF:-1,BeMad TV 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41038
-#EXTINF:-1,DMAX 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41039
-#EXTINF:-1,Dkiss
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41040
-#EXTINF:-1,Trece Tv
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41041
-#EXTINF:-1,24h SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41042
-#EXTINF:-1,ElToro TV
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41044
-#EXTINF:-1,TPA7 Asturias
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/48574
-#EXTINF:-1,A Punt
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41144
-#EXTINF:-1,Canal Sur
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41145
-#EXTINF:-1,Canal Sur 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41147
-#EXTINF:-1,TV Canaria
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41148
-#EXTINF:-1,3/24.cat
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41150
-#EXTINF:-1,Tv3
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41153
-#EXTINF:-1,TV3 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41154
-#EXTINF:-1,tevecat
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41155
-#EXTINF:-1,8 TV.cat
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41156
-#EXTINF:-1,Beteve
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41158
-#EXTINF:-1,Canal 4 Baleares
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41159
-#EXTINF:-1,Aragon TV
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41160
-#EXTINF:-1,Ptv Cordoba
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41162
-#EXTINF:-1,Ptv Málaga HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41163
-#EXTINF:-1,Marbella Tv
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41164
-#EXTINF:-1,Canal Extremadura SAT
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41165
-#EXTINF:-1,Castilla La Mancha
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41166
-#EXTINF:-1,La 7 (RTVCyL)
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41616
-#EXTINF:-1,Telemadrid HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41167
-#EXTINF:-1,Telemadrid 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41168
-#EXTINF:-1,ETB 1
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41170
-#EXTINF:-1,ETB 2
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41171
-#EXTINF:-1,UROLA TELEBISTA
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41172
-#EXTINF:-1,TV Galicia
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41175
-#EXTINF:-1,Galicia Tv Momentos
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41176
-#EXTINF:-1,Galicia Tv America
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41177
-#EXTINF:-1,BOM Cine
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41179
-#EXTINF:-1,ONDA CADIZ
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41181
-#EXTINF:-1,#0 por M+ HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/88
-#EXTINF:-1,#0 por M+ 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/89
-#EXTINF:-1,Clásicos por M+ FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/79702
-#EXTINF:-1,Estrenos por M+ HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/92
-#EXTINF:-1,Estrenos por M+ 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/93
-#EXTINF:-1,Acción por M+ HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/96
-#EXTINF:-1,Acción por M+ 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/97
-#EXTINF:-1,Comedia por M+ HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/100
-#EXTINF:-1,Comedia por M+ 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/101
-#EXTINF:-1,Drama por M+ HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/104
-#EXTINF:-1,Drama por M+ 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/105
-#EXTINF:-1,Estrenos 2 por M+ FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/108
-#EXTINF:-1,Estrenos 2 por M+ 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/109
-#EXTINF:-1,SOMOS
+#EXTINF:-1 xui-id="" tvg-id="Somos" tvg-name="" tvg-logo="" group-title="",SOMOS
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/1412
-#EXTINF:-1,Series 2 por M+ HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/116
-#EXTINF:-1,Series 2 por M+ 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/117
-#EXTINF:-1,Series por M+ HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/120
-#EXTINF:-1,Series por M+ 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/121
-#EXTINF:-1,AMC HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/125
-#EXTINF:-1,AMC 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/126
-#EXTINF:-1,AXN HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/129
-#EXTINF:-1,AXN 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/130
-#EXTINF:-1,AXN White HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/133
-#EXTINF:-1,AXN White 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/134
-#EXTINF:-1,Fox HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/137
-#EXTINF:-1,Fox 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/138
-#EXTINF:-1,Calle 13 HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/145
-#EXTINF:-1,Calle 13 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/146
-#EXTINF:-1,TNT HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/149
-#EXTINF:-1,TNT 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/150
-#EXTINF:-1,Cosmo HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/157
-#EXTINF:-1,Cosmo 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/158
-#EXTINF:-1,Hollywood HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/161
-#EXTINF:-1,Hollywood 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/162
-#EXTINF:-1,TCM HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/165
-#EXTINF:-1,TCM 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/166
-#EXTINF:-1,SyFy HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/153
-#EXTINF:-1,SyFy 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/154
-#EXTINF:-1,Sundance SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/168
-#EXTINF:-1,Sundance 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/169
-#EXTINF:-1,DARK 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/1411
-#EXTINF:-1,XTRM 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/176
-#EXTINF:-1,Comedy Central HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/179
-#EXTINF:-1,Comedy Central 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/180
-#EXTINF:-1,Paramount Network
+#EXTINF:-1 xui-id="" tvg-id="PARAMOUNT" tvg-name="" tvg-logo="" group-title="",PARAMOUNT CHANNEL
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41464
-#EXTINF:-1,MTV España 
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/209
-#EXTINF:-1,MTV España 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/208
-#EXTINF:-1,Canal Cocina SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/213
-#EXTINF:-1,Canal Cocina 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/214
-#EXTINF:-1,Decasa 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/218
-#EXTINF:-1,AMC BREAK
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/223
-#EXTINF:-1,Caza y Pesca HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/225
-#EXTINF:-1,Caza y Pesca 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/226
-#EXTINF:-1,Iberalia 
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/12199
-#EXTINF:-1,Iberalia 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/73201
-#EXTINF:-1,Toros Tv HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/231
-#EXTINF:-1,Toros Tv 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/232
-#EXTINF:-1,AMC CRIME
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/234
-#EXTINF:-1,Nat Geo HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/187
-#EXTINF:-1,Nat Geo 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/188
-#EXTINF:-1,NatGeo Wild HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/191
-#EXTINF:-1,NatGeo Wild 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/192
-#EXTINF:-1,Historia HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/195
-#EXTINF:-1,Historia 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/196
-#EXTINF:-1,Odisea SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/201
-#EXTINF:-1,Odisea 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/200
-#EXTINF:-1,Discovery Channel 
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/203
-#EXTINF:-1,Discovery Channel 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/53034
-#EXTINF:-1,Dreamworks
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/75862
-#EXTINF:-1,Dreamworks 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/75861
-#EXTINF:-1,Disney Channel HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/240
-#EXTINF:-1,Disney Channel 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/241
-#EXTINF:-1,Disney Junior FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/244
-#EXTINF:-1,Nickelodeon HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/517
-#EXTINF:-1,Nickelodeon 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/246
-#EXTINF:-1,Nick Jr FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/248
-#EXTINF:-1,CLAN TV 
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/250
-#EXTINF:-1,CLAN TV 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/251
-#EXTINF:-1,BOING 
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/254
-#EXTINF:-1,Canal Panda FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/255
-#EXTINF:-1,Baby TV
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/256
-#EXTINF:-1,GolT HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/262
-#EXTINF:-1,GolT 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/263
-#EXTINF:-1,GolT FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/264
-#EXTINF:-1,Real Madrid TV 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/267
-#EXTINF:-1,Barça Tv 
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/269
-#EXTINF:-1,Sevilla FC TV
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/270
-#EXTINF:-1,Betis Tv
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/271
-#EXTINF:-1,LaLiga por M+ FHD 6MB
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/57473
-#EXTINF:-1,LaLiga por M+ HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/283
-#EXTINF:-1,LaLiga por M+ 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/284
-#EXTINF:-1,LaLiga por M+ FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/285
-#EXTINF:-1,LaLiga 1 por M+ HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/288
-#EXTINF:-1,LaLiga 1 por M+ 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/289
-#EXTINF:-1,LaLiga 1 por M+ FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/290
-#EXTINF:-1,LaLiga 2 por M+ HD 
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/292
-#EXTINF:-1,LaLiga 2 por M+ 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/293
-#EXTINF:-1,LaLiga 2 por M+ FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/294
-#EXTINF:-1,Movistar LaLiga 3 HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/296
-#EXTINF:-1,Movistar LaLiga 3 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/297
-#EXTINF:-1,LaLiga 3 por M+ FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/298
-#EXTINF:-1,LaLiga 4 por M+ SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/559
-#EXTINF:-1,LaLiga 5 por M+ SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/560
-#EXTINF:-1,Liga De Campeones por M+ FHD 6MB
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/57472
-#EXTINF:-1,Liga De Campeones por M+ HD 
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/313
-#EXTINF:-1,Liga de Campeones por M+ 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/314
-#EXTINF:-1,Liga De Campeones por M+ FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/315
-#EXTINF:-1,Liga de Campeones 1 por M+ HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/317
-#EXTINF:-1,Liga de Campeones 1 por M+ 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/318
-#EXTINF:-1,Liga de Campeones 1 por M+ FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/319
-#EXTINF:-1,Liga De Campeones 2 por M+ HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/321
-#EXTINF:-1,Liga De Campeones 2 por M+ 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/322
-#EXTINF:-1,Liga De Campeones 2 por M+ FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/323
-#EXTINF:-1,Liga De Campeones 3 por M+ SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/325
-#EXTINF:-1,Movistar Liga De Campeones 4 SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/326
-#EXTINF:-1,Liga de Campeones 4 por M+ SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80103
-#EXTINF:-1,Liga de Campeones 5 por M+ SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80104
-#EXTINF:-1,Liga de Campeones 6 por M+ SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80105
-#EXTINF:-1,Liga de Campeones 7 por M+ SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80106
-#EXTINF:-1,Liga de Campeones 8 por M+ SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80107
-#EXTINF:-1,Liga de Campeones 9 por M+ SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80108
-#EXTINF:-1,Liga de Campeones 10 por M+ SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80109
-#EXTINF:-1,Liga de Campeones 11 por M+ SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80110
-#EXTINF:-1,Liga de Campeones 12 por M+ SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80111
-#EXTINF:-1,#Vamos por M+ FHD 6MB
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/57475
-#EXTINF:-1,#Vamos por M+ HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/552
-#EXTINF:-1,#Vamos por M+ HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/335
-#EXTINF:-1,#Vamos por M+ 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/336
-#EXTINF:-1,#Vamos por M+ FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/337
-#EXTINF:-1,DAZN F1 HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/369
-#EXTINF:-1,Deportes por M+ FHD 6MB
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/1283
-#EXTINF:-1,Deportes por M+ HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/347
-#EXTINF:-1,Deportes por M+ 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/348
-#EXTINF:-1,Deportes por M+ FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/349
-#EXTINF:-1,Deportes 1 por M+ FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/79401
-#EXTINF:-1,Deportes 2 por M+ FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/79409
-#EXTINF:-1,Deportes 3 por M+ FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/79410
-#EXTINF:-1,Deportes 4 por M+ FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/79411
-#EXTINF:-1,Deportes 5 por M+ FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/79412
-#EXTINF:-1,Golf por M+ HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/354
-#EXTINF:-1,Golf por M+ 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/355
-#EXTINF:-1,Teledeporte SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/361
-#EXTINF:-1,Teledeporte 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/362
-#EXTINF:-1,Eurosport 1 HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/339
-#EXTINF:-1,Eurosport 1 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/340
-#EXTINF:-1,Eurosport 1 FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/341
-#EXTINF:-1,Eurosport 2 SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/554
-#EXTINF:-1,Eurosport 2 HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/343
-#EXTINF:-1,Eurosport 2 FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/345
-#EXTINF:-1,DAZN F1 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/370
-#EXTINF:-1,DAZN F1 FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/371
-#EXTINF:-1,Sol Musica 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/379
-#EXTINF:-1,MUSIC TOP
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/1677
-#EXTINF:-1,MTV Club
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/382
-#EXTINF:-1,RETRO MUSIC
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/388
-#EXTINF:-1,Mezzo LiveHD HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/389
-#EXTINF:-1,Mezzo LiveHD 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/390
-#EXTINF:-1,M6 Music 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/392
-#EXTINF:-1,Mezzo
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/394
-#EXTINF:-1,Stingray Classica
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/395
-#EXTINF:-1,Radio Montecarlo TV
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/1670
-#EXTINF:-1,R 101 MUSIC
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/5391
-#EXTINF:-1,MTV HITS 
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/19306
-#EXTINF:-1,MTV BASE 
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/19308
-#EXTINF:-1,MTV BIGGEST POP
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/21948
-#EXTINF:-1,MTV BLOCK PARTY
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/21949
-#EXTINF:-1,MTV YO!
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/21950
-#EXTINF:-1,MTV MUSIC 24
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/16721
-#EXTINF:-1,MTV HITS SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/19304
-#EXTINF:-1,MTV CLASSIC SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/19305
-#EXTINF:-1,Ocko TV
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/21953
-#EXTINF:-1,Ocko Star TV
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/21954
-#EXTINF:-1,QMusic
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/21956
-#EXTINF:-1,Ocko Express
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/21957
-#EXTINF:-1,VIVA
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/21963
-#EXTINF:-1,Euro Latina TV
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/21964
-#EXTINF:-1,Latido Music
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/21965
-#EXTINF:-1,Virgin Radio TV
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/21968
-#EXTINF:-1,La Mega Mundial TV
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/5904
-#EXTINF:-1,CMC CALIFORNIA MUSIC CHANNEL
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/5911
-#EXTINF:-1,DJING IBIZA
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/5913
-#EXTINF:-1,Djing Classics
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/5916
-#EXTINF:-1,Djing Karaoke
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/5917
-#EXTINF:-1,DAZN  1 HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/73895
-#EXTINF:-1,DAZN  1 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/73896
-#EXTINF:-1,DAZN  2 HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/73899
-#EXTINF:-1,DAZN  2 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/73900
-#EXTINF:-1,DAZN 3 HD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/75963
-#EXTINF:-1,DAZN 3 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/75943
-#EXTINF:-1,DAZN 4 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/75944
-#EXTINF:-1,Discovery TURBO
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41182
-#EXTINF:-1,MC: HIT LIST
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41373
-#EXTINF:-1,MC: Hip-Hop/R&B
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41374
-#EXTINF:-1,MC: Teen Beats
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41375
-#EXTINF:-1,MC: Today's Country
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41376
-#EXTINF:-1,MC: Alternative
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41377
-#EXTINF:-1,MC: Pop Latino
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41378
-#EXTINF:-1,MC: R&B/Soul
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41379
-#EXTINF:-1,MC: Rap
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41380
-#EXTINF:-1,MC: Dance/EDM
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41381
-#EXTINF:-1,MC: Musica Urbana
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41382
-#EXTINF:-1,MC: Indie
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41383
-#EXTINF:-1,MC: Kidz Only!
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41384
-#EXTINF:-1,MC: Mexicana
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41385
-#EXTINF:-1,MC: Pop & Country
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41386
-#EXTINF:-1,MC: Pop Hits
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41387
-#EXTINF:-1,MC: Tropicales
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41388
-#EXTINF:-1,MC: Rock
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41389
-#EXTINF:-1,MC: Metal
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41390
-#EXTINF:-1,MC: 90's
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41391
-#EXTINF:-1,MC: Rap 2K
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41392
-#EXTINF:-1,MC: Throwback Jamz
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41393
-#EXTINF:-1,MC: Brits + Hits
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41394
-#EXTINF:-1,MC: Toddler Tunes
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41395
-#EXTINF:-1,MC: Y2K
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41396
-#EXTINF:-1,Latinos 1 TV
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/62107
-#EXTINF:-1,Telemúsica
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/62108
-#EXTINF:-1,La Otra FHD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/67857
-#EXTINF:-1,Stingray Classic Rock
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78178
-#EXTINF:-1,Stingray Alternative
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78179
-#EXTINF:-1,Stingray Pop Adult
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78180
-#EXTINF:-1,Stingray Hit List
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78181
-#EXTINF:-1,Stingray Hot Country
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78182
-#EXTINF:-1,Stingray Flashback 70's
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78183
-#EXTINF:-1,Stingray Remember the 80s
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78184
-#EXTINF:-1,Stingray Hip-Hop/R&B
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78185
-#EXTINF:-1,Stingray Soul Storm
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78186
-#EXTINF:-1,Stingray Greatest Hits
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78187
-#EXTINF:-1,Stingray Éxitos del Momento
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78188
-#EXTINF:-1,Stingray Classic Rock
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78194
-#EXTINF:-1,Stingray Rock Alternative
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78195
-#EXTINF:-1,Stingray Pop Adult
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78196
-#EXTINF:-1,Stingray Hit List
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78197
-#EXTINF:-1,Stingray Hot Country
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78198
-#EXTINF:-1,Stingray Flashback 70s
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78199
-#EXTINF:-1,Stingray Everything 80s
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78200
-#EXTINF:-1,Stingray Urban Beats
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78201
-#EXTINF:-1,Stingray Holiday Hits
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78202
-#EXTINF:-1,Stingray Today's Latin Pop
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78203
-#EXTINF:-1,Fest por M+ SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78288
-#EXTINF:-1,Fest por M+ 1080
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78289
-#EXTINF:-1,AragonTV Internacional
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/79069
-#EXTINF:-1,La Resistencia por M+ SD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80112
-#EXTINF:-1,7NN
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80549
-#EXTINF:-1,24h 1080
+#EXTINF:-1 xui-id="" tvg-id="Mega HD" tvg-name="" tvg-logo="" group-title="",MEGA
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41027
+#EXTINF:-1 xui-id="" tvg-id="BE MAD" tvg-name="" tvg-logo="" group-title="",BEMAD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41038
+#EXTINF:-1 xui-id="" tvg-id="24 HORAS" tvg-name="" tvg-logo="" group-title="",24 HORAS
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80816
-#EXTINF:-1,Navarra TV
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/81003
-#EXTINF:-1,•●★-- 24/7 Cine Series --★●
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82527
-#EXTINF:-1,ES: En Tierra Hostil HD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82528
-#EXTINF:-1,ES: 091 Alerta Policia HD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82529
-#EXTINF:-1,ES: Policías en Acción HD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82530
-#EXTINF:-1,ES: Empeños a lo Bestia HD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82531
-#EXTINF:-1,ES: Forjado a Fuego HD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82532
-#EXTINF:-1,ES: El Encantador de Perros HD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82533
-#EXTINF:-1,ES: Españoles En El Mundo HD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82534
-#EXTINF:-1,ES: Quien vive ahi HD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82535
-#EXTINF:-1,ES: Los cazadores de mitos HD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82536
-#EXTINF:-1,ES: Wild Frank HD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82537
-#EXTINF:-1,ES: Amazonas Clandestino HD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82538
-#EXTINF:-1,ES: Callejeros 24H
+#EXTINF:-1 xui-id="" tvg-id="CLAN  TVE" tvg-name="" tvg-logo="" group-title="",CLAN
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/251
+#EXTINF:-1 xui-id="" tvg-id="FDF" tvg-name="" tvg-logo="" group-title="",FDF
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41032
+#EXTINF:-1 xui-id="" tvg-id="TELEMADRID" tvg-name="" tvg-logo="" group-title="",TELEMADRID
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41168
+#EXTINF:-1 xui-id="" tvg-id="Atreseries HD" tvg-name="" tvg-logo="" group-title="",A3SERIES
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41036
+#EXTINF:-1 xui-id="" tvg-id="ENERGY" tvg-name="" tvg-logo="" group-title="",ENERGY
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41024
+#EXTINF:-1 xui-id="" tvg-id="CanalSurHD" tvg-name="" tvg-logo="" group-title="",CANAL SUR
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41147
+#EXTINF:-1 xui-id="" tvg-id="DIVINITY" tvg-name="" tvg-logo="" group-title="",DIVINITY
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41030
+#EXTINF:-1 xui-id="" tvg-id="NEOX" tvg-name="" tvg-logo="" group-title="",NEOX
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41023
+#EXTINF:-1 xui-id="" tvg-id="NOVA" tvg-name="" tvg-logo="" group-title="",NOVA
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41029
+#EXTINF:-1 xui-id="" tvg-id="Discovery MAX" tvg-name="" tvg-logo="" group-title="",DMAX
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41039
+#EXTINF:-1 xui-id="" tvg-id="Ten" tvg-name="" tvg-logo="" group-title="",TEN
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41034
+#EXTINF:-1 xui-id="" tvg-id="IBERALIA TV" tvg-name="" tvg-logo="" group-title="",IBERALIA
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/73201
+
+# INFANTIL 
+#EXTINF:-1 xui-id="" tvg-id="NICKELODEON HD" tvg-name="" tvg-logo="" group-title="",NICKELODEON
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/246
+#EXTINF:-1 xui-id="" tvg-id="DISNEY CH HD" tvg-name="" tvg-logo="" group-title="",DISNEY CHANNEL
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/241
+#EXTINF:-1 xui-id="" tvg-id="disneyjunior.es" tvg-name="" tvg-logo="" group-title="",DISNEY JR
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/244
+#EXTINF:-1 xui-id="" tvg-id="BOING" tvg-name="" tvg-logo="" group-title="",BOING
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/254
+#EXTINF:-1 xui-id="" tvg-id="CANAL PANDA" tvg-name="" tvg-logo="" group-title="",PANDA
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/255
+#EXTINF:-1 xui-id="" tvg-id="BABY TV" tvg-name="" tvg-logo="" group-title="",BABY TV
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/256
+#EXTINF:-1 xui-id="" tvg-id="NICK JR" tvg-name="" tvg-logo="" group-title="",NICK JR
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/248
+#EXTINF:-1 xui-id="" tvg-id="DreamWorks HD" tvg-name="" tvg-logo="" group-title="",DREAMWORKS
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/75861
+# TOROS 
+#EXTINF:-1 xui-id="" tvg-id="TOROS HD" tvg-name="" tvg-logo="" group-title="",TOROS
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/232
+# CULTURA 
+#EXTINF:-1 xui-id="" tvg-id="HISTORIA" tvg-name="" tvg-logo="" group-title="",HISTORIA
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/196
+#EXTINF:-1 xui-id="" tvg-id="NAT GEO HD" tvg-name="" tvg-logo="" group-title="",NATIONAL GEOGRAPHIC
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/188
+#EXTINF:-1 xui-id="" tvg-id="NAT GEO WILD HD" tvg-name="" tvg-logo="" group-title="",NATIONAL GEOGRAFIC WILD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/192
+#EXTINF:-1 xui-id="" tvg-id="CAZAyPESCA HD" tvg-name="" tvg-logo="" group-title="",CAZA Y PESCA
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/226
+#EXTINF:-1 xui-id="" tvg-id="DISCOVERY" tvg-name="" tvg-logo="" group-title="",DISCOVERY CHANNEL
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/53034
+#EXTINF:-1 xui-id="" tvg-id="CANAL ODISEA" tvg-name="" tvg-logo="" group-title="",ODISEA
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/200
+#  CINE
+#EXTINF:-1 xui-id="" tvg-id="#0 HD" tvg-name="" tvg-logo="" group-title="",0#
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/89
+#EXTINF:-1 xui-id="" tvg-id="M.ESTRENOS HD" tvg-name="" tvg-logo="" group-title="",ESTRENOS
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/93
+#EXTINF:-1 xui-id="" tvg-id="M. ESTRENOS 2 HD" tvg-name="" tvg-logo="" group-title="",ESTRENOS 2
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/109
+#EXTINF:-1 xui-id="" tvg-id="M. ACCION HD" tvg-name="" HD tvg-logo="g" group-title="",ACCION
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/97
+#EXTINF:-1 xui-id="" tvg-id="M.COMEDIA HD" tvg-name="" tvg-logo="" group-title="",COMEDIA
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/101
+#EXTINF:-1 xui-id="" tvg-id="M. DRAMA HD" tvg-name="" tvg-logo="" group-title="",DRAMA
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/105
+#EXTINF:-1 xui-id="" tvg-id="M. CLÁSICOS HD" tvg-name="" tvg-logo="" group-title="",CLASICOS
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/79702
+#EXTINF:-1 xui-id="" tvg-id="movistarespanol.es" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="",CINE Ñ
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/85356
+#EXTINF:-1 xui-id="" tvg-id="M. SERIES HD" tvg-name="" tvg-logo="" group-title="",SERIES
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/121
+#EXTINF:-1 xui-id="" tvg-id="M. SERIES 2 HD" tvg-name="" tvg-logo="" group-title="",SERIES 2
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/117
+#EXTINF:-1 xui-id="" tvg-id="HOLLYWOOD HD" tvg-name="" tvg-logo="" group-title="",HOLLYWOOD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/162
+#EXTINF:-1 xui-id="" tvg-id="TCM HD" tvg-name="" tvg-logo="" group-title="",TCM
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/166
+#EXTINF:-1 xui-id="" tvg-id="SUNDANCE TV" tvg-name="" tvg-logo="" group-title="",SUNDANCE
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/169
+#EXTINF:-1 xui-id="" tvg-id="XTRM" tvg-name="" tvg-logo="" group-title="",XTRM
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/176
+#EXTINF:-1 xui-id="" tvg-id="Dark" tvg-name="" tvg-logo="" group-title="",DARK RED
+
+#EXTINF:-1 xui-id="" tvg-id="Dark" tvg-name="" tvg-logo="" group-title="",DARK
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/1411
+#EXTINF:-1 xui-id="" tvg-id="CALLE 13 HD" tvg-name="" tvg-logo="" group-title="",CALLE 13
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/146
+#EXTINF:-1 xui-id="" tvg-id="FOX HD" tvg-name="" tvg-logo="" group-title="",FOX
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/138
+#EXTINF:-1 xui-id="" tvg-id="AXN HD" tvg-name="" tvg-logo="" group-title="",AXN
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/130
+#EXTINF:-1 xui-id="" tvg-id="AXN WHITE HD" tvg-name="" tvg-logo="" group-title="",AXN WHITE
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/134
+#EXTINF:-1 xui-id="" tvg-id="AMC HD" tvg-name="" tvg-logo="" group-title="",AMC
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/126
+#EXTINF:-1 xui-id="" tvg-id="AMC HD" tvg-name="" tvg-logo="" group-title="",AMC BREAK
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/223
+#EXTINF:-1 xui-id="" tvg-id="TNT HD" tvg-name="" tvg-logo="" group-title="",TNT
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/150
+#EXTINF:-1 xui-id="" tvg-id="SYFY HD" tvg-name="" tvg-logo="" group-title="",SYFY
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/154
+#EXTINF:-1 xui-id="" tvg-id="COSMO HD" tvg-name="" tvg-logo="" group-title="",COSMO
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/158
+#EXTINF:-1 xui-id="" tvg-id="COMEDYCENTRAL HD" tvg-name="" tvg-logo="" group-title="",COMEDY CENTRAL
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/180
+# FUTBOL
+#EXTINF:-1 xui-id="" tvg-id="LALIGATV BAR" tvg-name="" tvg-logo="" group-title="",LALIGA TV BAR
+
+#EXTINF:-1 xui-id="" tvg-id="M. LaLiga HD" tvg-name="" tvg-logo="" group-title="",LALIGA
+
+#EXTINF:-1 xui-id="" tvg-id="M. LaLiga 1 HD" tvg-name="" tvg-logo="" group-title="",LALIGA 1
+
+#EXTINF:-1 xui-id="" tvg-id="M. LaLiga 2 HD" tvg-name="" tvg-logo="" group-title="",LALIGA 2
+
+#EXTINF:-1 xui-id="" tvg-id="M. LaLiga 3 HD" tvg-name="" tvg-logo="" group-title="",LALIGA 3
+
+#EXTINF:-1 xui-id="" tvg-id="M. LaLiga 4" tvg-name="" tvg-logo="" group-title="",LALIGA 4
+
+#EXTINF:-1 xui-id="" tvg-id="M. LaLiga 5" tvg-name="" tvg-logo="" group-title="",LALIGA 5
+
+#EXTINF:-1 xui-id="" tvg-id="M.LCAMPEONES HD" tvg-name="" tvg-logo="" group-title="",LIGA CAMPEONES
+
+#EXTINF:-1 xui-id="" tvg-id="M.LCAMPEON1" tvg-name="" tvg-logo="" group-title="",LIGA CAMPEONES 1
+
+#EXTINF:-1 xui-id="" tvg-id="M.LCAMPEON2" tvg-name="" tvg-logo="" group-title="",LIGA CAMPEONES 2
+
+#EXTINF:-1 xui-id="" tvg-id="M.LCAMPEON3" tvg-name="" tvg-logo="" group-title="",LIGA CAMPEONES 3
+
+#EXTINF:-1 xui-id="" tvg-id="M.LCAMPEON4" tvg-name="" tvg-logo="" group-title="",LIGA CAMPEONES 4
+
+#EXTINF:-1 xui-id="" tvg-id="BARCA TV" tvg-name="" tvg-logo="" group-title="",BARCA TV
+
+#EXTINF:-1 xui-id="" tvg-id="R. MADRID TV" tvg-name="" tvg-logo="" group-title="",REAL MADRID TV
+
+#EXTINF:-1 xui-id="" tvg-id="GOL HD" tvg-name="" tvg-logo="" group-title="",GOL TV
+
+#EXTINF:-1 xui-id="" tvg-id="GOL HD" tvg-name="" tvg-logo="" group-title="",GOL TV
+
+# DEPORTES
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",ELLAS #V
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/86017
+#EXTINF:-1 xui-id="" tvg-id="DAZN F1 HD" tvg-name="" tvg-logo="" group-title="",DAZN F1
+
+#EXTINF:-1 xui-id="" tvg-id="DAZN F1 HD" tvg-name="" tvg-logo="" group-title="",DAZN F1
+
+#EXTINF:-1 xui-id="" tvg-id="DAZN 1 HD" tvg-name="" tvg-logo="" group-title="",DAZN 1
+
+#EXTINF:-1 xui-id="" tvg-id="DAZN 1 HD" tvg-name="" tvg-logo="" group-title="",DAZN 1
+
+#EXTINF:-1 xui-id="" tvg-id="DAZN 2 HD" tvg-name="" tvg-logo="" group-title="",DAZN 2
+
+#EXTINF:-1 xui-id="" tvg-id="DAZN 2 HD" tvg-name="" tvg-logo="" group-title="",DAZN 2
+
+#EXTINF:-1 xui-id="" tvg-id="DAZN 3 HD" tvg-name="" tvg-logo="" group-title="",DAZN 3
+
+#EXTINF:-1 xui-id="" tvg-id="DAZN 4 HD" tvg-name="" tvg-logo="" group-title="",DAZN 4
+
+#EXTINF:-1 xui-id="" tvg-id="M. DEPORTES HD" tvg-name="" tvg-logo="" group-title="",DEPORTES
+
+#EXTINF:-1 xui-id="" tvg-id="M.DEPORTES 1 HD" tvg-name="" tvg-logo="" group-title="",DEPORTES 1
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",DEPORTES 2
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",DEPORTES 3
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",DEPORTES 4
+
+#EXTINF:-1 xui-id="" tvg-id="M. GOLF HD" tvg-name="" tvg-logo="" group-title="",GOLF
+
+#EXTINF:-1 xui-id="" tvg-id="#VAMOS HD" tvg-name="" tvg-logo="" group-title="",VAMOS
+
+#EXTINF:-1 xui-id="" tvg-id="EUROSPORT1HD" tvg-name="" tvg-logo="" group-title="",EUROSPORT 1
+
+#EXTINF:-1 xui-id="" tvg-id="EUROSPORT 2" tvg-name="" tvg-logo="" group-title="",EUROSPORT 2
+
+#EXTINF:-1 xui-id="" tvg-id="TELEDEPORTES" tvg-name="" HD" tvg-logo="" group-title="",TELEDEPORTES
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",BEIN SPORTS 1
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",BEIN SPORTS 2 
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",BEIN SPORTS 3
+
+
+# ESTILO DE VIDA
+#EXTINF:-1 xui-id="" tvg-id="CANAL DECASA" tvg-name="" tvg-logo="" group-title="",DECASA
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/218
+#EXTINF:-1 xui-id="" tvg-id="DKISS" tvg-name="" tvg-logo="" group-title="",DKISS
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41040
+#EXTINF:-1 xui-id="" tvg-id="crimeinvestigation.es" tvg-name="" tvg-logo="" group-title="",CRIMEN+INVESTIGACIÓN
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/84627
+#EXTINF:-1 xui-id="" tvg-id="CANAL COCINA" tvg-name="" tvg-logo="CANAL COCINA HD" group-title="",CANAL COCINA
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/214
+# MÚSICA
+#EXTINF:-1 xui-id="" tvg-id="MTV ESPAÑA" tvg-name="" tvg-logo="" group-title="",MTV
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/208
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",MEZZO LIVE
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/390
+#EXTINF:-1 xui-id="" tvg-id="M. Fest" tvg-name="" tvg-logo="" group-title="",FEST
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78289
+
+# 24/7
+#EXTINF:-1, group-title="M3U",ES: Callejeros 24H
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82539
-#EXTINF:-1,ES: Callejeros Viajeros 24H
+#EXTINF:-1, group-title="M3U",ES: Callejeros Viajeros 24H
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82540
-#EXTINF:-1,ES: Cuarto Milenio HD 24H
+#EXTINF:-1, group-title="M3U",ES: Cuarto Milenio HD 24H
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82541
-#EXTINF:-1,ES: La Que se Avecina 24H
+#EXTINF:-1, group-title="M3U",ES: La Que se Avecina 24H
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82542
-#EXTINF:-1,ES: La Biblia Series HD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82543
-#EXTINF:-1,ES: Pippi Calzaslargas 24H
+#EXTINF:-1, group-title="M3U",ES: Pippi Calzaslargas 24H
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82544
-#EXTINF:-1,ES: Xena La Princesa Guerrera 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82545
-#EXTINF:-1,ES: El Principe de Bel Air Temp 1 24H
+#EXTINF:-1, group-title="M3U",ES: El Principe de Bel Air Temp 1 24H
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82546
-#EXTINF:-1,ES: El Principe de Bel Air Temp 2 24H
+#EXTINF:-1, group-title="M3U",ES: El Principe de Bel Air Temp 2 24H
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82547
-#EXTINF:-1,ES: El Principe de Bel Air Temp 3 24H
+#EXTINF:-1, group-title="M3U",ES: El Principe de Bel Air Temp 3 24H
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82548
-#EXTINF:-1,ES: El Principe de Bel Air Temp 4 24H
+#EXTINF:-1, group-title="M3U",ES: El Principe de Bel Air Temp 4 24H
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82549
-#EXTINF:-1,ES: El Principe de Bel Air Temp 5 24H
+#EXTINF:-1, group-title="M3U",ES: El Principe de Bel Air Temp 5 24H
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82550
-#EXTINF:-1,ES: El Principe de Bel Air Temp 6 24H
+#EXTINF:-1, group-title="M3U",ES: El Principe de Bel Air Temp 6 24H
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82551
-#EXTINF:-1,ES: NCIS Los Angeles HD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82552
-#EXTINF:-1,ES: NCIS Nueva Orleans HD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82553
-#EXTINF:-1,ES: NCIS Navy Investigación Criminal) HD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82554
-#EXTINF:-1,ES: CSI Las Vegas HD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82555
-#EXTINF:-1,•●★-- 24/7 Series Animadas --★●
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82556
-#EXTINF:-1,ES: Los Simpsons Temp 1-5 24H
+#EXTINF:-1, group-title="M3U",ES: Los Simpsons Temp 1-5 24H
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82557
-#EXTINF:-1,ES: Los Simpsons HD 24H
+#EXTINF:-1, group-title="M3U",ES: Los Simpsons HD 24H
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82558
-#EXTINF:-1,ES: Los Simpsons La casa-árbol del terror SD 24H
+#EXTINF:-1, group-title="M3U",ES: Los Simpsons La casa-árbol del terror SD 24H
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82559
-#EXTINF:-1,ES: Los Simpsons La casa-árbol del terror HD 24H
+#EXTINF:-1, group-title="M3U",ES: Los Simpsons La casa-árbol del terror HD 24H
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82560
-#EXTINF:-1,ES: Futurama 24H
+#EXTINF:-1, group-title="M3U",ES: Futurama 24H
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82561
-#EXTINF:-1,ES: Futurama HD 24H
+#EXTINF:-1, group-title="M3U",ES: Futurama HD 24H
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82562
-#EXTINF:-1,ES: Padre de Familia 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82563
-#EXTINF:-1,ES: Ben Y Holly 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82564
-#EXTINF:-1,ES: Fabulas de Disney 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82565
-#EXTINF:-1,ES: Patrulla Canina 24H
+#EXTINF:-1, group-title="M3U",ES: Padre de Familia 24H
+#EXTINF:-1, group-title="M3U",ES: Patrulla Canina 24H
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82566
-#EXTINF:-1,ES: Vaca y Pollito 24h
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82567
-#EXTINF:-1,ES: Super Wings 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82568
-#EXTINF:-1,ES: El Bebé Jefazo (Vuelta al curro) 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82569
-#EXTINF:-1,ES: Wabbit 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82570
-#EXTINF:-1,ES: Kim Possible SD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82571
-#EXTINF:-1,ES: Kim Possible HD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82572
-#EXTINF:-1,ES: Lilo y Stitch SD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82573
-#EXTINF:-1,ES: Lilo y Stitch HD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82574
-#EXTINF:-1,ES: Caballeros del Zodiaco Torneo Galactico SD (1-40) 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82575
-#EXTINF:-1,ES: Caballeros del Zodiaco Torneo Galactico HD (1-40) 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82576
-#EXTINF:-1,ES: Caballeros del Zodiaco Santuario SD (41-73) 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82577
-#EXTINF:-1,ES: Caballeros del Zodiaco Santuario HD (41-73) 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82578
-#EXTINF:-1,ES: Caballeros del Zodiaco Asgard SD (74-99) 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82579
-#EXTINF:-1,ES: Caballeros del Zodiaco Asgard HD (74-99) 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82580
-#EXTINF:-1,ES: Caballeros del Zodiaco Poseidon SD (100-114) 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82581
-#EXTINF:-1,ES: Caballeros del Zodiaco Poseidon HD (100-114) 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82582
-#EXTINF:-1,ES: Caballeros del Zodiaco Hades SD (115-145) 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82583
-#EXTINF:-1,ES: Caballeros del Zodiaco Hades HD (115-145) 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82584
-#EXTINF:-1,ES: Heroes Mitologicos 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82585
