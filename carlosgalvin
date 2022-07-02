@@ -228,3 +228,42 @@ http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/208
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/390
 #EXTINF:-1 xui-id="" tvg-id="M. Fest" tvg-name="" tvg-logo="" group-title="",FEST
 http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78289
+
+# 24/7
+#EXTINF:-1, group-title="M3U",ES: Callejeros 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82539
+#EXTINF:-1, group-title="M3U",ES: Callejeros Viajeros 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82540
+#EXTINF:-1, group-title="M3U",ES: Cuarto Milenio HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82541
+#EXTINF:-1, group-title="M3U",ES: La Que se Avecina 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82542
+#EXTINF:-1, group-title="M3U",ES: Pippi Calzaslargas 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82544
+#EXTINF:-1, group-title="M3U",ES: El Principe de Bel Air Temp 1 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82546
+#EXTINF:-1, group-title="M3U",ES: El Principe de Bel Air Temp 2 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82547
+#EXTINF:-1, group-title="M3U",ES: El Principe de Bel Air Temp 3 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82548
+#EXTINF:-1, group-title="M3U",ES: El Principe de Bel Air Temp 4 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82549
+#EXTINF:-1, group-title="M3U",ES: El Principe de Bel Air Temp 5 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82550
+#EXTINF:-1, group-title="M3U",ES: El Principe de Bel Air Temp 6 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82551
+#EXTINF:-1, group-title="M3U",ES: Los Simpsons Temp 1-5 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82557
+#EXTINF:-1, group-title="M3U",ES: Los Simpsons HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82558
+#EXTINF:-1, group-title="M3U",ES: Los Simpsons La casa-árbol del terror SD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82559
+#EXTINF:-1, group-title="M3U",ES: Los Simpsons La casa-árbol del terror HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82560
+#EXTINF:-1, group-title="M3U",ES: Futurama 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82561
+#EXTINF:-1, group-title="M3U",ES: Futurama HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82562
+#EXTINF:-1, group-title="M3U",ES: Padre de Familia 24H
+#EXTINF:-1, group-title="M3U",ES: Patrulla Canina 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82566
