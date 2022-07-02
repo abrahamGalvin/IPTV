@@ -1,451 +1,729 @@
 #EXTM3U
-#EXTINF:-1,PORTADA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/706
-#EXTINF:-1,LA 1 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/106
-#EXTINF:-1,LA 2 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/107
-#EXTINF:-1,ANTENA 3 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/4
-#EXTINF:-1,CUATRO HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/14
-#EXTINF:-1,TELECINCO HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/61
-#EXTINF:-1,LA SEXTA HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/24
-#EXTINF:-1,Telemadrid
-http://wg6f.top:8000/cc583/ZiiseIAVXw/374
-#EXTINF:-1,8 MEDITERRANEO
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1714
-#EXTINF:-1,TRECE TV
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1712
-#EXTINF:-1,CANAL SUR ANDALUCIA HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/84
-#EXTINF:-1,TV 3 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1445
-#EXTINF:-1,DMAX HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/478
-#EXTINF:-1,TEN
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1710
-#EXTINF:-1,DKISS
-http://wg6f.top:8000/cc583/ZiiseIAVXw/392
-#EXTINF:-1,BE MAD HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/81
-#EXTINF:-1,ENERGY HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/18
-#EXTINF:-1,FDF 
-http://wg6f.top:8000/cc583/ZiiseIAVXw/98
-#EXTINF:-1,DIVINITY HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/17
-#EXTINF:-1,ASTRESERIES
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1188
-#EXTINF:-1,MEGA 
-http://wg6f.top:8000/cc583/ZiiseIAVXw/615
-#EXTINF:-1,NEOX 
-http://wg6f.top:8000/cc583/ZiiseIAVXw/136
-#EXTINF:-1,NOVA 
-http://wg6f.top:8000/cc583/ZiiseIAVXw/139
+#EXTINF:-1,La 1 HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41010
+#EXTINF:-1,La 1 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41011
+#EXTINF:-1,La 2
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41012
+#EXTINF:-1,La 2 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41013
+#EXTINF:-1,Antena 3 HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41014
+#EXTINF:-1,Antena 3 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41015
+#EXTINF:-1,Cuatro HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41016
+#EXTINF:-1,Cuatro 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41017
+#EXTINF:-1,Telecinco HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41018
+#EXTINF:-1,Telecinco 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41019
+#EXTINF:-1,La Sexta HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41020
+#EXTINF:-1,La Sexta 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41021
+#EXTINF:-1,Neox SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41022
+#EXTINF:-1,Neox 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41023
+#EXTINF:-1,Energy
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41024
+#EXTINF:-1,Mega SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41026
+#EXTINF:-1,Mega 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41027
+#EXTINF:-1,Nova SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41028
+#EXTINF:-1,Nova FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41029
+#EXTINF:-1,Divinity
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41030
+#EXTINF:-1,FDF
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41032
+#EXTINF:-1,Ten
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41034
+#EXTINF:-1,A3Series 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41036
+#EXTINF:-1,BeMad TV
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41037
+#EXTINF:-1,BeMad TV 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41038
+#EXTINF:-1,DMAX 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41039
+#EXTINF:-1,Dkiss
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41040
+#EXTINF:-1,Trece Tv
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41041
+#EXTINF:-1,24h SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41042
+#EXTINF:-1,ElToro TV
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41044
+#EXTINF:-1,TPA7 Asturias
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/48574
+#EXTINF:-1,A Punt
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41144
+#EXTINF:-1,Canal Sur
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41145
+#EXTINF:-1,Canal Sur 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41147
+#EXTINF:-1,TV Canaria
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41148
+#EXTINF:-1,3/24.cat
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41150
+#EXTINF:-1,Tv3
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41153
+#EXTINF:-1,TV3 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41154
+#EXTINF:-1,tevecat
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41155
+#EXTINF:-1,8 TV.cat
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41156
+#EXTINF:-1,Beteve
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41158
+#EXTINF:-1,Canal 4 Baleares
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41159
+#EXTINF:-1,Aragon TV
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41160
+#EXTINF:-1,Ptv Cordoba
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41162
+#EXTINF:-1,Ptv Málaga HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41163
+#EXTINF:-1,Marbella Tv
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41164
+#EXTINF:-1,Canal Extremadura SAT
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41165
 #EXTINF:-1,Castilla La Mancha
-http://wg6f.top:8000/cc583/ZiiseIAVXw/371
-#EXTINF:-1,A PUNT
-http://wg6f.top:8000/cc583/ZiiseIAVXw/395
-#EXTINF:-1,EXTREMADURA HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/497
-#EXTINF:-1,TV GALICIA HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/553
-#EXTINF:-1,ARAGON TV INT
-http://wg6f.top:8000/cc583/ZiiseIAVXw/76
-#EXTINF:-1,24 HORAS
-http://wg6f.top:8000/cc583/ZiiseIAVXw/74
-#EXTINF:-1,#0 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1670
-#EXTINF:-1,M.ESTRENOS HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/125
-#EXTINF:-1,M. ESTRENOS 2 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1328
-#EXTINF:-1,M. ACCION HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/25
-#EXTINF:-1,M.COMEDIA HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/168
-#EXTINF:-1,M. DRAMA HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/33
-#EXTINF:-1,M.CLASICOS HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1335
-#EXTINF:-1,M.LA RESISTENCIA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1449
-#EXTINF:-1,M+ FEST
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1713
-#EXTINF:-1,M.Series HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/133
-#EXTINF:-1,M. SERIES 2 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/39
-#EXTINF:-1,M. CINE ESPAÑA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/112
-#EXTINF:-1,BOM CINE
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1711
-#EXTINF:-1,MTV ESPAÑA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/51
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41166
+#EXTINF:-1,La 7 (RTVCyL)
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41616
+#EXTINF:-1,Telemadrid HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41167
+#EXTINF:-1,Telemadrid 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41168
+#EXTINF:-1,ETB 1
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41170
+#EXTINF:-1,ETB 2
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41171
+#EXTINF:-1,UROLA TELEBISTA
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41172
+#EXTINF:-1,TV Galicia
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41175
+#EXTINF:-1,Galicia Tv Momentos
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41176
+#EXTINF:-1,Galicia Tv America
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41177
+#EXTINF:-1,BOM Cine
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41179
+#EXTINF:-1,ONDA CADIZ
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41181
+#EXTINF:-1,#0 por M+ HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/88
+#EXTINF:-1,#0 por M+ 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/89
+#EXTINF:-1,Clásicos por M+ FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/79702
+#EXTINF:-1,Estrenos por M+ HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/92
+#EXTINF:-1,Estrenos por M+ 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/93
+#EXTINF:-1,Acción por M+ HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/96
+#EXTINF:-1,Acción por M+ 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/97
+#EXTINF:-1,Comedia por M+ HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/100
+#EXTINF:-1,Comedia por M+ 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/101
+#EXTINF:-1,Drama por M+ HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/104
+#EXTINF:-1,Drama por M+ 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/105
+#EXTINF:-1,Estrenos 2 por M+ FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/108
+#EXTINF:-1,Estrenos 2 por M+ 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/109
 #EXTINF:-1,SOMOS
-http://wg6f.top:8000/cc583/ZiiseIAVXw/796
-#EXTINF:-1,DARK 
-http://wg6f.top:8000/cc583/ZiiseIAVXw/342
-#EXTINF:-1,XTRM HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/260
-#EXTINF:-1,AXN HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/78
-#EXTINF:-1,AXN WHITE HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/167
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/1412
+#EXTINF:-1,Series 2 por M+ HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/116
+#EXTINF:-1,Series 2 por M+ 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/117
+#EXTINF:-1,Series por M+ HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/120
+#EXTINF:-1,Series por M+ 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/121
 #EXTINF:-1,AMC HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/3
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/125
+#EXTINF:-1,AMC 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/126
+#EXTINF:-1,AXN HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/129
+#EXTINF:-1,AXN 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/130
+#EXTINF:-1,AXN White HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/133
+#EXTINF:-1,AXN White 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/134
+#EXTINF:-1,Fox HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/137
+#EXTINF:-1,Fox 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/138
+#EXTINF:-1,Calle 13 HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/145
+#EXTINF:-1,Calle 13 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/146
 #EXTINF:-1,TNT HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/63
-#EXTINF:-1,SYFY HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/143
-#EXTINF:-1,COMEDYCENTRAL HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/88
-#EXTINF:-1,COSMO HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/90
-#EXTINF:-1,FOX HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/21
-#EXTINF:-1,CALLE 13 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/146
-#EXTINF:-1,HOLLYWOOD HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/23
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/149
+#EXTINF:-1,TNT 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/150
+#EXTINF:-1,Cosmo HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/157
+#EXTINF:-1,Cosmo 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/158
+#EXTINF:-1,Hollywood HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/161
+#EXTINF:-1,Hollywood 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/162
 #EXTINF:-1,TCM HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/60
-#EXTINF:-1,PARAMOUNT NETWORK
-http://wg6f.top:8000/cc583/ZiiseIAVXw/140
-#EXTINF:-1,SUNDANCE TV
-http://wg6f.top:8000/cc583/ZiiseIAVXw/142
-#EXTINF:-1,NASA TV
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1242
-#EXTINF:-1,HISTORIA HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/467
-#EXTINF:-1,HISTORIA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/102
-#EXTINF:-1,ODISEA HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/770
-#EXTINF:-1,ODISEA 
-http://wg6f.top:8000/cc583/ZiiseIAVXw/11
-#EXTINF:-1,DISCOVERY HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1344
-#EXTINF:-1,DISCOVERY
-http://wg6f.top:8000/cc583/ZiiseIAVXw/93
-#EXTINF:-1,NAT GEOGRAPHIC HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/52
-#EXTINF:-1,NAT GEOGRAPHIC WILD HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/54
-#EXTINF:-1,AMC CRIMEN
-http://wg6f.top:8000/cc583/ZiiseIAVXw/91
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/165
+#EXTINF:-1,TCM 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/166
+#EXTINF:-1,SyFy HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/153
+#EXTINF:-1,SyFy 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/154
+#EXTINF:-1,Sundance SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/168
+#EXTINF:-1,Sundance 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/169
+#EXTINF:-1,DARK 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/1411
+#EXTINF:-1,XTRM 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/176
+#EXTINF:-1,Comedy Central HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/179
+#EXTINF:-1,Comedy Central 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/180
+#EXTINF:-1,Paramount Network
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41464
+#EXTINF:-1,MTV España 
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/209
+#EXTINF:-1,MTV España 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/208
+#EXTINF:-1,Canal Cocina SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/213
+#EXTINF:-1,Canal Cocina 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/214
+#EXTINF:-1,Decasa 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/218
 #EXTINF:-1,AMC BREAK
-http://wg6f.top:8000/cc583/ZiiseIAVXw/82
-#EXTINF:-1,HORSE TV
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1741
-#EXTINF:-1,NAUTICAL CHANNEL
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1742
-#EXTINF:-1,CAZAyPESCA HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/12
-#EXTINF:-1,IBERALIA TV
-http://wg6f.top:8000/cc583/ZiiseIAVXw/104
-#EXTINF:-1,IBERALIA CAZA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1743
-#EXTINF:-1,CANAL COCINA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/9
-#EXTINF:-1,CAZAVISON HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1739
-#EXTINF:-1,CANAL DECASA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/10
-#EXTINF:-1,TOROS HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/65
-#EXTINF:-1,DREAMWORKS HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1147
-#EXTINF:-1,NICKELODEON HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/55
-#EXTINF:-1,DISNEY CHANEL HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/15
-#EXTINF:-1,DISNEY JR
-http://wg6f.top:8000/cc583/ZiiseIAVXw/94
-#EXTINF:-1,BABY TV
-http://wg6f.top:8000/cc583/ZiiseIAVXw/5
-#EXTINF:-1,NICK JR
-http://wg6f.top:8000/cc583/ZiiseIAVXw/137
-#EXTINF:-1,BOING
-http://wg6f.top:8000/cc583/ZiiseIAVXw/7
-#EXTINF:-1,CANAL PANDA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/83
-#EXTINF:-1,CLAN TV
-http://wg6f.top:8000/cc583/ZiiseIAVXw/86
-#EXTINF:-1,DAZN F1 HD 
-http://wg6f.top:8000/cc583/ZiiseIAVXw/43
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/223
+#EXTINF:-1,Caza y Pesca HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/225
+#EXTINF:-1,Caza y Pesca 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/226
+#EXTINF:-1,Iberalia 
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/12199
+#EXTINF:-1,Iberalia 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/73201
+#EXTINF:-1,Toros Tv HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/231
+#EXTINF:-1,Toros Tv 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/232
+#EXTINF:-1,AMC CRIME
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/234
+#EXTINF:-1,Nat Geo HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/187
+#EXTINF:-1,Nat Geo 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/188
+#EXTINF:-1,NatGeo Wild HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/191
+#EXTINF:-1,NatGeo Wild 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/192
+#EXTINF:-1,Historia HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/195
+#EXTINF:-1,Historia 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/196
+#EXTINF:-1,Odisea SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/201
+#EXTINF:-1,Odisea 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/200
+#EXTINF:-1,Discovery Channel 
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/203
+#EXTINF:-1,Discovery Channel 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/53034
+#EXTINF:-1,Dreamworks
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/75862
+#EXTINF:-1,Dreamworks 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/75861
+#EXTINF:-1,Disney Channel HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/240
+#EXTINF:-1,Disney Channel 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/241
+#EXTINF:-1,Disney Junior FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/244
+#EXTINF:-1,Nickelodeon HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/517
+#EXTINF:-1,Nickelodeon 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/246
+#EXTINF:-1,Nick Jr FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/248
+#EXTINF:-1,CLAN TV 
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/250
+#EXTINF:-1,CLAN TV 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/251
+#EXTINF:-1,BOING 
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/254
+#EXTINF:-1,Canal Panda FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/255
+#EXTINF:-1,Baby TV
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/256
+#EXTINF:-1,GolT HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/262
+#EXTINF:-1,GolT 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/263
+#EXTINF:-1,GolT FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/264
+#EXTINF:-1,Real Madrid TV 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/267
+#EXTINF:-1,Barça Tv 
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/269
+#EXTINF:-1,Sevilla FC TV
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/270
+#EXTINF:-1,Betis Tv
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/271
+#EXTINF:-1,LaLiga por M+ FHD 6MB
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/57473
+#EXTINF:-1,LaLiga por M+ HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/283
+#EXTINF:-1,LaLiga por M+ 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/284
+#EXTINF:-1,LaLiga por M+ FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/285
+#EXTINF:-1,LaLiga 1 por M+ HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/288
+#EXTINF:-1,LaLiga 1 por M+ 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/289
+#EXTINF:-1,LaLiga 1 por M+ FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/290
+#EXTINF:-1,LaLiga 2 por M+ HD 
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/292
+#EXTINF:-1,LaLiga 2 por M+ 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/293
+#EXTINF:-1,LaLiga 2 por M+ FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/294
+#EXTINF:-1,Movistar LaLiga 3 HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/296
+#EXTINF:-1,Movistar LaLiga 3 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/297
+#EXTINF:-1,LaLiga 3 por M+ FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/298
+#EXTINF:-1,LaLiga 4 por M+ SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/559
+#EXTINF:-1,LaLiga 5 por M+ SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/560
+#EXTINF:-1,Liga De Campeones por M+ FHD 6MB
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/57472
+#EXTINF:-1,Liga De Campeones por M+ HD 
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/313
+#EXTINF:-1,Liga de Campeones por M+ 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/314
+#EXTINF:-1,Liga De Campeones por M+ FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/315
+#EXTINF:-1,Liga de Campeones 1 por M+ HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/317
+#EXTINF:-1,Liga de Campeones 1 por M+ 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/318
+#EXTINF:-1,Liga de Campeones 1 por M+ FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/319
+#EXTINF:-1,Liga De Campeones 2 por M+ HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/321
+#EXTINF:-1,Liga De Campeones 2 por M+ 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/322
+#EXTINF:-1,Liga De Campeones 2 por M+ FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/323
+#EXTINF:-1,Liga De Campeones 3 por M+ SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/325
+#EXTINF:-1,Movistar Liga De Campeones 4 SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/326
+#EXTINF:-1,Liga de Campeones 4 por M+ SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80103
+#EXTINF:-1,Liga de Campeones 5 por M+ SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80104
+#EXTINF:-1,Liga de Campeones 6 por M+ SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80105
+#EXTINF:-1,Liga de Campeones 7 por M+ SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80106
+#EXTINF:-1,Liga de Campeones 8 por M+ SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80107
+#EXTINF:-1,Liga de Campeones 9 por M+ SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80108
+#EXTINF:-1,Liga de Campeones 10 por M+ SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80109
+#EXTINF:-1,Liga de Campeones 11 por M+ SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80110
+#EXTINF:-1,Liga de Campeones 12 por M+ SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80111
+#EXTINF:-1,#Vamos por M+ FHD 6MB
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/57475
+#EXTINF:-1,#Vamos por M+ HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/552
+#EXTINF:-1,#Vamos por M+ HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/335
+#EXTINF:-1,#Vamos por M+ 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/336
+#EXTINF:-1,#Vamos por M+ FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/337
+#EXTINF:-1,DAZN F1 HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/369
+#EXTINF:-1,Deportes por M+ FHD 6MB
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/1283
+#EXTINF:-1,Deportes por M+ HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/347
+#EXTINF:-1,Deportes por M+ 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/348
+#EXTINF:-1,Deportes por M+ FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/349
+#EXTINF:-1,Deportes 1 por M+ FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/79401
+#EXTINF:-1,Deportes 2 por M+ FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/79409
+#EXTINF:-1,Deportes 3 por M+ FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/79410
+#EXTINF:-1,Deportes 4 por M+ FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/79411
+#EXTINF:-1,Deportes 5 por M+ FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/79412
+#EXTINF:-1,Golf por M+ HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/354
+#EXTINF:-1,Golf por M+ 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/355
+#EXTINF:-1,Teledeporte SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/361
+#EXTINF:-1,Teledeporte 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/362
+#EXTINF:-1,Eurosport 1 HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/339
+#EXTINF:-1,Eurosport 1 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/340
+#EXTINF:-1,Eurosport 1 FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/341
+#EXTINF:-1,Eurosport 2 SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/554
+#EXTINF:-1,Eurosport 2 HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/343
+#EXTINF:-1,Eurosport 2 FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/345
+#EXTINF:-1,DAZN F1 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/370
+#EXTINF:-1,DAZN F1 FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/371
+#EXTINF:-1,Sol Musica 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/379
+#EXTINF:-1,MUSIC TOP
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/1677
+#EXTINF:-1,MTV Club
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/382
+#EXTINF:-1,RETRO MUSIC
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/388
+#EXTINF:-1,Mezzo LiveHD HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/389
+#EXTINF:-1,Mezzo LiveHD 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/390
+#EXTINF:-1,M6 Music 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/392
+#EXTINF:-1,Mezzo
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/394
+#EXTINF:-1,Stingray Classica
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/395
+#EXTINF:-1,Radio Montecarlo TV
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/1670
+#EXTINF:-1,R 101 MUSIC
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/5391
+#EXTINF:-1,MTV HITS 
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/19306
+#EXTINF:-1,MTV BASE 
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/19308
+#EXTINF:-1,MTV BIGGEST POP
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/21948
+#EXTINF:-1,MTV BLOCK PARTY
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/21949
+#EXTINF:-1,MTV YO!
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/21950
+#EXTINF:-1,MTV MUSIC 24
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/16721
+#EXTINF:-1,MTV HITS SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/19304
+#EXTINF:-1,MTV CLASSIC SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/19305
+#EXTINF:-1,Ocko TV
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/21953
+#EXTINF:-1,Ocko Star TV
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/21954
+#EXTINF:-1,QMusic
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/21956
+#EXTINF:-1,Ocko Express
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/21957
+#EXTINF:-1,VIVA
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/21963
+#EXTINF:-1,Euro Latina TV
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/21964
+#EXTINF:-1,Latido Music
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/21965
+#EXTINF:-1,Virgin Radio TV
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/21968
+#EXTINF:-1,La Mega Mundial TV
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/5904
+#EXTINF:-1,CMC CALIFORNIA MUSIC CHANNEL
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/5911
+#EXTINF:-1,DJING IBIZA
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/5913
+#EXTINF:-1,Djing Classics
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/5916
+#EXTINF:-1,Djing Karaoke
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/5917
 #EXTINF:-1,DAZN  1 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/771
-#EXTINF:-1,DAZN 2 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/774
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/73895
+#EXTINF:-1,DAZN  1 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/73896
+#EXTINF:-1,DAZN  2 HD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/73899
+#EXTINF:-1,DAZN  2 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/73900
 #EXTINF:-1,DAZN 3 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1184
-#EXTINF:-1,DAZN 4 HD 
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1185
-#EXTINF:-1,UBEAT FHD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1744
-#EXTINF:-1,#VAMOS HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/187
-#EXTINF:-1,M.LA LIGA HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/804
-#EXTINF:-1,M.LA LIGA 1 hd
-http://wg6f.top:8000/cc583/ZiiseIAVXw/44
-#EXTINF:-1,M.LA LIGA 2 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1186
-#EXTINF:-1,M.LA LIGA 3 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1187
-#EXTINF:-1,M.LALIGA 4
-http://wg6f.top:8000/cc583/ZiiseIAVXw/126
-#EXTINF:-1,M.LALIGA 5
-http://wg6f.top:8000/cc583/ZiiseIAVXw/47
-#EXTINF:-1,M.LALIGA 6
-http://wg6f.top:8000/cc583/ZiiseIAVXw/48
-#EXTINF:-1,M.LALIGA 7
-http://wg6f.top:8000/cc583/ZiiseIAVXw/49
-#EXTINF:-1,MOVISTAR CAMPEONES HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/708
-#EXTINF:-1,M.LCAMPEON 1 hd
-http://wg6f.top:8000/cc583/ZiiseIAVXw/128
-#EXTINF:-1,M.LCAMPEON 2 hd
-http://wg6f.top:8000/cc583/ZiiseIAVXw/130
-#EXTINF:-1,M.LCAMPEON 3
-http://wg6f.top:8000/cc583/ZiiseIAVXw/68
-#EXTINF:-1,M.LCAMPEON 4
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1397
-#EXTINF:-1,M.LCAMPEON 5
-http://wg6f.top:8000/cc583/ZiiseIAVXw/69
-#EXTINF:-1,M.LCAMPEON 6
-http://wg6f.top:8000/cc583/ZiiseIAVXw/70
-#EXTINF:-1,M.LCAMPEON 7
-http://wg6f.top:8000/cc583/ZiiseIAVXw/71
-#EXTINF:-1,M.LCAMPEON 8
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1667
-#EXTINF:-1,M.LCAMPEON 9
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1668
-#EXTINF:-1,M.LCAMPEON 10
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1669
-#EXTINF:-1,M. DEPORTES HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/31
-#EXTINF:-1,M.DEPORTES 1 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/41
-#EXTINF:-1,M. DEPORTES2
-http://wg6f.top:8000/cc583/ZiiseIAVXw/27
-#EXTINF:-1,M. DEPORTES 3
-http://wg6f.top:8000/cc583/ZiiseIAVXw/28
-#EXTINF:-1,M. DEPORTES 4
-http://wg6f.top:8000/cc583/ZiiseIAVXw/29
-#EXTINF:-1,M. DEPORTES 5
-http://wg6f.top:8000/cc583/ZiiseIAVXw/30
-#EXTINF:-1,M. GOLF HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/118
-#EXTINF:-1,EUROSPORT 1HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/20
-#EXTINF:-1,EUROSPORT 2 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/97
-#EXTINF:-1,R. MADRID TV
-http://wg6f.top:8000/cc583/ZiiseIAVXw/141
-#EXTINF:-1,BARCA TV
-http://wg6f.top:8000/cc583/ZiiseIAVXw/6
-#EXTINF:-1,GOL TV HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/22
-#EXTINF:-1,TELEDEPORTE HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/62
-#EXTINF:-1,MTV 00S
-http://wg6f.top:8000/cc583/ZiiseIAVXw/835
-#EXTINF:-1,KRONE TV MUSIC
-http://wg6f.top:8000/cc583/ZiiseIAVXw/266
-#EXTINF:-1,CADENA ELITE
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1349
-#EXTINF:-1,LA URBAN TV
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1663
-#EXTINF:-1,ACTIVA TV
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1664
-#EXTINF:-1,SOL MUSICA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1740
-#EXTINF:-1,Wyrmwood: Apocalypse (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1674.avi
-#EXTINF:-1,Uncharted (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1675.avi
-#EXTINF:-1,Un espíritu burlón (2020)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1676.avi
-#EXTINF:-1,Tras la pista del asesino (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1677.avi
-#EXTINF:-1,Todo es Gila (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1678.mkv
-#EXTINF:-1,Siempre en el mejor momento (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1679.avi
-#EXTINF:-1,Salvar el árbol (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1680.avi
-#EXTINF:-1,Refugiado americano (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1681.mkv
-#EXTINF:-1,Querido Evan Hansen (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1682.mkv
-#EXTINF:-1,Pájaros enjaulados (Hasta que estemos muertos o libres) (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1683.mkv
-#EXTINF:-1,Muerte en el Nilo (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1684.avi
-#EXTINF:-1,Matrix Resurrections (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1685.avi
-#EXTINF:-1,Madeleine Collins (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1686.avi
-#EXTINF:-1,Luz Natural (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1687.mkv
-#EXTINF:-1,Socias y enemigas (2020)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1688.mkv
-#EXTINF:-1,Las fantasías (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1689.avi
-#EXTINF:-1,Lansky (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1690.mkv
-#EXTINF:-1,La Octava Clausula (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1691.mkv
-#EXTINF:-1,La hija oscura (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1692.avi
-#EXTINF:-1,La guerra del mañana (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1693.avi
-#EXTINF:-1,Kanna y los dioses de octubre (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1694.avi
-#EXTINF:-1,Incompatibles 2 (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1695.avi
-#EXTINF:-1,Ice Age: Las aventuras de Buck (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1696.avi
-#EXTINF:-1,Hotel Transilvania: Transformanía (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1697.avi
-#EXTINF:-1,Hazme volar (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1698.mkv
-#EXTINF:-1,El último tren al Rock'n'Roll (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1699.mkv
-#EXTINF:-1,El Misterio De Marilyn Monroe Las Cintas Ineditas (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1700.mkv
-#EXTINF:-1,El espía honesto (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1701.avi
-#EXTINF:-1,El día de la bandera (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1702.avi
-#EXTINF:-1,Déjate llevar (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1703.avi
-#EXTINF:-1,¡Canta! 2 (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1704.mkv
-#EXTINF:-1,Black Friday (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1705.avi
-#EXTINF:-1,Arturo y el algoritmo (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1706.avi
-#EXTINF:-1,Amor de madre (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1707.mkv
-#EXTINF:-1,Aline (2020)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1708.avi
-#EXTINF:-1,Sonic 2: La película (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1709.mkv
-#EXTINF:-1,Wagner: los mercenarios de Putin (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1715.mp4
-#EXTINF:-1,Veneciafrenia (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1716.mkv
-#EXTINF:-1,OSS 117: Desde África con amor (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1717.mkv
-#EXTINF:-1,Las reinas de los cupones (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1718.mkv
-#EXTINF:-1,En el silencio (2020)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1719.mkv
-#EXTINF:-1,El brindis
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1720.mkv
-#EXTINF:-1,Dark Cloud (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1721.mkv
-#EXTINF:-1,Conspiración en Hollywood (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1722.mkv
-#EXTINF:-1,Chip y Chop: Los guardianes rescatadores (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1723.mkv
-#EXTINF:-1,Camera café: la película (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1724.mkv
-#EXTINF:-1,Amor redentor (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1725.mkv
-#EXTINF:-1,Animales fantásticos: Los secretos de Dumbledore (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1726.mkv
-#EXTINF:-1,El aparcacoches (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1727.mkv
-#EXTINF:-1,Freaks Out (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1728.mkv
-#EXTINF:-1,Ghost in the Shell: SAC_2045: Guerra sostenible (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1729.mkv
-#EXTINF:-1,Jackass 4.5 (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1730.mkv
-#EXTINF:-1,Juntos (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1731.mkv
-#EXTINF:-1,Milagro en la celda 7 (2019)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1732.mp4
-#EXTINF:-1,Nosotros, ratas de laboratorio (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1733.mp4
-#EXTINF:-1,Pan De Limón Con Semillas De Amapola (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1734.mkv
-#EXTINF:-1,Prisioneros de Ghostland (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1735.mkv
-#EXTINF:-1,Rehén letal (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1736.mkv
-#EXTINF:-1,The Fanatic (2019)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1737.mkv
-#EXTINF:-1,The Nowhere Inn (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1738.mkv
-#EXTINF:-1,ACTIVA FM
-http://wg6f.top:8000/cc583/ZiiseIAVXw/300
-#EXTINF:-1,LA MUY BUENA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/301
-#EXTINF:-1,BIKINI FM
-http://wg6f.top:8000/cc583/ZiiseIAVXw/302
-#EXTINF:-1,LA MEGA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/303
-#EXTINF:-1,LA FLAMENCA FM
-http://wg6f.top:8000/cc583/ZiiseIAVXw/305
-#EXTINF:-1,LOS 40 PRINCIPALES
-http://wg6f.top:8000/cc583/ZiiseIAVXw/306
-#EXTINF:-1,CADENA DIAL 
-http://wg6f.top:8000/cc583/ZiiseIAVXw/307
-#EXTINF:-1,RADIO OLE
-http://wg6f.top:8000/cc583/ZiiseIAVXw/308
-#EXTINF:-1,EUROPA FM
-http://wg6f.top:8000/cc583/ZiiseIAVXw/309
-#EXTINF:-1,ESENCIA FM
-http://wg6f.top:8000/cc583/ZiiseIAVXw/401
-#EXTINF:-1,GOLD FM
-http://wg6f.top:8000/cc583/ZiiseIAVXw/404
-#EXTINF:-1,ROCK STAR
-http://wg6f.top:8000/cc583/ZiiseIAVXw/405
-#EXTINF:-1,+ACTIVA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/552
-#EXTINF:-1,LOS 40 URBAN
-http://wg6f.top:8000/cc583/ZiiseIAVXw/954
-#EXTINF:-1,CANAL FIESTA RADIO
-http://wg6f.top:8000/cc583/ZiiseIAVXw/955
-#EXTINF:-1,Playhouse
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1301
-#EXTINF:-1,Redlight HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1300
-#EXTINF:-1,Prıvate TV HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1299
-#EXTINF:-1,Dorcel HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1231
-#EXTINF:-1,Dorcel XxX  HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1230
-#EXTINF:-1,Vivid Red HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1127
-#EXTINF:-1,Vixen HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1126
-#EXTINF:-1,Erox HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1125
-#EXTINF:-1,Penthouse Gold HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1122
-#EXTINF:-1,Penthouse Quickies HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/838
-#EXTINF:-1,Super One HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/313
-#EXTINF:-1,Xy Plus HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/249
-#EXTINF:-1,Xy Max HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/244
-#EXTINF:-1,Cento X Cento
-http://wg6f.top:8000/cc583/ZiiseIAVXw/239
-#EXTINF:-1,Dream Porn HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/220
-#EXTINF:-1,Evil Angel Europe
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1389
-#EXTINF:-1,Hustler HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1393
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/75963
+#EXTINF:-1,DAZN 3 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/75943
+#EXTINF:-1,DAZN 4 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/75944
+#EXTINF:-1,Discovery TURBO
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41182
+#EXTINF:-1,MC: HIT LIST
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41373
+#EXTINF:-1,MC: Hip-Hop/R&B
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41374
+#EXTINF:-1,MC: Teen Beats
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41375
+#EXTINF:-1,MC: Today's Country
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41376
+#EXTINF:-1,MC: Alternative
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41377
+#EXTINF:-1,MC: Pop Latino
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41378
+#EXTINF:-1,MC: R&B/Soul
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41379
+#EXTINF:-1,MC: Rap
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41380
+#EXTINF:-1,MC: Dance/EDM
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41381
+#EXTINF:-1,MC: Musica Urbana
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41382
+#EXTINF:-1,MC: Indie
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41383
+#EXTINF:-1,MC: Kidz Only!
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41384
+#EXTINF:-1,MC: Mexicana
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41385
+#EXTINF:-1,MC: Pop & Country
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41386
+#EXTINF:-1,MC: Pop Hits
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41387
+#EXTINF:-1,MC: Tropicales
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41388
+#EXTINF:-1,MC: Rock
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41389
+#EXTINF:-1,MC: Metal
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41390
+#EXTINF:-1,MC: 90's
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41391
+#EXTINF:-1,MC: Rap 2K
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41392
+#EXTINF:-1,MC: Throwback Jamz
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41393
+#EXTINF:-1,MC: Brits + Hits
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41394
+#EXTINF:-1,MC: Toddler Tunes
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41395
+#EXTINF:-1,MC: Y2K
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41396
+#EXTINF:-1,Latinos 1 TV
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/62107
+#EXTINF:-1,Telemúsica
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/62108
+#EXTINF:-1,La Otra FHD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/67857
+#EXTINF:-1,Stingray Classic Rock
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78178
+#EXTINF:-1,Stingray Alternative
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78179
+#EXTINF:-1,Stingray Pop Adult
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78180
+#EXTINF:-1,Stingray Hit List
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78181
+#EXTINF:-1,Stingray Hot Country
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78182
+#EXTINF:-1,Stingray Flashback 70's
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78183
+#EXTINF:-1,Stingray Remember the 80s
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78184
+#EXTINF:-1,Stingray Hip-Hop/R&B
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78185
+#EXTINF:-1,Stingray Soul Storm
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78186
+#EXTINF:-1,Stingray Greatest Hits
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78187
+#EXTINF:-1,Stingray Éxitos del Momento
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78188
+#EXTINF:-1,Stingray Classic Rock
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78194
+#EXTINF:-1,Stingray Rock Alternative
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78195
+#EXTINF:-1,Stingray Pop Adult
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78196
+#EXTINF:-1,Stingray Hit List
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78197
+#EXTINF:-1,Stingray Hot Country
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78198
+#EXTINF:-1,Stingray Flashback 70s
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78199
+#EXTINF:-1,Stingray Everything 80s
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78200
+#EXTINF:-1,Stingray Urban Beats
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78201
+#EXTINF:-1,Stingray Holiday Hits
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78202
+#EXTINF:-1,Stingray Today's Latin Pop
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78203
+#EXTINF:-1,Fest por M+ SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78288
+#EXTINF:-1,Fest por M+ 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78289
+#EXTINF:-1,AragonTV Internacional
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/79069
+#EXTINF:-1,La Resistencia por M+ SD
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80112
+#EXTINF:-1,7NN
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80549
+#EXTINF:-1,24h 1080
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80816
+#EXTINF:-1,Navarra TV
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/81003
+#EXTINF:-1,•●★-- 24/7 Cine Series --★●
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82527
+#EXTINF:-1,ES: En Tierra Hostil HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82528
+#EXTINF:-1,ES: 091 Alerta Policia HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82529
+#EXTINF:-1,ES: Policías en Acción HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82530
+#EXTINF:-1,ES: Empeños a lo Bestia HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82531
+#EXTINF:-1,ES: Forjado a Fuego HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82532
+#EXTINF:-1,ES: El Encantador de Perros HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82533
+#EXTINF:-1,ES: Españoles En El Mundo HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82534
+#EXTINF:-1,ES: Quien vive ahi HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82535
+#EXTINF:-1,ES: Los cazadores de mitos HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82536
+#EXTINF:-1,ES: Wild Frank HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82537
+#EXTINF:-1,ES: Amazonas Clandestino HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82538
+#EXTINF:-1,ES: Callejeros 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82539
+#EXTINF:-1,ES: Callejeros Viajeros 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82540
+#EXTINF:-1,ES: Cuarto Milenio HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82541
+#EXTINF:-1,ES: La Que se Avecina 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82542
+#EXTINF:-1,ES: La Biblia Series HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82543
+#EXTINF:-1,ES: Pippi Calzaslargas 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82544
+#EXTINF:-1,ES: Xena La Princesa Guerrera 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82545
+#EXTINF:-1,ES: El Principe de Bel Air Temp 1 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82546
+#EXTINF:-1,ES: El Principe de Bel Air Temp 2 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82547
+#EXTINF:-1,ES: El Principe de Bel Air Temp 3 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82548
+#EXTINF:-1,ES: El Principe de Bel Air Temp 4 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82549
+#EXTINF:-1,ES: El Principe de Bel Air Temp 5 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82550
+#EXTINF:-1,ES: El Principe de Bel Air Temp 6 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82551
+#EXTINF:-1,ES: NCIS Los Angeles HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82552
+#EXTINF:-1,ES: NCIS Nueva Orleans HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82553
+#EXTINF:-1,ES: NCIS Navy Investigación Criminal) HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82554
+#EXTINF:-1,ES: CSI Las Vegas HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82555
+#EXTINF:-1,•●★-- 24/7 Series Animadas --★●
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82556
+#EXTINF:-1,ES: Los Simpsons Temp 1-5 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82557
+#EXTINF:-1,ES: Los Simpsons HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82558
+#EXTINF:-1,ES: Los Simpsons La casa-árbol del terror SD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82559
+#EXTINF:-1,ES: Los Simpsons La casa-árbol del terror HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82560
+#EXTINF:-1,ES: Futurama 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82561
+#EXTINF:-1,ES: Futurama HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82562
+#EXTINF:-1,ES: Padre de Familia 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82563
+#EXTINF:-1,ES: Ben Y Holly 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82564
+#EXTINF:-1,ES: Fabulas de Disney 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82565
+#EXTINF:-1,ES: Patrulla Canina 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82566
+#EXTINF:-1,ES: Vaca y Pollito 24h
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82567
+#EXTINF:-1,ES: Super Wings 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82568
+#EXTINF:-1,ES: El Bebé Jefazo (Vuelta al curro) 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82569
+#EXTINF:-1,ES: Wabbit 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82570
+#EXTINF:-1,ES: Kim Possible SD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82571
+#EXTINF:-1,ES: Kim Possible HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82572
+#EXTINF:-1,ES: Lilo y Stitch SD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82573
+#EXTINF:-1,ES: Lilo y Stitch HD 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82574
+#EXTINF:-1,ES: Caballeros del Zodiaco Torneo Galactico SD (1-40) 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82575
+#EXTINF:-1,ES: Caballeros del Zodiaco Torneo Galactico HD (1-40) 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82576
+#EXTINF:-1,ES: Caballeros del Zodiaco Santuario SD (41-73) 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82577
+#EXTINF:-1,ES: Caballeros del Zodiaco Santuario HD (41-73) 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82578
+#EXTINF:-1,ES: Caballeros del Zodiaco Asgard SD (74-99) 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82579
+#EXTINF:-1,ES: Caballeros del Zodiaco Asgard HD (74-99) 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82580
+#EXTINF:-1,ES: Caballeros del Zodiaco Poseidon SD (100-114) 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82581
+#EXTINF:-1,ES: Caballeros del Zodiaco Poseidon HD (100-114) 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82582
+#EXTINF:-1,ES: Caballeros del Zodiaco Hades SD (115-145) 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82583
+#EXTINF:-1,ES: Caballeros del Zodiaco Hades HD (115-145) 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82584
+#EXTINF:-1,ES: Heroes Mitologicos 24H
+http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82585
