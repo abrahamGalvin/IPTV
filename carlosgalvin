@@ -295,7 +295,7 @@ http://wg6f.top:8000/cc583/ZiiseIAVXw/31
 #EXTINF:-1 xui-id="" tvg-id="M.DEPORTES 1 HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ARTHUR.png" group-title="",DEPORTES 1
 http://wg6f.top:8000/cc583/ZiiseIAVXw/41
 
-#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP2.png",DEPORTES 2
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP2.png" group-title="",DEPORTES 2
 http://wg6f.top:8000/cc583/ZiiseIAVXw/27
 
 #EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP3.png" group-title="",DEPORTES 3
