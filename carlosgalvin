@@ -1,270 +1,261 @@
 #EXTM3U
-# TDT
-#EXTINF:-1 xui-id="" tvg-id="LA 1 HD" tvg-name="" tvg-logo="" group-title="",LA 1
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41011
-#EXTINF:-1 xui-id="" tvg-id="LA 2 HD" tvg-name="" tvg-logo="" group-title="",LA 2
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41013
-#EXTINF:-1 xui-id="" tvg-id="ANTENA 3 HD" tvg-name="" tvg-logo="" group-title="",ANTENA 3
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41015
-#EXTINF:-1 xui-id="" tvg-id="CUATRO HD" tvg-name="" tvg-logo="" group-title="",CUATRO
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41017
-#EXTINF:-1 xui-id="" tvg-id="TELECINCO HD" tvg-name="" tvg-logo="" group-title="",TELECINCO
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41019
-#EXTINF:-1 xui-id="" tvg-id="LA SEXTA HD" tvg-name="" tvg-logo="" group-title="",LA SEXTA
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41021
-#EXTINF:-1 xui-id="" tvg-id="Somos" tvg-name="" tvg-logo="" group-title="",SOMOS
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/1412
-#EXTINF:-1 xui-id="" tvg-id="PARAMOUNT" tvg-name="" tvg-logo="" group-title="",PARAMOUNT CHANNEL
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41464
-#EXTINF:-1 xui-id="" tvg-id="Mega HD" tvg-name="" tvg-logo="" group-title="",MEGA
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41027
-#EXTINF:-1 xui-id="" tvg-id="BE MAD" tvg-name="" tvg-logo="" group-title="",BEMAD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41038
-#EXTINF:-1 xui-id="" tvg-id="24 HORAS" tvg-name="" tvg-logo="" group-title="",24 HORAS
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/80816
-#EXTINF:-1 xui-id="" tvg-id="CLAN  TVE" tvg-name="" tvg-logo="" group-title="",CLAN
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/251
-#EXTINF:-1 xui-id="" tvg-id="FDF" tvg-name="" tvg-logo="" group-title="",FDF
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41032
-#EXTINF:-1 xui-id="" tvg-id="TELEMADRID" tvg-name="" tvg-logo="" group-title="",TELEMADRID
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41168
-#EXTINF:-1 xui-id="" tvg-id="Atreseries HD" tvg-name="" tvg-logo="" group-title="",A3SERIES
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41036
-#EXTINF:-1 xui-id="" tvg-id="ENERGY" tvg-name="" tvg-logo="" group-title="",ENERGY
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41024
-#EXTINF:-1 xui-id="" tvg-id="CanalSurHD" tvg-name="" tvg-logo="" group-title="",CANAL SUR
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41147
-#EXTINF:-1 xui-id="" tvg-id="DIVINITY" tvg-name="" tvg-logo="" group-title="",DIVINITY
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41030
-#EXTINF:-1 xui-id="" tvg-id="NEOX" tvg-name="" tvg-logo="" group-title="",NEOX
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41023
-#EXTINF:-1 xui-id="" tvg-id="NOVA" tvg-name="" tvg-logo="" group-title="",NOVA
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41029
-#EXTINF:-1 xui-id="" tvg-id="Discovery MAX" tvg-name="" tvg-logo="" group-title="",DMAX
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41039
-#EXTINF:-1 xui-id="" tvg-id="Ten" tvg-name="" tvg-logo="" group-title="",TEN
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41034
-#EXTINF:-1 xui-id="" tvg-id="IBERALIA TV" tvg-name="" tvg-logo="" group-title="",IBERALIA
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/73201
-
-# INFANTIL 
-#EXTINF:-1 xui-id="" tvg-id="NICKELODEON HD" tvg-name="" tvg-logo="" group-title="",NICKELODEON
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/246
-#EXTINF:-1 xui-id="" tvg-id="DISNEY CH HD" tvg-name="" tvg-logo="" group-title="",DISNEY CHANNEL
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/241
-#EXTINF:-1 xui-id="" tvg-id="disneyjunior.es" tvg-name="" tvg-logo="" group-title="",DISNEY JR
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/244
-#EXTINF:-1 xui-id="" tvg-id="BOING" tvg-name="" tvg-logo="" group-title="",BOING
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/254
-#EXTINF:-1 xui-id="" tvg-id="CANAL PANDA" tvg-name="" tvg-logo="" group-title="",PANDA
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/255
-#EXTINF:-1 xui-id="" tvg-id="BABY TV" tvg-name="" tvg-logo="" group-title="",BABY TV
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/256
-#EXTINF:-1 xui-id="" tvg-id="NICK JR" tvg-name="" tvg-logo="" group-title="",NICK JR
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/248
-#EXTINF:-1 xui-id="" tvg-id="DreamWorks HD" tvg-name="" tvg-logo="" group-title="",DREAMWORKS
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/75861
-# TOROS 
-#EXTINF:-1 xui-id="" tvg-id="TOROS HD" tvg-name="" tvg-logo="" group-title="",TOROS
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/232
-# CULTURA 
-#EXTINF:-1 xui-id="" tvg-id="HISTORIA" tvg-name="" tvg-logo="" group-title="",HISTORIA
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/196
-#EXTINF:-1 xui-id="" tvg-id="NAT GEO HD" tvg-name="" tvg-logo="" group-title="",NATIONAL GEOGRAPHIC
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/188
-#EXTINF:-1 xui-id="" tvg-id="NAT GEO WILD HD" tvg-name="" tvg-logo="" group-title="",NATIONAL GEOGRAFIC WILD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/192
-#EXTINF:-1 xui-id="" tvg-id="CAZAyPESCA HD" tvg-name="" tvg-logo="" group-title="",CAZA Y PESCA
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/226
-#EXTINF:-1 xui-id="" tvg-id="DISCOVERY" tvg-name="" tvg-logo="" group-title="",DISCOVERY CHANNEL
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/53034
-#EXTINF:-1 xui-id="" tvg-id="CANAL ODISEA" tvg-name="" tvg-logo="" group-title="",ODISEA
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/200
-#  CINE
-#EXTINF:-1 xui-id="" tvg-id="#0 HD" tvg-name="" tvg-logo="" group-title="",0#
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/89
-#EXTINF:-1 xui-id="" tvg-id="M.ESTRENOS HD" tvg-name="" tvg-logo="" group-title="",ESTRENOS
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/93
-#EXTINF:-1 xui-id="" tvg-id="M. ESTRENOS 2 HD" tvg-name="" tvg-logo="" group-title="",ESTRENOS 2
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/109
-#EXTINF:-1 xui-id="" tvg-id="M. ACCION HD" tvg-name="" HD tvg-logo="g" group-title="",ACCION
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/97
-#EXTINF:-1 xui-id="" tvg-id="M.COMEDIA HD" tvg-name="" tvg-logo="" group-title="",COMEDIA
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/101
-#EXTINF:-1 xui-id="" tvg-id="M. DRAMA HD" tvg-name="" tvg-logo="" group-title="",DRAMA
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/105
-#EXTINF:-1 xui-id="" tvg-id="M. CLÁSICOS HD" tvg-name="" tvg-logo="" group-title="",CLASICOS
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/79702
-#EXTINF:-1 xui-id="" tvg-id="movistarespanol.es" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="",CINE Ñ
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/85356
-#EXTINF:-1 xui-id="" tvg-id="M. SERIES HD" tvg-name="" tvg-logo="" group-title="",SERIES
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/121
-#EXTINF:-1 xui-id="" tvg-id="M. SERIES 2 HD" tvg-name="" tvg-logo="" group-title="",SERIES 2
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/117
-#EXTINF:-1 xui-id="" tvg-id="HOLLYWOOD HD" tvg-name="" tvg-logo="" group-title="",HOLLYWOOD
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/162
-#EXTINF:-1 xui-id="" tvg-id="TCM HD" tvg-name="" tvg-logo="" group-title="",TCM
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/166
-#EXTINF:-1 xui-id="" tvg-id="SUNDANCE TV" tvg-name="" tvg-logo="" group-title="",SUNDANCE
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/169
-#EXTINF:-1 xui-id="" tvg-id="XTRM" tvg-name="" tvg-logo="" group-title="",XTRM
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/176
-#EXTINF:-1 xui-id="" tvg-id="Dark" tvg-name="" tvg-logo="" group-title="",DARK RED
-
-#EXTINF:-1 xui-id="" tvg-id="Dark" tvg-name="" tvg-logo="" group-title="",DARK
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/1411
-#EXTINF:-1 xui-id="" tvg-id="CALLE 13 HD" tvg-name="" tvg-logo="" group-title="",CALLE 13
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/146
-#EXTINF:-1 xui-id="" tvg-id="FOX HD" tvg-name="" tvg-logo="" group-title="",FOX
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/138
-#EXTINF:-1 xui-id="" tvg-id="AXN HD" tvg-name="" tvg-logo="" group-title="",AXN
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/130
-#EXTINF:-1 xui-id="" tvg-id="AXN WHITE HD" tvg-name="" tvg-logo="" group-title="",AXN WHITE
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/134
-#EXTINF:-1 xui-id="" tvg-id="AMC HD" tvg-name="" tvg-logo="" group-title="",AMC
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/126
-#EXTINF:-1 xui-id="" tvg-id="AMC HD" tvg-name="" tvg-logo="" group-title="",AMC BREAK
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/223
-#EXTINF:-1 xui-id="" tvg-id="TNT HD" tvg-name="" tvg-logo="" group-title="",TNT
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/150
-#EXTINF:-1 xui-id="" tvg-id="SYFY HD" tvg-name="" tvg-logo="" group-title="",SYFY
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/154
-#EXTINF:-1 xui-id="" tvg-id="COSMO HD" tvg-name="" tvg-logo="" group-title="",COSMO
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/158
-#EXTINF:-1 xui-id="" tvg-id="COMEDYCENTRAL HD" tvg-name="" tvg-logo="" group-title="",COMEDY CENTRAL
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/180
-# FUTBOL
-#EXTINF:-1 xui-id="" tvg-id="LALIGATV BAR" tvg-name="" tvg-logo="" group-title="",LALIGA TV BAR
-
-#EXTINF:-1 xui-id="" tvg-id="M. LaLiga HD" tvg-name="" tvg-logo="" group-title="",LALIGA
-
-#EXTINF:-1 xui-id="" tvg-id="M. LaLiga 1 HD" tvg-name="" tvg-logo="" group-title="",LALIGA 1
-
-#EXTINF:-1 xui-id="" tvg-id="M. LaLiga 2 HD" tvg-name="" tvg-logo="" group-title="",LALIGA 2
-
-#EXTINF:-1 xui-id="" tvg-id="M. LaLiga 3 HD" tvg-name="" tvg-logo="" group-title="",LALIGA 3
-
-#EXTINF:-1 xui-id="" tvg-id="M. LaLiga 4" tvg-name="" tvg-logo="" group-title="",LALIGA 4
-
-#EXTINF:-1 xui-id="" tvg-id="M. LaLiga 5" tvg-name="" tvg-logo="" group-title="",LALIGA 5
-
-#EXTINF:-1 xui-id="" tvg-id="M.LCAMPEONES HD" tvg-name="" tvg-logo="" group-title="",LIGA CAMPEONES
-
-#EXTINF:-1 xui-id="" tvg-id="M.LCAMPEON1" tvg-name="" tvg-logo="" group-title="",LIGA CAMPEONES 1
-
-#EXTINF:-1 xui-id="" tvg-id="M.LCAMPEON2" tvg-name="" tvg-logo="" group-title="",LIGA CAMPEONES 2
-
-#EXTINF:-1 xui-id="" tvg-id="M.LCAMPEON3" tvg-name="" tvg-logo="" group-title="",LIGA CAMPEONES 3
-
-#EXTINF:-1 xui-id="" tvg-id="M.LCAMPEON4" tvg-name="" tvg-logo="" group-title="",LIGA CAMPEONES 4
-
-#EXTINF:-1 xui-id="" tvg-id="BARCA TV" tvg-name="" tvg-logo="" group-title="",BARCA TV
-
-#EXTINF:-1 xui-id="" tvg-id="R. MADRID TV" tvg-name="" tvg-logo="" group-title="",REAL MADRID TV
-
-#EXTINF:-1 xui-id="" tvg-id="GOL HD" tvg-name="" tvg-logo="" group-title="",GOL TV
-
-#EXTINF:-1 xui-id="" tvg-id="GOL HD" tvg-name="" tvg-logo="" group-title="",GOL TV
-
-# DEPORTES
-
-#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",ELLAS #V
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/86017
-#EXTINF:-1 xui-id="" tvg-id="DAZN F1 HD" tvg-name="" tvg-logo="" group-title="",DAZN F1
-
-#EXTINF:-1 xui-id="" tvg-id="DAZN F1 HD" tvg-name="" tvg-logo="" group-title="",DAZN F1
-
-#EXTINF:-1 xui-id="" tvg-id="DAZN 1 HD" tvg-name="" tvg-logo="" group-title="",DAZN 1
-
-#EXTINF:-1 xui-id="" tvg-id="DAZN 1 HD" tvg-name="" tvg-logo="" group-title="",DAZN 1
-
-#EXTINF:-1 xui-id="" tvg-id="DAZN 2 HD" tvg-name="" tvg-logo="" group-title="",DAZN 2
-
-#EXTINF:-1 xui-id="" tvg-id="DAZN 2 HD" tvg-name="" tvg-logo="" group-title="",DAZN 2
-
-#EXTINF:-1 xui-id="" tvg-id="DAZN 3 HD" tvg-name="" tvg-logo="" group-title="",DAZN 3
-
-#EXTINF:-1 xui-id="" tvg-id="DAZN 4 HD" tvg-name="" tvg-logo="" group-title="",DAZN 4
-
-#EXTINF:-1 xui-id="" tvg-id="M. DEPORTES HD" tvg-name="" tvg-logo="" group-title="",DEPORTES
-
-#EXTINF:-1 xui-id="" tvg-id="M.DEPORTES 1 HD" tvg-name="" tvg-logo="" group-title="",DEPORTES 1
-
-#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",DEPORTES 2
-
-#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",DEPORTES 3
-
-#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",DEPORTES 4
-
-#EXTINF:-1 xui-id="" tvg-id="M. GOLF HD" tvg-name="" tvg-logo="" group-title="",GOLF
-
-#EXTINF:-1 xui-id="" tvg-id="#VAMOS HD" tvg-name="" tvg-logo="" group-title="",VAMOS
-
-#EXTINF:-1 xui-id="" tvg-id="EUROSPORT1HD" tvg-name="" tvg-logo="" group-title="",EUROSPORT 1
-
-#EXTINF:-1 xui-id="" tvg-id="EUROSPORT 2" tvg-name="" tvg-logo="" group-title="",EUROSPORT 2
-
-#EXTINF:-1 xui-id="" tvg-id="TELEDEPORTES" tvg-name="" HD" tvg-logo="" group-title="",TELEDEPORTES
-
-#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",BEIN SPORTS 1
-
-#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",BEIN SPORTS 2 
-
-#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",BEIN SPORTS 3
-
-
-# ESTILO DE VIDA
-#EXTINF:-1 xui-id="" tvg-id="CANAL DECASA" tvg-name="" tvg-logo="" group-title="",DECASA
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/218
-#EXTINF:-1 xui-id="" tvg-id="DKISS" tvg-name="" tvg-logo="" group-title="",DKISS
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/41040
-#EXTINF:-1 xui-id="" tvg-id="crimeinvestigation.es" tvg-name="" tvg-logo="" group-title="",CRIMEN+INVESTIGACIÓN
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/84627
-#EXTINF:-1 xui-id="" tvg-id="CANAL COCINA" tvg-name="" tvg-logo="CANAL COCINA HD" group-title="",CANAL COCINA
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/214
-# MÚSICA
-#EXTINF:-1 xui-id="" tvg-id="MTV ESPAÑA" tvg-name="" tvg-logo="" group-title="",MTV
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/208
-#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",MEZZO LIVE
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/390
-#EXTINF:-1 xui-id="" tvg-id="M. Fest" tvg-name="" tvg-logo="" group-title="",FEST
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/78289
-
-# 24/7
-#EXTINF:-1, group-title="M3U",ES: Callejeros 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82539
-#EXTINF:-1, group-title="M3U",ES: Callejeros Viajeros 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82540
-#EXTINF:-1, group-title="M3U",ES: Cuarto Milenio HD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82541
-#EXTINF:-1, group-title="M3U",ES: La Que se Avecina 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82542
-#EXTINF:-1, group-title="M3U",ES: Pippi Calzaslargas 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82544
-#EXTINF:-1, group-title="M3U",ES: El Principe de Bel Air Temp 1 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82546
-#EXTINF:-1, group-title="M3U",ES: El Principe de Bel Air Temp 2 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82547
-#EXTINF:-1, group-title="M3U",ES: El Principe de Bel Air Temp 3 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82548
-#EXTINF:-1, group-title="M3U",ES: El Principe de Bel Air Temp 4 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82549
-#EXTINF:-1, group-title="M3U",ES: El Principe de Bel Air Temp 5 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82550
-#EXTINF:-1, group-title="M3U",ES: El Principe de Bel Air Temp 6 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82551
-#EXTINF:-1, group-title="M3U",ES: Los Simpsons Temp 1-5 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82557
-#EXTINF:-1, group-title="M3U",ES: Los Simpsons HD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82558
-#EXTINF:-1, group-title="M3U",ES: Los Simpsons La casa-árbol del terror SD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82559
-#EXTINF:-1, group-title="M3U",ES: Los Simpsons La casa-árbol del terror HD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82560
-#EXTINF:-1, group-title="M3U",ES: Futurama 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82561
-#EXTINF:-1, group-title="M3U",ES: Futurama HD 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82562
-#EXTINF:-1, group-title="M3U",ES: Padre de Familia 24H
-#EXTINF:-1, group-title="M3U",ES: Patrulla Canina 24H
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82566
+#EXTINF:-1,•●★-- Deportes de España --★●•
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117111
+#EXTINF:-1,ESP - #Vamos (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117130
+#EXTINF:-1,ESP - #Vamos (TV)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117129
+#EXTINF:-1,ESP - Barça TV (X)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117132
+#EXTINF:-1,ESP - Eurosport 1 (TV)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117140
+#EXTINF:-1,ESP - Eurosport 2 (TV)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117142
+#EXTINF:-1,ESP - Gol (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117678
+#EXTINF:-1,ESP - GOL (TV)(SD)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117131
+#EXTINF:-1,ESP - LaLiga TV Bar (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117126
+#EXTINF:-1,ESP - LaLiga TV Bar (TV)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117125
+#EXTINF:-1,ESP - M. Deportes (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117139
+#EXTINF:-1,ESP - M. Deportes (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117138
+#EXTINF:-1,ESP - M. F1 (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117679
+#EXTINF:-1,ESP - M. Formula 1 (C)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117134
+#EXTINF:-1,ESP - M. Golf (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117137
+#EXTINF:-1,ESP - M. LaLiga (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117124
+#EXTINF:-1,ESP - M. LaLiga (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117123
+#EXTINF:-1,ESP - M. LaLiga 1 (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117146
+#EXTINF:-1,ESP - M. LaLiga 1 (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117145
+#EXTINF:-1,ESP - M. LaLiga 2 (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117147
+#EXTINF:-1,ESP - M. LaLiga 3 (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117148
+#EXTINF:-1,ESP - M. Liga de Campeones (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117128
+#EXTINF:-1,ESP - M. Liga de Campeones (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117127
+#EXTINF:-1,ESP - M. Liga de Campeones 1 (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117149
+#EXTINF:-1,ESP - M. Liga de Campeones 2 (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117150
+#EXTINF:-1,ESP - Multideportes (TV)(SD)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117112
+#EXTINF:-1,ESP - Real Madrid TV (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117144
+#EXTINF:-1,ESP - Real Madrid TV (TV)(SD)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117143
+#EXTINF:-1,ESP - Teledeporte (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117135
+#EXTINF:-1,ESP - Toros TV (TV)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117206
+#EXTINF:-1,•●★-- TDT ESPAÑA--★● 
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117283
+#EXTINF:-1,ESP - 24 Horas (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117676
+#EXTINF:-1,ESP - 24h (TV)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117168
+#EXTINF:-1,ESP - Antena 3 (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117158
+#EXTINF:-1,ESP - Antena 3 (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117159
+#EXTINF:-1,ESP - Antena 3 Internacional (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117160
+#EXTINF:-1,ESP - BeMad (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117173
+#EXTINF:-1,ESP - BeMad (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117174
+#EXTINF:-1,ESP - Calle 13 (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117218
+#EXTINF:-1,ESP - Calle 13 (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117219
+#EXTINF:-1,ESP - COSMO (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117203
+#EXTINF:-1,ESP - Cuatro (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117161
+#EXTINF:-1,ESP - Cuatro (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117162
+#EXTINF:-1,ESP - DARK (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117221
+#EXTINF:-1,ESP - Divinity (TV)(SD)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117177
+#EXTINF:-1,ESP - Dkiss (TV)(SD)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117175
+#EXTINF:-1,ESP - DMAX (TV)(SD)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117176
+#EXTINF:-1,ESP - Energy (TV)(SD)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117178
+#EXTINF:-1,ESP - Hispan TV (TV)(SD)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117169
+#EXTINF:-1,ESP - La 1 (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117153
+#EXTINF:-1,ESP - La 1 (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117154
+#EXTINF:-1,ESP - La 2 (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117155
+#EXTINF:-1,ESP - La 2 (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117156
+#EXTINF:-1,ESP - La Sexta (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117165
+#EXTINF:-1,ESP - La Sexta (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117166
+#EXTINF:-1,ESP - MEGA (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117171
+#EXTINF:-1,ESP - MEGA (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117172
+#EXTINF:-1,ESP - Neox (TV)(SD)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117183
+#EXTINF:-1,ESP - Odisea (TV)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117181
+#EXTINF:-1,ESP - Telecinco (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117736
+#EXTINF:-1,ESP - Telecinco (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117164
+#EXTINF:-1,ESP - Telecinco (TV)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117163
+#EXTINF:-1,ESP - Telemadrid (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117261
+#EXTINF:-1,ESP - TVE Internacional (M)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117152
+#EXTINF:-1,•●★-- Cine TV --★●
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117209
+#EXTINF:-1,ESP - #0 (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117211
+#EXTINF:-1,ESP - #0 (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117210
+#EXTINF:-1,ESP - A3Series (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117229
+#EXTINF:-1,ESP - A3Series Internacional (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117230
+#EXTINF:-1,ESP - AMC (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117212
+#EXTINF:-1,ESP - AMC (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117213
+#EXTINF:-1,ESP - Antena Series (TV)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117157
+#EXTINF:-1,ESP - AXN (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117214
+#EXTINF:-1,ESP - AXN (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117215
+#EXTINF:-1,ESP - AXN White (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117216
+#EXTINF:-1,ESP - AXN White (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117217
+#EXTINF:-1,ESP - Bom Cine (TV)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117258
+#EXTINF:-1,ESP - Comedy Central (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117196
+#EXTINF:-1,ESP - Comedy Central (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117197
+#EXTINF:-1,ESP - FOX (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117222
+#EXTINF:-1,ESP - FOX (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117223
+#EXTINF:-1,ESP - FOX Life (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117225
+#EXTINF:-1,ESP - Hollywood (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117231
+#EXTINF:-1,ESP - M. Accion (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117232
+#EXTINF:-1,ESP - M. Accion (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117233
+#EXTINF:-1,ESP - M. Cine Español (TV)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117337
+#EXTINF:-1,ESP - M. CineDoc&Roll (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117236
+#EXTINF:-1,ESP - M. Comedia (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117237
+#EXTINF:-1,ESP - M. Comedia (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117238
+#EXTINF:-1,ESP - M. Disney+ (TV)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117275
+#EXTINF:-1,ESP - M. Drama (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117239
+#EXTINF:-1,ESP - M. Drama (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117240
+#EXTINF:-1,ESP - M. Dreamworks (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117277
+#EXTINF:-1,ESP - M. Estrenos (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117241
+#EXTINF:-1,ESP - M. Estrenos (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117242
+#EXTINF:-1,ESP - M. Series (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117243
+#EXTINF:-1,ESP - M. Series (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117244
+#EXTINF:-1,ESP - M. Seriesmania (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117245
+#EXTINF:-1,ESP - M. Seriesmania (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117246
+#EXTINF:-1,ESP - SyFy (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117248
+#EXTINF:-1,ESP - Paramount Channel (TV)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117259
+#EXTINF:-1,ESP - SOMOS (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117228
+#EXTINF:-1,ESP - TCM (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117250
+#EXTINF:-1,ESP - TNT (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117252
+#EXTINF:-1,ESP - TNT (TV)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117251
+#EXTINF:-1,•●★-- Infantil --★●
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117263
+#EXTINF:-1,ESP - Baby TV (TV)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117274
+#EXTINF:-1,ESP - Canal Cocina (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117200
+#EXTINF:-1,ESP - Disney Channel (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117267
+#EXTINF:-1,ESP - Disney Channel (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117268
+#EXTINF:-1,ESP - Disney Junior (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117269
+#EXTINF:-1,ESP - Nick Jr (TV)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117270
+#EXTINF:-1,ESP - Nickelodeon (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117272
+#EXTINF:-1,•●★-- Documentales--★●
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117284
+#EXTINF:-1,ESP - Canal Panda (TV)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117273
+#EXTINF:-1,ESP - Caza y Pesca (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117226
+#EXTINF:-1,ESP - Caza y Pesca (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117227
+#EXTINF:-1,ESP - Crimen Investigacion (M)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117185
+#EXTINF:-1,ESP - Decasa (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117199
+#EXTINF:-1,ESP - Discovery Channel (X)(SD)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117188
+#EXTINF:-1,ESP - Discovery Channel (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117189
+#EXTINF:-1,ESP - Historia (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117190
+#EXTINF:-1,ESP - Historia (M)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117191
+#EXTINF:-1,ESP - National Geographic (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117194
+#EXTINF:-1,ESP - Nat Geo Wild (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117193
+#EXTINF:-1,ESP - Nat Geo Wild (X)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117192
+#EXTINF:-1,ESP - Viajar (TV)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117204
+#EXTINF:-1,•●★-- Musicales --★●
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117278
+#EXTINF:-1,ESP - MTV España (C)(720)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117279
+#EXTINF:-1,ESP - XTRM (TV)(1080)
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/117253
