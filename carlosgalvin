@@ -1,451 +1,348 @@
 #EXTM3U
-#EXTINF:-1,PORTADA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/706
-#EXTINF:-1,LA 1 HD
+# TDT
+#EXTINF:-1 xui-id="" tvg-id="LA 1 HD" tvg-name="" tvg-logo="" group-title="",LA 1
 http://wg6f.top:8000/cc583/ZiiseIAVXw/106
-#EXTINF:-1,LA 2 HD
+
+#EXTINF:-1 xui-id="" tvg-id="LA 2 HD" tvg-name="" tvg-logo="" group-title="",LA 2
 http://wg6f.top:8000/cc583/ZiiseIAVXw/107
-#EXTINF:-1,ANTENA 3 HD
+
+#EXTINF:-1 xui-id="" tvg-id="ANTENA 3 HD" tvg-name="" tvg-logo="" group-title="",ANTENA 3
 http://wg6f.top:8000/cc583/ZiiseIAVXw/4
-#EXTINF:-1,CUATRO HD
+
+#EXTINF:-1 xui-id="" tvg-id="CUATRO HD" tvg-name="" tvg-logo="" group-title="",CUATRO
 http://wg6f.top:8000/cc583/ZiiseIAVXw/14
-#EXTINF:-1,TELECINCO HD
+
+#EXTINF:-1 xui-id="" tvg-id="TELECINCO HD" tvg-name="" tvg-logo="" group-title="",TELECINCO
 http://wg6f.top:8000/cc583/ZiiseIAVXw/61
-#EXTINF:-1,LA SEXTA HD
+
+#EXTINF:-1 xui-id="" tvg-id="LA SEXTA HD" tvg-name="" tvg-logo="" group-title="",LA SEXTA
 http://wg6f.top:8000/cc583/ZiiseIAVXw/24
-#EXTINF:-1,Telemadrid
-http://wg6f.top:8000/cc583/ZiiseIAVXw/374
-#EXTINF:-1,8 MEDITERRANEO
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1714
-#EXTINF:-1,TRECE TV
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1712
-#EXTINF:-1,CANAL SUR ANDALUCIA HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/84
-#EXTINF:-1,TV 3 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1445
-#EXTINF:-1,DMAX HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/478
-#EXTINF:-1,TEN
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1710
-#EXTINF:-1,DKISS
-http://wg6f.top:8000/cc583/ZiiseIAVXw/392
-#EXTINF:-1,BE MAD HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/81
-#EXTINF:-1,ENERGY HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/18
-#EXTINF:-1,FDF 
-http://wg6f.top:8000/cc583/ZiiseIAVXw/98
-#EXTINF:-1,DIVINITY HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/17
-#EXTINF:-1,ASTRESERIES
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1188
-#EXTINF:-1,MEGA 
-http://wg6f.top:8000/cc583/ZiiseIAVXw/615
-#EXTINF:-1,NEOX 
-http://wg6f.top:8000/cc583/ZiiseIAVXw/136
-#EXTINF:-1,NOVA 
-http://wg6f.top:8000/cc583/ZiiseIAVXw/139
-#EXTINF:-1,Castilla La Mancha
-http://wg6f.top:8000/cc583/ZiiseIAVXw/371
-#EXTINF:-1,A PUNT
-http://wg6f.top:8000/cc583/ZiiseIAVXw/395
-#EXTINF:-1,EXTREMADURA HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/497
-#EXTINF:-1,TV GALICIA HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/553
-#EXTINF:-1,ARAGON TV INT
-http://wg6f.top:8000/cc583/ZiiseIAVXw/76
-#EXTINF:-1,24 HORAS
-http://wg6f.top:8000/cc583/ZiiseIAVXw/74
-#EXTINF:-1,#0 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1670
-#EXTINF:-1,M.ESTRENOS HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/125
-#EXTINF:-1,M. ESTRENOS 2 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1328
-#EXTINF:-1,M. ACCION HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/25
-#EXTINF:-1,M.COMEDIA HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/168
-#EXTINF:-1,M. DRAMA HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/33
-#EXTINF:-1,M.CLASICOS HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1335
-#EXTINF:-1,M.LA RESISTENCIA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1449
-#EXTINF:-1,M+ FEST
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1713
-#EXTINF:-1,M.Series HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/133
-#EXTINF:-1,M. SERIES 2 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/39
-#EXTINF:-1,M. CINE ESPAÑA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/112
-#EXTINF:-1,BOM CINE
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1711
-#EXTINF:-1,MTV ESPAÑA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/51
-#EXTINF:-1,SOMOS
+
+#EXTINF:-1 xui-id="" tvg-id="Somos" tvg-name="" tvg-logo="" group-title="",SOMOS
 http://wg6f.top:8000/cc583/ZiiseIAVXw/796
-#EXTINF:-1,DARK 
-http://wg6f.top:8000/cc583/ZiiseIAVXw/342
-#EXTINF:-1,XTRM HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/260
-#EXTINF:-1,AXN HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/78
-#EXTINF:-1,AXN WHITE HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/167
-#EXTINF:-1,AMC HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/3
-#EXTINF:-1,TNT HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/63
-#EXTINF:-1,SYFY HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/143
-#EXTINF:-1,COMEDYCENTRAL HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/88
-#EXTINF:-1,COSMO HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/90
-#EXTINF:-1,FOX HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/21
-#EXTINF:-1,CALLE 13 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/146
-#EXTINF:-1,HOLLYWOOD HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/23
-#EXTINF:-1,TCM HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/60
-#EXTINF:-1,PARAMOUNT NETWORK
+
+#EXTINF:-1 xui-id="" tvg-id="PARAMOUNT" tvg-name="" tvg-logo="" group-title="",PARAMOUNT NETWORK
 http://wg6f.top:8000/cc583/ZiiseIAVXw/140
-#EXTINF:-1,SUNDANCE TV
-http://wg6f.top:8000/cc583/ZiiseIAVXw/142
-#EXTINF:-1,NASA TV
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1242
-#EXTINF:-1,HISTORIA HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/467
-#EXTINF:-1,HISTORIA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/102
-#EXTINF:-1,ODISEA HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/770
-#EXTINF:-1,ODISEA 
-http://wg6f.top:8000/cc583/ZiiseIAVXw/11
-#EXTINF:-1,DISCOVERY HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1344
-#EXTINF:-1,DISCOVERY
-http://wg6f.top:8000/cc583/ZiiseIAVXw/93
-#EXTINF:-1,NAT GEOGRAPHIC HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/52
-#EXTINF:-1,NAT GEOGRAPHIC WILD HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/54
-#EXTINF:-1,AMC CRIMEN
-http://wg6f.top:8000/cc583/ZiiseIAVXw/91
-#EXTINF:-1,AMC BREAK
-http://wg6f.top:8000/cc583/ZiiseIAVXw/82
-#EXTINF:-1,HORSE TV
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1741
-#EXTINF:-1,NAUTICAL CHANNEL
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1742
-#EXTINF:-1,CAZAyPESCA HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/12
-#EXTINF:-1,IBERALIA TV
-http://wg6f.top:8000/cc583/ZiiseIAVXw/104
-#EXTINF:-1,IBERALIA CAZA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1743
-#EXTINF:-1,CANAL COCINA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/9
-#EXTINF:-1,CAZAVISON HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1739
-#EXTINF:-1,CANAL DECASA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/10
-#EXTINF:-1,TOROS HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/65
-#EXTINF:-1,DREAMWORKS HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1147
-#EXTINF:-1,NICKELODEON HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/55
-#EXTINF:-1,DISNEY CHANEL HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/15
-#EXTINF:-1,DISNEY JR
-http://wg6f.top:8000/cc583/ZiiseIAVXw/94
-#EXTINF:-1,BABY TV
-http://wg6f.top:8000/cc583/ZiiseIAVXw/5
-#EXTINF:-1,NICK JR
-http://wg6f.top:8000/cc583/ZiiseIAVXw/137
-#EXTINF:-1,BOING
-http://wg6f.top:8000/cc583/ZiiseIAVXw/7
-#EXTINF:-1,CANAL PANDA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/83
-#EXTINF:-1,CLAN TV
+
+#EXTINF:-1 xui-id="" tvg-id="Mega HD" tvg-name="" tvg-logo="" group-title="",MEGA
+http://wg6f.top:8000/cc583/ZiiseIAVXw/615
+
+#EXTINF:-1 xui-id="" tvg-id="BE MAD" tvg-name="" tvg-logo="" group-title="",BEMAD
+http://wg6f.top:8000/cc583/ZiiseIAVXw/81
+
+#EXTINF:-1 xui-id="" tvg-id="24 HORAS" tvg-name="" tvg-logo="" group-title="",24 HORAS
+http://wg6f.top:8000/cc583/ZiiseIAVXw/74
+
+#EXTINF:-1 xui-id="" tvg-id="CLAN  TVE" tvg-name="" tvg-logo="" group-title="",CLAN
 http://wg6f.top:8000/cc583/ZiiseIAVXw/86
-#EXTINF:-1,DAZN F1 HD 
-http://wg6f.top:8000/cc583/ZiiseIAVXw/43
-#EXTINF:-1,DAZN  1 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/771
-#EXTINF:-1,DAZN 2 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/774
-#EXTINF:-1,DAZN 3 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1184
-#EXTINF:-1,DAZN 4 HD 
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1185
-#EXTINF:-1,UBEAT FHD
+
+#EXTINF:-1 xui-id="" tvg-id="FDF" tvg-name="" tvg-logo="" group-title="",FDF
+http://wg6f.top:8000/cc583/ZiiseIAVXw/98
+
+#EXTINF:-1 xui-id="" tvg-id="TELEMADRID" tvg-name="" tvg-logo="" group-title="",TELEMADRID
+http://wg6f.top:8000/cc583/ZiiseIAVXw/374
+
+#EXTINF:-1 xui-id="" tvg-id="Atreseries HD" tvg-name="" tvg-logo="" group-title="",A3SERIES
+http://wg6f.top:8000/cc583/ZiiseIAVXw/1188
+
+#EXTINF:-1 xui-id="" tvg-id="CMM" tvg-name="" tvg-logo="" group-title="",CMM
+
+#EXTINF:-1 xui-id="" tvg-id="ENERGY" tvg-name="" tvg-logo="" group-title="",ENERGY
+http://wg6f.top:8000/cc583/ZiiseIAVXw/18
+
+#EXTINF:-1 xui-id="" tvg-id="CanalSurHD" tvg-name="" tvg-logo="" group-title="",CANAL SUR
+http://wg6f.top:8000/cc583/ZiiseIAVXw/84
+
+#EXTINF:-1 xui-id="" tvg-id="DIVINITY" tvg-name="" tvg-logo="" group-title="",DIVINITY
+http://wg6f.top:8000/cc583/ZiiseIAVXw/17
+
+#EXTINF:-1 xui-id="" tvg-id="NEOX" tvg-name="" tvg-logo="" group-title="",NEOX
+http://wg6f.top:8000/cc583/ZiiseIAVXw/136
+
+#EXTINF:-1 xui-id="" tvg-id="NOVA" tvg-name="" tvg-logo="" group-title="",NOVA
+http://wg6f.top:8000/cc583/ZiiseIAVXw/139
+
+#EXTINF:-1 xui-id="" tvg-id="Discovery MAX" tvg-name="" tvg-logo="" group-title="",DMAX
+http://wg6f.top:8000/cc583/ZiiseIAVXw/478
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",BOM
+http://wg6f.top:8000/cc583/ZiiseIAVXw/1711
+
+#EXTINF:-1 xui-id="" tvg-id="Ten" tvg-name="" tvg-logo="" group-title="",TEN
+http://wg6f.top:8000/cc583/ZiiseIAVXw/1710
+
+#EXTINF:-1 xui-id="" tvg-id="TRECE" tvg-name="" tvg-logo="" group-title="",13 TV
+http://wg6f.top:8000/cc583/ZiiseIAVXw/1712
+
+#EXTINF:-1 xui-id="" tvg-id="IBERALIA TV" tvg-name="" tvg-logo="" group-title="",IBERALIA
+http://wg6f.top:8000/cc583/ZiiseIAVXw/104
+
+#EXTINF:-1 xui-id="" tvg-id="IBERALIA TV" tvg-name="" tvg-logo="" group-title="",IBERALIA CAZA
+http://wg6f.top:8000/cc583/ZiiseIAVXw/1743
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",NASA
+http://wg6f.top:8000/cc583/ZiiseIAVXw/1242
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",NAUTICAL
+http://wg6f.top:8000/cc583/ZiiseIAVXw/1742
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",CAZAVISION
+http://wg6f.top:8000/cc583/ZiiseIAVXw/1739
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",UBEAT
 http://wg6f.top:8000/cc583/ZiiseIAVXw/1744
-#EXTINF:-1,#VAMOS HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/187
-#EXTINF:-1,M.LA LIGA HD
+
+# INFANTIL 
+#EXTINF:-1 xui-id="" tvg-id="NICKELODEON HD" tvg-name="" tvg-logo="" group-title="",NICKELODEON
+http://wg6f.top:8000/cc583/ZiiseIAVXw/55
+
+#EXTINF:-1 xui-id="" tvg-id="DISNEY CH HD" tvg-name="" tvg-logo="" group-title="",DISNEY CHANNEL
+http://wg6f.top:8000/cc583/ZiiseIAVXw/15
+
+#EXTINF:-1 xui-id="" tvg-id="disneyjunior.es" tvg-name="" tvg-logo="" group-title="",DISNEY JR
+http://wg6f.top:8000/cc583/ZiiseIAVXw/94
+
+#EXTINF:-1 xui-id="" tvg-id="BOING" tvg-name="" tvg-logo="" group-title="",BOING
+http://wg6f.top:8000/cc583/ZiiseIAVXw/7
+
+#EXTINF:-1 xui-id="" tvg-id="CANAL PANDA" tvg-name="" tvg-logo="" group-title="",PANDA KIDS
+http://wg6f.top:8000/cc583/ZiiseIAVXw/83
+
+#EXTINF:-1 xui-id="" tvg-id="BABY TV" tvg-name="" tvg-logo="" group-title="",BABY TV
+http://wg6f.top:8000/cc583/ZiiseIAVXw/5
+
+#EXTINF:-1 xui-id="" tvg-id="NICK JR" tvg-name="" tvg-logo="" group-title="",NICK JR
+http://wg6f.top:8000/cc583/ZiiseIAVXw/137
+
+#EXTINF:-1 xui-id="" tvg-id="DreamWorks HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="",DREAMWORKS
+http://wg6f.top:8000/cc583/ZiiseIAVXw/1147
+
+# TOROS 
+#EXTINF:-1 xui-id="" tvg-id="TOROS HD" tvg-name="" tvg-logo="" group-title="",TOROS
+http://wg6f.top:8000/cc583/ZiiseIAVXw/65
+
+# CULTURA 
+#EXTINF:-1 xui-id="" tvg-id="HISTORIA" tvg-name="" tvg-logo="" group-title="",HISTORIA
+http://wg6f.top:8000/cc583/ZiiseIAVXw/467
+
+#EXTINF:-1 xui-id="" tvg-id="NAT GEO HD" tvg-name="" tvg-logo="" group-title="",NATIONAL GEOGRAPHIC
+http://wg6f.top:8000/cc583/ZiiseIAVXw/52
+
+#EXTINF:-1 xui-id="" tvg-id="NAT GEO WILD HD" tvg-name="" tvg-logo="" group-title="",NATIONAL GEOGRAFIC WILD
+http://wg6f.top:8000/cc583/ZiiseIAVXw/54
+
+#EXTINF:-1 xui-id="" tvg-id="CAZAyPESCA HD" tvg-name="" tvg-logo="" group-title="",CAZA Y PESCA
+http://wg6f.top:8000/cc583/ZiiseIAVXw/12
+
+#EXTINF:-1 xui-id="" tvg-id="DISCOVERY" tvg-name="" tvg-logo="" group-title="",DISCOVERY CHANNEL
+http://wg6f.top:8000/cc583/ZiiseIAVXw/1344
+
+#EXTINF:-1 xui-id="" tvg-id="CANAL ODISEA" tvg-name="" tvg-logo="" group-title="",ODISEA
+http://wg6f.top:8000/cc583/ZiiseIAVXw/770
+
+
+#  CINE
+#EXTINF:-1 xui-id="" tvg-id="#0 HD" tvg-name="" tvg-logo="" group-title="",0#
+http://wg6f.top:8000/cc583/ZiiseIAVXw/1670
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",LA RESISTENCIA
+http://wg6f.top:8000/cc583/ZiiseIAVXw/1449
+
+#EXTINF:-1 xui-id="" tvg-id="M.ESTRENOS HD" tvg-name="" tvg-logo="" group-title="",ESTRENOS
+http://wg6f.top:8000/cc583/ZiiseIAVXw/125
+
+#EXTINF:-1 xui-id="" tvg-id="M. ESTRENOS 2 HD" tvg-name="" tvg-logo="" group-title="",ESTRENOS 2
+http://wg6f.top:8000/cc583/ZiiseIAVXw/1328
+
+#EXTINF:-1 xui-id="" tvg-id="M. ACCION HD" tvg-name="" HD tvg-logo="g" group-title="",ACCION
+http://wg6f.top:8000/cc583/ZiiseIAVXw/25
+
+#EXTINF:-1 xui-id="" tvg-id="M.COMEDIA HD" tvg-name="" tvg-logo="" group-title="",COMEDIA
+http://wg6f.top:8000/cc583/ZiiseIAVXw/168
+
+#EXTINF:-1 xui-id="" tvg-id="M. DRAMA HD" tvg-name="" tvg-logo="" group-title="",DRAMA
+http://wg6f.top:8000/cc583/ZiiseIAVXw/33
+
+#EXTINF:-1 xui-id="" tvg-id="M. CLÁSICOS HD" tvg-name="" tvg-logo="" group-title="",CLASICOS
+http://wg6f.top:8000/cc583/ZiiseIAVXw/1335
+
+#EXTINF:-1 xui-id="" tvg-id="movistarespanol.es" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="",CINE Ñ
+http://wg6f.top:8000/cc583/ZiiseIAVXw/112
+
+#EXTINF:-1 xui-id="" tvg-id="M. SERIES HD" tvg-name="" tvg-logo="" group-title="",SERIES
+http://wg6f.top:8000/cc583/ZiiseIAVXw/133
+
+#EXTINF:-1 xui-id="" tvg-id="M. SERIES 2 HD" tvg-name="" tvg-logo="" group-title="",SERIES 2
+http://wg6f.top:8000/cc583/ZiiseIAVXw/39
+
+#EXTINF:-1 xui-id="" tvg-id="HOLLYWOOD HD" tvg-name="" tvg-logo="" group-title="",HOLLYWOOD
+http://wg6f.top:8000/cc583/ZiiseIAVXw/23
+
+#EXTINF:-1 xui-id="" tvg-id="TCM HD" tvg-name="" tvg-logo="" group-title="",TCM
+http://wg6f.top:8000/cc583/ZiiseIAVXw/60
+
+#EXTINF:-1 xui-id="" tvg-id="SUNDANCE TV" tvg-name="" tvg-logo="" group-title="",SUNDANCE
+http://wg6f.top:8000/cc583/ZiiseIAVXw/142
+
+#EXTINF:-1 xui-id="" tvg-id="XTRM" tvg-name="" tvg-logo="" group-title="",XTRM
+http://wg6f.top:8000/cc583/ZiiseIAVXw/260
+
+#EXTINF:-1 xui-id="" tvg-id="Dark" tvg-name="" tvg-logo="" group-title="",DARK RED
+http://wg6f.top:8000/cc583/ZiiseIAVXw/342
+
+#EXTINF:-1 xui-id="" tvg-id="Dark" tvg-name="" tvg-logo="" group-title="",DARK
+
+#EXTINF:-1 xui-id="" tvg-id="CALLE 13 HD" tvg-name="" tvg-logo="" group-title="",CALLE 13
+http://wg6f.top:8000/cc583/ZiiseIAVXw/146
+
+#EXTINF:-1 xui-id="" tvg-id="FOX HD" tvg-name="" tvg-logo="" group-title="",FOX
+http://wg6f.top:8000/cc583/ZiiseIAVXw/21
+
+#EXTINF:-1 xui-id="" tvg-id="AXN HD" tvg-name="" tvg-logo="" group-title="",AXN
+http://wg6f.top:8000/cc583/ZiiseIAVXw/78
+
+#EXTINF:-1 xui-id="" tvg-id="AXN WHITE HD" tvg-name="" tvg-logo="" group-title="",AXN WHITE
+http://wg6f.top:8000/cc583/ZiiseIAVXw/167
+
+#EXTINF:-1 xui-id="" tvg-id="AMC HD" tvg-name="" tvg-logo="" group-title="",AMC
+http://wg6f.top:8000/cc583/ZiiseIAVXw/3
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",AMC BREAK
+http://wg6f.top:8000/cc583/ZiiseIAVXw/82
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",AMC CRIMEN
+http://wg6f.top:8000/cc583/ZiiseIAVXw/91
+
+#EXTINF:-1 xui-id="" tvg-id="TNT HD" tvg-name="" tvg-logo="" group-title="",TNT
+http://wg6f.top:8000/cc583/ZiiseIAVXw/63
+
+#EXTINF:-1 xui-id="" tvg-id="SYFY HD" tvg-name="" tvg-logo="" group-title="",SYFY
+http://wg6f.top:8000/cc583/ZiiseIAVXw/143
+
+#EXTINF:-1 xui-id="" tvg-id="COSMO HD" tvg-name="" tvg-logo="" group-title="",COSMO
+http://wg6f.top:8000/cc583/ZiiseIAVXw/90
+
+#EXTINF:-1 xui-id="" tvg-id="COMEDYCENTRAL HD" tvg-name="" tvg-logo="" group-title="",COMEDY CENTRAL
+http://wg6f.top:8000/cc583/ZiiseIAVXw/88
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",HORSE
+http://wg6f.top:8000/cc583/ZiiseIAVXw/1741
+
+# FUTBOL
+#EXTINF:-1 xui-id="" tvg-id="LALIGATV BAR" tvg-name="" tvg-logo="" group-title="",LALIGA TV BAR
+
+#EXTINF:-1 xui-id="" tvg-id="M. LaLiga HD" tvg-name="" tvg-logo="" group-title="",LALIGA
 http://wg6f.top:8000/cc583/ZiiseIAVXw/804
-#EXTINF:-1,M.LA LIGA 1 hd
+
+#EXTINF:-1 xui-id="" tvg-id="M. LaLiga 1 HD" tvg-name="" tvg-logo="" group-title="",LALIGA 1
 http://wg6f.top:8000/cc583/ZiiseIAVXw/44
-#EXTINF:-1,M.LA LIGA 2 HD
+
+#EXTINF:-1 xui-id="" tvg-id="M. LaLiga 2 HD" tvg-name="" tvg-logo="" group-title="",LALIGA 2
 http://wg6f.top:8000/cc583/ZiiseIAVXw/1186
-#EXTINF:-1,M.LA LIGA 3 HD
+
+#EXTINF:-1 xui-id="" tvg-id="M. LaLiga 3 HD" tvg-name="" tvg-logo="" group-title="",LALIGA 3
 http://wg6f.top:8000/cc583/ZiiseIAVXw/1187
-#EXTINF:-1,M.LALIGA 4
+
+#EXTINF:-1 xui-id="" tvg-id="M. LaLiga 4" tvg-name="" tvg-logo="" group-title="",LALIGA 4
 http://wg6f.top:8000/cc583/ZiiseIAVXw/126
-#EXTINF:-1,M.LALIGA 5
+
+#EXTINF:-1 xui-id="" tvg-id="M. LaLiga 5" tvg-name="" tvg-logo="" group-title="",LALIGA 5
 http://wg6f.top:8000/cc583/ZiiseIAVXw/47
-#EXTINF:-1,M.LALIGA 6
-http://wg6f.top:8000/cc583/ZiiseIAVXw/48
-#EXTINF:-1,M.LALIGA 7
-http://wg6f.top:8000/cc583/ZiiseIAVXw/49
-#EXTINF:-1,MOVISTAR CAMPEONES HD
+
+#EXTINF:-1 xui-id="" tvg-id="M.LCAMPEONES HD" tvg-name="" tvg-logo="" group-title="",LIGA CAMPEONES
 http://wg6f.top:8000/cc583/ZiiseIAVXw/708
-#EXTINF:-1,M.LCAMPEON 1 hd
+
+#EXTINF:-1 xui-id="" tvg-id="M.LCAMPEON1" tvg-name="" tvg-logo="" group-title="",LIGA CAMPEONES 1
 http://wg6f.top:8000/cc583/ZiiseIAVXw/128
-#EXTINF:-1,M.LCAMPEON 2 hd
+
+#EXTINF:-1 xui-id="" tvg-id="M.LCAMPEON2" tvg-name="" tvg-logo="" group-title="",LIGA CAMPEONES 2
 http://wg6f.top:8000/cc583/ZiiseIAVXw/130
-#EXTINF:-1,M.LCAMPEON 3
+
+#EXTINF:-1 xui-id="" tvg-id="M.LCAMPEON3" tvg-name="" tvg-logo="" group-title="",LIGA CAMPEONES 3
 http://wg6f.top:8000/cc583/ZiiseIAVXw/68
-#EXTINF:-1,M.LCAMPEON 4
+
+#EXTINF:-1 xui-id="" tvg-id="M.LCAMPEON4" tvg-name="" tvg-logo="" group-title="",LIGA CAMPEONES 4
 http://wg6f.top:8000/cc583/ZiiseIAVXw/1397
-#EXTINF:-1,M.LCAMPEON 5
-http://wg6f.top:8000/cc583/ZiiseIAVXw/69
-#EXTINF:-1,M.LCAMPEON 6
-http://wg6f.top:8000/cc583/ZiiseIAVXw/70
-#EXTINF:-1,M.LCAMPEON 7
-http://wg6f.top:8000/cc583/ZiiseIAVXw/71
-#EXTINF:-1,M.LCAMPEON 8
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1667
-#EXTINF:-1,M.LCAMPEON 9
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1668
-#EXTINF:-1,M.LCAMPEON 10
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1669
-#EXTINF:-1,M. DEPORTES HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/31
-#EXTINF:-1,M.DEPORTES 1 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/41
-#EXTINF:-1,M. DEPORTES2
-http://wg6f.top:8000/cc583/ZiiseIAVXw/27
-#EXTINF:-1,M. DEPORTES 3
-http://wg6f.top:8000/cc583/ZiiseIAVXw/28
-#EXTINF:-1,M. DEPORTES 4
-http://wg6f.top:8000/cc583/ZiiseIAVXw/29
-#EXTINF:-1,M. DEPORTES 5
-http://wg6f.top:8000/cc583/ZiiseIAVXw/30
-#EXTINF:-1,M. GOLF HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/118
-#EXTINF:-1,EUROSPORT 1HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/20
-#EXTINF:-1,EUROSPORT 2 HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/97
-#EXTINF:-1,R. MADRID TV
-http://wg6f.top:8000/cc583/ZiiseIAVXw/141
-#EXTINF:-1,BARCA TV
+
+#EXTINF:-1 xui-id="" tvg-id="BARCA TV" tvg-name="" tvg-logo="" group-title="",BARCA TV
 http://wg6f.top:8000/cc583/ZiiseIAVXw/6
-#EXTINF:-1,GOL TV HD
+
+#EXTINF:-1 xui-id="" tvg-id="R. MADRID TV" tvg-name="" tvg-logo="" group-title="",REAL MADRID TV
+http://wg6f.top:8000/cc583/ZiiseIAVXw/141
+
+#EXTINF:-1 xui-id="" tvg-id="GOL HD" tvg-name="" tvg-logo="" group-title="",GOL TV
 http://wg6f.top:8000/cc583/ZiiseIAVXw/22
-#EXTINF:-1,TELEDEPORTE HD
+
+# DEPORTES 
+#EXTINF:-1 xui-id="" tvg-id="DAZN F1 HD" tvg-name="" tvg-logo="" group-title="",DAZN F1
+http://wg6f.top:8000/cc583/ZiiseIAVXw/43
+
+#EXTINF:-1 xui-id="" tvg-id="DAZN 1 HD" tvg-name="" tvg-logo="" group-title="",DAZN 1
+http://wg6f.top:8000/cc583/ZiiseIAVXw/771
+
+#EXTINF:-1 xui-id="" tvg-id="DAZN 2 HD" tvg-name="" tvg-logo="" group-title="",DAZN 2
+http://wg6f.top:8000/cc583/ZiiseIAVXw/774
+
+#EXTINF:-1 xui-id="" tvg-id="DAZN 3 HD" tvg-name="" tvg-logo="" group-title="",DAZN 3
+http://wg6f.top:8000/cc583/ZiiseIAVXw/1184
+
+#EXTINF:-1 xui-id="" tvg-id="DAZN 4 HD" tvg-name="" tvg-logo="" group-title="",DAZN 4
+http://wg6f.top:8000/cc583/ZiiseIAVXw/1185
+
+#EXTINF:-1 xui-id="" tvg-id="M. DEPORTES HD" tvg-name="" tvg-logo="" group-title="",DEPORTES
+http://wg6f.top:8000/cc583/ZiiseIAVXw/31
+
+#EXTINF:-1 xui-id="" tvg-id="M.DEPORTES 1 HD" tvg-name="" tvg-logo="" group-title="",DEPORTES 1
+http://wg6f.top:8000/cc583/ZiiseIAVXw/41
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",DEPORTES 2
+http://wg6f.top:8000/cc583/ZiiseIAVXw/27
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",DEPORTES 3
+http://wg6f.top:8000/cc583/ZiiseIAVXw/28
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",DEPORTES 4
+http://wg6f.top:8000/cc583/ZiiseIAVXw/29
+
+#EXTINF:-1 xui-id="" tvg-id="M. GOLF HD" tvg-name="" tvg-logo="" group-title="",GOLF
+http://wg6f.top:8000/cc583/ZiiseIAVXw/118
+
+#EXTINF:-1 xui-id="" tvg-id="#VAMOS HD" tvg-name="" tvg-logo="" group-title="",VAMOS
+http://wg6f.top:8000/cc583/ZiiseIAVXw/187
+
+#EXTINF:-1 xui-id="" tvg-id="EUROSPORT1HD" tvg-name="" tvg-logo="" group-title="",EUROSPORT 1
+http://wg6f.top:8000/cc583/ZiiseIAVXw/20
+
+#EXTINF:-1 xui-id="" tvg-id="EUROSPORT 2" tvg-name="" tvg-logo="" group-title="",EUROSPORT 2
+http://wg6f.top:8000/cc583/ZiiseIAVXw/97
+
+#EXTINF:-1 xui-id="" tvg-id="TELEDEPORTES" tvg-name="" HD" tvg-logo="" group-title="",TELEDEPORTES
 http://wg6f.top:8000/cc583/ZiiseIAVXw/62
-#EXTINF:-1,MTV 00S
-http://wg6f.top:8000/cc583/ZiiseIAVXw/835
-#EXTINF:-1,KRONE TV MUSIC
-http://wg6f.top:8000/cc583/ZiiseIAVXw/266
-#EXTINF:-1,CADENA ELITE
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1349
-#EXTINF:-1,LA URBAN TV
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1663
-#EXTINF:-1,ACTIVA TV
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1664
-#EXTINF:-1,SOL MUSICA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1740
-#EXTINF:-1,Wyrmwood: Apocalypse (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1674.avi
-#EXTINF:-1,Uncharted (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1675.avi
-#EXTINF:-1,Un espíritu burlón (2020)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1676.avi
-#EXTINF:-1,Tras la pista del asesino (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1677.avi
-#EXTINF:-1,Todo es Gila (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1678.mkv
-#EXTINF:-1,Siempre en el mejor momento (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1679.avi
-#EXTINF:-1,Salvar el árbol (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1680.avi
-#EXTINF:-1,Refugiado americano (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1681.mkv
-#EXTINF:-1,Querido Evan Hansen (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1682.mkv
-#EXTINF:-1,Pájaros enjaulados (Hasta que estemos muertos o libres) (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1683.mkv
-#EXTINF:-1,Muerte en el Nilo (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1684.avi
-#EXTINF:-1,Matrix Resurrections (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1685.avi
-#EXTINF:-1,Madeleine Collins (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1686.avi
-#EXTINF:-1,Luz Natural (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1687.mkv
-#EXTINF:-1,Socias y enemigas (2020)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1688.mkv
-#EXTINF:-1,Las fantasías (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1689.avi
-#EXTINF:-1,Lansky (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1690.mkv
-#EXTINF:-1,La Octava Clausula (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1691.mkv
-#EXTINF:-1,La hija oscura (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1692.avi
-#EXTINF:-1,La guerra del mañana (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1693.avi
-#EXTINF:-1,Kanna y los dioses de octubre (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1694.avi
-#EXTINF:-1,Incompatibles 2 (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1695.avi
-#EXTINF:-1,Ice Age: Las aventuras de Buck (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1696.avi
-#EXTINF:-1,Hotel Transilvania: Transformanía (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1697.avi
-#EXTINF:-1,Hazme volar (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1698.mkv
-#EXTINF:-1,El último tren al Rock'n'Roll (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1699.mkv
-#EXTINF:-1,El Misterio De Marilyn Monroe Las Cintas Ineditas (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1700.mkv
-#EXTINF:-1,El espía honesto (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1701.avi
-#EXTINF:-1,El día de la bandera (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1702.avi
-#EXTINF:-1,Déjate llevar (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1703.avi
-#EXTINF:-1,¡Canta! 2 (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1704.mkv
-#EXTINF:-1,Black Friday (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1705.avi
-#EXTINF:-1,Arturo y el algoritmo (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1706.avi
-#EXTINF:-1,Amor de madre (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1707.mkv
-#EXTINF:-1,Aline (2020)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1708.avi
-#EXTINF:-1,Sonic 2: La película (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1709.mkv
-#EXTINF:-1,Wagner: los mercenarios de Putin (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1715.mp4
-#EXTINF:-1,Veneciafrenia (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1716.mkv
-#EXTINF:-1,OSS 117: Desde África con amor (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1717.mkv
-#EXTINF:-1,Las reinas de los cupones (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1718.mkv
-#EXTINF:-1,En el silencio (2020)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1719.mkv
-#EXTINF:-1,El brindis
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1720.mkv
-#EXTINF:-1,Dark Cloud (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1721.mkv
-#EXTINF:-1,Conspiración en Hollywood (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1722.mkv
-#EXTINF:-1,Chip y Chop: Los guardianes rescatadores (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1723.mkv
-#EXTINF:-1,Camera café: la película (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1724.mkv
-#EXTINF:-1,Amor redentor (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1725.mkv
-#EXTINF:-1,Animales fantásticos: Los secretos de Dumbledore (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1726.mkv
-#EXTINF:-1,El aparcacoches (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1727.mkv
-#EXTINF:-1,Freaks Out (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1728.mkv
-#EXTINF:-1,Ghost in the Shell: SAC_2045: Guerra sostenible (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1729.mkv
-#EXTINF:-1,Jackass 4.5 (2022)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1730.mkv
-#EXTINF:-1,Juntos (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1731.mkv
-#EXTINF:-1,Milagro en la celda 7 (2019)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1732.mp4
-#EXTINF:-1,Nosotros, ratas de laboratorio (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1733.mp4
-#EXTINF:-1,Pan De Limón Con Semillas De Amapola (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1734.mkv
-#EXTINF:-1,Prisioneros de Ghostland (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1735.mkv
-#EXTINF:-1,Rehén letal (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1736.mkv
-#EXTINF:-1,The Fanatic (2019)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1737.mkv
-#EXTINF:-1,The Nowhere Inn (2021)
-http://wg6f.top:8000/movie/cc583/ZiiseIAVXw/1738.mkv
-#EXTINF:-1,ACTIVA FM
-http://wg6f.top:8000/cc583/ZiiseIAVXw/300
-#EXTINF:-1,LA MUY BUENA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/301
-#EXTINF:-1,BIKINI FM
-http://wg6f.top:8000/cc583/ZiiseIAVXw/302
-#EXTINF:-1,LA MEGA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/303
-#EXTINF:-1,LA FLAMENCA FM
-http://wg6f.top:8000/cc583/ZiiseIAVXw/305
-#EXTINF:-1,LOS 40 PRINCIPALES
-http://wg6f.top:8000/cc583/ZiiseIAVXw/306
-#EXTINF:-1,CADENA DIAL 
-http://wg6f.top:8000/cc583/ZiiseIAVXw/307
-#EXTINF:-1,RADIO OLE
-http://wg6f.top:8000/cc583/ZiiseIAVXw/308
-#EXTINF:-1,EUROPA FM
-http://wg6f.top:8000/cc583/ZiiseIAVXw/309
-#EXTINF:-1,ESENCIA FM
-http://wg6f.top:8000/cc583/ZiiseIAVXw/401
-#EXTINF:-1,GOLD FM
-http://wg6f.top:8000/cc583/ZiiseIAVXw/404
-#EXTINF:-1,ROCK STAR
-http://wg6f.top:8000/cc583/ZiiseIAVXw/405
-#EXTINF:-1,+ACTIVA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/552
-#EXTINF:-1,LOS 40 URBAN
-http://wg6f.top:8000/cc583/ZiiseIAVXw/954
-#EXTINF:-1,CANAL FIESTA RADIO
-http://wg6f.top:8000/cc583/ZiiseIAVXw/955
-#EXTINF:-1,Playhouse
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1301
-#EXTINF:-1,Redlight HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1300
-#EXTINF:-1,Prıvate TV HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1299
-#EXTINF:-1,Dorcel HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1231
-#EXTINF:-1,Dorcel XxX  HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1230
-#EXTINF:-1,Vivid Red HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1127
-#EXTINF:-1,Vixen HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1126
-#EXTINF:-1,Erox HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1125
-#EXTINF:-1,Penthouse Gold HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1122
-#EXTINF:-1,Penthouse Quickies HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/838
-#EXTINF:-1,Super One HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/313
-#EXTINF:-1,Xy Plus HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/249
-#EXTINF:-1,Xy Max HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/244
-#EXTINF:-1,Cento X Cento
-http://wg6f.top:8000/cc583/ZiiseIAVXw/239
-#EXTINF:-1,Dream Porn HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/220
-#EXTINF:-1,Evil Angel Europe
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1389
-#EXTINF:-1,Hustler HD
-http://wg6f.top:8000/cc583/ZiiseIAVXw/1393
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",BEIN SPORTS 1
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",BEIN SPORTS 2 
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",BEIN SPORTS 3
+
+
+# ESTILO DE VIDA
+#EXTINF:-1 xui-id="" tvg-id="CANAL DECASA" tvg-name="" tvg-logo="" group-title="",DECASA
+http://wg6f.top:8000/cc583/ZiiseIAVXw/10
+
+#EXTINF:-1 xui-id="" tvg-id="DKISS" tvg-name="" tvg-logo="" group-title="",DKISS
+http://wg6f.top:8000/cc583/ZiiseIAVXw/392
+
+#EXTINF:-1 xui-id="" tvg-id="crimeinvestigation.es" tvg-name="" tvg-logo="" group-title="",CRIMEN+INVESTIGACIÓN
+
+#EXTINF:-1 xui-id="" tvg-id="CANAL COCINA" tvg-name="" tvg-logo="CANAL COCINA HD" group-title="",CANAL COCINA
+http://wg6f.top:8000/cc583/ZiiseIAVXw/9
+
+# MÚSICA
+#EXTINF:-1 xui-id="" tvg-id="MTV ESPAÑA" tvg-name="" tvg-logo="" group-title="",MTV
+http://wg6f.top:8000/cc583/ZiiseIAVXw/51
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",MEZZO LIVE
+
+#EXTINF:-1 xui-id="" tvg-id="M. Fest" tvg-name="" tvg-logo="" group-title="",FEST
+http://wg6f.top:8000/cc583/ZiiseIAVXw/1713
