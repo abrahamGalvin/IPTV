@@ -608,5 +608,7 @@ http://tv.hdme.xyz:28000/series/King23/n8Q6ZGPk7M/137890.mkv
 #EXTINF:-1 group-title="SERIE RICK&MORTY",24/7 Rick y Morty
 http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/37850
 
-#EXTINF:-1 group-title="SERIE LOS SIMPSONS TERROR",Los Simpsons La casa-árbol del terror
-http://the.talorgo.xyz:8880/fermin/NKp7Xsbb1n/82560
+#EXTINF:-1 group-title="SERIE LOS SIMPSONS",Los Simpsons 1 a 20
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/37767
+#EXTINF:-1 group-title="SERIE LOS SIMPSONS",Los Simpsons 20 a 30
+http://tv.hdme.xyz:28000/King23/n8Q6ZGPk7M/37758
