@@ -110,8 +110,11 @@ http://wg6f.top:8000/cc583/ZiiseIAVXw/83
 #EXTINF:-1 xui-id="" tvg-id="BABY TV" tvg-name="" tvg-logo="" group-title="",BABY TV
 http://wg6f.top:8000/cc583/ZiiseIAVXw/5
 
-#EXTINF:-1 xui-id="" tvg-id="NICK JR" tvg-name="" tvg-logo="" group-title="",NICK JR
+#EXTINF:-1 xui-id="" tvg-id="NICK JR" tvg-name="" tvg-logo="" group-title="",NICK JR SD
 http://kb2x.top:8000/tu508/yo15y47/94
+
+#EXTINF:-1 xui-id="" tvg-id="NICK JR" tvg-name="" tvg-logo="" group-title="",NICK JR HD
+http://1faz8.top:8000/as196/32d6f5sdf/137
 
 #EXTINF:-1 xui-id="" tvg-id="DreamWorks HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="",DREAMWORKS
 http://1faz8.top:8000/as196/32d6f5sdf/1147
