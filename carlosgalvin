@@ -74,12 +74,11 @@ http://wg6f.top:8000/cc583/ZiiseIAVXw/1710
 #EXTINF:-1 xui-id="" tvg-id="TRECE" tvg-name="" tvg-logo="" group-title="",13 TV
 http://wg6f.top:8000/cc583/ZiiseIAVXw/1712
 
-#EXTINF:-1 xui-id="" tvg-id="IBERALIA TV" tvg-name="" tvg-logo="" group-title="",IBERALIA
-http://wg6f.top:8000/cc583/ZiiseIAVXw/104
-
 #EXTINF:-1 xui-id="" tvg-id="IBERALIA TV" tvg-name="" tvg-logo="" group-title="",IBERALIA CAZA
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/5205
 
-
+#EXTINF:-1 xui-id="" tvg-id="IBERALIA TV" tvg-name="" tvg-logo="" group-title="",IBERALIA PESCA
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/5206
 #EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",NASA
 
 #EXTINF:-1 xui-id="" tvg-id="Nautical Channel" tvg-name="" tvg-logo="" group-title="",NAUTICAL
@@ -89,7 +88,7 @@ http://wg6f.top:8000/cc583/ZiiseIAVXw/1742
 http://wg6f.top:8000/cc583/ZiiseIAVXw/1739
 
 #EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="" group-title="",UBEAT
-
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4951
 
 # INFANTIL 
 #EXTINF:-1 xui-id="" tvg-id="NICKELODEON HD" tvg-name="" tvg-logo="" group-title="",NICKELODEON
