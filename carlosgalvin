@@ -468,10 +468,12 @@ http://2022spn.net:8080/pacomiguel/G3KB6YR17R/5000
 
 #MOTOR
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOTOR",EL GARAGE
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/9770
 
 
 #GOLF
 #EXTINF:-1 tvg-id="M. GOLF HD" tvg-logo="" group-title="GOLF",GOLF
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4934
 
 
 
@@ -480,6 +482,7 @@ http://2022spn.net:8080/pacomiguel/G3KB6YR17R/5000
 
 #FORMULA1
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="FORMULA1",DAZN F1
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4931
 
 
 
@@ -488,4 +491,5 @@ http://2022spn.net:8080/pacomiguel/G3KB6YR17R/5000
 
 #NOTICIAS
 #EXTINF:-1 tvg-id="24 HORAS" tvg-logo="" group-title="NOTICIAS",24 HORAS
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/5219
 
