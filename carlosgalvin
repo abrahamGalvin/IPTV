@@ -109,18 +109,6 @@ http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4863
 
 
 
-#PREMIUM MOVISTAR PLUS
-#EXTINF:-1 tvg-id="#0 HD" tvg-logo="" group-title="PREMIUM",0#
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4829
-
-
-#EXTINF:-1 tvg-id="La Resistencia" tvg-logo="" group-title="PREMIUM",LA RESISTENCIA
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4838
-
-
-
-
-
 
 #AUTÓMICO
 #EXTINF:-1 tvg-id="TELEMADRID" tvg-logo="" group-title="AUTONÓMICO",TELEMADRID
@@ -176,6 +164,14 @@ http://2022spn.net:8080/pacomiguel/G3KB6YR17R/5213
 
 
 #ENTRETENIMIENTO
+#EXTINF:-1 tvg-id="#0 HD" tvg-logo="" group-title="ENTRETENIMIENTO",0#
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4829
+
+
+#EXTINF:-1 tvg-id="La Resistencia" tvg-logo="" group-title="ENTRETENIMIENTO",LA RESISTENCIA
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4838
+
+
 #EXTINF:-1 tvg-id="Mega HD" tvg-logo="" group-title="ENTRETENIMIENTO",MEGA
 http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4826
 
