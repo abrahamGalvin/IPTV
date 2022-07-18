@@ -55,9 +55,6 @@ http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4895
 
 
 
-#PORTADA M+
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PORTADA",PORTADA M+
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4784
 
 
 #PREMIUM MOVISTAR PLUS
@@ -372,19 +369,19 @@ http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4912
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png" group-title="FUTBOL",LALIGA 1
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4975
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG2.png" group-title="FUTBOL",LALIGA 2
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4978
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG3.png" group-title="FUTBOL",LALIGA 3
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4980
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG4.png" group-title="FUTBOL",LALIGA 4
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4982
+
 
 
 #EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-logo="" group-title="FUTBOL",LIGA DE CAMPEONES
@@ -392,19 +389,19 @@ http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4953
 
 
 #EXTINF:-1 tvg-id="M.LCAMPEON1" tvg-logo="" group-title="FUTBOL",LIGA DE CAMPEONES 1
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4959
+
 
 
 #EXTINF:-1 tvg-id="M.LCAMPEON2" tvg-logo="" group-title="FUTBOL",LIGA DE CAMPEONES 2
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4961
+
 
 
 #EXTINF:-1 tvg-id="M.LCAMPEON3" tvg-logo="" group-title="FUTBOL",LIGA DE CAMPEONES 3
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4963
+
 
 
 #EXTINF:-1 tvg-id="M.LCAMPEON4" tvg-logo="" group-title="FUTBOL",LIGA DE CAMPEONES 4
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4965
+
 
 
 #EXTINF:-1 tvg-id="BARCA TV" tvg-logo="" group-title="FUTBOL",BARCA TV
