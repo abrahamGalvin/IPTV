@@ -28,6 +28,8 @@ http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4800
 #EXTINF:-1 tvg-id="TRECE" tvg-logo="" group-title="GENERALISTA",TRECE
 http://2022spn.net:8080/pacomiguel/G3KB6YR17R/5222
 
+#EXTINF:-1 tvg-id="24 HORAS" tvg-logo="" group-title="GENERALISTA",24 HORAS
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/5219
 
 
 
@@ -473,33 +475,9 @@ http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4945
 http://2022spn.net:8080/pacomiguel/G3KB6YR17R/11140
 
 
-
-
-
-
-#MOTOR
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOTOR",EL GARAGE
-
-
-
-#GOLF
-#EXTINF:-1 tvg-id="M. GOLF HD" tvg-logo="" group-title="GOLF",GOLF
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4934
-
-
-
-
-
-
-#F1
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="F1",DAZN F1
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="" group-title="DEPORTES",DAZN F1
 http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4931
 
 
-
-
-
-
-#NOTICIAS
-#EXTINF:-1 tvg-id="24 HORAS" tvg-logo="" group-title="NOTICIAS",24 HORAS
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/5219
+#EXTINF:-1 tvg-id="M. GOLF HD" tvg-logo="" group-title="DEPORTES",GOLF
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4934
