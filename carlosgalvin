@@ -32,61 +32,6 @@ http://2022spn.net:8080/pacomiguel/G3KB6YR17R/5222
 
 
 
-
-#AUTÓMICO
-#EXTINF:-1 tvg-id="TELEMADRID" tvg-logo="" group-title="AUTONÓMICO",TELEMADRID
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/11010
-
-
-#EXTINF:-1 tvg-id="CMM" tvg-logo="" group-title="AUTONÓMICO",CMM
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/11046
-
-
-#EXTINF:-1 tvg-id="CanalSurHD" tvg-logo="" group-title="AUTONÓMICO",CANAL SUR
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/10966
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AUTONÓMICO",CANAL SUR 2
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/10967
-
-
-#EXTINF:-1 tvg-id="BOM" tvg-logo="" group-title="AUTONÓMICO",BOM CINE
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4895
-
-
-
-
-
-
-#PREMIUM MOVISTAR PLUS
-#EXTINF:-1 tvg-id="#0 HD" tvg-logo="" group-title="PREMIUM",0#
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4829
-
-
-#EXTINF:-1 tvg-id="La Resistencia" tvg-logo="" group-title="PREMIUM",LA RESISTENCIA
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4838
-
-
-
-
-
-
-#SERIES
-#EXTINF:-1 tvg-id="M. SERIES HD" tvg-logo="" group-title="SERIES",SERIES
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4832
-
-
-#EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-logo="" group-title="SERIES",SERIES 2
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4835
-
-
-#EXTINF:-1 tvg-id="M. Fest" tvg-logo="" group-title="SERIES",FEST
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4863
-
-
-
-
-
-
 #CINE
 #EXTINF:-1 tvg-id="Somos" tvg-logo="" group-title="CINE",SOMOS
 http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4897
@@ -144,7 +89,53 @@ http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4898
 http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4904
 
 
-#EXTINF:-1 tvg-id="Dark" tvg-logo="" group-title="CINE",DARK RED
+
+
+
+
+#SERIES
+#EXTINF:-1 tvg-id="M. SERIES HD" tvg-logo="" group-title="SERIES",SERIES
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4832
+
+
+#EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-logo="" group-title="SERIES",SERIES 2
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4835
+
+
+#EXTINF:-1 tvg-id="M. Fest" tvg-logo="" group-title="SERIES",FEST
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4863
+
+
+
+
+
+#PREMIUM MOVISTAR PLUS
+#EXTINF:-1 tvg-id="#0 HD" tvg-logo="" group-title="PREMIUM",0#
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4829
+
+
+#EXTINF:-1 tvg-id="La Resistencia" tvg-logo="" group-title="PREMIUM",LA RESISTENCIA
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4838
+
+
+
+
+
+
+#AUTÓMICO
+#EXTINF:-1 tvg-id="TELEMADRID" tvg-logo="" group-title="AUTONÓMICO",TELEMADRID
+
+
+
+#EXTINF:-1 tvg-id="CMM" tvg-logo="" group-title="AUTONÓMICO",CMM
+
+
+
+#EXTINF:-1 tvg-id="CANAL SUR A." tvg-logo="" group-title="AUTONÓMICO",CANAL SUR
+
+
+
+#EXTINF:-1 tvg-id="BOM" tvg-logo="" group-title="AUTONÓMICO",BOM CINE
 
 
 
